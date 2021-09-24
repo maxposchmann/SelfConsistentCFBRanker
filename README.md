@@ -155,7 +155,7 @@ So of course I had to do my own ranking system. Here are my principles:
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
 
 # Examples:
-
+## 2019 ##
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
@@ -189,6 +189,7 @@ This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged
 
 So 2019 is a nice, uncontroversial year. LSU were champs, they deserved to be in the CFP, and after all bowls the Self-Consistent CFB Ranker agrees that they were the best.
 
+## 2017 ##
 But what about 2017? Starting with the same point (December 3rd), who should have been in the CFP?
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
