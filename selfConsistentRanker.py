@@ -73,6 +73,6 @@ for j in range(maxIts):
         break
 
 ranks = list(reversed(np.argsort(strength)))
-print('Ranks after ' + str(iterations) + ' iterations:')
+print(f'Ranks after {iterations} iterations:')
 for i in range(nTeam):
-    print(str(i+1) + ' ' + teams[ranks[i]] + ' ' + str(strength[ranks[i]]))
+    print(f'{i+1} {teams[ranks[i]]} {strength[ranks[i]]}')
