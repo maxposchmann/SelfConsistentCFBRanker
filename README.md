@@ -153,3 +153,38 @@ So of course I had to do my own ranking system. Here are my principles:
  One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-FBS teams have strength set to (minimum FBS strength - 1.0).
 
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
+
+# Example:
+
+Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
+| Rank |Team                  | Strength | CFP Committee Rank |
+|------|----------------------|----------|--------------------|
+|     1|Ohio State            |13.03838463|2|
+|     2|LSU                   |12.01616332|1|
+|     3|Clemson               |11.98186068|3|
+|     4|Memphis               |9.99923698|17|
+|     5|Oklahoma              |9.99729464|4|
+|     6|Boise State           |9.99367237|19|
+|     7|Appalachian State     |9.97340478|20|
+|     8|Georgia               |8.02913272|5|
+|     9|Notre Dame            |8.01233544|15|
+|    10|Oregon                |8.01046326|6|
+|    11|Baylor                |8.00007714|7|
+|    12|Utah                  |7.99679531|11|
+|    13|SMU                   |7.97327464|NR|
+|    14|Wisconsin             |7.04910428|8|
+|    15|Penn State            |7.03069900|10|
+|    16|Cincinnati            |7.02213362|21|
+|    17|Air Force             |6.98826336|NR|
+|    18|Minnesota             |6.98195560|18|
+|    19|Alabama               |6.98015348|13|
+|    20|Michigan              |6.03416552|14|
+|    21|Florida               |6.02048182|9|
+|    22|Florida Atlantic      |6.01168040|NR|
+|    23|Iowa                  |6.00884827|16|
+|    24|Navy                  |6.00546245|23|
+|    25|Louisiana             |5.99137361|NR|
+
+This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged out by Memphis by a razor-thin margin. Evidently this ranking system is not the hot-take generator I had feared. In total 4 of the top-25 teams differ from the CFP committee's list. Dropped are 9-3 Auburn (12), 8-4 USC (22), 9-4 Virginia (24), and 8-4 Oklahoma State (25). Added are 10-3 SMU, 11-2 Air Force, 11-3 FAU, and 11-3 Louisiana. Overall this ranking prefers G5 teams with more wins over P5 teams with fewer, relative to the CFP. I agree.
+
+
