@@ -1,4 +1,4 @@
-# Self Consistent CFB Ranker
+# Self-Consistent CFB Ranker
 I was looking at a couple of computer CFB rankings, and the following occurred to me:
  - I can use a computer.
  - I know about football.
