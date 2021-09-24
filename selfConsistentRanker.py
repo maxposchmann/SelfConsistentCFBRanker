@@ -68,10 +68,11 @@ for j in range(maxIts):
                 newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthSum)
     maxDiff = np.amax(np.abs(newStrength-strength[:-1]))
     strength[:-1] = np.copy(newStrength)
+    iterations = j
     if maxDiff < tol:
         break
 
 ranks = list(reversed(np.argsort(strength)))
-print('Ranks:')
+print('Ranks after ' + str(iterations) + ' iterations:')
 for i in range(nTeam):
     print(str(i+1) + ' ' + teams[ranks[i]] + ' ' + str(strength[ranks[i]]))
