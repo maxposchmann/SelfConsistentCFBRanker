@@ -70,7 +70,7 @@ for j in range(maxIts):
                 newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthSum)
     maxDiff = np.amax(np.abs(newStrength-strength[:-1]))
     strength[:-1] = np.copy(newStrength)
-    iterations = j
+    iterations = j + 1
     if maxDiff < tol:
         break
 
