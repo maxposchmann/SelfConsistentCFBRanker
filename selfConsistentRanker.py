@@ -61,7 +61,7 @@ for game in season:
 strength = np.ones(nTeam+1)
 newStrength = np.ones(nTeam)
 for j in range(maxIts):
-    strength[nTeam] = min(strength[:nTeam]-1)
+    strength[nTeam] = min(strength[:-1]-1)
     strengthSum = sum(np.abs(strength))
     for i in range(nTeam):
         newStrength[i] = 0
