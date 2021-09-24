@@ -154,7 +154,7 @@ So of course I had to do my own ranking system. Here are my principles:
 
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
 
-# Example:
+# Examples:
 
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
@@ -187,4 +187,37 @@ Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll us
 
 This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged out by Memphis by a razor-thin margin. Evidently this ranking system is not the hot-take generator I had feared. In total 4 of the top-25 teams differ from the CFP committee's list. Dropped are 9-3 Auburn (12), 8-4 USC (22), 9-4 Virginia (24), and 8-4 Oklahoma State (25). Added are 10-3 SMU, 11-2 Air Force, 11-3 FAU, and 11-3 Louisiana. Overall this ranking prefers G5 teams with more wins over P5 teams with fewer, relative to the CFP. I agree.
 
+So 2019 is a nice, uncontroversial year. LSU were champs, they deserved to be in the CFP, and after all bowls the Self-Consistent CFB Ranker agrees that they were the best.
 
+But what about 2017? Starting with the same point (December 3rd), who should have been in the CFP?
+| Rank |Team                  | Strength | CFP Committee Rank |
+|------|----------------------|----------|--------------------|
+|     1|UCF                   |11.00400836|12|
+|     2|Wisconsin             |10.99724953|8|
+|     3|Oklahoma              |10.99072388|2|
+|     4|Georgia               |10.02831540|3|
+|     5|Clemson               |10.02328429|1|
+|     6|Ohio State            |9.03531505|5|
+|     7|USC                   |9.00928820|8|
+|     8|Alabama               |9.00910270|4|
+|     9|Penn State            |8.01602822|9|
+|    10|Toledo                |7.97257478|NR|
+
+Well that's a bit different. According to the Self-Consistent CFB Ranker, UCF absolutely should have been given a chance to play for the title, as should Wisconsin. Clemson and Alabama, not so much.
+
+In reality, unfortunately UCF was never given a shot. Interestingly, the Colley Matrix still put them at 1 after bowl games, even though they didn't get to face off in the CFP. Since this ranking bears some similarity in approach to Colley, let's see if that's true for the Self-Consistent CFB Ranker also.
+
+| Rank |Team                  | Strength |
+|------|----------------------|----------|
+|     1|Wisconsin             |12.01306732|
+|     2|UCF                   |12.00934276|
+|     3|Alabama               |11.04063894|
+|     4|Georgia               |10.06457717|
+|     5|Ohio State            |10.05633060|
+|     6|Oklahoma              |10.01675717|
+|     7|Clemson               |9.04034361|
+|     8|Penn State            |9.03168545|
+|     9|USC                   |8.02110674|
+|    10|Boise State           |8.00890270|
+
+Sorry UCF, but congratulations to the Self-Consistent CFB Ranker 2017 national champions Wisconsin!
