@@ -37,6 +37,7 @@ with open(teamsFile, newline='') as csvfile:
     next(teamData, None)  # skip the header
     for team in teamData:
         teams.append(team[1])
+maxNameLength = max([len(team) for team in teams])
 
 nTeam = len(teams)
 winLossMatrix = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
@@ -75,4 +76,4 @@ for j in range(maxIts):
 ranks = list(reversed(np.argsort(strength)))
 print(f'Ranks after {iterations} iterations:')
 for i in range(nTeam):
-    print(f'{i+1} {teams[ranks[i]]} {strength[ranks[i]]}')
+    print(f'{i+1:3} {teams[ranks[i]]:{maxNameLength}} {strength[ranks[i]]}')
