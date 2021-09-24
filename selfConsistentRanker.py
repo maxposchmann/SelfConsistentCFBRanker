@@ -6,7 +6,7 @@ seasonFile = '2021season-week4.csv'
 teamsFile  = '2021fbs.csv'
 
 maxIts = 1000
-tol = 1e-10
+tol = 1e-15
 maxWeek = 100 # set to 17 for pre-bowl games
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
