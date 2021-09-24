@@ -7,7 +7,8 @@ teamsFile  = '2021fbs.csv'
 
 maxIts = 1000
 tol = 1e-15
-maxWeek = 100 # set to 17 for pre-bowl games
+maxWeek = 100 # set to 16 for pre-bowl games
+outputPrecision = 8
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
@@ -60,7 +61,7 @@ for game in season:
 strength = np.ones(nTeam+1)
 newStrength = np.ones(nTeam)
 for j in range(maxIts):
-    strength[nTeam] = min(strength[:nTeam-1]-1)
+    strength[nTeam] = min(strength[:nTeam]-1)
     strengthSum = sum(np.abs(strength))
     for i in range(nTeam):
         newStrength[i] = 0
@@ -75,5 +76,7 @@ for j in range(maxIts):
 
 ranks = list(reversed(np.argsort(strength)))
 print(f'Ranks after {iterations} iterations:')
+print(f'| Rank |{"Team":{maxNameLength}}| Strength |')
+print(f'|------|{"-"*maxNameLength}|----------|')
 for i in range(nTeam):
-    print(f'{i+1:3} {teams[ranks[i]]:{maxNameLength}} {strength[ranks[i]]}')
+    print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|')
