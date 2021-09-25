@@ -158,6 +158,7 @@ Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/
 ## 2019 ##
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
+|------|----------------------|----------|--------------------|
 |     1|Ohio State            |16.26966338|2|
 |     2|LSU                   |14.05046362|1|
 |     3|Clemson               |11.89707925|3|
