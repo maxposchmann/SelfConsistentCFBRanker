@@ -159,7 +159,7 @@ Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
 |     1|Ohio State            |16.26966338|2|
-|     2|LSU                   |14.05046362|1!
+|     2|LSU                   |14.05046362|1|
 |     3|Clemson               |11.89707925|3|
 |     4|Memphis               |11.24605403|17|
 |     5|Oklahoma              |10.83967630|4|
@@ -183,7 +183,6 @@ Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll us
 |    23|Navy                  |6.72241255|23|
 |    24|Air Force             |6.63159438|NR|
 |    25|Florida Atlantic      |6.15217781|NR|
-
 
 This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged out by Memphis by a razor-thin margin. Evidently this ranking system is not the hot-take generator I had feared. In total 4 of the top-25 teams differ from the CFP committee's list. Dropped are 8-4 USC (22), 9-4 Virginia (24), and 8-4 Oklahoma State (25). Added are 10-3 SMU, 11-2 Air Force, and 11-3 FAU. Overall this ranking prefers G5 teams with more wins over P5 teams with fewer, relative to the CFP. I agree.
 
