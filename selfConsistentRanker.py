@@ -5,9 +5,9 @@ import csv
 seasonFile = '2021season-week4.csv'
 teamsFile  = '2021fbs.csv'
 
-maxIts = 1000
+maxIts = 100000
 tol = 1e-15
-maxWeek = 100 # set to 16 for pre-bowl games
+maxWeek = 16 # set to 16 for pre-bowl games
 outputPrecision = 8
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
@@ -61,14 +61,14 @@ for game in season:
 strength = np.ones(nTeam+1)
 newStrength = np.ones(nTeam)
 for j in range(maxIts):
-    strength[nTeam] = min(strength[:-1]-1)
-    strengthSum = sum(np.abs(strength))
+    strength[nTeam] = min(newStrength) - 1
+    strengthSum = max(np.abs(newStrength))
     for i in range(nTeam):
         newStrength[i] = 0
         for k in range(nTeam):
             for l in range(len(winLossMatrix[i][k])):
                 newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthSum)
-    maxDiff = np.amax(np.abs(newStrength-strength[:-1]))
+    maxDiff = np.amax(np.abs(newStrength-strength[0:nTeam]))
     strength[:-1] = np.copy(newStrength)
     iterations = j + 1
     if maxDiff < tol:
