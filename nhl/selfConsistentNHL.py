@@ -52,12 +52,12 @@ for game in season:
 strength = np.ones(nTeam)
 newStrength = np.ones(nTeam)
 for j in range(maxIts):
-    strengthSum = sum(np.abs(strength))
+    strengthScale = max(np.abs(strength))
     for i in range(nTeam):
         newStrength[i] = 0
         for k in range(nTeam):
             for l in range(len(winLossMatrix[i][k])):
-                newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthSum)
+                newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthScale)
     maxDiff = np.amax(np.abs(newStrength-strength))
     strength = np.copy(newStrength)
     iterations = j + 1
