@@ -2,12 +2,13 @@
 import numpy as np
 import csv
 
-seasonFile = '2021season-week4.csv'
+seasonFile = '2021season.csv'
 teamsFile  = '2021fbs.csv'
+extendedPrint = True
 
 maxIts = 100000
 tol = 1e-14
-maxWeek = 100 # set to 16 for pre-bowl games
+maxWeek = 4 # set to 16 for pre-bowl games
 outputPrecision = 8
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
@@ -42,11 +43,11 @@ maxNameLength = max([len(team) for team in teams])
 
 nTeam = len(teams)
 winLossMatrix = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
+remainingSchedule = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
 teams.append('Non-FBS')
 
+nGames = np.zeros(nTeam+1)
 for game in season:
-    if int(game[0]) > maxWeek:
-        break
     try:
         winner = teams.index(game[1])
     except ValueError:
@@ -55,8 +56,14 @@ for game in season:
         loser  = teams.index(game[2])
     except ValueError:
         loser = nTeam
-    winLossMatrix[winner][loser].append(1)
-    winLossMatrix[loser][winner].append(-1)
+    if int(game[0]) <= maxWeek:
+        winLossMatrix[winner][loser].append(1)
+        winLossMatrix[loser][winner].append(-1)
+        nGames[winner] = nGames[winner] + 1
+        nGames[loser]  = nGames[loser]  + 1
+    else:
+        remainingSchedule[winner][loser].append(1)
+        remainingSchedule[loser][winner].append(1)
 
 strength = np.ones(nTeam+1)
 newStrength = np.ones(nTeam)
@@ -74,9 +81,19 @@ for j in range(maxIts):
     if maxDiff < tol:
         break
 
+power = strength / nGames
+srs = np.zeros(nTeam)
+prs = np.zeros(nTeam)
+for i in range(nTeam):
+    for k in range(nTeam):
+        for l in range(len(remainingSchedule[i][k])):
+            srs[i] = srs[i] + remainingSchedule[i][k][l]*strength[k]
+            prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
+prs = prs / nGames[:-1]
+
 ranks = list(reversed(np.argsort(strength)))
 print(f'Ranks after {iterations} iterations:')
-print(f'| Rank |{"Team":{maxNameLength}}| Strength |')
-print(f'|------|{"-"*maxNameLength}|----------|')
+print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SRS   |    PRS   |" if extendedPrint else ""}')
+print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|" if extendedPrint else ""}')
 for i in range(nTeam):
-    print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|')
+    print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|{f"{power[ranks[i]]:.{outputPrecision}f}|{srs[ranks[i]]:.{outputPrecision}f}|{prs[ranks[i]]:.{outputPrecision}f}|" if extendedPrint else ""}')
