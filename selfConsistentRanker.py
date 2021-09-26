@@ -4,11 +4,11 @@ import csv
 
 seasonFile = '2021season.csv'
 teamsFile  = '2021fbs.csv'
-extendedPrint = True
+extendedPrint = False
 
 maxIts = 100000
 tol = 1e-14
-maxWeek = 4 # set to 16 for pre-bowl games
+maxWeek = 5 # set to 16 for pre-bowl games
 outputPrecision = 8
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]

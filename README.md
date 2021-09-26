@@ -3,136 +3,136 @@
 # Current Rankings:
 | Rank |Team                  | Strength |
 |------|----------------------|----------|
-|     1|Michigan              |3.24800157|
-|     2|Georgia               |3.21922619|
-|     3|Oregon                |3.14568509|
-|     4|Kansas State          |2.97093693|
-|     5|Penn State            |2.91630691|
-|     6|Notre Dame            |2.71809988|
-|     7|BYU                   |2.48293079|
-|     8|Arkansas              |2.48114428|
-|     9|Iowa                  |2.48037244|
-|    10|Texas A&M             |2.39915459|
-|    11|Army                  |2.35843011|
-|    12|Alabama               |2.31702186|
-|    13|Stanford              |2.11032838|
-|    14|Memphis               |2.03073974|
-|    15|Maryland              |1.94880979|
-|    16|San Diego State       |1.86458945|
-|    17|Kentucky              |1.82431968|
-|    18|Ole Miss              |1.80462549|
-|    19|Rutgers               |1.77512385|
-|    20|Liberty               |1.68028891|
-|    21|Baylor                |1.67295251|
-|    22|Utah State            |1.62427408|
-|    23|Wyoming               |1.59987656|
-|    24|Texas Tech            |1.57398341|
-|    25|Ohio State            |1.53152885|
-|    26|Michigan State        |1.50533267|
-|    27|Oklahoma State        |1.42616105|
-|    28|Fresno State          |1.40925981|
-|    29|Virginia Tech         |1.39907304|
-|    30|Wake Forest           |1.39767950|
-|    31|Cincinnati            |1.34241762|
-|    32|SMU                   |1.26003898|
-|    33|UTSA                  |1.25678663|
-|    34|North Carolina        |1.25633555|
-|    35|Oklahoma              |1.23458095|
-|    36|Boston College        |1.23248474|
-|    37|South Alabama         |1.17107229|
-|    38|Coastal Carolina      |1.13184045|
-|    39|Mississippi State     |1.07385347|
-|    40|Florida               |1.06382642|
-|    41|USC                   |1.04435446|
-|    42|Purdue                |1.03324100|
-|    43|West Virginia         |0.98959904|
-|    44|Texas                 |0.97126985|
-|    45|Western Michigan      |0.83193514|
-|    46|Minnesota             |0.68432498|
-|    47|UCLA                  |0.65853080|
-|    48|Pitt                  |0.59167880|
-|    49|Texas Christian       |0.57734102|
-|    50|Wisconsin             |0.47020086|
-|    51|Vanderbilt            |0.40190211|
-|    52|Louisville            |0.38442458|
-|    53|South Carolina        |0.29530414|
-|    54|Washington            |0.27102985|
-|    55|UAB                   |0.23843460|
-|    56|Nevada                |0.17670298|
-|    57|Clemson               |0.15189030|
-|    58|Auburn                |0.09508183|
-|    59|Arizona State         |0.08308659|
-|    60|Iowa State            |0.08271971|
-|    61|Texas State           |0.01122545|
-|    62|Troy                  |-0.00329780|
-|    63|Missouri              |-0.04796337|
-|    64|Syracuse              |-0.05265922|
-|    65|New Mexico            |-0.07018628|
-|    66|Virginia              |-0.08660544|
-|    67|Florida Atlantic      |-0.08934945|
-|    68|Houston               |-0.11470759|
-|    69|Air Force             |-0.13059576|
-|    70|North Carolina State  |-0.13752687|
-|    71|UCF                   |-0.13886808|
-|    72|Charlotte             |-0.21270918|
-|    73|Louisiana             |-0.21523538|
-|    74|Georgia State         |-0.22639976|
-|    75|Miami (FL)            |-0.23752082|
-|    76|Tennessee             |-0.25520202|
-|    77|Colorado State        |-0.25642255|
-|    78|LSU                   |-0.29419272|
-|    79|San Jose State        |-0.33192039|
-|    80|Oregon State          |-0.33440544|
-|    81|Appalachian State     |-0.40941130|
-|    82|Eastern Michigan      |-0.42394574|
-|    83|Northern Illinois     |-0.45588841|
-|    84|Western Kentucky      |-0.48378374|
-|    85|Duke                  |-0.49183016|
-|    86|Louisiana-Monroe      |-0.57025337|
-|    87|Temple                |-0.76067222|
-|    88|UTEP                  |-0.92663459|
-|    89|Boise State           |-0.93651226|
-|    90|Kent State            |-0.94371316|
-|    91|Ball State            |-1.01848598|
-|    92|Marshall              |-1.02458745|
-|    93|Utah                  |-1.02881735|
-|    94|Arizona               |-1.02881735|
-|    95|Florida State         |-1.08337233|
-|    96|Indiana               |-1.12741742|
-|    97|Old Dominion          |-1.24641106|
-|    98|Tulane                |-1.25751135|
-|    99|Tulsa                 |-1.26867055|
-|   100|Colorado              |-1.28778003|
-|   101|Kansas                |-1.30322303|
-|   102|East Carolina         |-1.31797171|
-|   103|Middle Tennessee State|-1.32915294|
-|   104|Washington State      |-1.33151303|
-|   105|Louisiana Tech        |-1.39692943|
-|   106|Arkansas State        |-1.45508128|
-|   107|Miami (OH)            |-1.47148429|
-|   108|Georgia Southern      |-1.49373759|
-|   109|Toledo                |-1.51521908|
-|   110|North Texas           |-1.60767123|
-|   111|Florida International |-1.61249303|
-|   112|Southern Mississippi  |-1.69830742|
-|   113|Illinois              |-1.69936220|
-|   114|South Florida         |-1.76395100|
-|   115|Bowling Green State   |-1.77903282|
-|   116|California            |-1.78419923|
-|   117|Northwestern          |-1.79259207|
-|   118|Connecticut           |-1.85928883|
-|   119|Nebraska              |-1.90886252|
-|   120|Nevada-Las Vegas      |-1.94959728|
-|   121|Ohio                  |-2.08485694|
-|   122|Georgia Tech          |-2.10499995|
-|   123|Central Michigan      |-2.10968190|
-|   124|Akron                 |-2.23504384|
-|   125|Rice                  |-2.24332667|
-|   126|Navy                  |-2.41190565|
-|   127|Buffalo               |-2.50561572|
-|   128|Massachusetts         |-2.65711986|
-|   129|New Mexico State      |-2.91522379|
-|   130|Hawaii                |-3.03252310|
+|     1|Michigan              |4.90534287|
+|     2|Arkansas              |4.36588979|
+|     3|Notre Dame            |3.98899672|
+|     4|Georgia               |3.91796989|
+|     5|Oregon                |3.79131514|
+|     6|Oklahoma State        |3.44233317|
+|     7|BYU                   |3.39455690|
+|     8|Iowa                  |3.32523357|
+|     9|Alabama               |3.01971565|
+|    10|Kentucky              |2.91898413|
+|    11|Penn State            |2.78428710|
+|    12|Army                  |2.64071884|
+|    13|Texas                 |2.61057854|
+|    14|Michigan State        |2.45003214|
+|    15|UTSA                  |2.43386149|
+|    16|SMU                   |2.38728334|
+|    17|UCLA                  |2.38710085|
+|    18|Fresno State          |2.35068033|
+|    19|Baylor                |2.34166703|
+|    20|Boston College        |2.30522400|
+|    21|Oklahoma              |2.24403925|
+|    22|Maryland              |2.24275690|
+|    23|Wyoming               |2.15729952|
+|    24|Wake Forest           |1.99976445|
+|    25|San Diego State       |1.99613625|
+|    26|Purdue                |1.94057107|
+|    27|Ole Miss              |1.88839209|
+|    28|Coastal Carolina      |1.87424517|
+|    29|Ohio State            |1.85279362|
+|    30|Florida               |1.78496222|
+|    31|Rutgers               |1.70261765|
+|    32|Texas A&M             |1.61775208|
+|    33|Kansas State          |1.57186499|
+|    34|Western Michigan      |1.55916658|
+|    35|Cincinnati            |1.49855692|
+|    36|South Alabama         |1.39499077|
+|    37|LSU                   |1.21954331|
+|    38|Louisville            |1.07732041|
+|    39|Memphis               |1.03337434|
+|    40|Texas Tech            |0.99468013|
+|    41|Syracuse              |0.94885206|
+|    42|Oregon State          |0.86500136|
+|    43|Boise State           |0.82299761|
+|    44|Utah State            |0.79101570|
+|    45|UAB                   |0.77117862|
+|    46|Washington            |0.74983950|
+|    47|Auburn                |0.74144922|
+|    48|Pitt                  |0.65813936|
+|    49|Arizona State         |0.65640174|
+|    50|North Carolina State  |0.61771038|
+|    51|Louisiana             |0.55990731|
+|    52|Duke                  |0.53200541|
+|    53|Liberty               |0.49155803|
+|    54|Air Force             |0.48016508|
+|    55|Stanford              |0.47742109|
+|    56|Appalachian State     |0.47675274|
+|    57|Virginia Tech         |0.43592867|
+|    58|UCF                   |0.37984903|
+|    59|Houston               |0.37549438|
+|    60|Mississippi State     |0.36576923|
+|    61|Charlotte             |0.35674058|
+|    62|Eastern Michigan      |0.35052690|
+|    63|UTEP                  |0.32828674|
+|    64|Louisiana-Monroe      |0.22024868|
+|    65|Wisconsin             |0.06375125|
+|    66|Miami (FL)            |-0.04510487|
+|    67|Texas Christian       |-0.06177025|
+|    68|Nevada                |-0.17293048|
+|    69|West Virginia         |-0.17299663|
+|    70|South Carolina        |-0.22549331|
+|    71|Northern Illinois     |-0.24615424|
+|    72|Missouri              |-0.41974700|
+|    73|USC                   |-0.42841041|
+|    74|Vanderbilt            |-0.50825695|
+|    75|Indiana               |-0.53725834|
+|    76|Iowa State            |-0.54078775|
+|    77|Clemson               |-0.56568720|
+|    78|Tulsa                 |-0.61632650|
+|    79|Utah                  |-0.63253602|
+|    80|North Carolina        |-0.70902335|
+|    81|Minnesota             |-0.75567643|
+|    82|Temple                |-0.75646571|
+|    83|Tennessee             |-0.76439147|
+|    84|Colorado State        |-0.80350906|
+|    85|Northwestern          |-0.95388802|
+|    86|Louisiana Tech        |-0.96451758|
+|    87|Florida Atlantic      |-1.00469071|
+|    88|Toledo                |-1.01338807|
+|    89|Texas State           |-1.04900477|
+|    90|Bowling Green State   |-1.06387710|
+|    91|San Jose State        |-1.19706885|
+|    92|Virginia              |-1.22774732|
+|    93|East Carolina         |-1.24437658|
+|    94|New Mexico            |-1.25480213|
+|    95|Troy                  |-1.27077667|
+|    96|Georgia Tech          |-1.30827503|
+|    97|Central Michigan      |-1.36677411|
+|    98|Georgia State         |-1.52351124|
+|    99|Arizona               |-1.62793250|
+|   100|Marshall              |-1.67969789|
+|   101|Western Kentucky      |-1.69946732|
+|   102|Buffalo               |-1.71109383|
+|   103|Kent State            |-1.85981343|
+|   104|Florida State         |-1.91145958|
+|   105|Rice                  |-1.92426974|
+|   106|South Florida         |-2.07722162|
+|   107|Tulane                |-2.16788026|
+|   108|Kansas                |-2.20007123|
+|   109|Nebraska              |-2.22067781|
+|   110|Hawaii                |-2.32987829|
+|   111|Ball State            |-2.44053383|
+|   112|Middle Tennessee State|-2.45368373|
+|   113|Miami (OH)            |-2.48702912|
+|   114|Connecticut           |-2.52044080|
+|   115|Georgia Southern      |-2.53007417|
+|   116|Illinois              |-2.56367365|
+|   117|Southern Mississippi  |-2.58850846|
+|   118|Nevada-Las Vegas      |-2.61057783|
+|   119|North Texas           |-2.68648133|
+|   120|Akron                 |-2.71188621|
+|   121|Colorado              |-2.76037621|
+|   122|Arkansas State        |-2.80217367|
+|   123|California            |-2.90680266|
+|   124|Ohio                  |-2.93091021|
+|   125|Old Dominion          |-2.98724405|
+|   126|Washington State      |-3.07996831|
+|   127|Massachusetts         |-3.11295615|
+|   128|Navy                  |-3.24141522|
+|   129|Florida International |-3.37621616|
+|   130|New Mexico State      |-4.50041643|
 
 # Explanation:
 
@@ -140,7 +140,7 @@ I was looking at a couple of computer CFB rankings, and the following occurred t
  - I can use a computer.
  - I know about football.
  - My opinions are better than other people's opinions.
- 
+
 So of course I had to do my own ranking system. Here are my principles:
  - Games are won or lost. Point differentials are meaningless. Really, your team is better because your 8th-string QB rushed for a couple garbage time TDs?
  - Wins and losses both matter. Equally.
@@ -148,8 +148,8 @@ So of course I had to do my own ranking system. Here are my principles:
  - Beating a good team is better than beating a bad team, and similarly losing to a good team isn't as bad as losing to a bad team.
  - No judgement should be involved. No adjustable paramenters. In other words, there's no seed from a preseason poll, nor should there be sorting by P5/G5 etc. The rankings themselves have to determine what is a good win.
  - The final rankings should return themselves if run through the algorithm again.
- 
- The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. I set all the strengths at 1 to begin with, then it iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling. 
+
+ The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. I set all the strengths at 1 to begin with, then it iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling.
  One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-FBS teams have strength set to (minimum FBS strength - 1.0).
 
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
