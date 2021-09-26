@@ -4,9 +4,9 @@ import csv
 
 seasonFile = '2021season.csv'
 teamsFile  = '2021fbs.csv'
-extendedPrint = False
+extendedPrint = True
 
-maxIts = 100000
+maxIts = 10000
 tol = 1e-14
 maxWeek = 5 # set to 16 for pre-bowl games
 outputPrecision = 8
@@ -46,7 +46,8 @@ winLossMatrix = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
 remainingSchedule = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
 teams.append('Non-FBS')
 
-nGames = np.zeros(nTeam+1)
+gamesPlayed = np.zeros(nTeam+1)
+gamesRemaining = np.zeros(nTeam+1)
 for game in season:
     try:
         winner = teams.index(game[1])
@@ -59,11 +60,13 @@ for game in season:
     if int(game[0]) <= maxWeek:
         winLossMatrix[winner][loser].append(1)
         winLossMatrix[loser][winner].append(-1)
-        nGames[winner] = nGames[winner] + 1
-        nGames[loser]  = nGames[loser]  + 1
+        gamesPlayed[winner] = gamesPlayed[winner] + 1
+        gamesPlayed[loser]  = gamesPlayed[loser]  + 1
     else:
         remainingSchedule[winner][loser].append(1)
         remainingSchedule[loser][winner].append(1)
+        gamesRemaining[winner] = gamesRemaining[winner] + 1
+        gamesRemaining[loser]  = gamesRemaining[loser]  + 1
 
 strength = np.ones(nTeam+1)
 newStrength = np.ones(nTeam)
@@ -81,15 +84,16 @@ for j in range(maxIts):
     if maxDiff < tol:
         break
 
-power = strength / nGames
+strengthScale = max(np.abs(newStrength))
+power = strength / gamesPlayed
 srs = np.zeros(nTeam)
 prs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
-            srs[i] = srs[i] + remainingSchedule[i][k][l]*strength[k]
+            srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
             prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
-prs = prs / nGames[:-1]
+prs = prs / gamesRemaining[:-1]
 
 ranks = list(reversed(np.argsort(strength)))
 print(f'Ranks after {iterations} iterations:')
