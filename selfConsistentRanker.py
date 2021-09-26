@@ -91,7 +91,7 @@ prs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
-            srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]
+            srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
             prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
 prs = prs / gamesRemaining[:-1]
 
