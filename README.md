@@ -209,9 +209,9 @@ But what about 2017? Starting with the same point (December 3rd), who should hav
 |     9|Notre Dame            |10.23220719|14|
 |    10|Auburn                |9.94039981|7|
 
-That's only a little different from the CFP as well.. According to the Self-Consistent CFB Ranker, Ohio State should been given a chance to play for the title over Alabama. UCF did climb substantially, but not enough to vault them into playoff contention.
+That's only a little different from the CFP as well.. According to the Self-Consistent CFB Ranker, Ohio State should been given a chance to play for the title over Alabama. UCF did climb substantially, but not enough to put them in playoff contention.
 
-Interestingly, the Colley Matrix still put them at 1 after bowl games, even though they didn't get to face off in the CFP. Since this ranking bears some similarity in approach to Colley, let's see if that's true for the Self-Consistent CFB Ranker also.
+Interestingly, the Colley Matrix still put UCF at 1 after bowl games, even though they didn't get to face off in the CFP. Since this ranking bears some similarity in philosophy to Colley, let's see if that's true for the Self-Consistent CFB Ranker also.
 
 | Rank |Team                  | Strength |
 |------|----------------------|----------|
