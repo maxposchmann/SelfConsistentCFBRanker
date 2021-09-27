@@ -2,8 +2,8 @@
 import numpy as np
 import csv
 
-seasonFile = '2021season.csv'
-teamsFile  = '2021fbs.csv'
+seasonFile = 'data/2021season.csv'
+teamsFile  = 'data/2021fbs.csv'
 extendedPrint = True
 
 maxIts = 10000
