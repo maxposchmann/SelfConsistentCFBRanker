@@ -227,3 +227,46 @@ Interestingly, the Colley Matrix still put them at 1 after bowl games, even thou
 |    10|Michigan State        |10.33070942|
 
 Sorry UCF, but the Self-Consistent CFB Ranker agrees that Alabama were the 2017 national champions, with their playoff victories vaulting them to the top.
+
+# Comparison with Colley Matrix
+
+It has come to my attention that there is already a self-consistent ranking method, the Colley Matrix (https://www.colleyrankings.com/index.html), which was part of the BCS system (prior to my interest in CFB). No surprise that something similar has been done, as Daryl says: there's no such thing as an original sin. Anyway it seems some comparison is warranted. Please note that I am not an expert on the Colley system, but I will do my best to discuss it accurately. The similarities between the two are substantial:
+- Only wins and losses are considered (no score differential).
+- There is no sorting by conference or history (bias-free).
+- The order in which games are played is irrelevant.
+- The results are self-consistent.
+
+However, there are also substantial differences between the two methods:
+1. Units: The Self-Consistent CFB Ranker outputs strengths with units of wins, with wins against above-average teams being worth >1 win and wins against below-average teams worth <1 win, and with losses negative and opposite to wins. Thus as of week 5 2021, 4-0 Michigan is at \#1 with 4.905 effective wins. Meanwhile the Colley matrix returns ratings which are more similar to win percentages. Colley also has Michigan at \#1 for the same week, with a rating of 0.92392. In the Colley system, ratings are always between 0 and 1, so even an undefeated team with the highest strength-of-schedule will show a rating <1. In the Self-Consistent CFB Ranker strengths average around 0, and beating an average team yields exp(0) = 1 wins. In Colley, ratings average to 0.5, i.e. an even win-loss rate.
+2. Strength-of-schedule adjustments: Both systems use the strengths of all opponents iteratively to determine the values of wins and losses. However, in Colley whether a particular game was won or lost does not affect the strength of schedule adjustment (to first order). In the Self-Consistent CFB Ranker the win-loss state is directly accounted for in the strength exponential function. This is best demonstrated by example. Again, let's take (the current at time of writing) week 5 2021. Rutgers is 3-1, having just lost to \#1 Michigan. In the Self-Consistent CFB Ranker Rutgers is ranked at \#31 with strength 1.703. In Colley, Rutgers is \#16 with rating 0.7713. Now, let's imagine a hypothetical in which Rutgers had beaten Michigan, but lost a previous game against Temple. In Colley, Rutgers remains at \#16 and has rating 0.7700. This is nearly identical to before. In the Self-Consistent CFB Ranker, Rutgers rises to \#18 (a jump of 13 positions) and has strength 2.415 (+0.712 wins). This is because in the Self-Consistent CFB Ranker the value of beating a very good opponent outweighs the penalty of losing to a middling opponent. On the other hand, in Colley, Rutger's rating only changes at all because of the changes in the strength-of-schedule of other teams (which is why it hardly budged).
+3. Varying number of games completed: As discussed in point 1, the Self-Consistent CFB Ranker is effectively a cumulative resume rating system, while Colley is based on a rate. Therefore the Self-Consistent CFB Ranker will prefer teams with larger numbers of games played (or more specifically, won) relative to Colley. I demonstrate this on the 2020 "regular" season (I had to use the Wayback Machine on the Colley website, and this only shows top 25 ranks and no ratings). However, here are the Self-Consistent CFB Ranker ratings for 2020 as of December 20th:
+| Rank |Team                  | Strength | Colley Team |
+|------|----------------------|----------|-------------|
+|     1|Alabama               |11.69711574| Alabama |
+|     2|Coastal Carolina      |11.00379596| Cincinnati |
+|     3|Clemson               |9.92315363| Coastal Carolina |
+|     4|Notre Dame            |9.34412300| Clemson |
+|     5|Cincinnati            |8.97566887| Ohio State |
+|     6|Louisiana             |8.62781988| San Jose State |
+|     7|BYU                   |8.15400026| Louisiana |
+|     8|San Jose State        |7.18744295| Notre Dame |
+|     9|Miami (FL)            |6.91330163| BYU |
+|    10|Iowa State            |6.61091158| Miami |
+|    11|Texas A&M             |6.49204527| Ball State |
+|    12|Oklahoma              |6.30713399| Texas A&M |
+|    13|Ohio State            |6.12094527| Indiana |
+|    14|Ball State            |5.35068680| Oklahoma |
+|    15|Oklahoma State        |5.09987203| Tulsa |
+|    16|North Carolina State  |4.81261849| Iowa State |
+|    17|North Carolina        |4.68254895| Georgia |
+|    18|Georgia               |4.66836510| USC |
+|    19|Florida               |4.66375087| Buffalo |
+|    20|Tulsa                 |4.60682731| Colorado |
+|    21|Indiana               |4.59390236| North Carolina |
+|    22|Liberty               |4.21406029| North Carolina State  |
+|    23|Marshall              |3.88993222| Army |
+|    24|Appalachian State     |3.83632846| Oklahoma State |
+|    25|Texas                 |3.82501029| Northwestern |
+Notice that 6-0 Ohio State has dropped from playoff position at \#3 in the CFP rankings to \#13 here (\#5 in Colley), due to not having earned enough wins in their shortened season. They would have been replaced by the Chanticleers! Now tell me there's a better rating system.
+Comparing the Colley rankings to the Self-Consistent CFB Ranker rankings, the big gainers under Colley were B1G and PAC-12 teams like Ohio State, Indiana, USC, and Colorado, who all played shortened seasons. So as expected, the Self-Consistent CFB Ranker prefers teams with more wins under their belt relative to Colley. While neither is intended as a predictive method, it is probably fair to say that Colley has more traits of a predictive method and the Self-Consistent CFB Ranker comes closer to a pure resume ranker.
+Note that the team power (wins per game played) is also available within the Self-Consistent CFB Ranker, if you prefer an efficiency metric. The top four teams by power in 2020 were: Alabama, San Jose State, Ohio State, Coastal Carolina.
