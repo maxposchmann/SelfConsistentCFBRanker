@@ -236,7 +236,7 @@ It has come to my attention that there is already a self-consistent ranking meth
 - The order in which games are played is irrelevant.
 - The results are self-consistent.
 
-However, there are also substantial differences between the two methods:
+However, there are also substantial differences between the two methods. First, to state the obvious, the two generate different rankings unless some miraculous coincidence has occurred. Here are some more details and examples:
 
 ## Units.
 
