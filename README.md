@@ -230,7 +230,7 @@ Sorry UCF, but SCCR agrees that Alabama were the 2017 national champions, with t
 
 # Comparison with Colley Matrix
 
-It has come to my attention that there is already a self-consistent ranking method, the Colley Matrix (https://www.colleyrankings.com/index.html), which was part of the BCS system (prior to my interest in CFB). No surprise that something similar has been done, as Daryl says: there's no such thing as an original sin. Anyway it seems some comparison is warranted. Please note that I am not an expert on the Colley system, but I will do my best to discuss it accurately. The similarities between the two are substantial:
+It has come to my attention that there is already a self-consistent ranking method, the Colley Matrix (https://www.colleyrankings.com/index.html), which was part of the BCS system (prior to the CFP), and is still recognized by NCAA. No surprise that something similar has been done, as Daryl says: there's no such thing as an original sin. Anyway it seems some comparison is warranted. Please note that I am not an expert on the Colley system, but I will do my best to discuss it accurately. The similarities between the two are substantial:
 - Only wins and losses are considered (no score differential).
 - There is no sorting by conference or history (bias-free).
 - The order in which games are played is irrelevant.
