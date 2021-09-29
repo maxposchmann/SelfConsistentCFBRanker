@@ -160,7 +160,7 @@ One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
 
 # Examples:
-## 2019 ##
+## 2019 
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
@@ -194,7 +194,7 @@ This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged
 
 So 2019 is a nice, uncontroversial year. LSU were champs, they deserved to be in the CFP, and after all bowls SCCR agrees that they were the best.
 
-## 2017 ##
+## 2017
 But what about 2017? Starting with the same point (December 3rd), who should have been in the CFP?
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
@@ -238,15 +238,15 @@ It has come to my attention that there is already a self-consistent ranking meth
 
 However, there are also substantial differences between the two methods:
 
-##Units.##
+## Units.
 
 SCCR outputs strengths with units of wins, with wins against above-average teams being worth >1 win and wins against below-average teams worth <1 win, and with losses negative and opposite to wins. Thus as of week 5 2021, 4-0 Michigan is at \#1 with 4.905 effective wins. Meanwhile the Colley matrix returns ratings which are more similar to win percentages. Colley also has Michigan at \#1 for the same week, with a rating of 0.92392. In the Colley system, ratings are always between 0 and 1, so even an undefeated team with the highest strength-of-schedule will show a rating <1. In SCCR strengths average around 0, and beating an average team yields exp(0) = 1 wins. In Colley, ratings average to 0.5, i.e. an even win-loss rate.
 
-##Strength-of-schedule adjustments for win/loss outcomes.##
+## Strength-of-schedule adjustments for win/loss outcomes.
 
 Both systems use the strengths of all opponents iteratively to determine the values of wins and losses. However, in Colley whether a particular game was won or lost does not affect the strength of schedule adjustment (to first order). In SCCR the win-loss state is directly accounted for in the strength exponential function. This is best demonstrated by example. Again, let's take (the current at time of writing) week 5 2021. Rutgers is 3-1, having just lost to \#1 Michigan. In SCCR Rutgers is ranked at \#31 with strength 1.703. In Colley, Rutgers is \#16 with rating 0.7713. Now, let's imagine a hypothetical in which Rutgers had beaten Michigan, but lost a previous game against Temple. In Colley, Rutgers remains at \#16 and has rating 0.7700. This is nearly identical to before. In SCCR, Rutgers rises to \#18 (a jump of 13 positions) and has strength 2.415 (+0.712 wins). This is because in SCCR the value of beating a very good opponent outweighs the penalty of losing to a middling opponent. On the other hand, in Colley, Rutger's rating only changes at all because of the changes in the strength-of-schedule of other teams (which is why it hardly budged).
 
-##Differing number of games completed.##
+## Differing number of games completed.
 
 As discussed in point 1, SCCR is effectively a cumulative resume rating system, while Colley is based on a rate. Therefore SCCR will prefer teams with larger numbers of games played (or more specifically, won) relative to Colley. I demonstrate this on the 2020 "regular" season (I had to use the Wayback Machine on the Colley website, and this only shows top 25 ranks and no ratings). Here are SCCR and Colley ranks for 2020 as of December 20th:
 
@@ -284,7 +284,7 @@ Comparing the Colley rankings to SCCR rankings, the big gainers under Colley wer
 
 Note that the team power (wins per game played) is also available within SCCR, if you prefer an efficiency metric. The top four teams by power in 2020 were: Alabama, San Jose State, Ohio State, Coastal Carolina.
 
-##What's a win worth?##
+## What's a win worth?
 
 In SCCR, the answer is the same for everyone: exp({opponent strength}/{maximum strength}). In Colley, the answer depends on how your year has been going. Here's an example. As I write this, it is Tuesday night following week 5 of 2021. Alabama sits at \#9 in SCCR with strength of 3.01971565, and \#2 in Colley with rating 0.881929. Meanwhile Ohio is \#124 (-2.93091021) by SCCR and \#152 (0.163166) by Colley. Let's imagine these two took it upon themselves to play an unscheduled match here on Tuesday night while the rest of the teams rest. Alabama wins of course. By SCCR, Alabama gains 0.53140733 to total 3.55112298 wins and moves up to \#6. Per Colley, Alabama **loses** 0.03004 rating points and drops to \#4 with 0.85189. Punished for winning!
 
