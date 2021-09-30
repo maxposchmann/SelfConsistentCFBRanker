@@ -149,9 +149,9 @@ So of course I had to do my own ranking system. Here are my principles:
  - No judgement should be involved. No adjustable paramenters. In other words, there's no seed from a preseason poll, nor should there be sorting by P5/G5 etc. The rankings themselves have to determine what is a good win.
  - The team strengths used to generate the rankings should return themselves if run through the algorithm again. Put another way, the "Alabama only has quality losses to teams that beat Alabama" problem should be addressed quantitatively.
 
-And thus the Self-Consistent CFB Ranker (SCCR) was born. The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. I set all the strengths at 1 to begin with, then it iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling.
+And thus the Self-Consistent CFB Ranker (SCCR) was born. The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. This nonlinear function makes signature wins and season-defining losses possible. All strengths are set at 1 to begin with, then it iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling.
 
-The units of strength are effectively wins (with losses negative). The inputs to the exponential are scaled by the largest magnitude strength, so the maximum possible difference between values of FBS wins (or losses) is exp(2) = 7.389. By this win metric, a team would do much better to split a series with the best team in FBS (+2.3504 net wins) than to beat the worst team in FBS twice (+0.7358 net wins). This feels reasonably fair, and also has the benefit of converging well. However, it would be trivial to replace this strength function with any other function that tends to converge. Please feel free to clone the project and play with whatever system you thing better represents the relative values of wins.
+The units of strength are effectively wins (with losses negative). The inputs to the exponential are scaled by the largest magnitude strength, so the maximum possible difference between values of FBS wins (or losses) is exp(2) = 7.389. By this win metric, a team would do much better to split a series with the best team in FBS (+2.3504 net wins) than to beat the worst team in FBS twice (+0.7358 net wins). This feels reasonably fair, and also has the benefit of converging well. However, it would be trivial to replace this strength function with any other function that tends to converge. Please feel free to clone the project and play with whatever system you think better represents the relative values of wins.
 
 Also (optionally) output is power, which is strength per game played. The strength and power of the remaining schedule for each team (SRS and PRS) are also output with the extended print option set to true.
 
@@ -230,13 +230,13 @@ Sorry UCF, but SCCR agrees that Alabama were the 2017 national champions, with t
 
 # Comparison with Colley Matrix
 
-It has come to my attention that there is already a self-consistent ranking method, the Colley Matrix (https://www.colleyrankings.com/index.html), which was part of the BCS system (prior to my interest in CFB). No surprise that something similar has been done, as Daryl says: there's no such thing as an original sin. Anyway it seems some comparison is warranted. Please note that I am not an expert on the Colley system, but I will do my best to discuss it accurately. The similarities between the two are substantial:
+It has come to my attention that there is already a self-consistent ranking method, the Colley Matrix (https://www.colleyrankings.com/index.html), which was part of the BCS system (prior to the CFP), and is still recognized by NCAA. No surprise that something similar has been done, as Daryl says: there's no such thing as an original sin. Anyway it seems some comparison is warranted. Please note that I am not an expert on the Colley system, but I will do my best to discuss it accurately. The similarities between the two are substantial:
 - Only wins and losses are considered (no score differential).
 - There is no sorting by conference or history (bias-free).
 - The order in which games are played is irrelevant.
 - The results are self-consistent.
 
-However, there are also substantial differences between the two methods:
+However, there are also substantial differences between the two methods. First, to state the obvious, the two generate different rankings unless some miraculous coincidence has occurred. Here are some more details and examples:
 
 ## Units.
 
