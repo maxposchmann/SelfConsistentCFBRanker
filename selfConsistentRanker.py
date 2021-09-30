@@ -8,7 +8,8 @@ extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 5 # set to 16 for pre-bowl games
+maxWeek = 5
+maxWeekRemaining = 15
 outputPrecision = 8
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
@@ -62,7 +63,7 @@ for game in season:
         winLossMatrix[loser][winner].append(-1)
         gamesPlayed[winner] = gamesPlayed[winner] + 1
         gamesPlayed[loser]  = gamesPlayed[loser]  + 1
-    else:
+    elif int(game[0]) <= maxWeekRemaining:
         remainingSchedule[winner][loser].append(1)
         remainingSchedule[loser][winner].append(1)
         gamesRemaining[winner] = gamesRemaining[winner] + 1
@@ -85,7 +86,7 @@ for j in range(maxIts):
         break
 
 strengthScale = max(np.abs(newStrength))
-power = strength / gamesPlayed
+power = strength / np.amax([gamesPlayed,np.ones(nTeam+1)])
 srs = np.zeros(nTeam)
 prs = np.zeros(nTeam)
 for i in range(nTeam):
@@ -93,10 +94,11 @@ for i in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
             srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
             prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
-prs = prs / gamesRemaining[:-1]
+prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)])
 
 ranks = list(reversed(np.argsort(strength)))
 print(f'Ranks after {iterations} iterations:')
+print()
 print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SRS   |    PRS   |" if extendedPrint else ""}')
 print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|" if extendedPrint else ""}')
 for i in range(nTeam):
