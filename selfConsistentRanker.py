@@ -8,7 +8,7 @@ extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 7
+maxWeek = 8
 maxWeekRemaining = 15
 outputPrecision = 8
 
