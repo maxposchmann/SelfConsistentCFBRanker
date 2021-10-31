@@ -1,6 +1,6 @@
 # Self-Consistent CFB Ranker
 
-# Current Rankings (October 24, 2021):
+# Current Rankings (October 31, 2021):
 | Rank |Team                  | Strength |   Power  |    SRS   |    PRS   |
 |------|----------------------|----------|----------|----------|----------|
 |     1|Georgia               |9.28981863|0.08601684|2.56594104|-0.00825982|
