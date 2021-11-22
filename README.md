@@ -198,33 +198,33 @@ So 2019 is a nice, uncontroversial year. LSU were champs, they deserved to be in
 But what about 2017? Starting with the same point (December 3rd), who should have been in the CFP?
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
-|     1|Clemson               |13.75507312|1|
-|     2|Oklahoma              |13.39261665|2|
-|     3|Georgia               |13.17234771|3|
-|     4|Ohio State            |12.82094855|5|
-|     5|Wisconsin             |12.47735393|6|
-|     6|UCF                   |11.98682264|12|
-|     7|USC                   |11.57901968|8|
-|     8|Alabama               |10.46491269|4|
-|     9|Notre Dame            |10.23220719|14|
-|    10|Auburn                |9.94039981|7|
+|     1|Clemson               |14.60921347|1|
+|     2|Georgia               |13.28167649|3|
+|     3|Oklahoma              |13.28167649|2|
+|     4|UCF                   |12.59882351|12|
+|     5|Wisconsin             |12.53956060|6|
+|     6|Ohio State            |12.51097368|5|
+|     7|USC                   |11.72788767|8|
+|     8|Alabama               |11.30302685|4|
+|     9|Auburn                |10.58068763|7|
+|    10|Notre Dame            |10.30076607|14|
 
-That's only a little different from the CFP as well.. According to SCCR, Ohio State should been given a chance to play for the title over Alabama. UCF did climb substantially, but not enough to put them in playoff contention.
+That's only a little different from the CFP as well.. According to SCCR, UCF should been given a chance to play for the title over Alabama.
 
 Interestingly, the Colley Matrix still put UCF at 1 after bowl games, even though they didn't get to face off in the CFP. Since this ranking bears some similarity in philosophy to Colley, let's see if that's true for SCCR also.
 
 | Rank |Team                  | Strength |
 |------|----------------------|----------|
-|     1|Alabama               |15.53639122|
-|     2|Ohio State            |15.40665605|
-|     3|Georgia               |15.32875417|
-|     4|Wisconsin             |14.69678947|
-|     5|Oklahoma              |13.75832765|
-|     6|UCF                   |13.75344137|
-|     7|Clemson               |12.92696290|
-|     8|Penn State            |11.87209296|
-|     9|Notre Dame            |11.41375257|
-|    10|Michigan State        |10.33070942|
+|     1|Alabama               |16.42608545|
+|     2|Georgia               |16.00629578|
+|     3|Ohio State            |15.09901943|
+|     4|Wisconsin             |14.80192625|
+|     5|UCF                   |14.48912669|
+|     6|Clemson               |13.86250385|
+|     7|Oklahoma              |13.68071149|
+|     8|Penn State            |11.79773347|
+|     9|Notre Dame            |11.59490405|
+|    10|Auburn                |10.87861282|
 
 Sorry UCF, but SCCR agrees that Alabama were the 2017 national champions, with their playoff victories vaulting them to the top.
 
@@ -252,37 +252,37 @@ As discussed in point 1, SCCR is effectively a cumulative resume rating system, 
 
 | Rank |Team                  | Strength | Colley Team |
 |------|----------------------|----------|-------------|
-|     1|Alabama               |11.69711574| Alabama |
-|     2|Coastal Carolina      |11.00379596| Cincinnati |
-|     3|Clemson               |9.92315363| Coastal Carolina |
-|     4|Notre Dame            |9.34412300| Clemson |
-|     5|Cincinnati            |8.97566887| Ohio State |
-|     6|Louisiana             |8.62781988| San Jose State |
-|     7|BYU                   |8.15400026| Louisiana |
-|     8|San Jose State        |7.18744295| Notre Dame |
-|     9|Miami (FL)            |6.91330163| BYU |
-|    10|Iowa State            |6.61091158| Miami |
-|    11|Texas A&M             |6.49204527| Ball State |
-|    12|Oklahoma              |6.30713399| Texas A&M |
-|    13|Ohio State            |6.12094527| Indiana |
-|    14|Ball State            |5.35068680| Oklahoma |
-|    15|Oklahoma State        |5.09987203| Tulsa |
-|    16|North Carolina State  |4.81261849| Iowa State |
-|    17|North Carolina        |4.68254895| Georgia |
-|    18|Georgia               |4.66836510| USC |
-|    19|Florida               |4.66375087| Buffalo |
-|    20|Tulsa                 |4.60682731| Colorado |
-|    21|Indiana               |4.59390236| North Carolina |
-|    22|Liberty               |4.21406029| North Carolina State  |
-|    23|Marshall              |3.88993222| Army |
-|    24|Appalachian State     |3.83632846| Oklahoma State |
-|    25|Texas                 |3.82501029| Northwestern |
+|     1|Coastal Carolina      |11.93524573| Alabama |
+|     2|Alabama               |11.68951232| Cincinnati |
+|     3|Clemson               |10.73875732| Coastal Carolina |
+|     4|Notre Dame            |9.86743029| Clemson |
+|     5|Cincinnati            |9.78888330| Ohio State |
+|     6|Louisiana             |9.09622807| San Jose State |
+|     7|BYU                   |8.89868259| Louisiana |
+|     8|Miami (FL)            |7.37056608| Notre Dame |
+|     9|San Jose State        |7.19908978| BYU |
+|    10|Iowa State            |6.94920534| Miami |
+|    11|Oklahoma              |6.93907184| Ball State |
+|    12|Texas A&M             |6.50723694| Texas A&M |
+|    13|Ohio State            |6.12183537| Indiana |
+|    14|North Carolina        |5.50414772| Oklahoma |
+|    15|Oklahoma State        |5.36924620| Tulsa |
+|    16|Ball State            |5.33780317| Iowa State |
+|    17|North Carolina State  |5.30558931| Georgia |
+|    18|Army                  |5.26080814| USC |
+|    19|Liberty               |5.10850687| Buffalo |
+|    20|Tulsa                 |4.85067895| Colorado |
+|    21|Georgia               |4.68666574| North Carolina |
+|    22|Florida               |4.68080522| North Carolina State  |
+|    23|Marshall              |4.63261964| Army |
+|    24|Appalachian State     |4.61001504| Oklahoma State |
+|    25|Indiana               |4.60789126| Northwestern |
 
 Notice that 6-0 Ohio State has dropped from playoff position at \#3 in the CFP rankings to \#13 here (\#5 in Colley), due to not having earned enough wins in their shortened season. They would have been replaced by the Chanticleers! Now tell me there's a better rating system.
 
 Comparing the Colley rankings to SCCR rankings, the big gainers under Colley were B1G and PAC-12 teams like Ohio State, Indiana, USC, and Colorado, who all played shortened seasons. So as expected, SCCR prefers teams with more wins under their belt relative to Colley. While neither is intended as a predictive method, it is probably fair to say that Colley has more traits of a predictive method and SCCR comes closer to a pure resume ranker.
 
-Note that the team power (wins per game played) is also available within SCCR, if you prefer an efficiency metric. The top four teams by power in 2020 were: Alabama, San Jose State, Ohio State, Coastal Carolina.
+Note that the team power (wins per game played) is also available within SCCR, if you prefer an efficiency metric. The top four teams by power in 2020 were: Cincinnati, Coastal Carolina, Alabama, and San Jose State.
 
 ## What's a win worth?
 
