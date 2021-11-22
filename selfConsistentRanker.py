@@ -105,7 +105,7 @@ prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)],axis=0)
 ranks = list(reversed(np.argsort(strength)))
 print()
 if nTeamDetails == 0:
-    print(f'Ranks after {iterations} iterations:')
+    print(f'Ranks to week {maxWeek} after {iterations} iterations:')
     print()
     print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SRS   |    PRS   |" if extendedPrint else ""}')
     print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|" if extendedPrint else ""}')
