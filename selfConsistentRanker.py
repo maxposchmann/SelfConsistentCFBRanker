@@ -1,6 +1,12 @@
 #! /usr/bin/python3.9
 import numpy as np
 import csv
+import sys
+
+nTeamDetails = len(sys.argv) - 1
+if nTeamDetails > 0:
+    teamDetails = sys.argv[1:nTeamDetails+1]
+
 
 seasonFile = 'data/2021season.csv'
 teamsFile  = 'data/2021fbs.csv'
@@ -97,9 +103,28 @@ for i in range(nTeam):
 prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)])
 
 ranks = list(reversed(np.argsort(strength)))
-print(f'Ranks after {iterations} iterations:')
 print()
-print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SRS   |    PRS   |" if extendedPrint else ""}')
-print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|" if extendedPrint else ""}')
-for i in range(nTeam):
-    print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|{f"{power[ranks[i]]:.{outputPrecision}f}|{srs[ranks[i]]:.{outputPrecision}f}|{prs[ranks[i]]:.{outputPrecision}f}|" if extendedPrint else ""}')
+if nTeamDetails == 0:
+    print(f'Ranks after {iterations} iterations:')
+    print()
+    print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SRS   |    PRS   |" if extendedPrint else ""}')
+    print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|" if extendedPrint else ""}')
+    for i in range(nTeam):
+        print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|{f"{power[ranks[i]]:.{outputPrecision}f}|{srs[ranks[i]]:.{outputPrecision}f}|{prs[ranks[i]]:.{outputPrecision}f}|" if extendedPrint else ""}')
+else:
+    for team in teamDetails:
+        if team in teams:
+            i = teams.index(team)
+            print(f'{team}: ranked {ranks.index(i)+1} with strength {strength[i]:.{outputPrecision}f}')
+            print(f'|{"Played":{maxNameLength+4}}| Outcome    | Change     |')
+            print(f'|{"-"*(maxNameLength+4)}|------------|------------|')
+            for k in range(nTeam):
+                for l in range(len(winLossMatrix[i][k])):
+                    print(f'|{ranks.index(k)+1:3} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else ""}{winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthScale):.{outputPrecision}f}|')
+            print()
+            print(f'|{"Remaining":{maxNameLength+4}}| If Win     | If Loss    |')
+            print(f'|{"-"*(maxNameLength+4)}|------------|------------|')
+            for k in range(nTeam):
+                for l in range(len(remainingSchedule[i][k])):
+                    print(f'|{ranks.index(k)+1:3} {teams[k]:{maxNameLength}}| +{np.exp(strength[k]/strengthScale):.{outputPrecision}f}| {-np.exp(-strength[k]/strengthScale):.{outputPrecision}f}|')
+            print()
