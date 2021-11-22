@@ -82,7 +82,7 @@ for j in range(maxIts):
     strengthScale = max(np.abs(newStrength))
     for i in range(nTeam):
         newStrength[i] = 0
-        for k in range(nTeam):
+        for k in range(nTeam+1):
             for l in range(len(winLossMatrix[i][k])):
                 newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthScale)
     maxDiff = np.amax(np.abs(newStrength-strength[0:nTeam]))
@@ -96,7 +96,7 @@ power = strength / np.amax([gamesPlayed,np.ones(nTeam+1)])
 srs = np.zeros(nTeam)
 prs = np.zeros(nTeam)
 for i in range(nTeam):
-    for k in range(nTeam):
+    for k in range(nTeam+1):
         for l in range(len(remainingSchedule[i][k])):
             srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
             prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
