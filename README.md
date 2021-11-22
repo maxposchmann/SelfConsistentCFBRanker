@@ -159,6 +159,31 @@ One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-
 
 Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
 
+# Team Reports:
+
+If team names are given as arguments, a report on the specified teams will be output instead of the full rankings. This includes the games played by that team, the outcomes of those games, and how they affected the computed team strength. If games remain on the schedule, those are shown separately, along with estimated strength changes for win/loss outcomes.
+
+For example, California after week 13, 2021:
+California: ranked 100 with strength -4.20083795
+| Played                    | Outcome    | Change     |
+|---------------------------|------------|------------|
+|  71 Texas Christian       | Loss       | -0.99715596|
+|  44 Nevada                | Loss       | -0.83716782|
+| 105 Stanford              | Win        | +0.69245949|
+|  64 Washington State      | Loss       | -0.94714996|
+|  20 Oregon                | Loss       | -0.60559841|
+|  52 Oregon State          | Win        | +1.13200809|
+| 108 Washington            | Loss       | -1.52274630|
+|  96 Colorado              | Win        | +0.75384152|
+| 127 Arizona               | Loss       | -2.21030152|
+| 131 Non-FBS               | Win        | +0.34097291|
+
+| Remaining                 | If Win     | If Loss    |
+|---------------------------|------------|------------|
+|  86 USC                   | +0.85257630| -1.17291555|
+|  45 UCLA                  | +1.19409536| -0.83745405|
+
+
 # Examples:
 ## 2019
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
