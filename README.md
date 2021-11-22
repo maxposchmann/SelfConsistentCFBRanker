@@ -164,31 +164,31 @@ Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
 | Rank |Team                  | Strength | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
-|     1|Ohio State            |16.26966338|2|
-|     2|LSU                   |14.05046362|1|
-|     3|Clemson               |11.89707925|3|
-|     4|Memphis               |11.24605403|17|
-|     5|Oklahoma              |10.83967630|4|
-|     6|Boise State           |10.16909837|19|
-|     7|Georgia               |9.88354404|5|
-|     8|Appalachian State     |9.41012970|20|
-|     9|Wisconsin             |9.15258873|8|
-|    10|Notre Dame            |9.13713664|15|
-|    11|Oregon                |8.92128577|6|
-|    12|Penn State            |8.63033452|10|
-|    13|Baylor                |8.25654423|7|
-|    14|Utah                  |8.19446649|11|
-|    15|Cincinnati            |8.10704902|21|
-|    16|Michigan              |7.82255650|14|
-|    17|SMU                   |7.46237783|NR|
-|    18|Florida               |7.12685895|9|
-|    19|Minnesota             |7.06857411|18|
-|    20|Auburn                |7.06014702|12|
-|    21|Alabama               |6.83092354|13|
-|    22|Iowa                  |6.78751754|16|
-|    23|Navy                  |6.72241255|23|
-|    24|Air Force             |6.63159438|NR|
-|    25|Florida Atlantic      |6.15217781|NR|
+|     1|Ohio State            |16.62162135|2|
+|     2|LSU                   |15.17918633|1|
+|     3|Clemson               |12.75564548|3|
+|     4|Memphis               |12.10053314|17|
+|     5|Oklahoma              |11.84017835|4|
+|     6|Boise State           |11.22364369|19|
+|     7|Georgia               |10.83993769|5|
+|     8|Appalachian State     |10.43743511|20|
+|     9|Oregon                |9.86684612|6|
+|    10|Notre Dame            |9.63168785|15|
+|    11|Wisconsin             |9.45238908|8|
+|    12|Penn State            |9.31976925|10|
+|    13|Baylor                |9.18000629|7|
+|    14|Utah                  |9.11674349|11|
+|    15|Cincinnati            |8.55842732|21|
+|    16|Florida               |8.42917071|9|
+|    17|Michigan              |8.09875969|14|
+|    18|Auburn                |7.98775986|12|
+|    19|SMU                   |7.93705761|NR|
+|    20|Minnesota             |7.76185462|18|
+|    21|Alabama               |7.71304041|13|
+|    22|Air Force             |7.53657175|NR|
+|    23|Iowa                  |7.48703572|16|
+|    24|Navy                  |7.48703572|23|
+|    25|Florida Atlantic      |6.77712377|NR|
 
 This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged out by Memphis by a razor-thin margin. Evidently this ranking system is not the hot-take generator I had feared. In total 4 of the top-25 teams differ from the CFP committee's list. Dropped are 8-4 USC (22), 9-4 Virginia (24), and 8-4 Oklahoma State (25). Added are 10-3 SMU, 11-2 Air Force, and 11-3 FAU. Overall this ranking prefers G5 teams with more wins over P5 teams with fewer, relative to the CFP. I agree.
 
