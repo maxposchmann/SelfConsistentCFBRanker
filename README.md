@@ -164,6 +164,7 @@ Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/
 If team names are given as arguments, a report on the specified teams will be output instead of the full rankings. This includes the games played by that team, the outcomes of those games, and how they affected the computed team strength. If games remain on the schedule, those are shown separately, along with estimated strength changes for win/loss outcomes.
 
 For example, California after week 13, 2021:
+
 California: ranked 100 with strength -4.20083795
 | Played                    | Outcome    | Change     |
 |---------------------------|------------|------------|
