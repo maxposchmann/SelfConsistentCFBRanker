@@ -92,7 +92,7 @@ for j in range(maxIts):
         break
 
 strengthScale = max(np.abs(newStrength))
-power = strength / np.amax([gamesPlayed,np.ones(nTeam+1)])
+power = strength / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
 srs = np.zeros(nTeam)
 prs = np.zeros(nTeam)
 for i in range(nTeam):
@@ -100,7 +100,7 @@ for i in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
             srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
             prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
-prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)])
+prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)],axis=0)
 
 ranks = list(reversed(np.argsort(strength)))
 print()
