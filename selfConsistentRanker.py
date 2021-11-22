@@ -25,10 +25,12 @@ nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingha
 season = []
 with open(seasonFile, newline='') as csvfile:
     gameData = csv.reader(csvfile, delimiter=',')
-    next(gameData, None)  # skip the header
+    header = next(gameData, None)  # skip the header
+    wIndex = header.index('Winner')
+    lIndex = header.index('Loser')
     for game in gameData:
-        name1 = game[5]
-        name2 = game[8]
+        name1 = game[wIndex]
+        name2 = game[lIndex]
         for rank in rankstrings:
             name1 = name1.replace(rank,'')
             name2 = name2.replace(rank,'')
