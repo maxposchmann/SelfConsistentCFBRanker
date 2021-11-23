@@ -102,13 +102,10 @@ for i in range(nTeam):
 nawScale = max(np.abs(newNAW))
 awe = naw / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
 nrs = np.zeros(nTeam)
-prs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam+1):
         for l in range(len(remainingSchedule[i][k])):
             nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
-            prs[i] = prs[i] + remainingSchedule[i][k][l]*awe[k]
-prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)],axis=0)
 
 ranks = list(reversed(np.argsort(naw)))
 aweranks = list(reversed(np.argsort(awe)))
