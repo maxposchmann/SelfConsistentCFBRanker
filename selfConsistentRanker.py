@@ -57,6 +57,8 @@ teams.append('Non-FBS')
 
 gamesPlayed = np.zeros(nTeam+1)
 gamesRemaining = np.zeros(nTeam+1)
+ws = np.zeros(nTeam+1)
+ls = np.zeros(nTeam+1)
 for game in season:
     try:
         winner = teams.index(game[1])
@@ -69,13 +71,15 @@ for game in season:
     if int(game[0]) <= maxWeek:
         winLossMatrix[winner][loser].append(1)
         winLossMatrix[loser][winner].append(-1)
-        gamesPlayed[winner] = gamesPlayed[winner] + 1
-        gamesPlayed[loser]  = gamesPlayed[loser]  + 1
+        gamesPlayed[winner] += 1
+        gamesPlayed[loser]  += 1
+        ws[winner] += 1
+        ls[loser]  += 1
     elif int(game[0]) <= maxWeekRemaining:
         remainingSchedule[winner][loser].append(1)
         remainingSchedule[loser][winner].append(1)
-        gamesRemaining[winner] = gamesRemaining[winner] + 1
-        gamesRemaining[loser]  = gamesRemaining[loser]  + 1
+        gamesRemaining[winner] += 1
+        gamesRemaining[loser]  += 1
 
 naw = np.ones(nTeam+1)
 newNAW = np.ones(nTeam)
@@ -107,7 +111,7 @@ for i in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
             nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
 
-ranks = list(reversed(np.argsort(naw)))
+ranks    = list(reversed(np.argsort(naw)))
 aweranks = list(reversed(np.argsort(awe)))
 ncsranks = list(reversed(np.argsort(ncs)))
 nrsranks = list(reversed(np.argsort(nrs)))
@@ -116,16 +120,16 @@ print()
 if nTeamDetails == 0:
     print(f'Ranks to week {maxWeek} after {iterations} iterations:')
     print()
-    print(f'| Rank | {"Team":{maxNameLength}} |     NAW     |{"     AWE     |     NCS     |     NRS     |" if extendedPrint else ""}')
-    print(f'|------|{"-"*(maxNameLength+2)}|-------------|{"-------------|-------------|-------------|" if extendedPrint else ""}')
+    print(f'| Rank | {"Team":{maxNameLength}} |     NAW     |{"     AWE     |     NCS     |     NRS     | Record  |" if extendedPrint else ""}')
+    print(f'|------|{"-"*(maxNameLength+2)}|-------------|{"-------------|-------------|-------------|---------|" if extendedPrint else ""}')
     for i in range(nTeam):
-        print(f'| {i+1:4} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:11.{outputPrecision}f} | {f"{awe[ranks[i]]:11.{outputPrecision}f} | {ncs[ranks[i]]:11.{outputPrecision}f} | {nrs[ranks[i]]:11.{outputPrecision}f} |" if extendedPrint else ""}')
+        print(f'| {i+1:4} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:11.{outputPrecision}f} | {f"{awe[ranks[i]]:11.{outputPrecision}f} | {ncs[ranks[i]]:11.{outputPrecision}f} | {nrs[ranks[i]]:11.{outputPrecision}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
 else:
     for team in teamDetails:
         if team in teams:
             i = teams.index(team)
             if gamesPlayed[i] > 0:
-                print(f'{team}')
+                print(f'{team} ({int(ws[i])} - {int(ls[i])})')
                 print(f'|       |     NAW     |     AWE     |     NCS     |     NRS     |')
                 print(f'|-------|-------------|-------------|-------------|-------------|')
                 print(f'| Value | {naw[i]:11.{outputPrecision}f} | {awe[i]:11.{outputPrecision}f} | {ncs[i]:11.{outputPrecision}f} | {nrs[i]:11.{outputPrecision}f} |')
