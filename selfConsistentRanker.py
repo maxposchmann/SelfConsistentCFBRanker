@@ -16,7 +16,7 @@ maxIts = 10000
 tol = 1e-14
 maxWeek = 13
 maxWeekRemaining = 15
-outputPrecision = 8
+outputPrecision = 7
 
 rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
@@ -77,68 +77,73 @@ for game in season:
         gamesRemaining[winner] = gamesRemaining[winner] + 1
         gamesRemaining[loser]  = gamesRemaining[loser]  + 1
 
-strength = np.ones(nTeam+1)
-newStrength = np.ones(nTeam)
+naw = np.ones(nTeam+1)
+newNAW = np.ones(nTeam)
 for j in range(maxIts):
-    strength[nTeam] = min(newStrength) - 1
-    strengthScale = max(np.abs(newStrength))
+    naw[nTeam] = min(newNAW) - 1
+    nawScale = max(np.abs(newNAW))
     for i in range(nTeam):
-        newStrength[i] = 0
+        newNAW[i] = 0
         for k in range(nTeam+1):
             for l in range(len(winLossMatrix[i][k])):
-                newStrength[i] = newStrength[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthScale)
-    maxDiff = np.amax(np.abs(newStrength-strength[0:nTeam]))
-    strength[:-1] = np.copy(newStrength)
+                newNAW[i] = newNAW[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale)
+    maxDiff = np.amax(np.abs(newNAW-naw[0:nTeam]))
+    naw[:-1] = np.copy(newNAW)
     iterations = j + 1
     if maxDiff < tol:
         break
 
-sos = np.zeros(nTeam)
+ncs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam+1):
         for l in range(len(winLossMatrix[i][k])):
-            sos[i] = sos[i] + np.exp(strength[k]/strengthScale)
+            ncs[i] = ncs[i] + np.exp(naw[k]/nawScale)
 
-strengthScale = max(np.abs(newStrength))
-power = strength / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
-srs = np.zeros(nTeam)
+nawScale = max(np.abs(newNAW))
+awe = naw / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
+nrs = np.zeros(nTeam)
 prs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam+1):
         for l in range(len(remainingSchedule[i][k])):
-            srs[i] = srs[i] + remainingSchedule[i][k][l]*np.exp(strength[k]/strengthScale)
-            prs[i] = prs[i] + remainingSchedule[i][k][l]*power[k]
+            nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
+            prs[i] = prs[i] + remainingSchedule[i][k][l]*awe[k]
 prs = prs / np.amax([gamesRemaining[:-1],np.ones(nTeam)],axis=0)
 
-ranks = list(reversed(np.argsort(strength)))
-sosranks = list(reversed(np.argsort(sos)))
+ranks = list(reversed(np.argsort(naw)))
+aweranks = list(reversed(np.argsort(awe)))
+ncsranks = list(reversed(np.argsort(ncs)))
+nrsranks = list(reversed(np.argsort(nrs)))
 
 print()
 if nTeamDetails == 0:
     print(f'Ranks to week {maxWeek} after {iterations} iterations:')
     print()
-    print(f'| Rank |{"Team":{maxNameLength}}| Strength |{"   Power  |    SOS   |    SRS   |    PRS   |" if extendedPrint else ""}')
-    print(f'|------|{"-"*maxNameLength}|----------|{"----------|----------|----------|----------|" if extendedPrint else ""}')
+    print(f'| Rank | {"Team":{maxNameLength}} |     NAW     |{"     AWE     |     NCS     |     NRS     |" if extendedPrint else ""}')
+    print(f'|------|{"-"*(maxNameLength+2)}|-------------|{"-------------|-------------|-------------|" if extendedPrint else ""}')
     for i in range(nTeam):
-        print(f'|{i+1:6}|{teams[ranks[i]]:{maxNameLength}}|{strength[ranks[i]]:.{outputPrecision}f}|{f"{power[ranks[i]]:.{outputPrecision}f}|{sos[ranks[i]]:.{outputPrecision}f}|{srs[ranks[i]]:.{outputPrecision}f}|{prs[ranks[i]]:.{outputPrecision}f}|" if extendedPrint else ""}')
+        print(f'| {i+1:4} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:11.{outputPrecision}f} | {f"{awe[ranks[i]]:11.{outputPrecision}f} | {ncs[ranks[i]]:11.{outputPrecision}f} | {nrs[ranks[i]]:11.{outputPrecision}f} |" if extendedPrint else ""}')
 else:
     for team in teamDetails:
         if team in teams:
             i = teams.index(team)
             if gamesPlayed[i] > 0:
                 print(f'{team}')
-                print(f'Ranked {ranks.index(i)+1} with strength {strength[i]:.{outputPrecision}f}')
-                print(f'Strength of schedule ranked {sosranks.index(i)+1} with {sos[i]:.{outputPrecision}f}')
+                print(f'|       |     NAW     |     AWE     |     NCS     |     NRS     |')
+                print(f'|-------|-------------|-------------|-------------|-------------|')
+                print(f'| Value | {naw[i]:11.{outputPrecision}f} | {awe[i]:11.{outputPrecision}f} | {ncs[i]:11.{outputPrecision}f} | {nrs[i]:11.{outputPrecision}f} |')
+                print(f'| Rank  | {ranks.index(i)+1:11d} | {aweranks.index(i)+1:11d} | {ncsranks.index(i)+1:11d} | {nrsranks.index(i)+1:11d} |')
+                print()
                 print(f'|{" Played":{maxNameLength+5}}| Outcome    | Change     |')
                 print(f'|{"-"*(maxNameLength+5)}|------------|------------|')
                 for k in range(nTeam+1):
                     for l in range(len(winLossMatrix[i][k])):
-                        print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else ""}{winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*strength[k]/strengthScale):.{outputPrecision}f}|')
+                        print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else ""}{winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):.{outputPrecision}f} |')
                 print()
             if gamesRemaining[i] > 0:
                 print(f'|{" Remaining":{maxNameLength+5}}| If Win     | If Loss    |')
                 print(f'|{"-"*(maxNameLength+5)}|------------|------------|')
                 for k in range(nTeam+1):
                     for l in range(len(remainingSchedule[i][k])):
-                        print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}| +{np.exp(strength[k]/strengthScale):.{outputPrecision}f}| {-np.exp(-strength[k]/strengthScale):.{outputPrecision}f}|')
+                        print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):.{outputPrecision}f} | {-np.exp(-naw[k]/nawScale):.{outputPrecision}f} |')
                 print()
