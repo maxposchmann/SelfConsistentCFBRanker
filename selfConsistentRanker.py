@@ -80,8 +80,8 @@ for game in season:
         gamesRemaining[winner] += 1
         gamesRemaining[loser]  += 1
 
-naw = np.ones(nTeam+1)
-newNAW = np.ones(nTeam)
+naw = ws - ls
+newNAW = np.copy(naw[0:-1])
 for j in range(maxIts):
     naw[nTeam] = min(newNAW) - 1
     nawScale = max(np.abs(newNAW))
