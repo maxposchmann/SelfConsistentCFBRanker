@@ -2,11 +2,20 @@
 import numpy as np
 import csv
 import sys
+import pandas as pd
+import pickle
+from functions import general as gen
+import os
 
-nTeamDetails = len(sys.argv) - 1
-if nTeamDetails > 0:
-    teamDetails = sys.argv[1:nTeamDetails+1]
-
+nTeamDetails = 0
+pickling = False
+if len(sys.argv) > 1:
+    if sys.argv[1] == 'pickle':
+        pickling = True
+    else:
+        nTeamDetails = len(sys.argv) - 1
+        if nTeamDetails > 0:
+            teamDetails = sys.argv[1:nTeamDetails+1]
 
 seasonFile = 'data/2021season.csv'
 teamsFile  = 'data/2021fbs.csv'
@@ -17,7 +26,7 @@ tol = 1e-14
 maxWeek = 14
 maxWeekRemaining = 16
 
-rankstrings = [('(' + str(i+1) + ') ') for i in range(25)]
+rankstrings = [(f'({i+1}) ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
              ['Texas-El Paso','UTEP'],['Southern Methodist','SMU'],['Brigham Young','BYU'],['Mississippi','Ole Miss'],
              ['Louisiana State','LSU'],['Southern California','USC']]
@@ -96,7 +105,7 @@ for j in range(maxIts):
     if maxDiff < tol:
         break
 
-ncs = np.zeros(nTeam)
+ncs = np.zeros(nTeam+1)
 for i in range(nTeam):
     for k in range(nTeam+1):
         for l in range(len(winLossMatrix[i][k])):
@@ -104,7 +113,7 @@ for i in range(nTeam):
 
 nawScale = max(np.abs(newNAW))
 aaw = naw / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
-nrs = np.zeros(nTeam)
+nrs = np.zeros(nTeam+1)
 for i in range(nTeam):
     for k in range(nTeam+1):
         for l in range(len(remainingSchedule[i][k])):
@@ -154,3 +163,34 @@ else:
                     for l in range(len(remainingSchedule[i][k])):
                         print(f'|{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
+
+if pickling:
+    pickleFile = 'ncaafb.p'
+    gen.dbInit(pickleFile)
+    d = pd.read_pickle(pickleFile)
+    df = pd.DataFrame([],columns=['Team','NAW','AAW','NCS','NRS','Record'])
+    for i in ranks:
+        team = teams[ranks[i]]
+        tNaw = naw[ranks[i]]
+        tAaw = aaw[ranks[i]]
+        tNcs = ncs[ranks[i]]
+        tNrs = nrs[ranks[i]]
+        record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
+        r0 = pd.Series([team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
+        df = df.append(r0,ignore_index=True)
+    df = df.sort_values(['NAW'],ascending=False).reset_index(drop=True)
+    df.insert(0,'Rank',range(1,len(df)+1))
+    d['analysis']['teamRankings'] = df
+    pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
+    d['analysis']['byTeam']=dict()
+
+    for team in teams:
+        v = dict()
+        v['team'] = team
+        v['wording'] = f'this is the page for {team}'
+        d['analysis']['byTeam'][team] =v
+
+    d['analysis']['week'] = str(13)
+    teams.sort()
+    d['data']['teams']= teams
+    pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
