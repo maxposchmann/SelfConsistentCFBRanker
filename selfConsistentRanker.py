@@ -103,7 +103,7 @@ for i in range(nTeam):
             ncs[i] = ncs[i] + np.exp(naw[k]/nawScale)
 
 nawScale = max(np.abs(newNAW))
-awe = naw / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
+aaw = naw / np.amax([gamesPlayed,np.ones(nTeam+1)],axis=0)
 nrs = np.zeros(nTeam)
 for i in range(nTeam):
     for k in range(nTeam+1):
@@ -111,7 +111,7 @@ for i in range(nTeam):
             nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
 
 ranks    = list(reversed(np.argsort(naw)))
-aweranks = list(reversed(np.argsort(awe)))
+aawranks = list(reversed(np.argsort(aaw)))
 ncsranks = list(reversed(np.argsort(ncs)))
 nrsranks = list(reversed(np.argsort(nrs)))
 
@@ -126,20 +126,20 @@ print()
 if nTeamDetails == 0:
     print(f'Ranks to week {maxWeek} after {iterations} iterations:')
     print()
-    print(f'| Rank | {"Team":{maxNameLength}} |{tlp}NAW{tlp}|{f"{tlp}AWE{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}| Record  |" if extendedPrint else ""}')
+    print(f'| Rank | {"Team":{maxNameLength}} |{tlp}NAW{tlp}|{f"{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}| Record  |" if extendedPrint else ""}')
     print(f'|------|{"-"*(maxNameLength+2)}|{tbs}|{f"{tbs}|{tbs}|{tbs}|---------|" if extendedPrint else ""}')
     for i in range(nTeam):
-        print(f'| {i+1:{ifw}} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{awe[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
+        print(f'| {i+1:{ifw}} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{aaw[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
 else:
     for team in teamDetails:
         if team in teams:
             i = teams.index(team)
             if gamesPlayed[i] > 0:
                 print(f'{team} ({int(ws[i])} - {int(ls[i])})')
-                print(f'|       |{tlp}NAW{tlp}|{tlp}AWE{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}|')
+                print(f'|       |{tlp}NAW{tlp}|{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}|')
                 print(f'|-------|{tbs}|{tbs}|{tbs}|{tbs}|')
-                print(f'| Value | {naw[i]:{ffw}.{fnd}f} | {awe[i]:{ffw}.{fnd}f} | {ncs[i]:{ffw}.{fnd}f} | {nrs[i]:{ffw}.{fnd}f} |')
-                print(f'| Rank  | {ranks.index(i)+1:{ffw}d} | {aweranks.index(i)+1:{ffw}d} | {ncsranks.index(i)+1:{ffw}d} | {nrsranks.index(i)+1:{ffw}d} |')
+                print(f'| Value | {naw[i]:{ffw}.{fnd}f} | {aaw[i]:{ffw}.{fnd}f} | {ncs[i]:{ffw}.{fnd}f} | {nrs[i]:{ffw}.{fnd}f} |')
+                print(f'| Rank  | {ranks.index(i)+1:{ffw}d} | {aawranks.index(i)+1:{ffw}d} | {ncsranks.index(i)+1:{ffw}d} | {nrsranks.index(i)+1:{ffw}d} |')
                 print()
                 print(f'|{" Played":{maxNameLength+5}}| Outcome    |{tlp[1:]}Change{tlp[1:]}|')
                 print(f'|{"-"*(maxNameLength+5)}|------------|-{tbs}|')

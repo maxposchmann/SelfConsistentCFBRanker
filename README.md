@@ -1,7 +1,7 @@
 # Self-Consistent CFB Ranker
 
 # Current Rankings (November 28, 2021):
-| Rank | Team                   |   NAW   |   AWE   |   NCS   |   NRS   | Record  |
+| Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
 |    1 | Georgia                |  12.597 |   1.050 |  12.597 |   2.120 | 12 -  0 |
 |    2 | Michigan               |  11.323 |   0.944 |  13.724 |   0.000 | 11 -  1 |
@@ -153,7 +153,7 @@ And thus the Self-Consistent CFB Ranker (SCCR) was born. The guts of the ranking
 
 The "strength" has units of wins, and therefore is called Net Adjusted Wins (NAW), with losses negative. The algorithm is initialized with the unadjusted net wins (i.e. simply wins-losses) for each team. The inputs to the exponential are scaled by the largest magnitude NAW, so the maximum possible difference between values of FBS wins (or losses) is exp(2) = 7.389. By this win metric, a team would do much better to split a series with the best team in FBS (+2.3504 net wins) than to beat the worst team in FBS twice (+0.7358 net wins). This feels reasonably fair, and also has the benefit of converging well. However, it would be trivial to replace this NAW function with any other function that tends to converge. Please feel free to fork the project and play with whatever system you think better represents the relative values of wins.
 
-Also (optionally) output is Adjusted Win Efficiency (AWE), which is NAW per game played. The NAW of the Completed Schedule (NCS) and NAW of Remaining Schedule (NRS) for each team are also output with the extended print option set to true.
+Also (optionally) output is Average Adjusted Wins (AAW), which is NAW per game played. The NAW of the Completed Schedule (NCS) and NAW of Remaining Schedule (NRS) for each team are also output with the extended print option set to true.
 
 One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-FBS teams have NAW set to (minimum FBS NAW - 1.0).
 
@@ -166,7 +166,7 @@ If team names are given as arguments, a report on the specified teams will be ou
 For example, California after week 13, 2021:
 
 California (4 - 6)
-|       |   NAW   |   AWE   |   NCS   |   NRS   |
+|       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
 | Value |  -4.201 |  -0.420 |   8.933 |   2.047 |
 | Rank  |     100 |     102 |     125 |       9 |
@@ -312,7 +312,7 @@ Notice that 6-0 Ohio State has dropped from playoff position at \#3 in the CFP r
 
 Comparing the Colley rankings to SCCR rankings, the big gainers under Colley were B1G and PAC-12 teams like Ohio State, Indiana, USC, and Colorado, who all played shortened seasons. So as expected, SCCR prefers teams with more wins under their belt relative to Colley. While neither is intended as a predictive method, it is probably fair to say that Colley has more traits of a predictive method and SCCR comes closer to a pure resume ranker.
 
-Note that AWE (NAW per game played) is also available within SCCR, if you prefer an efficiency metric. The top four teams by AWE in 2020 were: Cincinnati, Coastal Carolina, Alabama, and San Jose State.
+Note that AAW (NAW per game played) is also available within SCCR, if you prefer an efficiency metric. The top four teams by AAW in 2020 were: Cincinnati, Coastal Carolina, Alabama, and San Jose State.
 
 ## What's a win worth?
 
