@@ -166,8 +166,11 @@ else:
 
 if pickling:
     pickleFile = 'ncaafb.p'
-    gen.dbInit(pickleFile)
-    d = pd.read_pickle(pickleFile)
+    try:
+        d = pd.read_pickle(pickleFile)
+    except FileNotFoundError:
+        gen.dbInit(pickleFile)
+        d = pd.read_pickle(pickleFile)
     df = pd.DataFrame([],columns=['Team','NAW','AAW','NCS','NRS','Record'])
     for i in ranks:
         team = teams[ranks[i]]
@@ -185,8 +188,9 @@ if pickling:
     d['analysis']['byTeam']=dict()
 
     for team in teams:
+        i = teams.index(team)
         v = dict()
-        v['team'] = team
+        v['team'] = f'{team} ({int(ws[i])} - {int(ls[i])})'
         v['wording'] = f'this is the page for {team}'
         d['analysis']['byTeam'][team] =v
 
