@@ -119,6 +119,11 @@ for i in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
             nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
 
+naw[-1] = -np.inf
+aaw[-1] = -np.inf
+ncs[-1] = -np.inf
+nrs[-1] = -np.inf
+
 ranks    = list(reversed(np.argsort(naw)))
 aawranks = list(reversed(np.argsort(aaw)))
 ncsranks = list(reversed(np.argsort(ncs)))
@@ -172,7 +177,7 @@ if pickling:
         gen.dbInit(pickleFile)
         d = pd.read_pickle(pickleFile)
     df = pd.DataFrame([],columns=['Team','NAW','AAW','NCS','NRS','Record'])
-    for i in ranks:
+    for i in ranks[:-1]:
         team = teams[ranks[i]]
         tNaw = naw[ranks[i]]
         tAaw = aaw[ranks[i]]
@@ -187,7 +192,7 @@ if pickling:
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
     d['analysis']['byTeam']=dict()
 
-    for team in teams:
+    for team in teams[:-1]:
         i = teams.index(team)
         v = dict()
         v['team'] = f'{team} ({int(ws[i])} - {int(ls[i])})'
