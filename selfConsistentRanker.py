@@ -156,14 +156,16 @@ else:
                 print()
                 print(f'|{" Played":{maxNameLength+5}}| Outcome    |{tlp[1:]}Change{tlp[1:]}|')
                 print(f'|{"-"*(maxNameLength+5)}|------------|-{tbs}|')
-                for k in range(nTeam+1):
+                for j in range(nTeam+1):
+                    k = ranks[j]
                     for l in range(len(winLossMatrix[i][k])):
                         print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
             if gamesRemaining[i] > 0:
                 print(f'|{" Remaining":{maxNameLength+5}}|{tlp[1:]}If Win{tlp[1:]}|{tlp[1:]}If Loss{tlp[2:]}|')
                 print(f'|{"-"*(maxNameLength+5)}|-{tbs}|-{tbs}|')
-                for k in range(nTeam+1):
+                for j in range(nTeam+1):
+                    k = ranks[j]
                     for l in range(len(remainingSchedule[i][k])):
                         print(f'|{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
@@ -215,7 +217,8 @@ if pickling:
             pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
             # make games played/results table
             df = pd.DataFrame([],columns=['Played','Outcome','Change'])
-            for k in range(nTeam+1):
+            for j in range(nTeam+1):
+                k = ranks[j]
                 for l in range(len(winLossMatrix[i][k])):
                     opponent = f'{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}'
                     outcome = f'{"Win" if winLossMatrix[i][k][l]==1 else "Loss"}'
@@ -231,7 +234,8 @@ if pickling:
         if gamesRemaining[i] > 0:
             # make games remaining table
             df = pd.DataFrame([],columns=['Remaining','If Win','If Loss'])
-            for k in range(nTeam+1):
+            for j in range(nTeam+1):
+                k = ranks[j]
                 for l in range(len(remainingSchedule[i][k])):
                     opponent = f'{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}'
                     cifw = f'+{np.exp(naw[k]/nawScale):{ffw}.{fnd}f}'
