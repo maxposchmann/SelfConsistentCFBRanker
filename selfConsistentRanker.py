@@ -175,18 +175,19 @@ if pickling:
     except FileNotFoundError:
         gen.dbInit(pickleFile)
         d = pd.read_pickle(pickleFile)
-    df = pd.DataFrame([],columns=['Team','NAW','AAW','NCS','NRS','Record'])
-    for i in ranks[:-1]:
+    df = pd.DataFrame([],columns=['Rank','Team','NAW','AAW','NCS','NRS','Record'])
+    for i in range(nTeam):
+        rank = f'{i+1:{ifw}}'
         team = teams[ranks[i]]
         tNaw = f'{naw[ranks[i]]:{ffw}.{fnd}f}'
         tAaw = f'{aaw[ranks[i]]:{ffw}.{fnd}f}'
         tNcs = f'{ncs[ranks[i]]:{ffw}.{fnd}f}'
         tNrs = f'{nrs[ranks[i]]:{ffw}.{fnd}f}'
         record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
-        r0 = pd.Series([team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
+        r0 = pd.Series([rank,team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
         df = df.append(r0,ignore_index=True)
-    df = df.sort_values(['NAW','AAW','NCS','NRS'],ascending=False).reset_index(drop=True)
-    df.insert(0,'Rank',range(1,len(df)+1))
+    df = df.sort_values(['Rank'],ascending=False).reset_index(drop=True)
+    # df.insert(0,'Rank',range(1,len(df)+1))
     d['analysis']['teamRankings'] = df
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
     d['analysis']['byTeam'] = dict()
