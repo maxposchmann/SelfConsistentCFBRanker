@@ -119,7 +119,6 @@ for i in range(nTeam):
         for l in range(len(remainingSchedule[i][k])):
             nrs[i] = nrs[i] + remainingSchedule[i][k][l]*np.exp(naw[k]/nawScale)
 
-naw[-1] = -np.inf
 aaw[-1] = -np.inf
 ncs[-1] = -np.inf
 nrs[-1] = -np.inf
