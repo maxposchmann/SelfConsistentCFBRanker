@@ -186,7 +186,7 @@ if pickling:
         record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
         r0 = pd.Series([rank,team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
         df = df.append(r0,ignore_index=True)
-    df.sort_values(['Rank'],inplace=True)
+    df = df.sort_values(['Rank'])
     d['analysis']['teamRankings'] = df
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
     d['analysis']['byTeam'] = dict()
