@@ -225,6 +225,7 @@ if pickling:
             d['analysis']['byTeam'][team]['results'] = df
             pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
         else:
+            # dump empty if no games played
             d['analysis']['byTeam'][team]['stats'] = []
             d['analysis']['byTeam'][team]['results'] = []
         if gamesRemaining[i] > 0:
@@ -240,6 +241,7 @@ if pickling:
             d['analysis']['byTeam'][team]['remaining'] = df
             pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
         else:
+            # dump empty if no games remaining
             d['analysis']['byTeam'][team]['remaining'] = []
 
     d['analysis']['week'] = str(maxWeek)
