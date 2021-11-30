@@ -185,7 +185,7 @@ if pickling:
         tNrs = f'{nrs[ranks[i]]:{ffw}.{fnd}f}'
         record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
         r0 = pd.Series([rank,team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
-        df.append(r0,ignore_index=True)
+        df = df.append(r0,ignore_index=True)
     df.sort_values(['Rank'],inplace=True)
     d['analysis']['teamRankings'] = df
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
