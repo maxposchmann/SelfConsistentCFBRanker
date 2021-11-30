@@ -179,10 +179,10 @@ if pickling:
     df = pd.DataFrame([],columns=['Team','NAW','AAW','NCS','NRS','Record'])
     for i in ranks[:-1]:
         team = teams[ranks[i]]
-        tNaw = naw[ranks[i]]
-        tAaw = aaw[ranks[i]]
-        tNcs = ncs[ranks[i]]
-        tNrs = nrs[ranks[i]]
+        tNaw = f'{naw[ranks[i]]:{ffw}.{fnd}f}'
+        tAaw = f'{aaw[ranks[i]]:{ffw}.{fnd}f}'
+        tNcs = f'{ncs[ranks[i]]:{ffw}.{fnd}f}'
+        tNrs = f'{nrs[ranks[i]]:{ffw}.{fnd}f}'
         record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
         r0 = pd.Series([team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
         df = df.append(r0,ignore_index=True)
@@ -190,16 +190,60 @@ if pickling:
     df.insert(0,'Rank',range(1,len(df)+1))
     d['analysis']['teamRankings'] = df
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
-    d['analysis']['byTeam']=dict()
+    d['analysis']['byTeam'] = dict()
 
     for team in teams[:-1]:
         i = teams.index(team)
         v = dict()
         v['team'] = f'{team} ({int(ws[i])} - {int(ls[i])})'
-        v['wording'] = f'this is the page for {team}'
-        d['analysis']['byTeam'][team] =v
+        d['analysis']['byTeam'][team] = v
+        if gamesPlayed[i] > 0:
+            # make stats summary table
+            df = pd.DataFrame([],columns=['NAW','AAW','NCS','NRS'])
+            tNaw = f'{naw[i]:{ffw}.{fnd}f}'
+            tAaw = f'{aaw[i]:{ffw}.{fnd}f}'
+            tNcs = f'{ncs[i]:{ffw}.{fnd}f}'
+            tNrs = f'{nrs[i]:{ffw}.{fnd}f}'
+            vals = pd.Series([tNaw,tAaw,tNcs,tNrs],index=df.columns)
+            rNaw = f'{ranks.index(i)+1:{ffw}d}'
+            rAaw = f'{aawranks.index(i)+1:{ffw}d}'
+            rNcs = f'{ncsranks.index(i)+1:{ffw}d}'
+            rNrs = f'{nrsranks.index(i)+1:{ffw}d}'
+            rank = pd.Series([rNaw,rAaw,rNcs,rNrs],index=df.columns)
+            df = df.append(vals,ignore_index=True)
+            df = df.append(rank,ignore_index=True)
+            d['analysis']['byTeam'][team]['stats'] = df
+            pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
+            # make games played/results table
+            df = pd.DataFrame([],columns=['Played','Outcome','Change'])
+            for k in range(nTeam+1):
+                for l in range(len(winLossMatrix[i][k])):
+                    opponent = f'{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}'
+                    outcome = f'{"Win" if winLossMatrix[i][k][l]==1 else "Loss"}'
+                    change = f'{"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f}'
+                    result = pd.Series([opponent,outcome,change],index=df.columns)
+                    df = df.append(result,ignore_index=True)
+            d['analysis']['byTeam'][team]['results'] = df
+            pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
+        else:
+            d['analysis']['byTeam'][team]['stats'] = []
+            d['analysis']['byTeam'][team]['results'] = []
+        if gamesRemaining[i] > 0:
+            # make games remaining table
+            df = pd.DataFrame([],columns=['Remaining','If Win','If Loss'])
+            for k in range(nTeam+1):
+                for l in range(len(remainingSchedule[i][k])):
+                    opponent = f'{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}'
+                    cifw = f'+{np.exp(naw[k]/nawScale):{ffw}.{fnd}f}'
+                    cifl = f'-{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f}'
+                    game = pd.Series([opponent,cifw,cifl],index=df.columns)
+                    df = df.append(game,ignore_index=True)
+            d['analysis']['byTeam'][team]['remaining'] = df
+            pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
+        else:
+            d['analysis']['byTeam'][team]['remaining'] = []
 
-    d['analysis']['week'] = str(13)
+    d['analysis']['week'] = str(maxWeek)
     teams.sort()
     d['data']['teams']= teams
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
