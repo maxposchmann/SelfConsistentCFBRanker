@@ -124,9 +124,11 @@ ncs[-1] = -np.inf
 nrs[-1] = -np.inf
 
 ranks    = list(reversed(np.argsort(naw)))
-aawranks = list(reversed(np.argsort(aaw)))
-ncsranks = list(reversed(np.argsort(ncs)))
-nrsranks = list(reversed(np.argsort(nrs)))
+# use sort instead of argsort here to allow ties
+naworder = list(reversed(np.sort(naw)))
+aaworder = list(reversed(np.sort(aaw)))
+ncsorder = list(reversed(np.sort(ncs)))
+nrsorder = list(reversed(np.sort(nrs)))
 
 # Formatting
 fnd = 3         # float number of decimals (choose odd)
@@ -152,14 +154,14 @@ else:
                 print(f'|       |{tlp}NAW{tlp}|{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}|')
                 print(f'|-------|{tbs}|{tbs}|{tbs}|{tbs}|')
                 print(f'| Value | {naw[i]:{ffw}.{fnd}f} | {aaw[i]:{ffw}.{fnd}f} | {ncs[i]:{ffw}.{fnd}f} | {nrs[i]:{ffw}.{fnd}f} |')
-                print(f'| Rank  | {ranks.index(i)+1:{ffw}d} | {aawranks.index(i)+1:{ffw}d} | {ncsranks.index(i)+1:{ffw}d} | {nrsranks.index(i)+1:{ffw}d} |')
+                print(f'| Rank  | {naworder.index(naw[i])+1:{ffw}d} | {aaworder.index(aaw[i])+1:{ffw}d} | {ncsorder.index(ncs[i])+1:{ffw}d} | {nrsorder.index(nrs[i])+1:{ffw}d} |')
                 print()
                 print(f'|{" Played":{maxNameLength+5}}| Outcome    |{tlp[1:]}Change{tlp[1:]}|')
                 print(f'|{"-"*(maxNameLength+5)}|------------|-{tbs}|')
                 for j in range(nTeam+1):
                     k = ranks[j]
                     for l in range(len(winLossMatrix[i][k])):
-                        print(f'|{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
+                        print(f'|{naworder.index(naw[k])+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
             if gamesRemaining[i] > 0:
                 print(f'|{" Remaining":{maxNameLength+5}}|{tlp[1:]}If Win{tlp[1:]}|{tlp[1:]}If Loss{tlp[2:]}|')
@@ -167,7 +169,7 @@ else:
                 for j in range(nTeam+1):
                     k = ranks[j]
                     for l in range(len(remainingSchedule[i][k])):
-                        print(f'|{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
+                        print(f'|{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
 
 if pickling:
@@ -206,10 +208,10 @@ if pickling:
             tNcs = f'{ncs[i]:{ffw}.{fnd}f}'
             tNrs = f'{nrs[i]:{ffw}.{fnd}f}'
             vals = pd.Series([tNaw,tAaw,tNcs,tNrs],index=df.columns)
-            rNaw = f'{ranks.index(i)+1:{ffw}d}'
-            rAaw = f'{aawranks.index(i)+1:{ffw}d}'
-            rNcs = f'{ncsranks.index(i)+1:{ffw}d}'
-            rNrs = f'{nrsranks.index(i)+1:{ffw}d}'
+            rNaw = f'{naworder.index(naw[i])+1:{ffw}d}'
+            rAaw = f'{aaworder.index(aaw[i])+1:{ffw}d}'
+            rNcs = f'{ncsorder.index(ncs[i])+1:{ffw}d}'
+            rNrs = f'{nrsorder.index(nrs[i])+1:{ffw}d}'
             rank = pd.Series([rNaw,rAaw,rNcs,rNrs],index=df.columns)
             df = df.append(vals,ignore_index=True)
             df = df.append(rank,ignore_index=True)
@@ -220,7 +222,7 @@ if pickling:
             for j in range(nTeam+1):
                 k = ranks[j]
                 for l in range(len(winLossMatrix[i][k])):
-                    opponent = f'{ranks.index(k)+1:4} {teams[k]:{maxNameLength}}'
+                    opponent = f'{naworder.index(naw[k])+1:4} {teams[k]:{maxNameLength}}'
                     outcome = f'{"Win" if winLossMatrix[i][k][l]==1 else "Loss"}'
                     change = f'{"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f}'
                     result = pd.Series([opponent,outcome,change],index=df.columns)
@@ -237,7 +239,7 @@ if pickling:
             for j in range(nTeam+1):
                 k = ranks[j]
                 for l in range(len(remainingSchedule[i][k])):
-                    opponent = f'{ranks.index(k)+1:{ifw}} {teams[k]:{maxNameLength}}'
+                    opponent = f'{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}'
                     cifw = f'+{np.exp(naw[k]/nawScale):{ffw}.{fnd}f}'
                     cifl = f'-{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f}'
                     game = pd.Series([opponent,cifw,cifl],index=df.columns)
