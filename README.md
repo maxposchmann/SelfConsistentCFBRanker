@@ -157,7 +157,7 @@ Also (optionally) output is Average Adjusted Wins (AAW), which is NAW per game p
 
 One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-FBS teams have NAW set to (minimum FBS NAW - 1.0).
 
-Data is downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
+Results are downloaded from Sports Reference (i.e. https://www.sports-reference.com/cfb/years/2021-schedule.html click on "Share & Export" then "Get table as CSV (for Excel)").
 
 # Team Reports:
 
