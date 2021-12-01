@@ -144,7 +144,7 @@ if nTeamDetails == 0:
     print(f'| Rank | {"Team":{maxNameLength}} |{tlp}NAW{tlp}|{f"{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}| Record  |" if extendedPrint else ""}')
     print(f'|------|{"-"*(maxNameLength+2)}|{tbs}|{f"{tbs}|{tbs}|{tbs}|---------|" if extendedPrint else ""}')
     for i in range(nTeam):
-        print(f'| {i+1:{ifw}} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{aaw[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
+        print(f'| {naworder.index(naw[ranks[i]])+1:{ifw}} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{aaw[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
 else:
     for team in teamDetails:
         if team in teams:
@@ -161,7 +161,7 @@ else:
                 for j in range(nTeam+1):
                     k = ranks[j]
                     for l in range(len(winLossMatrix[i][k])):
-                        print(f'|{naworder.index(naw[k])+1:4} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
+                        print(f'|{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
                 print()
             if gamesRemaining[i] > 0:
                 print(f'|{" Remaining":{maxNameLength+5}}|{tlp[1:]}If Win{tlp[1:]}|{tlp[1:]}If Loss{tlp[2:]}|')
@@ -181,7 +181,7 @@ if pickling:
         d = pd.read_pickle(pickleFile)
     df = pd.DataFrame([],columns=['Rank','Team','NAW','AAW','NCS','NRS','Record'])
     for i in range(nTeam):
-        rank = f'{i+1:{ifw}}'
+        rank = f'{naworder.index(naw[ranks[i]])+1:{ifw}}'
         team = teams[ranks[i]]
         tNaw = f'{naw[ranks[i]]:{ffw}.{fnd}f}'
         tAaw = f'{aaw[ranks[i]]:{ffw}.{fnd}f}'
