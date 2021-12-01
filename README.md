@@ -166,6 +166,7 @@ If team names are given as arguments, a report on the specified teams will be ou
 For example, California after week 13, 2021:
 
 California (4 - 6)
+
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
 | Value |  -4.201 |  -0.420 |   8.933 |   2.047 |
@@ -192,33 +193,34 @@ California (4 - 6)
 # Examples:
 ## 2019
 Let's take a look at the top 25 prior to bowl games for the 2019 season. I'll use the results as of December 8th to match the final CFP committee:
+
 | Rank |Team                  | NAW | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
-|     1|Ohio State            |16.62162135|2|
-|     2|LSU                   |15.17918633|1|
-|     3|Clemson               |12.75564548|3|
-|     4|Memphis               |12.10053314|17|
-|     5|Oklahoma              |11.84017835|4|
-|     6|Boise State           |11.22364369|19|
-|     7|Georgia               |10.83993769|5|
-|     8|Appalachian State     |10.43743511|20|
-|     9|Oregon                |9.86684612|6|
-|    10|Notre Dame            |9.63168785|15|
-|    11|Wisconsin             |9.45238908|8|
-|    12|Penn State            |9.31976925|10|
-|    13|Baylor                |9.18000629|7|
-|    14|Utah                  |9.11674349|11|
-|    15|Cincinnati            |8.55842732|21|
-|    16|Florida               |8.42917071|9|
-|    17|Michigan              |8.09875969|14|
-|    18|Auburn                |7.98775986|12|
-|    19|SMU                   |7.93705761|NR|
-|    20|Minnesota             |7.76185462|18|
-|    21|Alabama               |7.71304041|13|
-|    22|Air Force             |7.53657175|NR|
-|    23|Iowa                  |7.48703572|16|
-|    24|Navy                  |7.48703572|23|
-|    25|Florida Atlantic      |6.77712377|NR|
+|     1|Ohio State            |16.622|2|
+|     2|LSU                   |15.179|1|
+|     3|Clemson               |12.756|3|
+|     4|Memphis               |12.101|17|
+|     5|Oklahoma              |11.840|4|
+|     6|Boise State           |11.224|19|
+|     7|Georgia               |10.840|5|
+|     8|Appalachian State     |10.437|20|
+|     9|Oregon                |9.867|6|
+|    10|Notre Dame            |9.632|15|
+|    11|Wisconsin             |9.452|8|
+|    12|Penn State            |9.320|10|
+|    13|Baylor                |9.180|7|
+|    14|Utah                  |9.117|11|
+|    15|Cincinnati            |8.558|21|
+|    16|Florida               |8.429|9|
+|    17|Michigan              |8.099|14|
+|    18|Auburn                |7.988|12|
+|    19|SMU                   |7.937|NR|
+|    20|Minnesota             |7.762|18|
+|    21|Alabama               |7.713|13|
+|    22|Air Force             |7.537|NR|
+|    23|Navy                  |7.487|23|
+|    24|Iowa                  |7.092|16|
+|    25|Florida Atlantic      |6.777|NR|
 
 This ranking results in 3 of the 4 playoff selection, and Oklahoma is only edged out by Memphis by a razor-thin margin. Evidently this ranking system is not the hot-take generator I had feared. In total 4 of the top-25 teams differ from the CFP committee's list. Dropped are 8-4 USC (22), 9-4 Virginia (24), and 8-4 Oklahoma State (25). Added are 10-3 SMU, 11-2 Air Force, and 11-3 FAU. Overall this ranking prefers G5 teams with more wins over P5 teams with fewer, relative to the CFP. I agree.
 
@@ -226,18 +228,19 @@ So 2019 is a nice, uncontroversial year. LSU were champs, they deserved to be in
 
 ## 2017
 But what about 2017? Starting with the same point (December 3rd), who should have been in the CFP?
+
 | Rank |Team                  | NAW | CFP Committee Rank |
 |------|----------------------|----------|--------------------|
-|     1|Clemson               |14.60921347|1|
-|     2|Georgia               |13.28167649|3|
-|     3|Oklahoma              |13.28167649|2|
-|     4|UCF                   |12.59882351|12|
-|     5|Wisconsin             |12.53956060|6|
-|     6|Ohio State            |12.51097368|5|
-|     7|USC                   |11.72788767|8|
-|     8|Alabama               |11.30302685|4|
-|     9|Auburn                |10.58068763|7|
-|    10|Notre Dame            |10.30076607|14|
+|     1|Clemson               |14.609|1|
+|     2|Georgia               |13.282|3|
+|     3|Oklahoma              |13.282|2|
+|     4|UCF                   |12.599|12|
+|     5|Wisconsin             |12.540|6|
+|     6|Ohio State            |12.511|5|
+|     7|USC                   |11.728|8|
+|     8|Alabama               |11.303|4|
+|     9|Auburn                |10.581|7|
+|    10|Notre Dame            |10.301|14|
 
 That's only a little different from the CFP as well.. According to SCCR, UCF should been given a chance to play for the title over Alabama.
 
@@ -245,16 +248,16 @@ Interestingly, the Colley Matrix still put UCF at 1 after bowl games, even thoug
 
 | Rank |Team                  | NAW |
 |------|----------------------|----------|
-|     1|Alabama               |16.42608545|
-|     2|Georgia               |16.00629578|
-|     3|Ohio State            |15.09901943|
-|     4|Wisconsin             |14.80192625|
-|     5|UCF                   |14.48912669|
-|     6|Clemson               |13.86250385|
-|     7|Oklahoma              |13.68071149|
-|     8|Penn State            |11.79773347|
-|     9|Notre Dame            |11.59490405|
-|    10|Auburn                |10.87861282|
+|     1|Alabama               |16.426|
+|     2|Georgia               |16.006|
+|     3|Ohio State            |15.099|
+|     4|Wisconsin             |14.802|
+|     5|UCF                   |14.489|
+|     6|Clemson               |13.863|
+|     7|Oklahoma              |13.681|
+|     8|Penn State            |11.798|
+|     9|Notre Dame            |11.595|
+|    10|Auburn                |10.879|
 
 Sorry UCF, but SCCR agrees that Alabama were the 2017 national champions, with their playoff victories vaulting them to the top.
 
@@ -282,31 +285,31 @@ As discussed in point 1, SCCR is effectively a cumulative resume rating system, 
 
 | Rank |Team                  | NAW | Colley Team |
 |------|----------------------|----------|-------------|
-|     1|Coastal Carolina      |11.93524573| Alabama |
-|     2|Alabama               |11.68951232| Cincinnati |
-|     3|Clemson               |10.73875732| Coastal Carolina |
-|     4|Notre Dame            |9.86743029| Clemson |
-|     5|Cincinnati            |9.78888330| Ohio State |
-|     6|Louisiana             |9.09622807| San Jose State |
-|     7|BYU                   |8.89868259| Louisiana |
-|     8|Miami (FL)            |7.37056608| Notre Dame |
-|     9|San Jose State        |7.19908978| BYU |
-|    10|Iowa State            |6.94920534| Miami |
-|    11|Oklahoma              |6.93907184| Ball State |
-|    12|Texas A&M             |6.50723694| Texas A&M |
-|    13|Ohio State            |6.12183537| Indiana |
-|    14|North Carolina        |5.50414772| Oklahoma |
-|    15|Oklahoma State        |5.36924620| Tulsa |
-|    16|Ball State            |5.33780317| Iowa State |
-|    17|North Carolina State  |5.30558931| Georgia |
-|    18|Army                  |5.26080814| USC |
-|    19|Liberty               |5.10850687| Buffalo |
-|    20|Tulsa                 |4.85067895| Colorado |
-|    21|Georgia               |4.68666574| North Carolina |
-|    22|Florida               |4.68080522| North Carolina State  |
-|    23|Marshall              |4.63261964| Army |
-|    24|Appalachian State     |4.61001504| Oklahoma State |
-|    25|Indiana               |4.60789126| Northwestern |
+|     1|Coastal Carolina      |11.935| Alabama |
+|     2|Alabama               |11.690| Cincinnati |
+|     3|Clemson               |10.739| Coastal Carolina |
+|     4|Notre Dame            |9.867| Clemson |
+|     5|Cincinnati            |9.789| Ohio State |
+|     6|Louisiana             |9.096| San Jose State |
+|     7|BYU                   |8.899| Louisiana |
+|     8|Miami (FL)            |7.371| Notre Dame |
+|     9|San Jose State        |7.199| BYU |
+|    10|Iowa State            |6.949| Miami |
+|    11|Oklahoma              |6.939| Ball State |
+|    12|Texas A&M             |6.507| Texas A&M |
+|    13|Ohio State            |6.122| Indiana |
+|    14|North Carolina        |5.504| Oklahoma |
+|    15|Oklahoma State        |5.369| Tulsa |
+|    16|Ball State            |5.338| Iowa State |
+|    17|North Carolina State  |5.306| Georgia |
+|    18|Army                  |5.261| USC |
+|    19|Liberty               |5.109| Buffalo |
+|    20|Tulsa                 |4.851| Colorado |
+|    21|Georgia               |4.687| North Carolina |
+|    22|Florida               |4.681| North Carolina State  |
+|    23|Marshall              |4.633| Army |
+|    24|Appalachian State     |4.610| Oklahoma State |
+|    25|Indiana               |4.608| Northwestern |
 
 Notice that 6-0 Ohio State has dropped from playoff position at \#3 in the CFP rankings to \#13 here (\#5 in Colley), due to not having earned enough wins in their shortened season. They would have been replaced by the Chanticleers! Now tell me there's a better rating system.
 
