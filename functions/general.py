@@ -1,4 +1,3 @@
-import pandas as pd
 import pickle
 import os
 
@@ -10,9 +9,3 @@ def dbInit(db):
         analysis=dict()
             )
     pickle.dump(d, open(os.path.join(db), 'wb'))
-
-def formatDf(data):
-    a = data.copy()
-    df = pd.DataFrame(a) \
-        .to_html(classes='table table-striped sortable', index=False, border=0, justify='left')
-    return df
