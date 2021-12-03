@@ -195,7 +195,7 @@ if pickling:
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))
     d['analysis']['byTeam'] = dict()
 
-    for team in teams[:-1]:
+    for team in teams:
         i = teams.index(team)
         v = dict()
         v['team'] = f'{team} ({int(ws[i])} - {int(ls[i])})'
