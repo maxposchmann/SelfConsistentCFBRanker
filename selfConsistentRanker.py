@@ -23,8 +23,8 @@ extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 15
-maxWeekRemaining = 16
+maxWeek = 16
+maxWeekRemaining = 20
 
 rankstrings = [(f'({i+1}) ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
