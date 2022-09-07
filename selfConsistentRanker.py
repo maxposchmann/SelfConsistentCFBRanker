@@ -1,4 +1,4 @@
-#! /usr/bin/python3.9
+#! /usr/bin/python3.10
 import numpy as np
 import csv
 import sys
@@ -17,14 +17,14 @@ if len(sys.argv) > 1:
         if nTeamDetails > 0:
             teamDetails = sys.argv[1:nTeamDetails+1]
 
-seasonFile = 'data/2021season.csv'
-teamsFile  = 'data/2021fbs.csv'
+seasonFile = 'data/2022season.csv'
+teamsFile  = 'data/2022fbs.csv'
 extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 16
-maxWeekRemaining = 20
+maxWeek = 2
+maxWeekRemaining = 15
 
 rankstrings = [(f'({i+1}) ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
