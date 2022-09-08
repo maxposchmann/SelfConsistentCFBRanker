@@ -188,7 +188,6 @@ if pickling:
         tNcs = f'{ncs[ranks[i]]:{ffw}.{fnd}f}'
         tNrs = f'{nrs[ranks[i]]:{ffw}.{fnd}f}'
         record = f'{int(ws[ranks[i]])} - {int(ls[ranks[i]])}'
-        # r0 = pd.Series([rank,team,tNaw,tAaw,tNcs,tNrs,record],index=df.columns)
         ldf.append([rank,team,tNaw,tAaw,tNcs,tNrs,record])
     df = pd.DataFrame(ldf,columns=['Rank','Team','NAW','AAW','NCS','NRS','Record'])
     df.sort_values(['Rank'],inplace=True)
@@ -207,14 +206,10 @@ if pickling:
             tAaw = f'{aaw[i]:{ffw}.{fnd}f}'
             tNcs = f'{ncs[i]:{ffw}.{fnd}f}'
             tNrs = f'{nrs[i]:{ffw}.{fnd}f}'
-            # vals = pd.Series([tNaw,tAaw,tNcs,tNrs],index=df.columns)
             rNaw = f'{naworder.index(naw[i])+1:{ffw}d}'
             rAaw = f'{aaworder.index(aaw[i])+1:{ffw}d}'
             rNcs = f'{ncsorder.index(ncs[i])+1:{ffw}d}'
             rNrs = f'{nrsorder.index(nrs[i])+1:{ffw}d}'
-            # rank = pd.Series([rNaw,rAaw,rNcs,rNrs],index=df.columns)
-            # df = df.append(vals,ignore_index=True)
-            # df = df.append(rank,ignore_index=True)
             ldf = [[tNaw,tAaw,tNcs,tNrs],[rNaw,rAaw,rNcs,rNrs]]
             df = pd.DataFrame(ldf,columns=['NAW','AAW','NCS','NRS'])
             d['analysis']['byTeam'][team]['stats'] = df
@@ -227,7 +222,6 @@ if pickling:
                     opponent = f'{naworder.index(naw[k])+1:4} {teams[k]:{maxNameLength}}'
                     outcome = f'{"Win" if winLossMatrix[i][k][l]==1 else "Loss"}'
                     change = f'{"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f}'
-                    # result = pd.Series([opponent,outcome,change],index=df.columns)
                     ldf.append([opponent,outcome,change])
             df = pd.DataFrame(ldf,columns=['Played','Outcome','Change'])
             d['analysis']['byTeam'][team]['results'] = df
@@ -245,7 +239,6 @@ if pickling:
                     opponent = f'{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}'
                     cifw = f'+{np.exp(naw[k]/nawScale):{ffw}.{fnd}f}'
                     cifl = f'-{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f}'
-                    # game = pd.Series([opponent,cifw,cifl],index=df.columns)
                     ldf.append([opponent,cifw,cifl])
             df = pd.DataFrame(ldf,columns=['Remaining','If Win','If Loss'])
             d['analysis']['byTeam'][team]['remaining'] = df
