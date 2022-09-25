@@ -23,7 +23,7 @@ extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 4
+maxWeek = 5
 maxWeekRemaining = 15
 
 rankstrings = [(f'({i+1}) ') for i in range(25)]
