@@ -139,7 +139,7 @@ tbs = '-'*int(ffw+2)        # table border segment
 
 print()
 if nTeamDetails == 0:
-    print(f'Ranks to week {maxWeek} after {iterations} iterations:')
+    print(f'Ranks to week {maxWeek-1} after {iterations} iterations:')
     print()
     print(f'| Rank | {"Team":{maxNameLength}} |{tlp}NAW{tlp}|{f"{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}| Record  |" if extendedPrint else ""}')
     print(f'|------|{"-"*(maxNameLength+2)}|{tbs}|{f"{tbs}|{tbs}|{tbs}|---------|" if extendedPrint else ""}')
@@ -247,7 +247,7 @@ if pickling:
             # dump empty if no games remaining
             d['analysis']['byTeam'][team]['remaining'] = []
 
-    d['analysis']['week'] = str(maxWeek)
+    d['analysis']['week'] = str(maxWeek-1)
     teams.sort()
     d['data']['teams']= teams
     pickle.dump(d, open(os.path.join(pickleFile), 'wb'))

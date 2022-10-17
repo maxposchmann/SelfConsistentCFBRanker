@@ -1,6 +1,6 @@
 # Self-Consistent CFB Ranker
 
-# Current Rankings (October 11, 2022):
+# Current Rankings (October 16, 2022):
 | Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
 |    1 | Clemson                |   7.402 |   1.057 |   7.402 |   6.271 |  7 -  0 |
