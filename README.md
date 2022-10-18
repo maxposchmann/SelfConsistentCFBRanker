@@ -136,7 +136,7 @@
 |  131 | Nevada                 |  -8.219 |  -1.174 |   4.347 |   4.680 |  2 -  5 |
 
 
-# Explanation:# Explanation:
+# Explanation:
 
 I was looking at a couple of computer CFB rankings, and the following occurred to me:
  - I can use a computer.
