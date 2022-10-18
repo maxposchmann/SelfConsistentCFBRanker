@@ -136,7 +136,7 @@
 |  131 | Nevada                 |  -8.219 |  -1.174 |   4.347 |   4.680 |  2 -  5 |
 
 
-# Explanation:
+# Explanation:# Explanation:
 
 I was looking at a couple of computer CFB rankings, and the following occurred to me:
  - I can use a computer.
@@ -149,13 +149,37 @@ So of course I had to do my own ranking system. Here are my principles:
  - The order in which games are played doesn't matter. No late-season bias. No inertia.
  - Beating a good team is better than beating a bad team, and similarly losing to a good team isn't as bad as losing to a bad team.
  - No judgement should be involved. No adjustable parameters. In other words, there's no seed from a preseason poll, nor should there be sorting by P5/G5 etc. The rankings themselves have to determine what is a good win.
- - The team strengths used to generate the rankings should return themselves if run through the algorithm again. Put another way, the "Alabama only has quality losses to teams that beat Alabama" problem should be addressed quantitatively.
+ - The ratings used to generate rankings should be continuous rather than discrete and separate from the rankings themselves. The gap between \#14 and \#15, for example, may be small or large, and the value of beating these teams should reflect that.
+ - Rankings should be self-consistent. If the final set of ratings is used to generate rankings, there should be no change.
 
-And thus the Self-Consistent CFB Ranker (SCCR) was born. The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. This nonlinear function makes signature wins and season-defining losses possible. The algorithm iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling.
+And thus the foundations of the Self-Consistent CFB Ranker (SCCR) were laid. The first step in executing this vision is choosing a function to generate the ratings. A new rating system, Net Adjusted Wins (NAW) was invented for this purpose.
 
-The "strength" has units of wins, and therefore is called Net Adjusted Wins (NAW), with losses negative. The algorithm is initialized with the unadjusted net wins (i.e. simply wins-losses) for each team. The inputs to the exponential are scaled by the largest magnitude NAW, so the maximum possible difference between values of FBS wins (or losses) is exp(2) = 7.389. By this win metric, a team would do much better to split a series with the best team in FBS (+2.3504 net wins) than to beat the worst team in FBS twice (+0.7358 net wins). This feels reasonably fair, and also has the benefit of converging well. However, it would be trivial to replace this NAW function with any other function that tends to converge. Please feel free to fork the project and play with whatever system you think better represents the relative values of wins.
+## Net Wins
+Net wins is simply wins minus losses, like the team record with the dash interpreted as subtraction. So a 8-4 teams has 4 net wins. A 1-11 teams has -10 net wins. In the days of ties, a 4-5-1 teams has -1 net wins.
 
-Also (optionally) output is Average Adjusted Wins (AAW), which is NAW per game played. The NAW of the Completed Schedule (NCS) and NAW of Remaining Schedule (NRS) for each team are also output with the extended print option set to true.
+## Adjusted Wins
+As stated above, in CFB some wins are better than others, and some losses worse than others. To represent this, an Adjusted Wins function was selected. The adjusted win value ($\omega$) for an opponent strength of $\beta$ is:
+
+$\omega_{win}$ = $\exp$($\beta$/$\gamma$)
+
+where $\gamma$ is a scaling factor. The adjusted win value for a loss against the same opponent would be:
+
+$\omega_{loss}$ = $-\exp$($-\beta$/$\gamma$).
+
+## Net Adjusted Wins
+Combining the two concepts above, Net Adjusted Wins for any team is simply:
+
+NAW = $\sum_{g=1}^{\# games}$ $\omega_g$.
+
+Now, what should the strength, $\beta$, be for each team? Simply that team's NAW!
+
+Comparing the $\omega_{win}$ and $\omega_{loss}$ functions, it can be seen that the magnitude of a win against a team with a high NAW will be similar to that of a loss to a team with a low NAW. Note that an average NAW (i.e., for a team with an even record) will be around 0. This means for an opponent with an average NAW, $\omega_{win} \doteq 1$ and  $\omega_{loss} \doteq -1$. In other words, the average adjustment factor is roughly unity.
+
+The only remaining parameter to set is $\gamma$. The choice $\gamma$ = max(abs(NAW)) is arbitrary, but turns out to work pretty nicely. It ensures that the adjusted values of wins remain roughly constant over the course of a season, and defines the maximum possible ratio of values of FBS wins (or losses) to be exp(2) = 7.389. By this win metric, a team would do much better to split a series with the best team in FBS (+2.3504 net wins) than to beat the worst team in FBS twice (+0.7358 net wins). This feels reasonably fair, and also has the benefit of converging well.
+
+A few more calculation details. The algorithm is initialized with the unadjusted net wins for each team. The adjusted wins are calculated and NAW summed iteratively until self-consistency of NAW for all teams is achieved. Multiple games are counted separately, rather than cancelling. Ties (though no longer part of CFB) are counted as 0.5 wins + 0.5 losses, so increase the NAW of the lower-ranked team while decreasing that of the higher-ranked team.
+
+Also calculated is Average Adjusted Wins (AAW), which is NAW per game played. The NAW of the Completed Schedule (NCS) and NAW of Remaining Schedule (NRS) for each team are also output as estimates of strength of schedule and strength of remaining schedule.
 
 One caveat about the "no inputs" thing: only FBS teams are tracked, and all non-FBS teams have NAW set to (minimum FBS NAW - 1.0).
 
