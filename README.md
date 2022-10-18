@@ -160,16 +160,16 @@ Net wins is simply wins minus losses, like the team record with the dash interpr
 ## Adjusted Wins
 As stated above, in CFB some wins are better than others, and some losses worse than others. To represent this, an Adjusted Wins function was selected. The adjusted win value ($\omega$) for an opponent strength of $\beta$ is:
 
-$\omega_{win}$ = $\exp$($\beta$/$\gamma$)
+$\omega_{win}$ = $\exp(\beta / \gamma)$
 
 where $\gamma$ is a scaling factor. The adjusted win value for a loss against the same opponent would be:
 
-$\omega_{loss}$ = $-\exp$($-\beta$/$\gamma$).
+$\omega_{loss}$ = $-\exp(-\beta/\gamma)$.
 
 ## Net Adjusted Wins
 Combining the two concepts above, Net Adjusted Wins for any team is simply:
 
-NAW = $\sum_{g=1}^{\# games}$ $\omega_g$.
+NAW = $\sum_{games}$ $\omega_{game}$.
 
 Now, what should the strength, $\beta$, be for each team? Simply that team's NAW!
 
