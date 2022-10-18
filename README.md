@@ -148,7 +148,7 @@ So of course I had to do my own ranking system. Here are my principles:
  - Wins and losses both matter. Equally.
  - The order in which games are played doesn't matter. No late-season bias. No inertia.
  - Beating a good team is better than beating a bad team, and similarly losing to a good team isn't as bad as losing to a bad team.
- - No judgement should be involved. No adjustable paramenters. In other words, there's no seed from a preseason poll, nor should there be sorting by P5/G5 etc. The rankings themselves have to determine what is a good win.
+ - No judgement should be involved. No adjustable parameters. In other words, there's no seed from a preseason poll, nor should there be sorting by P5/G5 etc. The rankings themselves have to determine what is a good win.
  - The team strengths used to generate the rankings should return themselves if run through the algorithm again. Put another way, the "Alabama only has quality losses to teams that beat Alabama" problem should be addressed quantitatively.
 
 And thus the Self-Consistent CFB Ranker (SCCR) was born. The guts of the ranking are as follows: an exponential function takes the "strength" of the opponent and uses win/loss outcome to set the sign. This nonlinear function makes signature wins and season-defining losses possible. The algorithm iterates until self-consistency of strengths. Multiple games are counted separately, rather than cancelling.
