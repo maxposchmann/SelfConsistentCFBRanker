@@ -1,6 +1,6 @@
 # Self-Consistent CFB Ranker
 
-# Current Rankings (October 22, 2023):
+# Current Rankings (November 13, 2023):
 | Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
 |    1 | Washington             |  11.226 |   1.123 |  11.226 |   2.416 | 10 -  0 |
