@@ -17,14 +17,14 @@ if len(sys.argv) > 1:
         if nTeamDetails > 0:
             teamDetails = sys.argv[1:nTeamDetails+1]
 
-seasonFile = 'data/2023season.csv'
-teamsFile  = 'data/2023fbs.csv'
+seasonFile = 'data/2024season.csv'
+teamsFile  = 'data/2024fbs.csv'
 extendedPrint = True
 
 maxIts = 10000
 tol = 1e-14
-maxWeek = 15
-maxWeekRemaining = 15
+maxWeek = 9
+maxWeekRemaining = 16
 
 rankstrings = [(f'({i+1}) ') for i in range(25)]
 nameSwaps = [['Central Florida','UCF'],['Pittsburgh','Pitt'],['Alabama-Birmingham','UAB'],['Texas-San Antonio','UTSA'],
