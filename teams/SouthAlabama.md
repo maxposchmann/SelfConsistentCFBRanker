@@ -6,19 +6,19 @@ South Alabama (1 - 5)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [North Texas           ](NorthTexas)| Loss       | -  0.600 |
-|  20 [Tulane                ](Tulane)| Loss       | -  0.612 |
-|  50 [Auburn                ](Auburn)| Loss       | -  0.794 |
-|  73 [Troy                  ](Troy)| Loss       | -  0.980 |
-|  96 [Coastal Carolina      ](CoastalCarolina)| Loss       | -  1.205 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  16 [North Texas           ](NorthTexas.md)| Loss       | -  0.600 |
+|  20 [Tulane                ](Tulane.md)| Loss       | -  0.612 |
+|  50 [Auburn                ](Auburn.md)| Loss       | -  0.794 |
+|  73 [Troy                  ](Troy.md)| Loss       | -  0.980 |
+|  96 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.205 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  63 [Southern Mississippi  ](SouthernMississippi)| +  1.083 | -  0.923 |
-|  70 [Louisiana-Monroe      ](LouisianaMonroe)| +  1.033 | -  0.968 |
-|  85 [Texas State           ](TexasState)| +  0.927 | -  1.079 |
-| 112 [Georgia State         ](GeorgiaState)| +  0.753 | -  1.328 |
-| 115 [Arkansas State        ](ArkansasState)| +  0.714 | -  1.400 |
-| 126 [Louisiana             ](Louisiana)| +  0.617 | -  1.622 |
+|  63 [Southern Mississippi  ](SouthernMississippi.md)| +  1.083 | -  0.923 |
+|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  1.033 | -  0.968 |
+|  85 [Texas State           ](TexasState.md)| +  0.927 | -  1.079 |
+| 112 [Georgia State         ](GeorgiaState.md)| +  0.753 | -  1.328 |
+| 115 [Arkansas State        ](ArkansasState.md)| +  0.714 | -  1.400 |
+| 126 [Louisiana             ](Louisiana.md)| +  0.617 | -  1.622 |
 

@@ -6,19 +6,19 @@ Boise State (3 - 2)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  36 [South Florida         ](SouthFlorida)| Loss       | -  0.713 |
-|  46 [Notre Dame            ](NotreDame)| Loss       | -  0.762 |
-|  83 [Appalachian State     ](AppalachianState)| Win        | +  0.941 |
-| 119 [Air Force             ](AirForce)| Win        | +  0.655 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  36 [South Florida         ](SouthFlorida.md)| Loss       | -  0.713 |
+|  46 [Notre Dame            ](NotreDame.md)| Loss       | -  0.762 |
+|  83 [Appalachian State     ](AppalachianState.md)| Win        | +  0.941 |
+| 119 [Air Force             ](AirForce.md)| Win        | +  0.655 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Nevada-Las Vegas      ](NevadaLasVegas)| +  1.562 | -  0.640 |
-|  33 [Fresno State          ](FresnoState)| +  1.454 | -  0.688 |
-|  47 [San Diego State       ](SanDiegoState)| +  1.304 | -  0.767 |
-|  64 [Utah State            ](UtahState)| +  1.082 | -  0.924 |
-|  74 [New Mexico            ](NewMexico)| +  1.018 | -  0.982 |
-| 124 [Colorado State        ](ColoradoState)| +  0.638 | -  1.566 |
-| 132 [Nevada                ](Nevada)| +  0.534 | -  1.874 |
+|  23 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.562 | -  0.640 |
+|  33 [Fresno State          ](FresnoState.md)| +  1.454 | -  0.688 |
+|  47 [San Diego State       ](SanDiegoState.md)| +  1.304 | -  0.767 |
+|  64 [Utah State            ](UtahState.md)| +  1.082 | -  0.924 |
+|  74 [New Mexico            ](NewMexico.md)| +  1.018 | -  0.982 |
+| 124 [Colorado State        ](ColoradoState.md)| +  0.638 | -  1.566 |
+| 132 [Nevada                ](Nevada.md)| +  0.534 | -  1.874 |
 

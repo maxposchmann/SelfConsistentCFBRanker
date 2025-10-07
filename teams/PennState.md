@@ -6,19 +6,19 @@ Penn State (3 - 2)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Oregon                ](Oregon)| Loss       | -  0.607 |
-| 105 [Florida International ](FloridaInternational)| Win        | +  0.784 |
-| 114 [UCLA                  ](UCLA)| Loss       | -  1.380 |
-| 132 [Nevada                ](Nevada)| Win        | +  0.534 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  18 [Oregon                ](Oregon.md)| Loss       | -  0.607 |
+| 105 [Florida International ](FloridaInternational.md)| Win        | +  0.784 |
+| 114 [UCLA                  ](UCLA.md)| Loss       | -  1.380 |
+| 132 [Nevada                ](Nevada.md)| Win        | +  0.534 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Indiana               ](Indiana)| +  2.224 | -  0.450 |
-|   6 [Ohio State            ](OhioState)| +  1.980 | -  0.505 |
-|  27 [Nebraska              ](Nebraska)| +  1.542 | -  0.648 |
-|  57 [Northwestern          ](Northwestern)| +  1.127 | -  0.887 |
-|  60 [Iowa                  ](Iowa)| +  1.101 | -  0.908 |
-|  62 [Michigan State        ](MichiganState)| +  1.087 | -  0.920 |
-|  72 [Rutgers               ](Rutgers)| +  1.027 | -  0.973 |
+|   3 [Indiana               ](Indiana.md)| +  2.224 | -  0.450 |
+|   6 [Ohio State            ](OhioState.md)| +  1.980 | -  0.505 |
+|  27 [Nebraska              ](Nebraska.md)| +  1.542 | -  0.648 |
+|  57 [Northwestern          ](Northwestern.md)| +  1.127 | -  0.887 |
+|  60 [Iowa                  ](Iowa.md)| +  1.101 | -  0.908 |
+|  62 [Michigan State        ](MichiganState.md)| +  1.087 | -  0.920 |
+|  72 [Rutgers               ](Rutgers.md)| +  1.027 | -  0.973 |
 

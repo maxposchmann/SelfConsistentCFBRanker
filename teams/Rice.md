@@ -6,19 +6,19 @@ Rice (3 - 3)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Navy                  ](Navy)| Loss       | -  0.624 |
-|  44 [Houston               ](Houston)| Loss       | -  0.750 |
-|  97 [Florida Atlantic      ](FloridaAtlantic)| Loss       | -  1.211 |
-| 126 [Louisiana             ](Louisiana)| Win        | +  0.617 |
-| 130 [Charlotte             ](Charlotte)| Win        | +  0.578 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  22 [Navy                  ](Navy.md)| Loss       | -  0.624 |
+|  44 [Houston               ](Houston.md)| Loss       | -  0.750 |
+|  97 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.211 |
+| 126 [Louisiana             ](Louisiana.md)| Win        | +  0.617 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.578 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis)| +  1.902 | -  0.526 |
-|  16 [North Texas           ](NorthTexas)| +  1.666 | -  0.600 |
-|  36 [South Florida         ](SouthFlorida)| +  1.402 | -  0.713 |
-|  59 [Connecticut           ](Connecticut)| +  1.118 | -  0.895 |
-| 100 [UTSA                  ](UTSA)| +  0.812 | -  1.232 |
-| 108 [UAB                   ](UAB)| +  0.769 | -  1.300 |
+|   8 [Memphis               ](Memphis.md)| +  1.902 | -  0.526 |
+|  16 [North Texas           ](NorthTexas.md)| +  1.666 | -  0.600 |
+|  36 [South Florida         ](SouthFlorida.md)| +  1.402 | -  0.713 |
+|  59 [Connecticut           ](Connecticut.md)| +  1.118 | -  0.895 |
+| 100 [UTSA                  ](UTSA.md)| +  0.812 | -  1.232 |
+| 108 [UAB                   ](UAB.md)| +  0.769 | -  1.300 |
 

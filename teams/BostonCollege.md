@@ -6,19 +6,19 @@ Boston College (1 - 4)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  52 [California            ](California)| Loss       | -  0.854 |
-|  62 [Michigan State        ](MichiganState)| Loss       | -  0.920 |
-|  78 [Pitt                  ](Pitt)| Loss       | -  1.037 |
-|  87 [Stanford              ](Stanford)| Loss       | -  1.093 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  52 [California            ](California.md)| Loss       | -  0.854 |
+|  62 [Michigan State        ](MichiganState.md)| Loss       | -  0.920 |
+|  78 [Pitt                  ](Pitt.md)| Loss       | -  1.037 |
+|  87 [Stanford              ](Stanford.md)| Loss       | -  1.093 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   9 [Georgia Tech          ](GeorgiaTech)| +  1.843 | -  0.543 |
-|  31 [Louisville            ](Louisville)| +  1.484 | -  0.674 |
-|  46 [Notre Dame            ](NotreDame)| +  1.312 | -  0.762 |
-|  59 [Connecticut           ](Connecticut)| +  1.118 | -  0.895 |
-|  61 [SMU                   ](SMU)| +  1.092 | -  0.916 |
-|  76 [Syracuse              ](Syracuse)| +  1.017 | -  0.983 |
-|  82 [Clemson               ](Clemson)| +  0.948 | -  1.055 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| +  1.843 | -  0.543 |
+|  31 [Louisville            ](Louisville.md)| +  1.484 | -  0.674 |
+|  46 [Notre Dame            ](NotreDame.md)| +  1.312 | -  0.762 |
+|  59 [Connecticut           ](Connecticut.md)| +  1.118 | -  0.895 |
+|  61 [SMU                   ](SMU.md)| +  1.092 | -  0.916 |
+|  76 [Syracuse              ](Syracuse.md)| +  1.017 | -  0.983 |
+|  82 [Clemson               ](Clemson.md)| +  0.948 | -  1.055 |
 

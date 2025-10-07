@@ -6,19 +6,19 @@ Stanford (2 - 3)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Virginia              ](Virginia)| Loss       | -  0.563 |
-|  13 [BYU                   ](BYU)| Loss       | -  0.574 |
-|  53 [Hawaii                ](Hawaii)| Loss       | -  0.867 |
-| 111 [San Jose State        ](SanJoseState)| Win        | +  0.759 |
-| 127 [Boston College        ](BostonCollege)| Win        | +  0.606 |
+|  12 [Virginia              ](Virginia.md)| Loss       | -  0.563 |
+|  13 [BYU                   ](BYU.md)| Loss       | -  0.574 |
+|  53 [Hawaii                ](Hawaii.md)| Loss       | -  0.867 |
+| 111 [San Jose State        ](SanJoseState.md)| Win        | +  0.759 |
+| 127 [Boston College        ](BostonCollege.md)| Win        | +  0.606 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [Miami (FL)            ](MiamiFL)| +  2.083 | -  0.480 |
-|  46 [Notre Dame            ](NotreDame)| +  1.312 | -  0.762 |
-|  49 [Florida State         ](FloridaState)| +  1.283 | -  0.780 |
-|  52 [California            ](California)| +  1.171 | -  0.854 |
-|  61 [SMU                   ](SMU)| +  1.092 | -  0.916 |
-|  78 [Pitt                  ](Pitt)| +  0.964 | -  1.037 |
-| 110 [North Carolina        ](NorthCarolina)| +  0.766 | -  1.306 |
+|   4 [Miami (FL)            ](MiamiFL.md)| +  2.083 | -  0.480 |
+|  46 [Notre Dame            ](NotreDame.md)| +  1.312 | -  0.762 |
+|  49 [Florida State         ](FloridaState.md)| +  1.283 | -  0.780 |
+|  52 [California            ](California.md)| +  1.171 | -  0.854 |
+|  61 [SMU                   ](SMU.md)| +  1.092 | -  0.916 |
+|  78 [Pitt                  ](Pitt.md)| +  0.964 | -  1.037 |
+| 110 [North Carolina        ](NorthCarolina.md)| +  0.766 | -  1.306 |
 

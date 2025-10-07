@@ -6,19 +6,19 @@ Purdue (2 - 3)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [Illinois              ](Illinois)| Loss       | -  0.515 |
-|  24 [USC                   ](USC)| Loss       | -  0.643 |
-|  46 [Notre Dame            ](NotreDame)| Loss       | -  0.762 |
-| 103 [Ball State            ](BallState)| Win        | +  0.800 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|   7 [Illinois              ](Illinois.md)| Loss       | -  0.515 |
+|  24 [USC                   ](USC.md)| Loss       | -  0.643 |
+|  46 [Notre Dame            ](NotreDame.md)| Loss       | -  0.762 |
+| 103 [Ball State            ](BallState.md)| Win        | +  0.800 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Indiana               ](Indiana)| +  2.224 | -  0.450 |
-|   6 [Ohio State            ](OhioState)| +  1.980 | -  0.505 |
-|  15 [Michigan              ](Michigan)| +  1.691 | -  0.591 |
-|  28 [Washington            ](Washington)| +  1.506 | -  0.664 |
-|  57 [Northwestern          ](Northwestern)| +  1.127 | -  0.887 |
-|  58 [Minnesota             ](Minnesota)| +  1.120 | -  0.893 |
-|  72 [Rutgers               ](Rutgers)| +  1.027 | -  0.973 |
+|   3 [Indiana               ](Indiana.md)| +  2.224 | -  0.450 |
+|   6 [Ohio State            ](OhioState.md)| +  1.980 | -  0.505 |
+|  15 [Michigan              ](Michigan.md)| +  1.691 | -  0.591 |
+|  28 [Washington            ](Washington.md)| +  1.506 | -  0.664 |
+|  57 [Northwestern          ](Northwestern.md)| +  1.127 | -  0.887 |
+|  58 [Minnesota             ](Minnesota.md)| +  1.120 | -  0.893 |
+|  72 [Rutgers               ](Rutgers.md)| +  1.027 | -  0.973 |
 

@@ -6,19 +6,19 @@ Middle Tennessee State (1 - 4)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  75 [Kennesaw State        ](KennesawState)| Loss       | -  0.982 |
-|  88 [Wisconsin             ](Wisconsin)| Loss       | -  1.101 |
-| 118 [Marshall              ](Marshall)| Loss       | -  1.467 |
-| 132 [Nevada                ](Nevada)| Win        | +  0.534 |
-| 137 [Non-FBS               ](NonFBS)| Loss       | -  3.126 |
+|  75 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.982 |
+|  88 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.101 |
+| 118 [Marshall              ](Marshall.md)| Loss       | -  1.467 |
+| 132 [Nevada                ](Nevada.md)| Win        | +  0.534 |
+| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.126 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  39 [Western Kentucky      ](WesternKentucky)| +  1.386 | -  0.722 |
-|  68 [Delaware              ](Delaware)| +  1.057 | -  0.946 |
-|  77 [New Mexico State      ](NewMexicoState)| +  0.994 | -  1.006 |
-|  95 [Missouri State        ](MissouriState)| +  0.837 | -  1.195 |
-| 105 [Florida International ](FloridaInternational)| +  0.784 | -  1.276 |
-| 113 [Jacksonville State    ](JacksonvilleState)| +  0.734 | -  1.363 |
-| 131 [Sam Houston           ](SamHouston)| +  0.558 | -  1.793 |
+|  39 [Western Kentucky      ](WesternKentucky.md)| +  1.386 | -  0.722 |
+|  68 [Delaware              ](Delaware.md)| +  1.057 | -  0.946 |
+|  77 [New Mexico State      ](NewMexicoState.md)| +  0.994 | -  1.006 |
+|  95 [Missouri State        ](MissouriState.md)| +  0.837 | -  1.195 |
+| 105 [Florida International ](FloridaInternational.md)| +  0.784 | -  1.276 |
+| 113 [Jacksonville State    ](JacksonvilleState.md)| +  0.734 | -  1.363 |
+| 131 [Sam Houston           ](SamHouston.md)| +  0.558 | -  1.793 |
 

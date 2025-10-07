@@ -6,19 +6,19 @@ Michigan State (3 - 2)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [USC                   ](USC)| Loss       | -  0.643 |
-|  27 [Nebraska              ](Nebraska)| Loss       | -  0.648 |
-|  79 [Western Michigan      ](WesternMichigan)| Win        | +  0.961 |
-| 127 [Boston College        ](BostonCollege)| Win        | +  0.606 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  24 [USC                   ](USC.md)| Loss       | -  0.643 |
+|  27 [Nebraska              ](Nebraska.md)| Loss       | -  0.648 |
+|  79 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.961 |
+| 127 [Boston College        ](BostonCollege.md)| Win        | +  0.606 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Indiana               ](Indiana)| +  2.224 | -  0.450 |
-|  15 [Michigan              ](Michigan)| +  1.691 | -  0.591 |
-|  45 [Maryland              ](Maryland)| +  1.328 | -  0.753 |
-|  58 [Minnesota             ](Minnesota)| +  1.120 | -  0.893 |
-|  60 [Iowa                  ](Iowa)| +  1.101 | -  0.908 |
-|  81 [Penn State            ](PennState)| +  0.952 | -  1.050 |
-| 114 [UCLA                  ](UCLA)| +  0.725 | -  1.380 |
+|   3 [Indiana               ](Indiana.md)| +  2.224 | -  0.450 |
+|  15 [Michigan              ](Michigan.md)| +  1.691 | -  0.591 |
+|  45 [Maryland              ](Maryland.md)| +  1.328 | -  0.753 |
+|  58 [Minnesota             ](Minnesota.md)| +  1.120 | -  0.893 |
+|  60 [Iowa                  ](Iowa.md)| +  1.101 | -  0.908 |
+|  81 [Penn State            ](PennState.md)| +  0.952 | -  1.050 |
+| 114 [UCLA                  ](UCLA.md)| +  0.725 | -  1.380 |
 

@@ -6,19 +6,19 @@ Florida (2 - 3)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [Miami (FL)            ](MiamiFL)| Loss       | -  0.480 |
-|  25 [LSU                   ](LSU)| Loss       | -  0.644 |
-|  36 [South Florida         ](SouthFlorida)| Loss       | -  0.713 |
-|  69 [Texas                 ](Texas)| Win        | +  1.055 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|   4 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.480 |
+|  25 [LSU                   ](LSU.md)| Loss       | -  0.644 |
+|  36 [South Florida         ](SouthFlorida.md)| Loss       | -  0.713 |
+|  69 [Texas                 ](Texas.md)| Win        | +  1.055 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Texas A&M             ](TexasAM)| +  2.273 | -  0.440 |
-|   2 [Ole Miss              ](OleMiss)| +  2.237 | -  0.447 |
-|  29 [Georgia               ](Georgia)| +  1.491 | -  0.671 |
-|  30 [Tennessee             ](Tennessee)| +  1.489 | -  0.672 |
-|  34 [Mississippi State     ](MississippiState)| +  1.415 | -  0.707 |
-|  49 [Florida State         ](FloridaState)| +  1.283 | -  0.780 |
-|  86 [Kentucky              ](Kentucky)| +  0.919 | -  1.088 |
+|   1 [Texas A&M             ](TexasAM.md)| +  2.273 | -  0.440 |
+|   2 [Ole Miss              ](OleMiss.md)| +  2.237 | -  0.447 |
+|  29 [Georgia               ](Georgia.md)| +  1.491 | -  0.671 |
+|  30 [Tennessee             ](Tennessee.md)| +  1.489 | -  0.672 |
+|  34 [Mississippi State     ](MississippiState.md)| +  1.415 | -  0.707 |
+|  49 [Florida State         ](FloridaState.md)| +  1.283 | -  0.780 |
+|  86 [Kentucky              ](Kentucky.md)| +  0.919 | -  1.088 |
 

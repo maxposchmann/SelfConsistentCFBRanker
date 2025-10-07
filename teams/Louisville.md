@@ -6,19 +6,19 @@ Louisville (4 - 1)
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Virginia              ](Virginia)| Loss       | -  0.563 |
-|  48 [James Madison         ](JamesMadison)| Win        | +  1.295 |
-|  78 [Pitt                  ](Pitt)| Win        | +  0.964 |
-| 101 [Bowling Green         ](BowlingGreen)| Win        | +  0.811 |
-| 137 [Non-FBS               ](NonFBS)| Win        | +  0.320 |
+|  12 [Virginia              ](Virginia.md)| Loss       | -  0.563 |
+|  48 [James Madison         ](JamesMadison.md)| Win        | +  1.295 |
+|  78 [Pitt                  ](Pitt.md)| Win        | +  0.964 |
+| 101 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.811 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [Miami (FL)            ](MiamiFL)| +  2.083 | -  0.480 |
-|  52 [California            ](California)| +  1.171 | -  0.854 |
-|  61 [SMU                   ](SMU)| +  1.092 | -  0.916 |
-|  82 [Clemson               ](Clemson)| +  0.948 | -  1.055 |
-|  86 [Kentucky              ](Kentucky)| +  0.919 | -  1.088 |
-|  99 [Virginia Tech         ](VirginiaTech)| +  0.822 | -  1.216 |
-| 127 [Boston College        ](BostonCollege)| +  0.606 | -  1.650 |
+|   4 [Miami (FL)            ](MiamiFL.md)| +  2.083 | -  0.480 |
+|  52 [California            ](California.md)| +  1.171 | -  0.854 |
+|  61 [SMU                   ](SMU.md)| +  1.092 | -  0.916 |
+|  82 [Clemson               ](Clemson.md)| +  0.948 | -  1.055 |
+|  86 [Kentucky              ](Kentucky.md)| +  0.919 | -  1.088 |
+|  99 [Virginia Tech         ](VirginiaTech.md)| +  0.822 | -  1.216 |
+| 127 [Boston College        ](BostonCollege.md)| +  0.606 | -  1.650 |
 
