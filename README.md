@@ -3,142 +3,142 @@
 # Current Rankings (October 6, 2025):
 | Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
-|    1 | Texas A&M              |   5.879 |   1.176 |   5.879 |   7.611 |  5 -  0 |
-|    2 | Ole Miss               |   5.766 |   1.153 |   5.766 |   8.459 |  5 -  0 |
-|    3 | Indiana                |   5.725 |   1.145 |   5.725 |   7.543 |  5 -  0 |
-|    4 | Miami (FL)             |   5.254 |   1.051 |   5.254 |   7.695 |  5 -  0 |
-|    5 | Oklahoma               |   5.024 |   1.005 |   5.024 |  10.995 |  5 -  0 |
-|    6 | Ohio State             |   4.891 |   0.978 |   4.891 |   8.141 |  5 -  0 |
-|    7 | Illinois               |   4.757 |   0.793 |   7.430 |   7.877 |  5 -  1 |
-|    8 | Memphis                |   4.603 |   0.767 |   4.603 |   7.342 |  6 -  0 |
-|    9 | Georgia Tech           |   4.379 |   0.876 |   4.379 |   7.775 |  5 -  0 |
-|   10 | Alabama                |   4.297 |   0.859 |   6.359 |   9.477 |  4 -  1 |
-|   11 | Texas Tech             |   4.204 |   0.841 |   4.204 |   7.756 |  5 -  0 |
-|   12 | Virginia               |   4.117 |   0.686 |   6.231 |   6.518 |  5 -  1 |
-|   13 | BYU                    |   3.981 |   0.796 |   3.981 |  10.146 |  5 -  0 |
-|   14 | Missouri               |   3.843 |   0.769 |   3.843 |  11.336 |  5 -  0 |
-|   15 | Michigan               |   3.761 |   0.752 |   6.273 |   9.478 |  4 -  1 |
-|   16 | North Texas            |   3.654 |   0.731 |   3.654 |   7.097 |  5 -  0 |
-|   17 | Iowa State             |   3.598 |   0.600 |   5.843 |   7.632 |  5 -  1 |
-|   18 | Oregon                 |   3.577 |   0.715 |   3.577 |   9.443 |  5 -  0 |
-|   19 | Vanderbilt             |   3.557 |   0.593 |   5.928 |   7.986 |  5 -  1 |
-|   20 | Tulane                 |   3.515 |   0.703 |   6.199 |   6.902 |  4 -  1 |
-|   21 | Cincinnati             |   3.514 |   0.703 |   5.705 |   8.654 |  4 -  1 |
-|   22 | Navy                   |   3.382 |   0.676 |   3.382 |   8.819 |  5 -  0 |
-|   23 | Nevada-Las Vegas       |   3.194 |   0.639 |   3.194 |   6.144 |  5 -  0 |
-|   24 | USC                    |   3.167 |   0.633 |   5.624 |   9.146 |  4 -  1 |
-|   25 | LSU                    |   3.154 |   0.631 |   5.838 |  11.176 |  4 -  1 |
-|   26 | Arizona State          |   3.150 |   0.630 |   5.271 |   9.157 |  4 -  1 |
-|   27 | Nebraska               |   3.102 |   0.620 |   5.385 |   7.910 |  4 -  1 |
-|   28 | Washington             |   2.931 |   0.586 |   5.416 |   8.837 |  4 -  1 |
-|   29 | Georgia                |   2.861 |   0.572 |   5.232 |   9.324 |  4 -  1 |
-|   30 | Tennessee              |   2.850 |   0.570 |   5.012 |   9.240 |  4 -  1 |
-|   31 | Louisville             |   2.827 |   0.565 |   5.167 |   7.642 |  4 -  1 |
-|   32 | Duke                   |   2.782 |   0.464 |   7.485 |   7.586 |  4 -  2 |
-|   33 | Fresno State           |   2.679 |   0.446 |   4.783 |   5.655 |  5 -  1 |
-|   34 | Mississippi State      |   2.485 |   0.414 |   7.358 |   8.337 |  4 -  2 |
-|   35 | Texas Christian        |   2.439 |   0.488 |   4.635 |   9.046 |  4 -  1 |
-|   36 | South Florida          |   2.419 |   0.484 |   4.982 |   8.438 |  4 -  1 |
-|   37 | North Carolina State   |   2.410 |   0.402 |   6.601 |   8.250 |  4 -  2 |
-|   38 | Louisiana Tech         |   2.390 |   0.478 |   4.587 |   6.593 |  4 -  1 |
-|   39 | Western Kentucky       |   2.336 |   0.389 |   4.337 |   5.885 |  5 -  1 |
-|   40 | Kansas                 |   2.302 |   0.384 |   6.843 |   7.505 |  4 -  2 |
-|   41 | Arizona                |   2.224 |   0.445 |   4.482 |   9.752 |  4 -  1 |
-|   42 | Old Dominion           |   2.111 |   0.422 |   4.785 |   6.588 |  4 -  1 |
-|   43 | Utah                   |   2.066 |   0.413 |   4.420 |   9.128 |  4 -  1 |
-|   44 | Houston                |   2.063 |   0.413 |   4.417 |   7.897 |  4 -  1 |
-|   45 | Maryland               |   2.031 |   0.406 |   4.201 |  10.239 |  4 -  1 |
-|   46 | Notre Dame             |   1.944 |   0.389 |   7.220 |   8.062 |  3 -  2 |
-|   47 | San Diego State        |   1.901 |   0.380 |   3.920 |   6.791 |  4 -  1 |
-|   48 | James Madison          |   1.851 |   0.370 |   4.009 |   6.488 |  4 -  1 |
-|   49 | Florida State          |   1.782 |   0.356 |   6.685 |   7.121 |  3 -  2 |
-|   50 | Auburn                 |   1.651 |   0.330 |   6.876 |   8.813 |  3 -  2 |
-|   51 | Baylor                 |   1.329 |   0.222 |   5.579 |   8.029 |  4 -  2 |
-|   52 | California             |   1.133 |   0.189 |   5.357 |   6.856 |  4 -  2 |
-|   53 | Hawaii                 |   1.026 |   0.171 |   5.265 |   6.154 |  4 -  2 |
-|   54 | Washington State       |   0.998 |   0.200 |   5.434 |   8.802 |  3 -  2 |
-|   55 | Wake Forest            |   0.903 |   0.181 |   5.403 |   7.981 |  3 -  2 |
-|   56 | South Carolina         |   0.868 |   0.174 |   5.415 |  11.680 |  3 -  2 |
-|   57 | Northwestern           |   0.859 |   0.172 |   5.360 |   9.699 |  3 -  2 |
-|   58 | Minnesota              |   0.811 |   0.162 |   5.321 |   8.309 |  3 -  2 |
-|   59 | Connecticut            |   0.797 |   0.133 |   4.800 |   5.191 |  4 -  2 |
-|   60 | Iowa                   |   0.691 |   0.138 |   5.622 |   8.814 |  3 -  2 |
-|   61 | SMU                    |   0.631 |   0.126 |   4.783 |   8.342 |  3 -  2 |
-|   62 | Michigan State         |   0.596 |   0.119 |   4.986 |   9.141 |  3 -  2 |
-|   63 | Southern Mississippi   |   0.572 |   0.114 |   4.806 |   5.757 |  3 -  2 |
-|   64 | Utah State             |   0.562 |   0.112 |   5.527 |   7.544 |  3 -  2 |
-|   65 | East Carolina          |   0.503 |   0.101 |   4.935 |   7.599 |  3 -  2 |
-|   66 | Temple                 |   0.492 |   0.098 |   5.390 |   7.973 |  3 -  2 |
-|   67 | Boise State            |   0.440 |   0.088 |   4.630 |   7.592 |  3 -  2 |
-|   68 | Delaware               |   0.395 |   0.079 |   4.512 |   5.471 |  3 -  2 |
-|   69 | Texas                  |   0.381 |   0.076 |   4.870 |  10.665 |  3 -  2 |
-|   70 | Louisiana-Monroe       |   0.235 |   0.047 |   4.620 |   6.402 |  3 -  2 |
-|   71 | Toledo                 |   0.231 |   0.046 |   4.240 |   5.655 |  3 -  2 |
-|   72 | Rutgers                |   0.193 |   0.039 |   4.215 |  10.251 |  3 -  2 |
-|   73 | Troy                   |   0.144 |   0.029 |   4.575 |   6.470 |  3 -  2 |
-|   74 | New Mexico             |   0.130 |   0.026 |   4.488 |   6.838 |  3 -  2 |
-|   75 | Kennesaw State         |   0.127 |   0.025 |   4.817 |   5.969 |  3 -  2 |
-|   76 | Syracuse               |   0.120 |   0.020 |   6.441 |   7.574 |  3 -  3 |
-|   77 | New Mexico State       |  -0.043 |  -0.009 |   4.069 |   6.378 |  3 -  2 |
-|   78 | Pitt                   |  -0.262 |  -0.052 |   3.966 |   9.852 |  3 -  2 |
-|   79 | Western Michigan       |  -0.284 |  -0.047 |   6.447 |   4.270 |  3 -  3 |
-|   80 | UCF                    |  -0.314 |  -0.063 |   3.909 |   9.127 |  3 -  2 |
-|   81 | Penn State             |  -0.349 |  -0.070 |   4.010 |  10.089 |  3 -  2 |
-|   82 | Clemson                |  -0.384 |  -0.077 |   6.199 |   7.389 |  2 -  3 |
-|   83 | Appalachian State      |  -0.433 |  -0.087 |   3.577 |   6.480 |  3 -  2 |
-|   84 | Florida                |  -0.463 |  -0.093 |   6.412 |  11.106 |  2 -  3 |
-|   85 | Texas State            |  -0.545 |  -0.109 |   3.766 |   6.313 |  3 -  2 |
-|   86 | Kentucky               |  -0.603 |  -0.121 |   6.258 |   8.187 |  2 -  3 |
-|   87 | Stanford               |  -0.637 |  -0.127 |   6.040 |   8.671 |  2 -  3 |
-|   88 | Wisconsin              |  -0.686 |  -0.137 |   6.048 |  11.522 |  2 -  3 |
-|   89 | Arkansas               |  -0.701 |  -0.140 |   6.485 |  10.754 |  2 -  3 |
-|   90 | Colorado               |  -0.712 |  -0.119 |   8.192 |   7.382 |  2 -  4 |
-|   91 | Purdue                 |  -0.799 |  -0.160 |   5.931 |  10.675 |  2 -  3 |
-|   92 | Ohio                   |  -0.829 |  -0.138 |   5.707 |   3.974 |  3 -  3 |
-|   93 | Georgia Southern       |  -1.049 |  -0.210 |   5.358 |   6.346 |  2 -  3 |
-|   94 | Rice                   |  -1.070 |  -0.178 |   5.278 |   7.668 |  3 -  3 |
-|   95 | Missouri State         |  -1.278 |  -0.256 |   5.036 |   5.841 |  2 -  3 |
-|   96 | Coastal Carolina       |  -1.337 |  -0.267 |   5.095 |   6.697 |  2 -  3 |
-|   97 | Florida Atlantic       |  -1.374 |  -0.275 |   5.194 |   8.376 |  2 -  3 |
-|   98 | Buffalo                |  -1.396 |  -0.233 |   4.629 |   4.324 |  3 -  3 |
-|   99 | Virginia Tech          |  -1.401 |  -0.233 |   6.969 |   9.641 |  2 -  4 |
-|  100 | UTSA                   |  -1.494 |  -0.299 |   5.229 |   7.855 |  2 -  3 |
-|  101 | Bowling Green          |  -1.500 |  -0.300 |   4.917 |   4.746 |  2 -  3 |
-|  102 | Wyoming                |  -1.521 |  -0.304 |   4.775 |   6.498 |  2 -  3 |
-|  103 | Ball State             |  -1.596 |  -0.319 |   4.482 |   5.122 |  2 -  3 |
-|  104 | Central Michigan       |  -1.712 |  -0.285 |   4.755 |   4.709 |  3 -  3 |
-|  105 | Florida International  |  -1.746 |  -0.349 |   4.272 |   5.545 |  2 -  3 |
-|  106 | Miami (OH)             |  -1.753 |  -0.351 |   4.459 |   5.529 |  2 -  3 |
-|  107 | Tulsa                  |  -1.802 |  -0.300 |   7.098 |   4.912 |  2 -  4 |
-|  108 | UAB                    |  -1.881 |  -0.376 |   4.707 |   8.551 |  2 -  3 |
-|  109 | West Virginia          |  -1.887 |  -0.314 |   6.632 |   7.953 |  2 -  4 |
-|  110 | North Carolina         |  -1.913 |  -0.383 |   4.209 |   8.889 |  2 -  3 |
-|  111 | San Jose State         |  -1.973 |  -0.395 |   4.095 |   6.990 |  2 -  3 |
-|  112 | Georgia State          |  -2.034 |  -0.407 |   7.397 |   6.262 |  1 -  4 |
-|  113 | Jacksonville State     |  -2.217 |  -0.443 |   3.813 |   5.862 |  2 -  3 |
-|  114 | UCLA                   |  -2.306 |  -0.461 |   5.994 |  11.223 |  1 -  4 |
-|  115 | Arkansas State         |  -2.411 |  -0.402 |   5.857 |   5.107 |  2 -  4 |
-|  116 | Kansas State           |  -2.450 |  -0.408 |   6.139 |   7.469 |  2 -  4 |
-|  117 | Kent State             |  -2.727 |  -0.545 |   6.241 |   5.124 |  1 -  4 |
-|  118 | Marshall               |  -2.744 |  -0.549 |   3.688 |   6.952 |  2 -  3 |
-|  119 | Air Force              |  -3.035 |  -0.607 |   5.223 |   6.546 |  1 -  4 |
-|  120 | Akron                  |  -3.046 |  -0.508 |   5.260 |   4.299 |  2 -  4 |
-|  121 | Oklahoma State         |  -3.137 |  -0.627 |   5.314 |   9.465 |  1 -  4 |
-|  122 | Army                   |  -3.179 |  -0.636 |   4.538 |   7.130 |  2 -  3 |
-|  123 | Northern Illinois      |  -3.184 |  -0.637 |   5.149 |   5.134 |  1 -  4 |
-|  124 | Colorado State         |  -3.213 |  -0.643 |   5.091 |   7.715 |  1 -  4 |
-|  125 | UTEP                   |  -3.237 |  -0.647 |   4.886 |   5.785 |  1 -  4 |
-|  126 | Louisiana              |  -3.463 |  -0.693 |   3.941 |   6.655 |  2 -  3 |
-|  127 | Boston College         |  -3.584 |  -0.717 |   4.457 |   8.814 |  1 -  4 |
-|  128 | Liberty                |  -3.793 |  -0.759 |   4.503 |   6.721 |  1 -  4 |
-|  129 | South Alabama          |  -3.872 |  -0.645 |   6.729 |   5.127 |  1 -  5 |
-|  130 | Charlotte              |  -3.923 |  -0.785 |   4.290 |   8.388 |  1 -  4 |
-|  131 | Sam Houston            |  -4.183 |  -0.837 |   6.150 |   5.563 |  0 -  5 |
-|  132 | Nevada                 |  -4.497 |  -0.899 |   4.536 |   7.597 |  1 -  4 |
-|  133 | Oregon State           |  -4.516 |  -0.753 |   8.347 |   5.089 |  0 -  6 |
-|  134 | Middle Tennessee State |  -6.142 |  -1.228 |   3.462 |   6.348 |  1 -  4 |
-|  135 | Massachusetts          |  -6.593 |  -1.319 |   5.164 |   5.290 |  0 -  5 |
-|  136 | Eastern Michigan       |  -7.161 |  -1.194 |   4.393 |   4.887 |  1 -  5 |
+|    1 | [Texas A&M             ](teams/TexasAM) |   5.879 |   1.176 |   5.879 |   7.611 |  5 -  0 |
+|    2 | [Ole Miss              ](teams/OleMiss) |   5.766 |   1.153 |   5.766 |   8.459 |  5 -  0 |
+|    3 | [Indiana               ](teams/Indiana) |   5.725 |   1.145 |   5.725 |   7.543 |  5 -  0 |
+|    4 | [Miami (FL)            ](teams/MiamiFL) |   5.254 |   1.051 |   5.254 |   7.695 |  5 -  0 |
+|    5 | [Oklahoma              ](teams/Oklahoma) |   5.024 |   1.005 |   5.024 |  10.995 |  5 -  0 |
+|    6 | [Ohio State            ](teams/OhioState) |   4.891 |   0.978 |   4.891 |   8.141 |  5 -  0 |
+|    7 | [Illinois              ](teams/Illinois) |   4.757 |   0.793 |   7.430 |   7.877 |  5 -  1 |
+|    8 | [Memphis               ](teams/Memphis) |   4.603 |   0.767 |   4.603 |   7.342 |  6 -  0 |
+|    9 | [Georgia Tech          ](teams/GeorgiaTech) |   4.379 |   0.876 |   4.379 |   7.775 |  5 -  0 |
+|   10 | [Alabama               ](teams/Alabama) |   4.297 |   0.859 |   6.359 |   9.477 |  4 -  1 |
+|   11 | [Texas Tech            ](teams/TexasTech) |   4.204 |   0.841 |   4.204 |   7.756 |  5 -  0 |
+|   12 | [Virginia              ](teams/Virginia) |   4.117 |   0.686 |   6.231 |   6.518 |  5 -  1 |
+|   13 | [BYU                   ](teams/BYU) |   3.981 |   0.796 |   3.981 |  10.146 |  5 -  0 |
+|   14 | [Missouri              ](teams/Missouri) |   3.843 |   0.769 |   3.843 |  11.336 |  5 -  0 |
+|   15 | [Michigan              ](teams/Michigan) |   3.761 |   0.752 |   6.273 |   9.478 |  4 -  1 |
+|   16 | [North Texas           ](teams/NorthTexas) |   3.654 |   0.731 |   3.654 |   7.097 |  5 -  0 |
+|   17 | [Iowa State            ](teams/IowaState) |   3.598 |   0.600 |   5.843 |   7.632 |  5 -  1 |
+|   18 | [Oregon                ](teams/Oregon) |   3.577 |   0.715 |   3.577 |   9.443 |  5 -  0 |
+|   19 | [Vanderbilt            ](teams/Vanderbilt) |   3.557 |   0.593 |   5.928 |   7.986 |  5 -  1 |
+|   20 | [Tulane                ](teams/Tulane) |   3.515 |   0.703 |   6.199 |   6.902 |  4 -  1 |
+|   21 | [Cincinnati            ](teams/Cincinnati) |   3.514 |   0.703 |   5.705 |   8.654 |  4 -  1 |
+|   22 | [Navy                  ](teams/Navy) |   3.382 |   0.676 |   3.382 |   8.819 |  5 -  0 |
+|   23 | [Nevada-Las Vegas      ](teams/NevadaLasVegas) |   3.194 |   0.639 |   3.194 |   6.144 |  5 -  0 |
+|   24 | [USC                   ](teams/USC) |   3.167 |   0.633 |   5.624 |   9.146 |  4 -  1 |
+|   25 | [LSU                   ](teams/LSU) |   3.154 |   0.631 |   5.838 |  11.176 |  4 -  1 |
+|   26 | [Arizona State         ](teams/ArizonaState) |   3.150 |   0.630 |   5.271 |   9.157 |  4 -  1 |
+|   27 | [Nebraska              ](teams/Nebraska) |   3.102 |   0.620 |   5.385 |   7.910 |  4 -  1 |
+|   28 | [Washington            ](teams/Washington) |   2.931 |   0.586 |   5.416 |   8.837 |  4 -  1 |
+|   29 | [Georgia               ](teams/Georgia) |   2.861 |   0.572 |   5.232 |   9.324 |  4 -  1 |
+|   30 | [Tennessee             ](teams/Tennessee) |   2.850 |   0.570 |   5.012 |   9.240 |  4 -  1 |
+|   31 | [Louisville            ](teams/Louisville) |   2.827 |   0.565 |   5.167 |   7.642 |  4 -  1 |
+|   32 | [Duke                  ](teams/Duke) |   2.782 |   0.464 |   7.485 |   7.586 |  4 -  2 |
+|   33 | [Fresno State          ](teams/FresnoState) |   2.679 |   0.446 |   4.783 |   5.655 |  5 -  1 |
+|   34 | [Mississippi State     ](teams/MississippiState) |   2.485 |   0.414 |   7.358 |   8.337 |  4 -  2 |
+|   35 | [Texas Christian       ](teams/TexasChristian) |   2.439 |   0.488 |   4.635 |   9.046 |  4 -  1 |
+|   36 | [South Florida         ](teams/SouthFlorida) |   2.419 |   0.484 |   4.982 |   8.438 |  4 -  1 |
+|   37 | [North Carolina State  ](teams/NorthCarolinaState) |   2.410 |   0.402 |   6.601 |   8.250 |  4 -  2 |
+|   38 | [Louisiana Tech        ](teams/LouisianaTech) |   2.390 |   0.478 |   4.587 |   6.593 |  4 -  1 |
+|   39 | [Western Kentucky      ](teams/WesternKentucky) |   2.336 |   0.389 |   4.337 |   5.885 |  5 -  1 |
+|   40 | [Kansas                ](teams/Kansas) |   2.302 |   0.384 |   6.843 |   7.505 |  4 -  2 |
+|   41 | [Arizona               ](teams/Arizona) |   2.224 |   0.445 |   4.482 |   9.752 |  4 -  1 |
+|   42 | [Old Dominion          ](teams/OldDominion) |   2.111 |   0.422 |   4.785 |   6.588 |  4 -  1 |
+|   43 | [Utah                  ](teams/Utah) |   2.066 |   0.413 |   4.420 |   9.128 |  4 -  1 |
+|   44 | [Houston               ](teams/Houston) |   2.063 |   0.413 |   4.417 |   7.897 |  4 -  1 |
+|   45 | [Maryland              ](teams/Maryland) |   2.031 |   0.406 |   4.201 |  10.239 |  4 -  1 |
+|   46 | [Notre Dame            ](teams/NotreDame) |   1.944 |   0.389 |   7.220 |   8.062 |  3 -  2 |
+|   47 | [San Diego State       ](teams/SanDiegoState) |   1.901 |   0.380 |   3.920 |   6.791 |  4 -  1 |
+|   48 | [James Madison         ](teams/JamesMadison) |   1.851 |   0.370 |   4.009 |   6.488 |  4 -  1 |
+|   49 | [Florida State         ](teams/FloridaState) |   1.782 |   0.356 |   6.685 |   7.121 |  3 -  2 |
+|   50 | [Auburn                ](teams/Auburn) |   1.651 |   0.330 |   6.876 |   8.813 |  3 -  2 |
+|   51 | [Baylor                ](teams/Baylor) |   1.329 |   0.222 |   5.579 |   8.029 |  4 -  2 |
+|   52 | [California            ](teams/California) |   1.133 |   0.189 |   5.357 |   6.856 |  4 -  2 |
+|   53 | [Hawaii                ](teams/Hawaii) |   1.026 |   0.171 |   5.265 |   6.154 |  4 -  2 |
+|   54 | [Washington State      ](teams/WashingtonState) |   0.998 |   0.200 |   5.434 |   8.802 |  3 -  2 |
+|   55 | [Wake Forest           ](teams/WakeForest) |   0.903 |   0.181 |   5.403 |   7.981 |  3 -  2 |
+|   56 | [South Carolina        ](teams/SouthCarolina) |   0.868 |   0.174 |   5.415 |  11.680 |  3 -  2 |
+|   57 | [Northwestern          ](teams/Northwestern) |   0.859 |   0.172 |   5.360 |   9.699 |  3 -  2 |
+|   58 | [Minnesota             ](teams/Minnesota) |   0.811 |   0.162 |   5.321 |   8.309 |  3 -  2 |
+|   59 | [Connecticut           ](teams/Connecticut) |   0.797 |   0.133 |   4.800 |   5.191 |  4 -  2 |
+|   60 | [Iowa                  ](teams/Iowa) |   0.691 |   0.138 |   5.622 |   8.814 |  3 -  2 |
+|   61 | [SMU                   ](teams/SMU) |   0.631 |   0.126 |   4.783 |   8.342 |  3 -  2 |
+|   62 | [Michigan State        ](teams/MichiganState) |   0.596 |   0.119 |   4.986 |   9.141 |  3 -  2 |
+|   63 | [Southern Mississippi  ](teams/SouthernMississippi) |   0.572 |   0.114 |   4.806 |   5.757 |  3 -  2 |
+|   64 | [Utah State            ](teams/UtahState) |   0.562 |   0.112 |   5.527 |   7.544 |  3 -  2 |
+|   65 | [East Carolina         ](teams/EastCarolina) |   0.503 |   0.101 |   4.935 |   7.599 |  3 -  2 |
+|   66 | [Temple                ](teams/Temple) |   0.492 |   0.098 |   5.390 |   7.973 |  3 -  2 |
+|   67 | [Boise State           ](teams/BoiseState) |   0.440 |   0.088 |   4.630 |   7.592 |  3 -  2 |
+|   68 | [Delaware              ](teams/Delaware) |   0.395 |   0.079 |   4.512 |   5.471 |  3 -  2 |
+|   69 | [Texas                 ](teams/Texas) |   0.381 |   0.076 |   4.870 |  10.665 |  3 -  2 |
+|   70 | [Louisiana-Monroe      ](teams/LouisianaMonroe) |   0.235 |   0.047 |   4.620 |   6.402 |  3 -  2 |
+|   71 | [Toledo                ](teams/Toledo) |   0.231 |   0.046 |   4.240 |   5.655 |  3 -  2 |
+|   72 | [Rutgers               ](teams/Rutgers) |   0.193 |   0.039 |   4.215 |  10.251 |  3 -  2 |
+|   73 | [Troy                  ](teams/Troy) |   0.144 |   0.029 |   4.575 |   6.470 |  3 -  2 |
+|   74 | [New Mexico            ](teams/NewMexico) |   0.130 |   0.026 |   4.488 |   6.838 |  3 -  2 |
+|   75 | [Kennesaw State        ](teams/KennesawState) |   0.127 |   0.025 |   4.817 |   5.969 |  3 -  2 |
+|   76 | [Syracuse              ](teams/Syracuse) |   0.120 |   0.020 |   6.441 |   7.574 |  3 -  3 |
+|   77 | [New Mexico State      ](teams/NewMexicoState) |  -0.043 |  -0.009 |   4.069 |   6.378 |  3 -  2 |
+|   78 | [Pitt                  ](teams/Pitt) |  -0.262 |  -0.052 |   3.966 |   9.852 |  3 -  2 |
+|   79 | [Western Michigan      ](teams/WesternMichigan) |  -0.284 |  -0.047 |   6.447 |   4.270 |  3 -  3 |
+|   80 | [UCF                   ](teams/UCF) |  -0.314 |  -0.063 |   3.909 |   9.127 |  3 -  2 |
+|   81 | [Penn State            ](teams/PennState) |  -0.349 |  -0.070 |   4.010 |  10.089 |  3 -  2 |
+|   82 | [Clemson               ](teams/Clemson) |  -0.384 |  -0.077 |   6.199 |   7.389 |  2 -  3 |
+|   83 | [Appalachian State     ](teams/AppalachianState) |  -0.433 |  -0.087 |   3.577 |   6.480 |  3 -  2 |
+|   84 | [Florida               ](teams/Florida) |  -0.463 |  -0.093 |   6.412 |  11.106 |  2 -  3 |
+|   85 | [Texas State           ](teams/TexasState) |  -0.545 |  -0.109 |   3.766 |   6.313 |  3 -  2 |
+|   86 | [Kentucky              ](teams/Kentucky) |  -0.603 |  -0.121 |   6.258 |   8.187 |  2 -  3 |
+|   87 | [Stanford              ](teams/Stanford) |  -0.637 |  -0.127 |   6.040 |   8.671 |  2 -  3 |
+|   88 | [Wisconsin             ](teams/Wisconsin) |  -0.686 |  -0.137 |   6.048 |  11.522 |  2 -  3 |
+|   89 | [Arkansas              ](teams/Arkansas) |  -0.701 |  -0.140 |   6.485 |  10.754 |  2 -  3 |
+|   90 | [Colorado              ](teams/Colorado) |  -0.712 |  -0.119 |   8.192 |   7.382 |  2 -  4 |
+|   91 | [Purdue                ](teams/Purdue) |  -0.799 |  -0.160 |   5.931 |  10.675 |  2 -  3 |
+|   92 | [Ohio                  ](teams/Ohio) |  -0.829 |  -0.138 |   5.707 |   3.974 |  3 -  3 |
+|   93 | [Georgia Southern      ](teams/GeorgiaSouthern) |  -1.049 |  -0.210 |   5.358 |   6.346 |  2 -  3 |
+|   94 | [Rice                  ](teams/Rice) |  -1.070 |  -0.178 |   5.278 |   7.668 |  3 -  3 |
+|   95 | [Missouri State        ](teams/MissouriState) |  -1.278 |  -0.256 |   5.036 |   5.841 |  2 -  3 |
+|   96 | [Coastal Carolina      ](teams/CoastalCarolina) |  -1.337 |  -0.267 |   5.095 |   6.697 |  2 -  3 |
+|   97 | [Florida Atlantic      ](teams/FloridaAtlantic) |  -1.374 |  -0.275 |   5.194 |   8.376 |  2 -  3 |
+|   98 | [Buffalo               ](teams/Buffalo) |  -1.396 |  -0.233 |   4.629 |   4.324 |  3 -  3 |
+|   99 | [Virginia Tech         ](teams/VirginiaTech) |  -1.401 |  -0.233 |   6.969 |   9.641 |  2 -  4 |
+|  100 | [UTSA                  ](teams/UTSA) |  -1.494 |  -0.299 |   5.229 |   7.855 |  2 -  3 |
+|  101 | [Bowling Green         ](teams/BowlingGreen) |  -1.500 |  -0.300 |   4.917 |   4.746 |  2 -  3 |
+|  102 | [Wyoming               ](teams/Wyoming) |  -1.521 |  -0.304 |   4.775 |   6.498 |  2 -  3 |
+|  103 | [Ball State            ](teams/BallState) |  -1.596 |  -0.319 |   4.482 |   5.122 |  2 -  3 |
+|  104 | [Central Michigan      ](teams/CentralMichigan) |  -1.712 |  -0.285 |   4.755 |   4.709 |  3 -  3 |
+|  105 | [Florida International ](teams/FloridaInternational) |  -1.746 |  -0.349 |   4.272 |   5.545 |  2 -  3 |
+|  106 | [Miami (OH)            ](teams/MiamiOH) |  -1.753 |  -0.351 |   4.459 |   5.529 |  2 -  3 |
+|  107 | [Tulsa                 ](teams/Tulsa) |  -1.802 |  -0.300 |   7.098 |   4.912 |  2 -  4 |
+|  108 | [UAB                   ](teams/UAB) |  -1.881 |  -0.376 |   4.707 |   8.551 |  2 -  3 |
+|  109 | [West Virginia         ](teams/WestVirginia) |  -1.887 |  -0.314 |   6.632 |   7.953 |  2 -  4 |
+|  110 | [North Carolina        ](teams/NorthCarolina) |  -1.913 |  -0.383 |   4.209 |   8.889 |  2 -  3 |
+|  111 | [San Jose State        ](teams/SanJoseState) |  -1.973 |  -0.395 |   4.095 |   6.990 |  2 -  3 |
+|  112 | [Georgia State         ](teams/GeorgiaState) |  -2.034 |  -0.407 |   7.397 |   6.262 |  1 -  4 |
+|  113 | [Jacksonville State    ](teams/JacksonvilleState) |  -2.217 |  -0.443 |   3.813 |   5.862 |  2 -  3 |
+|  114 | [UCLA                  ](teams/UCLA) |  -2.306 |  -0.461 |   5.994 |  11.223 |  1 -  4 |
+|  115 | [Arkansas State        ](teams/ArkansasState) |  -2.411 |  -0.402 |   5.857 |   5.107 |  2 -  4 |
+|  116 | [Kansas State          ](teams/KansasState) |  -2.450 |  -0.408 |   6.139 |   7.469 |  2 -  4 |
+|  117 | [Kent State            ](teams/KentState) |  -2.727 |  -0.545 |   6.241 |   5.124 |  1 -  4 |
+|  118 | [Marshall              ](teams/Marshall) |  -2.744 |  -0.549 |   3.688 |   6.952 |  2 -  3 |
+|  119 | [Air Force             ](teams/AirForce) |  -3.035 |  -0.607 |   5.223 |   6.546 |  1 -  4 |
+|  120 | [Akron                 ](teams/Akron) |  -3.046 |  -0.508 |   5.260 |   4.299 |  2 -  4 |
+|  121 | [Oklahoma State        ](teams/OklahomaState) |  -3.137 |  -0.627 |   5.314 |   9.465 |  1 -  4 |
+|  122 | [Army                  ](teams/Army) |  -3.179 |  -0.636 |   4.538 |   7.130 |  2 -  3 |
+|  123 | [Northern Illinois     ](teams/NorthernIllinois) |  -3.184 |  -0.637 |   5.149 |   5.134 |  1 -  4 |
+|  124 | [Colorado State        ](teams/ColoradoState) |  -3.213 |  -0.643 |   5.091 |   7.715 |  1 -  4 |
+|  125 | [UTEP                  ](teams/UTEP) |  -3.237 |  -0.647 |   4.886 |   5.785 |  1 -  4 |
+|  126 | [Louisiana             ](teams/Louisiana) |  -3.463 |  -0.693 |   3.941 |   6.655 |  2 -  3 |
+|  127 | [Boston College        ](teams/BostonCollege) |  -3.584 |  -0.717 |   4.457 |   8.814 |  1 -  4 |
+|  128 | [Liberty               ](teams/Liberty) |  -3.793 |  -0.759 |   4.503 |   6.721 |  1 -  4 |
+|  129 | [South Alabama         ](teams/SouthAlabama) |  -3.872 |  -0.645 |   6.729 |   5.127 |  1 -  5 |
+|  130 | [Charlotte             ](teams/Charlotte) |  -3.923 |  -0.785 |   4.290 |   8.388 |  1 -  4 |
+|  131 | [Sam Houston           ](teams/SamHouston) |  -4.183 |  -0.837 |   6.150 |   5.563 |  0 -  5 |
+|  132 | [Nevada                ](teams/Nevada) |  -4.497 |  -0.899 |   4.536 |   7.597 |  1 -  4 |
+|  133 | [Oregon State          ](teams/OregonState) |  -4.516 |  -0.753 |   8.347 |   5.089 |  0 -  6 |
+|  134 | [Middle Tennessee State](teams/MiddleTennesseeState) |  -6.142 |  -1.228 |   3.462 |   6.348 |  1 -  4 |
+|  135 | [Massachusetts         ](teams/Massachusetts) |  -6.593 |  -1.319 |   5.164 |   5.290 |  0 -  5 |
+|  136 | [Eastern Michigan      ](teams/EasternMichigan) |  -7.161 |  -1.194 |   4.393 |   4.887 |  1 -  5 |
 
 # Explanation:
 

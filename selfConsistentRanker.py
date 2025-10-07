@@ -6,12 +6,18 @@ import pandas as pd
 import pickle
 from functions import general as gen
 import os
+import re
 
 nTeamDetails = 0
 pickling = False
+saveAllTeams = False
+printTeam = True
 if len(sys.argv) > 1:
     if sys.argv[1] == 'pickle':
         pickling = True
+    elif sys.argv[1] == 'saveAllTeams':
+        saveAllTeams = True
+        printTeam = False
     else:
         nTeamDetails = len(sys.argv) - 1
         if nTeamDetails > 0:
@@ -60,6 +66,11 @@ with open(teamsFile, newline='') as csvfile:
 maxNameLength = max([len(team) for team in teams])
 
 nTeam = len(teams)
+
+if saveAllTeams:
+    nTeamDetails = nTeam
+    teamDetails = teams
+
 winLossMatrix = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
 remainingSchedule = [[ [] for i in range(nTeam+1)] for j in range(nTeam+1)]
 teams.append('Non-FBS')
@@ -145,33 +156,38 @@ if nTeamDetails == 0:
     print(f'| Rank | {"Team":{maxNameLength}} |{tlp}NAW{tlp}|{f"{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}| Record  |" if extendedPrint else ""}')
     print(f'|------|{"-"*(maxNameLength+2)}|{tbs}|{f"{tbs}|{tbs}|{tbs}|---------|" if extendedPrint else ""}')
     for i in range(nTeam):
-        print(f'| {naworder.index(naw[ranks[i]])+1:{ifw}} | {teams[ranks[i]]:{maxNameLength}} | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{aaw[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
+        print(f'| {naworder.index(naw[ranks[i]])+1:{ifw}} | [{teams[ranks[i]]:{maxNameLength}}](teams/{re.sub(r"[^a-zA-Z0-9]","",teams[ranks[i]])}) | {naw[ranks[i]]:{ffw}.{fnd}f} | {f"{aaw[ranks[i]]:{ffw}.{fnd}f} | {ncs[ranks[i]]:{ffw}.{fnd}f} | {nrs[ranks[i]]:{ffw}.{fnd}f} | {int(ws[ranks[i]]):2d} - {int(ls[ranks[i]]):2d} |" if extendedPrint else ""}')
 else:
     for team in teamDetails:
         if team in teams:
             i = teams.index(team)
+            teamOutput = []
             if gamesPlayed[i] > 0:
-                print(f'{team} ({int(ws[i])} - {int(ls[i])})')
-                print(f'|       |{tlp}NAW{tlp}|{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}|')
-                print(f'|-------|{tbs}|{tbs}|{tbs}|{tbs}|')
-                print(f'| Value | {naw[i]:{ffw}.{fnd}f} | {aaw[i]:{ffw}.{fnd}f} | {ncs[i]:{ffw}.{fnd}f} | {nrs[i]:{ffw}.{fnd}f} |')
-                print(f'| Rank  | {naworder.index(naw[i])+1:{ffw}d} | {aaworder.index(aaw[i])+1:{ffw}d} | {ncsorder.index(ncs[i])+1:{ffw}d} | {nrsorder.index(nrs[i])+1:{ffw}d} |')
-                print()
-                print(f'|{" Played":{maxNameLength+5}}| Outcome    |{tlp[1:]}Change{tlp[1:]}|')
-                print(f'|{"-"*(maxNameLength+5)}|------------|-{tbs}|')
+                teamOutput.append(f'{team} ({int(ws[i])} - {int(ls[i])})')
+                teamOutput.append(f'|       |{tlp}NAW{tlp}|{tlp}AAW{tlp}|{tlp}NCS{tlp}|{tlp}NRS{tlp}|')
+                teamOutput.append(f'|-------|{tbs}|{tbs}|{tbs}|{tbs}|')
+                teamOutput.append(f'| Value | {naw[i]:{ffw}.{fnd}f} | {aaw[i]:{ffw}.{fnd}f} | {ncs[i]:{ffw}.{fnd}f} | {nrs[i]:{ffw}.{fnd}f} |')
+                teamOutput.append(f'| Rank  | {naworder.index(naw[i])+1:{ffw}d} | {aaworder.index(aaw[i])+1:{ffw}d} | {ncsorder.index(ncs[i])+1:{ffw}d} | {nrsorder.index(nrs[i])+1:{ffw}d} |')
+                teamOutput.append('')
+                teamOutput.append(f'|{" Played":{maxNameLength+5}}| Outcome    |{tlp[1:]}Change{tlp[1:]}|')
+                teamOutput.append(f'|{"-"*(maxNameLength+5)}|------------|-{tbs}|')
                 for j in range(nTeam+1):
                     k = ranks[j]
                     for l in range(len(winLossMatrix[i][k])):
-                        print(f'|{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
-                print()
+                        teamOutput.append(f'|{naworder.index(naw[k])+1:{ifw}} [{teams[k]:{maxNameLength}}]({re.sub(r"[^a-zA-Z0-9]","",teams[k])})|{" Win        " if winLossMatrix[i][k][l]==1 else " Loss       "}| {"+" if winLossMatrix[i][k][l]==1 else "-"}{np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale):{ffw}.{fnd}f} |')
+                teamOutput.append('')
             if gamesRemaining[i] > 0:
-                print(f'|{" Remaining":{maxNameLength+5}}|{tlp[1:]}If Win{tlp[1:]}|{tlp[1:]}If Loss{tlp[2:]}|')
-                print(f'|{"-"*(maxNameLength+5)}|-{tbs}|-{tbs}|')
+                teamOutput.append(f'|{" Remaining":{maxNameLength+5}}|{tlp[1:]}If Win{tlp[1:]}|{tlp[1:]}If Loss{tlp[2:]}|')
+                teamOutput.append(f'|{"-"*(maxNameLength+5)}|-{tbs}|-{tbs}|')
                 for j in range(nTeam+1):
                     k = ranks[j]
                     for l in range(len(remainingSchedule[i][k])):
-                        print(f'|{naworder.index(naw[k])+1:{ifw}} {teams[k]:{maxNameLength}}| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
-                print()
+                        teamOutput.append(f'|{naworder.index(naw[k])+1:{ifw}} [{teams[k]:{maxNameLength}}]({re.sub(r"[^a-zA-Z0-9]","",teams[k])})| +{np.exp(naw[k]/nawScale):{ffw}.{fnd}f} | -{np.exp(-naw[k]/nawScale):{ffw}.{fnd}f} |')
+                teamOutput.append('')
+            if printTeam: [print(t) for t in teamOutput]
+            with open(f'teams/{re.sub(r"[^a-zA-Z0-9]","",team)}.md', 'w') as file:
+                for s in teamOutput:
+                    file.write(s + '\n')
 
 if pickling:
     pickleFile = 'ncaafb.p'
