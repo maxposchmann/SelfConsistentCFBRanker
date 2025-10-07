@@ -1,24 +1,24 @@
 Arkansas State (2 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.411 |  -0.402 |   5.857 |   5.107 |
-| Rank  |     115 |     112 |      35 |     127 |
+| Value |  -2.467 |  -0.411 |   5.823 |   5.088 |
+| Rank  |     115 |     112 |      38 |     128 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  17 [Iowa State            ](IowaState.md)| Loss       | -  0.605 |
-|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  0.968 |
-|  75 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.982 |
-|  85 [Texas State           ](TexasState.md)| Win        | +  0.927 |
-|  89 [Arkansas              ](Arkansas.md)| Loss       | -  1.103 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  18 [Iowa State            ](IowaState.md)| Loss       | -  0.629 |
+|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  0.975 |
+|  75 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.992 |
+|  87 [Texas State           ](TexasState.md)| Win        | +  0.918 |
+|  89 [Arkansas              ](Arkansas.md)| Loss       | -  1.096 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  63 [Southern Mississippi  ](SouthernMississippi.md)| +  1.083 | -  0.923 |
-|  73 [Troy                  ](Troy.md)| +  1.020 | -  0.980 |
-|  83 [Appalachian State     ](AppalachianState.md)| +  0.941 | -  1.062 |
-|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.864 | -  1.158 |
-| 126 [Louisiana             ](Louisiana.md)| +  0.617 | -  1.622 |
-| 129 [South Alabama         ](SouthAlabama.md)| +  0.582 | -  1.717 |
+|  64 [Southern Mississippi  ](SouthernMississippi.md)| +  1.072 | -  0.933 |
+|  74 [Troy                  ](Troy.md)| +  1.011 | -  0.989 |
+|  84 [Appalachian State     ](AppalachianState.md)| +  0.936 | -  1.069 |
+|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.869 | -  1.151 |
+| 128 [South Alabama         ](SouthAlabama.md)| +  0.601 | -  1.663 |
+| 129 [Louisiana             ](Louisiana.md)| +  0.599 | -  1.669 |
 

@@ -1,24 +1,24 @@
 Oregon State (0 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.516 |  -0.753 |   8.347 |   5.089 |
-| Rank  |     133 |     129 |       1 |     128 |
+| Value |  -4.497 |  -0.749 |   8.427 |   5.095 |
+| Rank  |     132 |     128 |       1 |     127 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Texas Tech            ](TexasTech.md)| Loss       | -  0.556 |
-|  18 [Oregon                ](Oregon.md)| Loss       | -  0.607 |
-|  33 [Fresno State          ](FresnoState.md)| Loss       | -  0.688 |
-|  44 [Houston               ](Houston.md)| Loss       | -  0.750 |
-|  52 [California            ](California.md)| Loss       | -  0.854 |
-|  83 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.062 |
+|  11 [Texas Tech            ](TexasTech.md)| Loss       | -  0.580 |
+|  21 [Oregon                ](Oregon.md)| Loss       | -  0.633 |
+|  33 [Fresno State          ](FresnoState.md)| Loss       | -  0.713 |
+|  43 [Houston               ](Houston.md)| Loss       | -  0.769 |
+|  52 [California            ](California.md)| Loss       | -  0.867 |
+|  84 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.069 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  54 [Washington State      ](WashingtonState.md)| +  1.150 | -  0.870 |
-|  54 [Washington State      ](WashingtonState.md)| +  1.150 | -  0.870 |
-|  55 [Wake Forest           ](WakeForest.md)| +  1.134 | -  0.881 |
-| 107 [Tulsa                 ](Tulsa.md)| +  0.777 | -  1.286 |
-| 131 [Sam Houston           ](SamHouston.md)| +  0.558 | -  1.793 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.320 | -  3.126 |
+|  53 [Washington State      ](WashingtonState.md)| +  1.136 | -  0.880 |
+|  53 [Washington State      ](WashingtonState.md)| +  1.136 | -  0.880 |
+|  55 [Wake Forest           ](WakeForest.md)| +  1.124 | -  0.890 |
+| 105 [Tulsa                 ](Tulsa.md)| +  0.788 | -  1.269 |
+| 131 [Sam Houston           ](SamHouston.md)| +  0.578 | -  1.729 |
+| 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

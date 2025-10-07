@@ -1,24 +1,24 @@
 West Virginia (2 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.887 |  -0.314 |   6.632 |   7.953 |
-| Rank  |     109 |     105 |      14 |      56 |
+| Value |  -1.925 |  -0.321 |   6.637 |   7.757 |
+| Rank  |     108 |     105 |      15 |      58 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [BYU                   ](BYU.md)| Loss       | -  0.574 |
-|  40 [Kansas                ](Kansas.md)| Loss       | -  0.725 |
-|  43 [Utah                  ](Utah.md)| Loss       | -  0.749 |
-|  78 [Pitt                  ](Pitt.md)| Win        | +  0.964 |
-|  92 [Ohio                  ](Ohio.md)| Loss       | -  1.123 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  13 [BYU                   ](BYU.md)| Loss       | -  0.599 |
+|  39 [Kansas                ](Kansas.md)| Loss       | -  0.743 |
+|  44 [Utah                  ](Utah.md)| Loss       | -  0.769 |
+|  79 [Pitt                  ](Pitt.md)| Win        | +  0.955 |
+|  92 [Ohio                  ](Ohio.md)| Loss       | -  1.125 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Texas Tech            ](TexasTech.md)| +  1.799 | -  0.556 |
-|  26 [Arizona State         ](ArizonaState.md)| +  1.552 | -  0.644 |
-|  35 [Texas Christian       ](TexasChristian.md)| +  1.406 | -  0.711 |
-|  44 [Houston               ](Houston.md)| +  1.334 | -  0.750 |
-|  80 [UCF                   ](UCF.md)| +  0.957 | -  1.045 |
-|  90 [Colorado              ](Colorado.md)| +  0.905 | -  1.104 |
+|  11 [Texas Tech            ](TexasTech.md)| +  1.723 | -  0.580 |
+|  25 [Arizona State         ](ArizonaState.md)| +  1.507 | -  0.664 |
+|  36 [Texas Christian       ](TexasChristian.md)| +  1.369 | -  0.731 |
+|  43 [Houston               ](Houston.md)| +  1.300 | -  0.769 |
+|  81 [UCF                   ](UCF.md)| +  0.945 | -  1.059 |
+|  88 [Colorado              ](Colorado.md)| +  0.914 | -  1.095 |
 

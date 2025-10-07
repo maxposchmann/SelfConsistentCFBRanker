@@ -1,24 +1,24 @@
 Stanford (2 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.637 |  -0.127 |   6.040 |   8.671 |
-| Rank  |      87 |      88 |      30 |      38 |
+| Value |  -0.650 |  -0.130 |   6.097 |   8.530 |
+| Rank  |      86 |      87 |      29 |      38 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Virginia              ](Virginia.md)| Loss       | -  0.563 |
-|  13 [BYU                   ](BYU.md)| Loss       | -  0.574 |
-|  53 [Hawaii                ](Hawaii.md)| Loss       | -  0.867 |
-| 111 [San Jose State        ](SanJoseState.md)| Win        | +  0.759 |
-| 127 [Boston College        ](BostonCollege.md)| Win        | +  0.606 |
+|  12 [Virginia              ](Virginia.md)| Loss       | -  0.582 |
+|  13 [BYU                   ](BYU.md)| Loss       | -  0.599 |
+|  54 [Hawaii                ](Hawaii.md)| Loss       | -  0.882 |
+| 112 [San Jose State        ](SanJoseState.md)| Win        | +  0.763 |
+| 126 [Boston College        ](BostonCollege.md)| Win        | +  0.622 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [Miami (FL)            ](MiamiFL.md)| +  2.083 | -  0.480 |
-|  46 [Notre Dame            ](NotreDame.md)| +  1.312 | -  0.762 |
-|  49 [Florida State         ](FloridaState.md)| +  1.283 | -  0.780 |
-|  52 [California            ](California.md)| +  1.171 | -  0.854 |
-|  61 [SMU                   ](SMU.md)| +  1.092 | -  0.916 |
-|  78 [Pitt                  ](Pitt.md)| +  0.964 | -  1.037 |
-| 110 [North Carolina        ](NorthCarolina.md)| +  0.766 | -  1.306 |
+|   4 [Miami (FL)            ](MiamiFL.md)| +  1.999 | -  0.500 |
+|  45 [Notre Dame            ](NotreDame.md)| +  1.295 | -  0.772 |
+|  47 [Florida State         ](FloridaState.md)| +  1.275 | -  0.784 |
+|  52 [California            ](California.md)| +  1.153 | -  0.867 |
+|  61 [SMU                   ](SMU.md)| +  1.081 | -  0.925 |
+|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
+| 109 [North Carolina        ](NorthCarolina.md)| +  0.772 | -  1.296 |
 

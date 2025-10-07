@@ -1,24 +1,24 @@
 Auburn (3 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.651 |   0.330 |   6.876 |   8.813 |
-| Rank  |      50 |      50 |      10 |      36 |
+| Value |   1.663 |   0.333 |   7.055 |   8.609 |
+| Rank  |      50 |      50 |       9 |      36 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.440 |
-|   5 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.496 |
-|  51 [Baylor                ](Baylor.md)| Win        | +  1.204 |
-| 103 [Ball State            ](BallState.md)| Win        | +  0.800 |
-| 129 [South Alabama         ](SouthAlabama.md)| Win        | +  0.582 |
+|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.460 |
+|   5 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.517 |
+|  51 [Baylor                ](Baylor.md)| Win        | +  1.182 |
+| 103 [Ball State            ](BallState.md)| Win        | +  0.807 |
+| 128 [South Alabama         ](SouthAlabama.md)| Win        | +  0.601 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  10 [Alabama               ](Alabama.md)| +  1.822 | -  0.549 |
-|  14 [Missouri              ](Missouri.md)| +  1.710 | -  0.585 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.643 | -  0.609 |
-|  29 [Georgia               ](Georgia.md)| +  1.491 | -  0.671 |
-|  86 [Kentucky              ](Kentucky.md)| +  0.919 | -  1.088 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.907 | -  1.103 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.320 | -  3.126 |
+|   9 [Alabama               ](Alabama.md)| +  1.771 | -  0.565 |
+|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
+|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.589 | -  0.629 |
+|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
+|  85 [Kentucky              ](Kentucky.md)| +  0.923 | -  1.084 |
+|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+| 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

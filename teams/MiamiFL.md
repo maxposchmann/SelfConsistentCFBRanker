@@ -1,24 +1,24 @@
 Miami (FL) (5 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.254 |   1.051 |   5.254 |   7.695 |
-| Rank  |       4 |       4 |      61 |      64 |
+| Value |   5.298 |   1.060 |   5.298 |   7.625 |
+| Rank  |       4 |       4 |      57 |      62 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  36 [South Florida         ](SouthFlorida.md)| Win        | +  1.402 |
-|  46 [Notre Dame            ](NotreDame.md)| Win        | +  1.312 |
-|  49 [Florida State         ](FloridaState.md)| Win        | +  1.283 |
-|  84 [Florida               ](Florida.md)| Win        | +  0.937 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  37 [South Florida         ](SouthFlorida.md)| Win        | +  1.365 |
+|  45 [Notre Dame            ](NotreDame.md)| Win        | +  1.295 |
+|  47 [Florida State         ](FloridaState.md)| Win        | +  1.275 |
+|  82 [Florida               ](Florida.md)| Win        | +  0.943 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  31 [Louisville            ](Louisville.md)| +  1.484 | -  0.674 |
-|  37 [North Carolina State  ](NorthCarolinaState.md)| +  1.400 | -  0.714 |
-|  61 [SMU                   ](SMU.md)| +  1.092 | -  0.916 |
-|  76 [Syracuse              ](Syracuse.md)| +  1.017 | -  0.983 |
-|  78 [Pitt                  ](Pitt.md)| +  0.964 | -  1.037 |
-|  87 [Stanford              ](Stanford.md)| +  0.915 | -  1.093 |
-|  99 [Virginia Tech         ](VirginiaTech.md)| +  0.822 | -  1.216 |
+|  32 [Louisville            ](Louisville.md)| +  1.441 | -  0.694 |
+|  35 [North Carolina State  ](NorthCarolinaState.md)| +  1.379 | -  0.725 |
+|  61 [SMU                   ](SMU.md)| +  1.081 | -  0.925 |
+|  73 [Syracuse              ](Syracuse.md)| +  1.015 | -  0.986 |
+|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
+|  86 [Stanford              ](Stanford.md)| +  0.919 | -  1.089 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| +  0.836 | -  1.195 |
 

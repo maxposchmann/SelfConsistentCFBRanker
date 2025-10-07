@@ -1,24 +1,24 @@
 Marshall (2 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.744 |  -0.549 |   3.688 |   6.952 |
-| Rank  |     118 |     119 |     130 |      85 |
+| Value |  -2.987 |  -0.597 |   3.570 |   6.901 |
+| Rank  |     118 |     119 |     130 |      84 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  29 [Georgia               ](Georgia.md)| Loss       | -  0.671 |
-|  95 [Missouri State        ](MissouriState.md)| Loss       | -  1.195 |
-| 126 [Louisiana             ](Louisiana.md)| Loss       | -  1.622 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.424 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  29 [Georgia               ](Georgia.md)| Loss       | -  0.690 |
+|  95 [Missouri State        ](MissouriState.md)| Loss       | -  1.190 |
+| 129 [Louisiana             ](Louisiana.md)| Loss       | -  1.669 |
+| 134 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.421 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  42 [Old Dominion          ](OldDominion.md)| +  1.343 | -  0.745 |
-|  48 [James Madison         ](JamesMadison.md)| +  1.295 | -  0.772 |
-|  83 [Appalachian State     ](AppalachianState.md)| +  0.941 | -  1.062 |
-|  85 [Texas State           ](TexasState.md)| +  0.927 | -  1.079 |
-|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.864 | -  1.158 |
-|  96 [Coastal Carolina      ](CoastalCarolina.md)| +  0.830 | -  1.205 |
-| 112 [Georgia State         ](GeorgiaState.md)| +  0.753 | -  1.328 |
+|  42 [Old Dominion          ](OldDominion.md)| +  1.310 | -  0.763 |
+|  49 [James Madison         ](JamesMadison.md)| +  1.264 | -  0.791 |
+|  84 [Appalachian State     ](AppalachianState.md)| +  0.936 | -  1.069 |
+|  87 [Texas State           ](TexasState.md)| +  0.918 | -  1.090 |
+|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.869 | -  1.151 |
+|  96 [Coastal Carolina      ](CoastalCarolina.md)| +  0.837 | -  1.195 |
+| 110 [Georgia State         ](GeorgiaState.md)| +  0.769 | -  1.301 |
 

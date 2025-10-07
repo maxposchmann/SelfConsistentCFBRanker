@@ -1,4 +1,4 @@
-#! /usr/bin/python3.10
+#! /usr/bin/python3
 import numpy as np
 import csv
 import sys
@@ -102,13 +102,13 @@ for game in season:
 naw = ws - ls
 newNAW = np.copy(naw[0:-1])
 for j in range(maxIts):
-    naw[nTeam] = min(newNAW) - 1
-    nawScale = max(np.abs(newNAW))
+    naw[nTeam] = min(newNAW) * 1.1
+    nawScale = (max(newNAW)-min(newNAW))/2
     for i in range(nTeam):
         newNAW[i] = 0
         for k in range(nTeam+1):
             for l in range(len(winLossMatrix[i][k])):
-                newNAW[i] = newNAW[i] + winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale)
+                newNAW[i] += winLossMatrix[i][k][l]*np.exp(winLossMatrix[i][k][l]*naw[k]/nawScale)
     maxDiff = np.amax(np.abs(newNAW-naw[0:nTeam]))
     naw[:-1] = np.copy(newNAW)
     iterations = j + 1

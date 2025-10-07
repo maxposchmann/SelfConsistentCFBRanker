@@ -1,24 +1,24 @@
 Texas (3 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.381 |   0.076 |   4.870 |  10.665 |
-| Rank  |      69 |      69 |      80 |      10 |
+| Value |   0.339 |   0.068 |   4.880 |  10.369 |
+| Rank  |      68 |      68 |      78 |       9 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Ohio State            ](OhioState.md)| Loss       | -  0.505 |
-|  84 [Florida               ](Florida.md)| Loss       | -  1.067 |
-| 111 [San Jose State        ](SanJoseState.md)| Win        | +  0.759 |
-| 125 [UTEP                  ](UTEP.md)| Win        | +  0.636 |
-| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.558 |
+|   6 [Ohio State            ](OhioState.md)| Loss       | -  0.529 |
+|  82 [Florida               ](Florida.md)| Loss       | -  1.061 |
+| 112 [San Jose State        ](SanJoseState.md)| Win        | +  0.763 |
+| 124 [UTEP                  ](UTEP.md)| Win        | +  0.652 |
+| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.578 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| +  2.273 | -  0.440 |
-|   5 [Oklahoma              ](Oklahoma.md)| +  2.017 | -  0.496 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.643 | -  0.609 |
-|  29 [Georgia               ](Georgia.md)| +  1.491 | -  0.671 |
-|  34 [Mississippi State     ](MississippiState.md)| +  1.415 | -  0.707 |
-|  86 [Kentucky              ](Kentucky.md)| +  0.919 | -  1.088 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.907 | -  1.103 |
+|   1 [Texas A&M             ](TexasAM.md)| +  2.174 | -  0.460 |
+|   5 [Oklahoma              ](Oklahoma.md)| +  1.934 | -  0.517 |
+|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.589 | -  0.629 |
+|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
+|  34 [Mississippi State     ](MississippiState.md)| +  1.387 | -  0.721 |
+|  85 [Kentucky              ](Kentucky.md)| +  0.923 | -  1.084 |
+|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
 

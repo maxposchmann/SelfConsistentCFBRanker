@@ -1,24 +1,24 @@
 East Carolina (3 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.503 |   0.101 |   4.935 |   7.599 |
-| Rank  |      65 |      65 |      76 |      69 |
+| Value |   0.442 |   0.088 |   4.917 |   7.482 |
+| Rank  |      66 |      66 |      77 |      68 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [BYU                   ](BYU.md)| Loss       | -  0.574 |
-|  37 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.714 |
-|  96 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  0.830 |
-| 122 [Army                  ](Army.md)| Win        | +  0.642 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  13 [BYU                   ](BYU.md)| Loss       | -  0.599 |
+|  35 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.725 |
+|  96 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  0.837 |
+| 125 [Army                  ](Army.md)| Win        | +  0.628 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis.md)| +  1.902 | -  0.526 |
-|  20 [Tulane                ](Tulane.md)| +  1.634 | -  0.612 |
-|  66 [Temple                ](Temple.md)| +  1.071 | -  0.934 |
-|  97 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.825 | -  1.211 |
-| 100 [UTSA                  ](UTSA.md)| +  0.812 | -  1.232 |
-| 107 [Tulsa                 ](Tulsa.md)| +  0.777 | -  1.286 |
-| 130 [Charlotte             ](Charlotte.md)| +  0.578 | -  1.729 |
+|   8 [Memphis               ](Memphis.md)| +  1.806 | -  0.554 |
+|  16 [Tulane                ](Tulane.md)| +  1.591 | -  0.628 |
+|  65 [Temple                ](Temple.md)| +  1.060 | -  0.944 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.828 | -  1.207 |
+| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
+| 105 [Tulsa                 ](Tulsa.md)| +  0.788 | -  1.269 |
+| 130 [Charlotte             ](Charlotte.md)| +  0.591 | -  1.692 |
 

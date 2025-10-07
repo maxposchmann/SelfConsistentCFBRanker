@@ -1,24 +1,24 @@
 North Texas (5 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.654 |   0.731 |   3.654 |   7.097 |
-| Rank  |      16 |      15 |     131 |      83 |
+| Value |   3.554 |   0.711 |   3.554 |   6.987 |
+| Rank  |      17 |      16 |     131 |      83 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  54 [Washington State      ](WashingtonState.md)| Win        | +  1.150 |
-|  79 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.961 |
-| 122 [Army                  ](Army.md)| Win        | +  0.642 |
-| 129 [South Alabama         ](SouthAlabama.md)| Win        | +  0.582 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  53 [Washington State      ](WashingtonState.md)| Win        | +  1.136 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.958 |
+| 125 [Army                  ](Army.md)| Win        | +  0.628 |
+| 128 [South Alabama         ](SouthAlabama.md)| Win        | +  0.601 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  22 [Navy                  ](Navy.md)| +  1.604 | -  0.624 |
-|  36 [South Florida         ](SouthFlorida.md)| +  1.402 | -  0.713 |
-|  66 [Temple                ](Temple.md)| +  1.071 | -  0.934 |
-|  94 [Rice                  ](Rice.md)| +  0.861 | -  1.161 |
-| 100 [UTSA                  ](UTSA.md)| +  0.812 | -  1.232 |
-| 108 [UAB                   ](UAB.md)| +  0.769 | -  1.300 |
-| 130 [Charlotte             ](Charlotte.md)| +  0.578 | -  1.729 |
+|  22 [Navy                  ](Navy.md)| +  1.533 | -  0.652 |
+|  37 [South Florida         ](SouthFlorida.md)| +  1.365 | -  0.732 |
+|  65 [Temple                ](Temple.md)| +  1.060 | -  0.944 |
+|  94 [Rice                  ](Rice.md)| +  0.855 | -  1.169 |
+| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
+| 111 [UAB                   ](UAB.md)| +  0.765 | -  1.307 |
+| 130 [Charlotte             ](Charlotte.md)| +  0.591 | -  1.692 |
 

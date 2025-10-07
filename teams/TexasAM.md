@@ -1,24 +1,24 @@
 Texas A&M (5 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.879 |   1.176 |   5.879 |   7.611 |
-| Rank  |       1 |       1 |      34 |      68 |
+| Value |   5.939 |   1.188 |   5.939 |   7.494 |
+| Rank  |       1 |       1 |      35 |      66 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  34 [Mississippi State     ](MississippiState.md)| Win        | +  1.415 |
-|  46 [Notre Dame            ](NotreDame.md)| Win        | +  1.312 |
-|  50 [Auburn                ](Auburn.md)| Win        | +  1.259 |
-|  64 [Utah State            ](UtahState.md)| Win        | +  1.082 |
-| 100 [UTSA                  ](UTSA.md)| Win        | +  0.812 |
+|  34 [Mississippi State     ](MississippiState.md)| Win        | +  1.387 |
+|  45 [Notre Dame            ](NotreDame.md)| Win        | +  1.295 |
+|  50 [Auburn                ](Auburn.md)| Win        | +  1.243 |
+|  63 [Utah State            ](UtahState.md)| Win        | +  1.072 |
+| 101 [UTSA                  ](UTSA.md)| Win        | +  0.817 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  14 [Missouri              ](Missouri.md)| +  1.710 | -  0.585 |
-|  25 [LSU                   ](LSU.md)| +  1.553 | -  0.644 |
-|  56 [South Carolina        ](SouthCarolina.md)| +  1.129 | -  0.886 |
-|  69 [Texas                 ](Texas.md)| +  1.055 | -  0.948 |
-|  84 [Florida               ](Florida.md)| +  0.937 | -  1.067 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.907 | -  1.103 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.320 | -  3.126 |
+|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
+|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
+|  56 [South Carolina        ](SouthCarolina.md)| +  1.118 | -  0.895 |
+|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
+|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
+|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+| 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

@@ -1,24 +1,24 @@
 Cincinnati (4 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.514 |   0.703 |   5.705 |   8.654 |
-| Rank  |      21 |      18 |      41 |      39 |
+| Value |   3.537 |   0.707 |   5.751 |   8.451 |
+| Rank  |      20 |      17 |      40 |      39 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  17 [Iowa State            ](IowaState.md)| Win        | +  1.653 |
-|  27 [Nebraska              ](Nebraska.md)| Loss       | -  0.648 |
-|  40 [Kansas                ](Kansas.md)| Win        | +  1.379 |
-| 101 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.811 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  18 [Iowa State            ](IowaState.md)| Win        | +  1.590 |
+|  26 [Nebraska              ](Nebraska.md)| Loss       | -  0.666 |
+|  39 [Kansas                ](Kansas.md)| Win        | +  1.346 |
+| 100 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.817 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [BYU                   ](BYU.md)| +  1.744 | -  0.574 |
-|  35 [Texas Christian       ](TexasChristian.md)| +  1.406 | -  0.711 |
-|  41 [Arizona               ](Arizona.md)| +  1.364 | -  0.733 |
-|  43 [Utah                  ](Utah.md)| +  1.334 | -  0.749 |
-|  51 [Baylor                ](Baylor.md)| +  1.204 | -  0.831 |
-|  80 [UCF                   ](UCF.md)| +  0.957 | -  1.045 |
-| 121 [Oklahoma State        ](OklahomaState.md)| +  0.645 | -  1.550 |
+|  13 [BYU                   ](BYU.md)| +  1.670 | -  0.599 |
+|  36 [Texas Christian       ](TexasChristian.md)| +  1.369 | -  0.731 |
+|  41 [Arizona               ](Arizona.md)| +  1.326 | -  0.754 |
+|  44 [Utah                  ](Utah.md)| +  1.300 | -  0.769 |
+|  51 [Baylor                ](Baylor.md)| +  1.182 | -  0.846 |
+|  81 [UCF                   ](UCF.md)| +  0.945 | -  1.059 |
+| 121 [Oklahoma State        ](OklahomaState.md)| +  0.661 | -  1.514 |
 

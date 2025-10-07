@@ -1,24 +1,24 @@
 Charlotte (1 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.923 |  -0.785 |   4.290 |   8.388 |
-| Rank  |     130 |     131 |     111 |      43 |
+| Value |  -4.023 |  -0.805 |   4.223 |   8.197 |
+| Rank  |     130 |     131 |     110 |      45 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  36 [South Florida         ](SouthFlorida.md)| Loss       | -  0.713 |
-|  83 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.062 |
-|  94 [Rice                  ](Rice.md)| Loss       | -  1.161 |
-| 110 [North Carolina        ](NorthCarolina.md)| Loss       | -  1.306 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  37 [South Florida         ](SouthFlorida.md)| Loss       | -  0.732 |
+|  84 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.069 |
+|  94 [Rice                  ](Rice.md)| Loss       | -  1.169 |
+| 109 [North Carolina        ](NorthCarolina.md)| Loss       | -  1.296 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  16 [North Texas           ](NorthTexas.md)| +  1.666 | -  0.600 |
-|  20 [Tulane                ](Tulane.md)| +  1.634 | -  0.612 |
-|  29 [Georgia               ](Georgia.md)| +  1.491 | -  0.671 |
-|  65 [East Carolina         ](EastCarolina.md)| +  1.073 | -  0.932 |
-|  66 [Temple                ](Temple.md)| +  1.071 | -  0.934 |
-| 100 [UTSA                  ](UTSA.md)| +  0.812 | -  1.232 |
-| 122 [Army                  ](Army.md)| +  0.642 | -  1.559 |
+|  16 [Tulane                ](Tulane.md)| +  1.591 | -  0.628 |
+|  17 [North Texas           ](NorthTexas.md)| +  1.591 | -  0.628 |
+|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
+|  65 [Temple                ](Temple.md)| +  1.060 | -  0.944 |
+|  66 [East Carolina         ](EastCarolina.md)| +  1.060 | -  0.944 |
+| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
+| 125 [Army                  ](Army.md)| +  0.628 | -  1.593 |
 

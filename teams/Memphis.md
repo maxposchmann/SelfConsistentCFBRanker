@@ -1,24 +1,24 @@
 Memphis (6 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.603 |   0.767 |   4.603 |   7.342 |
-| Rank  |       8 |      13 |      94 |      80 |
+| Value |   4.522 |   0.754 |   4.522 |   7.170 |
+| Rank  |       8 |      13 |      96 |      80 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  73 [Troy                  ](Troy.md)| Win        | +  1.020 |
-|  89 [Arkansas              ](Arkansas.md)| Win        | +  0.907 |
-|  97 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.825 |
-| 107 [Tulsa                 ](Tulsa.md)| Win        | +  0.777 |
-| 112 [Georgia State         ](GeorgiaState.md)| Win        | +  0.753 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  74 [Troy                  ](Troy.md)| Win        | +  1.011 |
+|  89 [Arkansas              ](Arkansas.md)| Win        | +  0.913 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.828 |
+| 105 [Tulsa                 ](Tulsa.md)| Win        | +  0.788 |
+| 110 [Georgia State         ](GeorgiaState.md)| Win        | +  0.769 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  20 [Tulane                ](Tulane.md)| +  1.634 | -  0.612 |
-|  22 [Navy                  ](Navy.md)| +  1.604 | -  0.624 |
-|  36 [South Florida         ](SouthFlorida.md)| +  1.402 | -  0.713 |
-|  65 [East Carolina         ](EastCarolina.md)| +  1.073 | -  0.932 |
-|  94 [Rice                  ](Rice.md)| +  0.861 | -  1.161 |
-| 108 [UAB                   ](UAB.md)| +  0.769 | -  1.300 |
+|  16 [Tulane                ](Tulane.md)| +  1.591 | -  0.628 |
+|  22 [Navy                  ](Navy.md)| +  1.533 | -  0.652 |
+|  37 [South Florida         ](SouthFlorida.md)| +  1.365 | -  0.732 |
+|  66 [East Carolina         ](EastCarolina.md)| +  1.060 | -  0.944 |
+|  94 [Rice                  ](Rice.md)| +  0.855 | -  1.169 |
+| 111 [UAB                   ](UAB.md)| +  0.765 | -  1.307 |
 

@@ -1,24 +1,24 @@
 Oklahoma State (1 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.137 |  -0.627 |   5.314 |   9.465 |
-| Rank  |     121 |     121 |      56 |      21 |
+| Value |  -3.172 |  -0.634 |   5.308 |   9.202 |
+| Rank  |     121 |     121 |      56 |      22 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Oregon                ](Oregon.md)| Loss       | -  0.607 |
-|  41 [Arizona               ](Arizona.md)| Loss       | -  0.733 |
-|  51 [Baylor                ](Baylor.md)| Loss       | -  0.831 |
-| 107 [Tulsa                 ](Tulsa.md)| Loss       | -  1.286 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  21 [Oregon                ](Oregon.md)| Loss       | -  0.633 |
+|  41 [Arizona               ](Arizona.md)| Loss       | -  0.754 |
+|  51 [Baylor                ](Baylor.md)| Loss       | -  0.846 |
+| 105 [Tulsa                 ](Tulsa.md)| Loss       | -  1.269 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Texas Tech            ](TexasTech.md)| +  1.799 | -  0.556 |
-|  17 [Iowa State            ](IowaState.md)| +  1.653 | -  0.605 |
-|  21 [Cincinnati            ](Cincinnati.md)| +  1.634 | -  0.612 |
-|  40 [Kansas                ](Kansas.md)| +  1.379 | -  0.725 |
-|  44 [Houston               ](Houston.md)| +  1.334 | -  0.750 |
-|  80 [UCF                   ](UCF.md)| +  0.957 | -  1.045 |
-| 116 [Kansas State          ](KansasState.md)| +  0.710 | -  1.408 |
+|  11 [Texas Tech            ](TexasTech.md)| +  1.723 | -  0.580 |
+|  18 [Iowa State            ](IowaState.md)| +  1.590 | -  0.629 |
+|  20 [Cincinnati            ](Cincinnati.md)| +  1.588 | -  0.630 |
+|  39 [Kansas                ](Kansas.md)| +  1.346 | -  0.743 |
+|  43 [Houston               ](Houston.md)| +  1.300 | -  0.769 |
+|  81 [UCF                   ](UCF.md)| +  0.945 | -  1.059 |
+| 116 [Kansas State          ](KansasState.md)| +  0.711 | -  1.407 |
 

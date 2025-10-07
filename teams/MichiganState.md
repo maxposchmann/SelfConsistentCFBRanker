@@ -1,24 +1,24 @@
 Michigan State (3 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.596 |   0.119 |   4.986 |   9.141 |
-| Rank  |      62 |      62 |      74 |      27 |
+| Value |   0.567 |   0.113 |   5.001 |   8.938 |
+| Rank  |      62 |      62 |      75 |      26 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [USC                   ](USC.md)| Loss       | -  0.643 |
-|  27 [Nebraska              ](Nebraska.md)| Loss       | -  0.648 |
-|  79 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.961 |
-| 127 [Boston College        ](BostonCollege.md)| Win        | +  0.606 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.320 |
+|  24 [USC                   ](USC.md)| Loss       | -  0.662 |
+|  26 [Nebraska              ](Nebraska.md)| Loss       | -  0.666 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.958 |
+| 126 [Boston College        ](BostonCollege.md)| Win        | +  0.622 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Indiana               ](Indiana.md)| +  2.224 | -  0.450 |
-|  15 [Michigan              ](Michigan.md)| +  1.691 | -  0.591 |
-|  45 [Maryland              ](Maryland.md)| +  1.328 | -  0.753 |
-|  58 [Minnesota             ](Minnesota.md)| +  1.120 | -  0.893 |
-|  60 [Iowa                  ](Iowa.md)| +  1.101 | -  0.908 |
-|  81 [Penn State            ](PennState.md)| +  0.952 | -  1.050 |
-| 114 [UCLA                  ](UCLA.md)| +  0.725 | -  1.380 |
+|   3 [Indiana               ](Indiana.md)| +  2.131 | -  0.469 |
+|  14 [Michigan              ](Michigan.md)| +  1.638 | -  0.610 |
+|  46 [Maryland              ](Maryland.md)| +  1.294 | -  0.773 |
+|  58 [Minnesota             ](Minnesota.md)| +  1.106 | -  0.904 |
+|  60 [Iowa                  ](Iowa.md)| +  1.089 | -  0.919 |
+|  83 [Penn State            ](PennState.md)| +  0.942 | -  1.062 |
+| 114 [UCLA                  ](UCLA.md)| +  0.738 | -  1.354 |
 
