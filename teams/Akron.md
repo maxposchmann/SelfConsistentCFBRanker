@@ -1,24 +1,24 @@
-Akron (2 - 4)
+Akron (2 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.172 |  -0.529 |   5.187 |   4.339 |
-| Rank  |     120 |     117 |      63 |     134 |
+| Value |  -5.565 |  -0.696 |   6.771 |   2.844 |
+| Rank  |     129 |     127 |      85 |     136 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  26 [Nebraska              ](Nebraska.md)| Loss       | -  0.666 |
-|  71 [Toledo                ](Toledo.md)| Loss       | -  0.980 |
-| 102 [Wyoming               ](Wyoming.md)| Loss       | -  1.228 |
-| 107 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.783 |
-| 111 [UAB                   ](UAB.md)| Loss       | -  1.307 |
+|  36 [Nebraska              ](Nebraska.md)| Loss       | -  0.711 |
+|  89 [Toledo                ](Toledo.md)| Loss       | -  1.084 |
+|  93 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.885 |
+|  97 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.157 |
+| 102 [UAB                   ](UAB.md)| Loss       | -  1.192 |
+| 107 [Wyoming               ](Wyoming.md)| Loss       | -  1.259 |
+| 113 [Ball State            ](BallState.md)| Loss       | -  1.287 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  99 [Buffalo               ](Buffalo.md)| +  0.822 | -  1.216 |
-| 100 [Bowling Green         ](BowlingGreen.md)| +  0.817 | -  1.224 |
-| 103 [Ball State            ](BallState.md)| +  0.807 | -  1.240 |
-| 104 [Miami (OH)            ](MiamiOH.md)| +  0.789 | -  1.267 |
-| 117 [Kent State            ](KentState.md)| +  0.699 | -  1.430 |
-| 135 [Massachusetts         ](Massachusetts.md)| +  0.405 | -  2.472 |
+|  86 [Buffalo               ](Buffalo.md)| +  0.930 | -  1.076 |
+|  96 [Bowling Green         ](BowlingGreen.md)| +  0.869 | -  1.151 |
+| 120 [Kent State            ](KentState.md)| +  0.678 | -  1.475 |
+| 136 [Massachusetts         ](Massachusetts.md)| +  0.368 | -  2.718 |
 

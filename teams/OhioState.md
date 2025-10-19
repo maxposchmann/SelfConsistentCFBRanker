@@ -1,24 +1,24 @@
-Ohio State (5 - 0)
+Ohio State (7 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.872 |   0.974 |   4.872 |   8.026 |
-| Rank  |       6 |       6 |      79 |      50 |
+| Value |   7.948 |   1.135 |   7.948 |   5.117 |
+| Rank  |       2 |       2 |      41 |      88 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  28 [Washington            ](Washington.md)| Win        | +  1.464 |
-|  58 [Minnesota             ](Minnesota.md)| Win        | +  1.106 |
-|  68 [Texas                 ](Texas.md)| Win        | +  1.045 |
-|  92 [Ohio                  ](Ohio.md)| Win        | +  0.889 |
+|  22 [Illinois              ](Illinois.md)| Win        | +  1.568 |
+|  34 [Minnesota             ](Minnesota.md)| Win        | +  1.412 |
+|  37 [Texas                 ](Texas.md)| Win        | +  1.387 |
+|  38 [Washington            ](Washington.md)| Win        | +  1.372 |
+|  79 [Ohio                  ](Ohio.md)| Win        | +  0.954 |
+| 105 [Wisconsin             ](Wisconsin.md)| Win        | +  0.813 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   7 [Illinois              ](Illinois.md)| +  1.877 | -  0.533 |
-|  14 [Michigan              ](Michigan.md)| +  1.638 | -  0.610 |
-|  72 [Rutgers               ](Rutgers.md)| +  1.017 | -  0.983 |
-|  83 [Penn State            ](PennState.md)| +  0.942 | -  1.062 |
-|  90 [Wisconsin             ](Wisconsin.md)| +  0.912 | -  1.096 |
-|  91 [Purdue                ](Purdue.md)| +  0.902 | -  1.109 |
-| 114 [UCLA                  ](UCLA.md)| +  0.738 | -  1.354 |
+|  20 [Michigan              ](Michigan.md)| +  1.592 | -  0.628 |
+|  77 [UCLA                  ](UCLA.md)| +  0.958 | -  1.044 |
+|  88 [Rutgers               ](Rutgers.md)| +  0.928 | -  1.078 |
+| 100 [Penn State            ](PennState.md)| +  0.848 | -  1.179 |
+| 108 [Purdue                ](Purdue.md)| +  0.790 | -  1.266 |
 

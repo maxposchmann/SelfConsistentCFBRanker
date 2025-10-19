@@ -1,24 +1,24 @@
-Ole Miss (5 - 0)
+Ole Miss (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.839 |   1.168 |   5.839 |   8.301 |
-| Rank  |       2 |       2 |      36 |      41 |
+| Value |   6.088 |   0.870 |   8.625 |   5.257 |
+| Rank  |       8 |      10 |      19 |      80 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Tulane                ](Tulane.md)| Win        | +  1.591 |
-|  23 [LSU                   ](LSU.md)| Win        | +  1.512 |
-|  85 [Kentucky              ](Kentucky.md)| Win        | +  0.923 |
-|  89 [Arkansas              ](Arkansas.md)| Win        | +  0.913 |
-| 110 [Georgia State         ](GeorgiaState.md)| Win        | +  0.769 |
+|   7 [Georgia               ](Georgia.md)| Loss       | -  0.512 |
+|  13 [Tulane                ](Tulane.md)| Win        | +  1.759 |
+|  30 [LSU                   ](LSU.md)| Win        | +  1.447 |
+|  74 [Washington State      ](WashingtonState.md)| Win        | +  0.992 |
+|  99 [Kentucky              ](Kentucky.md)| Win        | +  0.855 |
+| 104 [Arkansas              ](Arkansas.md)| Win        | +  0.826 |
+| 123 [Georgia State         ](GeorgiaState.md)| Win        | +  0.629 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   5 [Oklahoma              ](Oklahoma.md)| +  1.934 | -  0.517 |
-|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
-|  34 [Mississippi State     ](MississippiState.md)| +  1.387 | -  0.721 |
-|  53 [Washington State      ](WashingtonState.md)| +  1.136 | -  0.880 |
-|  56 [South Carolina        ](SouthCarolina.md)| +  1.118 | -  0.895 |
-|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
+|  16 [Oklahoma              ](Oklahoma.md)| +  1.706 | -  0.586 |
+|  52 [Mississippi State     ](MississippiState.md)| +  1.185 | -  0.844 |
+|  63 [Florida               ](Florida.md)| +  1.088 | -  0.919 |
+|  83 [South Carolina        ](SouthCarolina.md)| +  0.945 | -  1.058 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

@@ -1,24 +1,24 @@
-Rutgers (3 - 2)
+Rutgers (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.130 |   0.026 |   4.152 |   9.949 |
-| Rank  |      72 |      72 |     116 |      12 |
+| Value |  -0.690 |  -0.099 |   7.862 |   6.567 |
+| Rank  |      88 |      87 |      46 |      38 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  58 [Minnesota             ](Minnesota.md)| Loss       | -  0.904 |
-|  60 [Iowa                  ](Iowa.md)| Loss       | -  0.919 |
-|  92 [Ohio                  ](Ohio.md)| Win        | +  0.889 |
-| 104 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.789 |
+|  21 [Oregon                ](Oregon.md)| Loss       | -  0.637 |
+|  34 [Minnesota             ](Minnesota.md)| Loss       | -  0.708 |
+|  38 [Washington            ](Washington.md)| Loss       | -  0.729 |
+|  46 [Iowa                  ](Iowa.md)| Loss       | -  0.796 |
+|  79 [Ohio                  ](Ohio.md)| Win        | +  0.954 |
+|  97 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.864 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Ohio State            ](OhioState.md)| +  1.891 | -  0.529 |
-|   7 [Illinois              ](Illinois.md)| +  1.877 | -  0.533 |
-|  21 [Oregon                ](Oregon.md)| +  1.580 | -  0.633 |
-|  28 [Washington            ](Washington.md)| +  1.464 | -  0.683 |
-|  46 [Maryland              ](Maryland.md)| +  1.294 | -  0.773 |
-|  83 [Penn State            ](PennState.md)| +  0.942 | -  1.062 |
-|  91 [Purdue                ](Purdue.md)| +  0.902 | -  1.109 |
+|   2 [Ohio State            ](OhioState.md)| +  2.367 | -  0.422 |
+|  22 [Illinois              ](Illinois.md)| +  1.568 | -  0.638 |
+|  73 [Maryland              ](Maryland.md)| +  0.994 | -  1.006 |
+| 100 [Penn State            ](PennState.md)| +  0.848 | -  1.179 |
+| 108 [Purdue                ](Purdue.md)| +  0.790 | -  1.266 |
 

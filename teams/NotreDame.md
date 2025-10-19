@@ -1,24 +1,24 @@
-Notre Dame (3 - 2)
+Notre Dame (5 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.978 |   0.396 |   7.431 |   7.933 |
-| Rank  |      45 |      43 |       7 |      51 |
+| Value |   4.959 |   0.708 |  10.273 |   5.300 |
+| Rank  |      15 |      16 |       5 |      78 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.460 |
-|   4 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.500 |
-|  67 [Boise State           ](BoiseState.md)| Win        | +  1.054 |
-|  89 [Arkansas              ](Arkansas.md)| Win        | +  0.913 |
-|  91 [Purdue                ](Purdue.md)| Win        | +  0.902 |
+|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
+|   9 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.549 |
+|  24 [USC                   ](USC.md)| Win        | +  1.535 |
+|  32 [Boise State           ](BoiseState.md)| Win        | +  1.437 |
+|  49 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.221 |
+| 104 [Arkansas              ](Arkansas.md)| Win        | +  0.826 |
+| 108 [Purdue                ](Purdue.md)| Win        | +  0.790 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  22 [Navy                  ](Navy.md)| +  1.533 | -  0.652 |
-|  24 [USC                   ](USC.md)| +  1.512 | -  0.662 |
-|  35 [North Carolina State  ](NorthCarolinaState.md)| +  1.379 | -  0.725 |
-|  73 [Syracuse              ](Syracuse.md)| +  1.015 | -  0.986 |
-|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
-|  86 [Stanford              ](Stanford.md)| +  0.919 | -  1.089 |
-| 126 [Boston College        ](BostonCollege.md)| +  0.622 | -  1.609 |
+|  19 [Navy                  ](Navy.md)| +  1.610 | -  0.621 |
+|  50 [Pitt                  ](Pitt.md)| +  1.221 | -  0.819 |
+|  75 [Stanford              ](Stanford.md)| +  0.974 | -  1.027 |
+|  85 [Syracuse              ](Syracuse.md)| +  0.935 | -  1.069 |
+| 128 [Boston College        ](BostonCollege.md)| +  0.560 | -  1.786 |
 

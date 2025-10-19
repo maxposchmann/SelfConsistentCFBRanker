@@ -1,24 +1,24 @@
-Florida State (3 - 2)
+Florida State (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.860 |   0.372 |   6.883 |   7.106 |
-| Rank  |      47 |      46 |      11 |      81 |
+| Value |   0.471 |   0.067 |   9.353 |   5.220 |
+| Rank  |      67 |      67 |      10 |      84 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.500 |
-|   9 [Alabama               ](Alabama.md)| Win        | +  1.771 |
-|  12 [Virginia              ](Virginia.md)| Loss       | -  0.582 |
-| 117 [Kent State            ](KentState.md)| Win        | +  0.699 |
+|   4 [Alabama               ](Alabama.md)| Win        | +  2.264 |
+|   9 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.549 |
+|  10 [Virginia              ](Virginia.md)| Loss       | -  0.556 |
+|  50 [Pitt                  ](Pitt.md)| Loss       | -  0.819 |
+|  75 [Stanford              ](Stanford.md)| Loss       | -  1.027 |
+| 120 [Kent State            ](KentState.md)| Win        | +  0.678 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  35 [North Carolina State  ](NorthCarolinaState.md)| +  1.379 | -  0.725 |
-|  55 [Wake Forest           ](WakeForest.md)| +  1.124 | -  0.890 |
-|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
-|  80 [Clemson               ](Clemson.md)| +  0.952 | -  1.051 |
-|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
-|  86 [Stanford              ](Stanford.md)| +  0.919 | -  1.089 |
-|  97 [Virginia Tech         ](VirginiaTech.md)| +  0.836 | -  1.195 |
+|  49 [North Carolina State  ](NorthCarolinaState.md)| +  1.221 | -  0.819 |
+|  53 [Wake Forest           ](WakeForest.md)| +  1.183 | -  0.846 |
+|  63 [Florida               ](Florida.md)| +  1.088 | -  0.919 |
+|  82 [Clemson               ](Clemson.md)| +  0.949 | -  1.054 |
+| 110 [Virginia Tech         ](VirginiaTech.md)| +  0.779 | -  1.284 |
 

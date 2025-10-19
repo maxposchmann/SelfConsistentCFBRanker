@@ -1,24 +1,24 @@
-Oklahoma (5 - 0)
+Oklahoma (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.046 |   1.009 |   5.046 |  10.671 |
-| Rank  |       5 |       5 |      71 |       7 |
+| Value |   4.929 |   0.704 |   7.053 |   8.597 |
+| Rank  |      16 |      17 |      73 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  14 [Michigan              ](Michigan.md)| Win        | +  1.638 |
-|  50 [Auburn                ](Auburn.md)| Win        | +  1.243 |
-|  65 [Temple                ](Temple.md)| Win        | +  1.060 |
-| 117 [Kent State            ](KentState.md)| Win        | +  0.699 |
+|  20 [Michigan              ](Michigan.md)| Win        | +  1.592 |
+|  37 [Texas                 ](Texas.md)| Loss       | -  0.721 |
+|  69 [Temple                ](Temple.md)| Win        | +  1.037 |
+|  70 [Auburn                ](Auburn.md)| Win        | +  1.037 |
+|  83 [South Carolina        ](SouthCarolina.md)| Win        | +  0.945 |
+| 120 [Kent State            ](KentState.md)| Win        | +  0.678 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| +  2.146 | -  0.466 |
-|   9 [Alabama               ](Alabama.md)| +  1.771 | -  0.565 |
-|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
-|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
-|  30 [Tennessee             ](Tennessee.md)| +  1.448 | -  0.690 |
-|  56 [South Carolina        ](SouthCarolina.md)| +  1.118 | -  0.895 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
+|   4 [Alabama               ](Alabama.md)| +  2.264 | -  0.442 |
+|   8 [Ole Miss              ](OleMiss.md)| +  1.935 | -  0.517 |
+|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
+|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
+|  35 [Tennessee             ](Tennessee.md)| +  1.411 | -  0.709 |
 

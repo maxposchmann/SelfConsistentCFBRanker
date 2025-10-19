@@ -1,24 +1,24 @@
-Bowling Green (2 - 3)
+Bowling Green (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.544 |  -0.309 |   4.922 |   4.758 |
-| Rank  |     100 |     101 |      76 |     131 |
+| Value |  -1.298 |  -0.185 |   7.414 |   2.938 |
+| Rank  |      96 |      96 |      63 |     135 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.630 |
-|  32 [Louisville            ](Louisville.md)| Loss       | -  0.694 |
-|  92 [Ohio                  ](Ohio.md)| Loss       | -  1.125 |
-| 127 [Liberty               ](Liberty.md)| Win        | +  0.602 |
+|  11 [Louisville            ](Louisville.md)| Loss       | -  0.562 |
+|  18 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.604 |
+|  79 [Ohio                  ](Ohio.md)| Loss       | -  1.048 |
+|  89 [Toledo                ](Toledo.md)| Win        | +  0.922 |
+|  93 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.129 |
+| 106 [Liberty               ](Liberty.md)| Win        | +  0.803 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  71 [Toledo                ](Toledo.md)| +  1.021 | -  0.980 |
-|  99 [Buffalo               ](Buffalo.md)| +  0.822 | -  1.216 |
-| 107 [Central Michigan      ](CentralMichigan.md)| +  0.783 | -  1.277 |
-| 117 [Kent State            ](KentState.md)| +  0.699 | -  1.430 |
-| 120 [Akron                 ](Akron.md)| +  0.661 | -  1.514 |
-| 135 [Massachusetts         ](Massachusetts.md)| +  0.405 | -  2.472 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| +  0.368 | -  2.718 |
+|  86 [Buffalo               ](Buffalo.md)| +  0.930 | -  1.076 |
+| 120 [Kent State            ](KentState.md)| +  0.678 | -  1.475 |
+| 129 [Akron                 ](Akron.md)| +  0.547 | -  1.828 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| +  0.415 | -  2.409 |
+| 136 [Massachusetts         ](Massachusetts.md)| +  0.368 | -  2.718 |
 

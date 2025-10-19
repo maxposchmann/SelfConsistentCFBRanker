@@ -1,24 +1,24 @@
-Texas A&M (5 - 0)
+Texas A&M (7 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.939 |   1.188 |   5.939 |   7.494 |
-| Rank  |       1 |       1 |      35 |      66 |
+| Value |   7.835 |   1.119 |   7.835 |   5.651 |
+| Rank  |       3 |       3 |      47 |      67 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  34 [Mississippi State     ](MississippiState.md)| Win        | +  1.387 |
-|  45 [Notre Dame            ](NotreDame.md)| Win        | +  1.295 |
-|  50 [Auburn                ](Auburn.md)| Win        | +  1.243 |
-|  63 [Utah State            ](UtahState.md)| Win        | +  1.072 |
-| 101 [UTSA                  ](UTSA.md)| Win        | +  0.817 |
+|  15 [Notre Dame            ](NotreDame.md)| Win        | +  1.712 |
+|  52 [Mississippi State     ](MississippiState.md)| Win        | +  1.185 |
+|  63 [Florida               ](Florida.md)| Win        | +  1.088 |
+|  66 [Utah State            ](UtahState.md)| Win        | +  1.066 |
+|  70 [Auburn                ](Auburn.md)| Win        | +  1.037 |
+| 101 [UTSA                  ](UTSA.md)| Win        | +  0.848 |
+| 104 [Arkansas              ](Arkansas.md)| Win        | +  0.826 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
-|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
-|  56 [South Carolina        ](SouthCarolina.md)| +  1.118 | -  0.895 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
-|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
+|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
+|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
+|  83 [South Carolina        ](SouthCarolina.md)| +  0.945 | -  1.058 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

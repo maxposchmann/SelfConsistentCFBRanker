@@ -1,24 +1,24 @@
-UTEP (1 - 4)
+UTEP (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.266 |  -0.653 |   4.864 |   5.799 |
-| Rank  |     124 |     125 |      80 |     113 |
+| Value |  -4.144 |  -0.592 |   6.091 |   4.848 |
+| Rank  |     122 |     122 |     109 |      97 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  38 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.736 |
-|  63 [Utah State            ](UtahState.md)| Loss       | -  0.933 |
-|  68 [Texas                 ](Texas.md)| Loss       | -  0.957 |
-|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  0.975 |
+|  37 [Texas                 ](Texas.md)| Loss       | -  0.721 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.851 |
+|  66 [Utah State            ](UtahState.md)| Loss       | -  0.938 |
+|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.145 |
+| 106 [Liberty               ](Liberty.md)| Loss       | -  1.246 |
+| 132 [Sam Houston           ](SamHouston.md)| Win        | +  0.473 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  69 [Delaware              ](Delaware.md)| +  1.045 | -  0.957 |
-|  75 [Kennesaw State        ](KennesawState.md)| +  1.008 | -  0.992 |
-|  77 [New Mexico State      ](NewMexicoState.md)| +  0.986 | -  1.014 |
-|  95 [Missouri State        ](MissouriState.md)| +  0.840 | -  1.190 |
-| 113 [Jacksonville State    ](JacksonvilleState.md)| +  0.740 | -  1.352 |
-| 127 [Liberty               ](Liberty.md)| +  0.602 | -  1.660 |
-| 131 [Sam Houston           ](SamHouston.md)| +  0.578 | -  1.729 |
+|  56 [Kennesaw State        ](KennesawState.md)| +  1.173 | -  0.852 |
+|  78 [Jacksonville State    ](JacksonvilleState.md)| +  0.956 | -  1.046 |
+|  80 [Delaware              ](Delaware.md)| +  0.950 | -  1.053 |
+|  84 [Missouri State        ](MissouriState.md)| +  0.936 | -  1.069 |
+| 103 [New Mexico State      ](NewMexicoState.md)| +  0.833 | -  1.200 |
 

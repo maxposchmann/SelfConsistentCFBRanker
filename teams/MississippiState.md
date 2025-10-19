@@ -1,24 +1,24 @@
-Mississippi State (4 - 2)
+Mississippi State (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.504 |   0.417 |   7.495 |   8.127 |
-| Rank  |      34 |      38 |       6 |      47 |
+| Value |   1.562 |   0.223 |   8.594 |   7.640 |
+| Rank  |      52 |      55 |      20 |      14 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.460 |
-|  25 [Arizona State         ](ArizonaState.md)| Win        | +  1.507 |
-|  30 [Tennessee             ](Tennessee.md)| Loss       | -  0.690 |
-|  64 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.072 |
-| 122 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.657 |
+|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
+|  27 [Arizona State         ](ArizonaState.md)| Win        | +  1.517 |
+|  35 [Tennessee             ](Tennessee.md)| Loss       | -  0.709 |
+|  48 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.241 |
+|  63 [Florida               ](Florida.md)| Loss       | -  0.919 |
+| 134 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.463 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| +  2.146 | -  0.466 |
-|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
-|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
-|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+|   7 [Georgia               ](Georgia.md)| +  1.953 | -  0.512 |
+|   8 [Ole Miss              ](OleMiss.md)| +  1.935 | -  0.517 |
+|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
+|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
+| 104 [Arkansas              ](Arkansas.md)| +  0.826 | -  1.210 |
 

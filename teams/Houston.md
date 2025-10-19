@@ -1,24 +1,24 @@
-Houston (4 - 1)
+Houston (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.006 |   0.401 |   4.393 |   7.766 |
-| Rank  |      43 |      41 |     106 |      57 |
+| Value |   3.928 |   0.561 |   6.293 |   5.735 |
+| Rank  |      25 |      25 |      98 |      63 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Texas Tech            ](TexasTech.md)| Loss       | -  0.580 |
-|  88 [Colorado              ](Colorado.md)| Win        | +  0.914 |
-|  94 [Rice                  ](Rice.md)| Win        | +  0.855 |
-| 132 [Oregon State          ](OregonState.md)| Win        | +  0.555 |
+|  14 [Texas Tech            ](TexasTech.md)| Loss       | -  0.574 |
+|  58 [Arizona               ](Arizona.md)| Win        | +  1.151 |
+|  62 [Colorado              ](Colorado.md)| Win        | +  1.097 |
+| 109 [Rice                  ](Rice.md)| Win        | +  0.784 |
+| 125 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
+| 127 [Oregon State          ](OregonState.md)| Win        | +  0.579 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  25 [Arizona State         ](ArizonaState.md)| +  1.507 | -  0.664 |
-|  36 [Texas Christian       ](TexasChristian.md)| +  1.369 | -  0.731 |
-|  41 [Arizona               ](Arizona.md)| +  1.326 | -  0.754 |
-|  51 [Baylor                ](Baylor.md)| +  1.182 | -  0.846 |
-|  81 [UCF                   ](UCF.md)| +  0.945 | -  1.059 |
-| 108 [West Virginia         ](WestVirginia.md)| +  0.778 | -  1.286 |
-| 121 [Oklahoma State        ](OklahomaState.md)| +  0.661 | -  1.514 |
+|  27 [Arizona State         ](ArizonaState.md)| +  1.517 | -  0.659 |
+|  40 [Texas Christian       ](TexasChristian.md)| +  1.349 | -  0.741 |
+|  65 [Baylor                ](Baylor.md)| +  1.085 | -  0.922 |
+|  71 [UCF                   ](UCF.md)| +  1.017 | -  0.983 |
+| 114 [West Virginia         ](WestVirginia.md)| +  0.766 | -  1.305 |
 

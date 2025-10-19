@@ -1,24 +1,24 @@
-Northern Illinois (1 - 4)
+Northern Illinois (1 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.218 |  -0.644 |   5.149 |   5.146 |
-| Rank  |     122 |     122 |      67 |     125 |
+| Value |  -7.095 |  -1.014 |   5.983 |   3.740 |
+| Rank  |     134 |     133 |     112 |     127 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  34 [Mississippi State     ](MississippiState.md)| Loss       | -  0.721 |
-|  46 [Maryland              ](Maryland.md)| Loss       | -  0.773 |
-|  48 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.786 |
-| 104 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.267 |
+|  44 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.791 |
+|  52 [Mississippi State     ](MississippiState.md)| Loss       | -  0.844 |
+|  73 [Maryland              ](Maryland.md)| Loss       | -  1.006 |
+|  79 [Ohio                  ](Ohio.md)| Loss       | -  1.048 |
+|  97 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.157 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| Loss       | -  2.409 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  71 [Toledo                ](Toledo.md)| +  1.021 | -  0.980 |
-|  78 [Western Michigan      ](WesternMichigan.md)| +  0.958 | -  1.044 |
-|  92 [Ohio                  ](Ohio.md)| +  0.889 | -  1.125 |
-| 103 [Ball State            ](BallState.md)| +  0.807 | -  1.240 |
-| 117 [Kent State            ](KentState.md)| +  0.699 | -  1.430 |
-| 135 [Massachusetts         ](Massachusetts.md)| +  0.405 | -  2.472 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| +  0.368 | -  2.718 |
+|  72 [Western Michigan      ](WesternMichigan.md)| +  0.996 | -  1.004 |
+|  89 [Toledo                ](Toledo.md)| +  0.922 | -  1.084 |
+| 113 [Ball State            ](BallState.md)| +  0.777 | -  1.287 |
+| 120 [Kent State            ](KentState.md)| +  0.678 | -  1.475 |
+| 136 [Massachusetts         ](Massachusetts.md)| +  0.368 | -  2.718 |
 

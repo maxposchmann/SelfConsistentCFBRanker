@@ -1,24 +1,24 @@
-LSU (4 - 1)
+LSU (5 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.160 |   0.632 |   5.946 |  10.835 |
-| Rank  |      23 |      21 |      34 |       5 |
+| Value |   3.410 |   0.487 |   8.244 |   8.237 |
+| Rank  |      30 |      30 |      31 |       6 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| Loss       | -  0.466 |
-|  38 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  1.359 |
-|  80 [Clemson               ](Clemson.md)| Win        | +  0.952 |
-|  82 [Florida               ](Florida.md)| Win        | +  0.943 |
+|   8 [Ole Miss              ](OleMiss.md)| Loss       | -  0.517 |
+|  17 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.597 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  1.176 |
+|  63 [Florida               ](Florida.md)| Win        | +  1.088 |
+|  82 [Clemson               ](Clemson.md)| Win        | +  0.949 |
+|  83 [South Carolina        ](SouthCarolina.md)| Win        | +  0.945 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| +  2.174 | -  0.460 |
-|   5 [Oklahoma              ](Oklahoma.md)| +  1.934 | -  0.517 |
-|   9 [Alabama               ](Alabama.md)| +  1.771 | -  0.565 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.589 | -  0.629 |
-|  40 [Western Kentucky      ](WesternKentucky.md)| +  1.336 | -  0.748 |
-|  56 [South Carolina        ](SouthCarolina.md)| +  1.118 | -  0.895 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+|   3 [Texas A&M             ](TexasAM.md)| +  2.338 | -  0.428 |
+|   4 [Alabama               ](Alabama.md)| +  2.264 | -  0.442 |
+|  16 [Oklahoma              ](Oklahoma.md)| +  1.706 | -  0.586 |
+|  61 [Western Kentucky      ](WesternKentucky.md)| +  1.102 | -  0.907 |
+| 104 [Arkansas              ](Arkansas.md)| +  0.826 | -  1.210 |
 

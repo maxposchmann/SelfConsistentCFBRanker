@@ -1,24 +1,24 @@
-Rice (3 - 3)
+Rice (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.194 |  -0.199 |   5.175 |   7.442 |
-| Rank  |      94 |      93 |      66 |      71 |
+| Value |  -2.244 |  -0.321 |   6.292 |   6.701 |
+| Rank  |     109 |     109 |      99 |      34 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Navy                  ](Navy.md)| Loss       | -  0.652 |
-|  43 [Houston               ](Houston.md)| Loss       | -  0.769 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.207 |
-| 129 [Louisiana             ](Louisiana.md)| Win        | +  0.599 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.591 |
+|  19 [Navy                  ](Navy.md)| Loss       | -  0.621 |
+|  25 [Houston               ](Houston.md)| Loss       | -  0.653 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.168 |
+| 101 [UTSA                  ](UTSA.md)| Loss       | -  1.180 |
+| 124 [Louisiana             ](Louisiana.md)| Win        | +  0.601 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis.md)| +  1.806 | -  0.554 |
-|  17 [North Texas           ](NorthTexas.md)| +  1.591 | -  0.628 |
-|  37 [South Florida         ](SouthFlorida.md)| +  1.365 | -  0.732 |
-|  59 [Connecticut           ](Connecticut.md)| +  1.097 | -  0.912 |
-| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
-| 111 [UAB                   ](UAB.md)| +  0.765 | -  1.307 |
+|  12 [South Florida         ](SouthFlorida.md)| +  1.764 | -  0.567 |
+|  26 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
+|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
+|  57 [Connecticut           ](Connecticut.md)| +  1.152 | -  0.868 |
+| 102 [UAB                   ](UAB.md)| +  0.839 | -  1.192 |
 

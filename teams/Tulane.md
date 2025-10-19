@@ -1,24 +1,24 @@
-Tulane (4 - 1)
+Tulane (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.554 |   0.711 |   6.339 |   6.790 |
-| Rank  |      16 |      15 |      24 |      86 |
+| Value |   5.208 |   0.744 |   7.729 |   4.671 |
+| Rank  |      13 |      13 |      52 |     107 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| Loss       | -  0.466 |
-|  31 [Duke                  ](Duke.md)| Win        | +  1.448 |
-|  57 [Northwestern          ](Northwestern.md)| Win        | +  1.116 |
-| 105 [Tulsa                 ](Tulsa.md)| Win        | +  0.788 |
-| 128 [South Alabama         ](SouthAlabama.md)| Win        | +  0.601 |
+|   8 [Ole Miss              ](OleMiss.md)| Loss       | -  0.517 |
+|  41 [Northwestern          ](Northwestern.md)| Win        | +  1.323 |
+|  45 [Duke                  ](Duke.md)| Win        | +  1.258 |
+|  60 [East Carolina         ](EastCarolina.md)| Win        | +  1.107 |
+| 118 [Tulsa                 ](Tulsa.md)| Win        | +  0.718 |
+| 119 [Army                  ](Army.md)| Win        | +  0.710 |
+| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.586 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis.md)| +  1.806 | -  0.554 |
-|  65 [Temple                ](Temple.md)| +  1.060 | -  0.944 |
-|  66 [East Carolina         ](EastCarolina.md)| +  1.060 | -  0.944 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.828 | -  1.207 |
-| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
-| 125 [Army                  ](Army.md)| +  0.628 | -  1.593 |
-| 130 [Charlotte             ](Charlotte.md)| +  0.591 | -  1.692 |
+|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
+|  69 [Temple                ](Temple.md)| +  1.037 | -  0.964 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.856 | -  1.168 |
+| 101 [UTSA                  ](UTSA.md)| +  0.848 | -  1.180 |
+| 130 [Charlotte             ](Charlotte.md)| +  0.501 | -  1.996 |
 

@@ -1,24 +1,24 @@
-Navy (5 - 0)
+Navy (6 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.270 |   0.654 |   3.270 |   8.574 |
-| Rank  |      22 |      20 |     135 |      37 |
+| Value |   4.393 |   0.732 |   4.393 |   7.988 |
+| Rank  |      19 |      15 |     135 |       7 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  94 [Rice                  ](Rice.md)| Win        | +  0.855 |
-| 105 [Tulsa                 ](Tulsa.md)| Win        | +  0.788 |
-| 111 [UAB                   ](UAB.md)| Win        | +  0.765 |
-| 119 [Air Force             ](AirForce.md)| Win        | +  0.670 |
+|  69 [Temple                ](Temple.md)| Win        | +  1.037 |
+| 102 [UAB                   ](UAB.md)| Win        | +  0.839 |
+| 109 [Rice                  ](Rice.md)| Win        | +  0.784 |
+| 115 [Air Force             ](AirForce.md)| Win        | +  0.759 |
+| 118 [Tulsa                 ](Tulsa.md)| Win        | +  0.718 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis.md)| +  1.806 | -  0.554 |
-|  17 [North Texas           ](NorthTexas.md)| +  1.591 | -  0.628 |
-|  37 [South Florida         ](SouthFlorida.md)| +  1.365 | -  0.732 |
-|  45 [Notre Dame            ](NotreDame.md)| +  1.295 | -  0.772 |
-|  65 [Temple                ](Temple.md)| +  1.060 | -  0.944 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.828 | -  1.207 |
-| 125 [Army                  ](Army.md)| +  0.628 | -  1.593 |
+|  12 [South Florida         ](SouthFlorida.md)| +  1.764 | -  0.567 |
+|  15 [Notre Dame            ](NotreDame.md)| +  1.712 | -  0.584 |
+|  26 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
+|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.856 | -  1.168 |
+| 119 [Army                  ](Army.md)| +  0.710 | -  1.408 |
 

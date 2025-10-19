@@ -1,24 +1,24 @@
-Colorado State (1 - 4)
+Colorado State (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.246 |  -0.649 |   5.088 |   7.583 |
-| Rank  |     123 |     124 |      70 |      64 |
+| Value |  -2.968 |  -0.424 |   7.330 |   5.406 |
+| Rank  |     117 |     116 |      64 |      75 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  28 [Washington            ](Washington.md)| Loss       | -  0.683 |
-|  48 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.786 |
-|  53 [Washington State      ](WashingtonState.md)| Loss       | -  0.880 |
-| 101 [UTSA                  ](UTSA.md)| Loss       | -  1.224 |
+|  38 [Washington            ](Washington.md)| Loss       | -  0.729 |
+|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
+|  44 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.791 |
+|  59 [Fresno State          ](FresnoState.md)| Win        | +  1.151 |
+|  74 [Washington State      ](WashingtonState.md)| Loss       | -  1.008 |
+| 101 [UTSA                  ](UTSA.md)| Loss       | -  1.180 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  27 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.500 | -  0.667 |
-|  33 [Fresno State          ](FresnoState.md)| +  1.402 | -  0.713 |
-|  54 [Hawaii                ](Hawaii.md)| +  1.134 | -  0.882 |
-|  67 [Boise State           ](BoiseState.md)| +  1.054 | -  0.949 |
-|  76 [New Mexico            ](NewMexico.md)| +  1.007 | -  0.993 |
-| 102 [Wyoming               ](Wyoming.md)| +  0.815 | -  1.228 |
-| 119 [Air Force             ](AirForce.md)| +  0.670 | -  1.492 |
+|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.448 | -  0.691 |
+|  32 [Boise State           ](BoiseState.md)| +  1.437 | -  0.696 |
+|  76 [New Mexico            ](NewMexico.md)| +  0.968 | -  1.033 |
+| 107 [Wyoming               ](Wyoming.md)| +  0.794 | -  1.259 |
+| 115 [Air Force             ](AirForce.md)| +  0.759 | -  1.317 |
 

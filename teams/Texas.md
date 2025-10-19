@@ -1,24 +1,24 @@
-Texas (3 - 2)
+Texas (5 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.339 |   0.068 |   4.880 |  10.369 |
-| Rank  |      68 |      68 |      78 |       9 |
+| Value |   3.016 |   0.431 |   7.938 |   7.978 |
+| Rank  |      37 |      37 |      42 |       9 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Ohio State            ](OhioState.md)| Loss       | -  0.529 |
-|  82 [Florida               ](Florida.md)| Loss       | -  1.061 |
-| 112 [San Jose State        ](SanJoseState.md)| Win        | +  0.763 |
-| 124 [UTEP                  ](UTEP.md)| Win        | +  0.652 |
-| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.578 |
+|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.422 |
+|  16 [Oklahoma              ](Oklahoma.md)| Win        | +  1.706 |
+|  63 [Florida               ](Florida.md)| Loss       | -  0.919 |
+|  99 [Kentucky              ](Kentucky.md)| Win        | +  0.855 |
+| 121 [San Jose State        ](SanJoseState.md)| Win        | +  0.661 |
+| 122 [UTEP                  ](UTEP.md)| Win        | +  0.638 |
+| 132 [Sam Houston           ](SamHouston.md)| Win        | +  0.473 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| +  2.174 | -  0.460 |
-|   5 [Oklahoma              ](Oklahoma.md)| +  1.934 | -  0.517 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.589 | -  0.629 |
-|  29 [Georgia               ](Georgia.md)| +  1.450 | -  0.690 |
-|  34 [Mississippi State     ](MississippiState.md)| +  1.387 | -  0.721 |
-|  85 [Kentucky              ](Kentucky.md)| +  0.923 | -  1.084 |
-|  89 [Arkansas              ](Arkansas.md)| +  0.913 | -  1.096 |
+|   3 [Texas A&M             ](TexasAM.md)| +  2.338 | -  0.428 |
+|   7 [Georgia               ](Georgia.md)| +  1.953 | -  0.512 |
+|  17 [Vanderbilt            ](Vanderbilt.md)| +  1.676 | -  0.597 |
+|  52 [Mississippi State     ](MississippiState.md)| +  1.185 | -  0.844 |
+| 104 [Arkansas              ](Arkansas.md)| +  0.826 | -  1.210 |
 

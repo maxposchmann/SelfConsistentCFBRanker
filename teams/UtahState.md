@@ -1,24 +1,24 @@
-Utah State (3 - 2)
+Utah State (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.534 |   0.107 |   5.627 |   7.393 |
-| Rank  |      63 |      63 |      44 |      75 |
+| Value |   0.590 |   0.084 |   7.876 |   5.486 |
+| Rank  |      66 |      66 |      45 |      70 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.460 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.629 |
-| 119 [Air Force             ](AirForce.md)| Win        | +  0.670 |
-| 124 [UTEP                  ](UTEP.md)| Win        | +  0.652 |
+|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
+|  17 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.597 |
+|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
+| 115 [Air Force             ](AirForce.md)| Win        | +  0.759 |
+| 121 [San Jose State        ](SanJoseState.md)| Win        | +  0.661 |
+| 122 [UTEP                  ](UTEP.md)| Win        | +  0.638 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  27 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.500 | -  0.667 |
-|  33 [Fresno State          ](FresnoState.md)| +  1.402 | -  0.713 |
-|  54 [Hawaii                ](Hawaii.md)| +  1.134 | -  0.882 |
-|  67 [Boise State           ](BoiseState.md)| +  1.054 | -  0.949 |
-|  76 [New Mexico            ](NewMexico.md)| +  1.007 | -  0.993 |
-| 112 [San Jose State        ](SanJoseState.md)| +  0.763 | -  1.311 |
-| 133 [Nevada                ](Nevada.md)| +  0.532 | -  1.881 |
+|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.448 | -  0.691 |
+|  32 [Boise State           ](BoiseState.md)| +  1.437 | -  0.696 |
+|  59 [Fresno State          ](FresnoState.md)| +  1.151 | -  0.869 |
+|  76 [New Mexico            ](NewMexico.md)| +  0.968 | -  1.033 |
+| 131 [Nevada                ](Nevada.md)| +  0.483 | -  2.072 |
 

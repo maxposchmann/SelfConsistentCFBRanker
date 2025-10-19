@@ -1,24 +1,24 @@
-Vanderbilt (5 - 1)
+Vanderbilt (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.542 |   0.590 |   5.970 |   7.802 |
-| Rank  |      19 |      27 |      33 |      54 |
+| Value |   4.762 |   0.680 |   7.578 |   6.230 |
+| Rank  |      17 |      18 |      58 |      46 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   9 [Alabama               ](Alabama.md)| Loss       | -  0.565 |
-|  56 [South Carolina        ](SouthCarolina.md)| Win        | +  1.118 |
-|  63 [Utah State            ](UtahState.md)| Win        | +  1.072 |
-|  97 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.836 |
-| 110 [Georgia State         ](GeorgiaState.md)| Win        | +  0.769 |
+|   4 [Alabama               ](Alabama.md)| Loss       | -  0.442 |
+|  30 [LSU                   ](LSU.md)| Win        | +  1.447 |
+|  66 [Utah State            ](UtahState.md)| Win        | +  1.066 |
+|  83 [South Carolina        ](SouthCarolina.md)| Win        | +  0.945 |
+| 110 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.779 |
+| 123 [Georgia State         ](GeorgiaState.md)| Win        | +  0.629 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
-|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
-|  30 [Tennessee             ](Tennessee.md)| +  1.448 | -  0.690 |
-|  50 [Auburn                ](Auburn.md)| +  1.243 | -  0.805 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
-|  85 [Kentucky              ](Kentucky.md)| +  0.923 | -  1.084 |
+|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
+|  35 [Tennessee             ](Tennessee.md)| +  1.411 | -  0.709 |
+|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
+|  70 [Auburn                ](Auburn.md)| +  1.037 | -  0.965 |
+|  99 [Kentucky              ](Kentucky.md)| +  0.855 | -  1.169 |
 

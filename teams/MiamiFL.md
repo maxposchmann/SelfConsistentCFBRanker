@@ -1,24 +1,24 @@
-Miami (FL) (5 - 0)
+Miami (FL) (5 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.298 |   1.060 |   5.298 |   7.625 |
-| Rank  |       4 |       4 |      57 |      62 |
+| Value |   5.535 |   0.922 |   7.928 |   6.434 |
+| Rank  |       9 |       7 |      43 |      41 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  37 [South Florida         ](SouthFlorida.md)| Win        | +  1.365 |
-|  45 [Notre Dame            ](NotreDame.md)| Win        | +  1.295 |
-|  47 [Florida State         ](FloridaState.md)| Win        | +  1.275 |
-|  82 [Florida               ](Florida.md)| Win        | +  0.943 |
+|  11 [Louisville            ](Louisville.md)| Loss       | -  0.562 |
+|  12 [South Florida         ](SouthFlorida.md)| Win        | +  1.764 |
+|  15 [Notre Dame            ](NotreDame.md)| Win        | +  1.712 |
+|  63 [Florida               ](Florida.md)| Win        | +  1.088 |
+|  67 [Florida State         ](FloridaState.md)| Win        | +  1.052 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  32 [Louisville            ](Louisville.md)| +  1.441 | -  0.694 |
-|  35 [North Carolina State  ](NorthCarolinaState.md)| +  1.379 | -  0.725 |
-|  61 [SMU                   ](SMU.md)| +  1.081 | -  0.925 |
-|  73 [Syracuse              ](Syracuse.md)| +  1.015 | -  0.986 |
-|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
-|  86 [Stanford              ](Stanford.md)| +  0.919 | -  1.089 |
-|  97 [Virginia Tech         ](VirginiaTech.md)| +  0.836 | -  1.195 |
+|  43 [SMU                   ](SMU.md)| +  1.304 | -  0.767 |
+|  49 [North Carolina State  ](NorthCarolinaState.md)| +  1.221 | -  0.819 |
+|  50 [Pitt                  ](Pitt.md)| +  1.221 | -  0.819 |
+|  75 [Stanford              ](Stanford.md)| +  0.974 | -  1.027 |
+|  85 [Syracuse              ](Syracuse.md)| +  0.935 | -  1.069 |
+| 110 [Virginia Tech         ](VirginiaTech.md)| +  0.779 | -  1.284 |
 

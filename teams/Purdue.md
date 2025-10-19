@@ -1,24 +1,24 @@
-Purdue (2 - 3)
+Purdue (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.793 |  -0.159 |   6.036 |  10.362 |
-| Rank  |      91 |      92 |      31 |      10 |
+| Value |  -2.173 |  -0.310 |   8.847 |   8.641 |
+| Rank  |     108 |     108 |      16 |       2 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [Illinois              ](Illinois.md)| Loss       | -  0.533 |
-|  24 [USC                   ](USC.md)| Loss       | -  0.662 |
-|  45 [Notre Dame            ](NotreDame.md)| Loss       | -  0.772 |
-| 103 [Ball State            ](BallState.md)| Win        | +  0.807 |
+|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.584 |
+|  22 [Illinois              ](Illinois.md)| Loss       | -  0.638 |
+|  24 [USC                   ](USC.md)| Loss       | -  0.651 |
+|  34 [Minnesota             ](Minnesota.md)| Loss       | -  0.708 |
+|  41 [Northwestern          ](Northwestern.md)| Loss       | -  0.756 |
+| 113 [Ball State            ](BallState.md)| Win        | +  0.777 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Indiana               ](Indiana.md)| +  2.131 | -  0.469 |
-|   6 [Ohio State            ](OhioState.md)| +  1.891 | -  0.529 |
-|  14 [Michigan              ](Michigan.md)| +  1.638 | -  0.610 |
-|  28 [Washington            ](Washington.md)| +  1.464 | -  0.683 |
-|  57 [Northwestern          ](Northwestern.md)| +  1.116 | -  0.896 |
-|  58 [Minnesota             ](Minnesota.md)| +  1.106 | -  0.904 |
-|  72 [Rutgers               ](Rutgers.md)| +  1.017 | -  0.983 |
+|   1 [Indiana               ](Indiana.md)| +  2.381 | -  0.420 |
+|   2 [Ohio State            ](OhioState.md)| +  2.367 | -  0.422 |
+|  20 [Michigan              ](Michigan.md)| +  1.592 | -  0.628 |
+|  38 [Washington            ](Washington.md)| +  1.372 | -  0.729 |
+|  88 [Rutgers               ](Rutgers.md)| +  0.928 | -  1.078 |
 

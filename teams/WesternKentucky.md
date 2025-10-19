@@ -1,24 +1,24 @@
-Western Kentucky (5 - 1)
+Western Kentucky (5 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.216 |   0.369 |   4.217 |   5.805 |
-| Rank  |      40 |      47 |     111 |     112 |
+| Value |   0.899 |   0.128 |   4.916 |   4.879 |
+| Rank  |      61 |      61 |     131 |      96 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  69 [Delaware              ](Delaware.md)| Win        | +  1.045 |
-|  71 [Toledo                ](Toledo.md)| Loss       | -  0.980 |
-|  95 [Missouri State        ](MissouriState.md)| Win        | +  0.840 |
-| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.578 |
-| 133 [Nevada                ](Nevada.md)| Win        | +  0.532 |
+|  80 [Delaware              ](Delaware.md)| Win        | +  0.950 |
+|  84 [Missouri State        ](MissouriState.md)| Win        | +  0.936 |
+|  89 [Toledo                ](Toledo.md)| Loss       | -  1.084 |
+|  90 [Florida International ](FloridaInternational.md)| Loss       | -  1.096 |
+| 131 [Nevada                ](Nevada.md)| Win        | +  0.483 |
+| 132 [Sam Houston           ](SamHouston.md)| Win        | +  0.473 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
-|  38 [Louisiana Tech        ](LouisianaTech.md)| +  1.359 | -  0.736 |
-|  77 [New Mexico State      ](NewMexicoState.md)| +  0.986 | -  1.014 |
-| 106 [Florida International ](FloridaInternational.md)| +  0.788 | -  1.269 |
-| 113 [Jacksonville State    ](JacksonvilleState.md)| +  0.740 | -  1.352 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.421 | -  2.374 |
+|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| +  1.176 | -  0.851 |
+|  78 [Jacksonville State    ](JacksonvilleState.md)| +  0.956 | -  1.046 |
+| 103 [New Mexico State      ](NewMexicoState.md)| +  0.833 | -  1.200 |
+| 133 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.466 | -  2.144 |
 

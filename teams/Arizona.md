@@ -1,24 +1,24 @@
-Arizona (4 - 1)
+Arizona (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.157 |   0.431 |   4.436 |   9.506 |
-| Rank  |      41 |      36 |     103 |      16 |
+| Value |   1.296 |   0.185 |   8.296 |   6.529 |
+| Rank  |      58 |      58 |      30 |      39 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Iowa State            ](IowaState.md)| Loss       | -  0.629 |
-|  54 [Hawaii                ](Hawaii.md)| Win        | +  1.134 |
-| 116 [Kansas State          ](KansasState.md)| Win        | +  0.711 |
-| 121 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.661 |
+|   5 [BYU                   ](BYU.md)| Loss       | -  0.474 |
+|  25 [Houston               ](Houston.md)| Loss       | -  0.653 |
+|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.731 |
+|  42 [Hawaii                ](Hawaii.md)| Win        | +  1.316 |
+|  94 [Kansas State          ](KansasState.md)| Win        | +  0.875 |
+| 125 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [BYU                   ](BYU.md)| +  1.670 | -  0.599 |
-|  20 [Cincinnati            ](Cincinnati.md)| +  1.588 | -  0.630 |
-|  25 [Arizona State         ](ArizonaState.md)| +  1.507 | -  0.664 |
-|  39 [Kansas                ](Kansas.md)| +  1.346 | -  0.743 |
-|  43 [Houston               ](Houston.md)| +  1.300 | -  0.769 |
-|  51 [Baylor                ](Baylor.md)| +  1.182 | -  0.846 |
-|  88 [Colorado              ](Colorado.md)| +  0.914 | -  1.095 |
+|  18 [Cincinnati            ](Cincinnati.md)| +  1.656 | -  0.604 |
+|  27 [Arizona State         ](ArizonaState.md)| +  1.517 | -  0.659 |
+|  55 [Kansas                ](Kansas.md)| +  1.174 | -  0.852 |
+|  62 [Colorado              ](Colorado.md)| +  1.097 | -  0.911 |
+|  65 [Baylor                ](Baylor.md)| +  1.085 | -  0.922 |
 

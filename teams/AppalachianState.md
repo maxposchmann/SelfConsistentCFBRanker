@@ -1,24 +1,24 @@
-Appalachian State (3 - 2)
+Appalachian State (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.508 |  -0.102 |   3.501 |   6.448 |
-| Rank  |      84 |      84 |     132 |      97 |
+| Value |  -0.483 |  -0.069 |   5.725 |   5.184 |
+| Rank  |      81 |      80 |     116 |      86 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  64 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.933 |
-|  67 [Boise State           ](BoiseState.md)| Loss       | -  0.949 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.591 |
-| 132 [Oregon State          ](OregonState.md)| Win        | +  0.555 |
+|  32 [Boise State           ](BoiseState.md)| Loss       | -  0.696 |
+|  48 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.806 |
+|  68 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.964 |
+| 123 [Georgia State         ](GeorgiaState.md)| Win        | +  0.629 |
+| 127 [Oregon State          ](OregonState.md)| Win        | +  0.579 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  42 [Old Dominion          ](OldDominion.md)| +  1.310 | -  0.763 |
-|  49 [James Madison         ](JamesMadison.md)| +  1.264 | -  0.791 |
-|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.869 | -  1.151 |
-|  96 [Coastal Carolina      ](CoastalCarolina.md)| +  0.837 | -  1.195 |
-| 110 [Georgia State         ](GeorgiaState.md)| +  0.769 | -  1.301 |
-| 115 [Arkansas State        ](ArkansasState.md)| +  0.724 | -  1.381 |
-| 118 [Marshall              ](Marshall.md)| +  0.677 | -  1.478 |
+|  28 [James Madison         ](JamesMadison.md)| +  1.497 | -  0.668 |
+|  64 [Old Dominion          ](OldDominion.md)| +  1.088 | -  0.919 |
+|  87 [Marshall              ](Marshall.md)| +  0.929 | -  1.076 |
+|  92 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.891 | -  1.122 |
+| 111 [Arkansas State        ](ArkansasState.md)| +  0.779 | -  1.284 |
 

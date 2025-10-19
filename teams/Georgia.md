@@ -1,24 +1,24 @@
-Georgia (4 - 1)
+Georgia (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.840 |   0.568 |   5.268 |   9.120 |
-| Rank  |      29 |      29 |      60 |      23 |
+| Value |   6.174 |   0.882 |   8.990 |   6.214 |
+| Rank  |       7 |       9 |      14 |      47 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   9 [Alabama               ](Alabama.md)| Loss       | -  0.565 |
-|  30 [Tennessee             ](Tennessee.md)| Win        | +  1.448 |
-|  85 [Kentucky              ](Kentucky.md)| Win        | +  0.923 |
-| 118 [Marshall              ](Marshall.md)| Win        | +  0.677 |
+|   4 [Alabama               ](Alabama.md)| Loss       | -  0.442 |
+|   8 [Ole Miss              ](OleMiss.md)| Win        | +  1.935 |
+|  35 [Tennessee             ](Tennessee.md)| Win        | +  1.411 |
+|  70 [Auburn                ](Auburn.md)| Win        | +  1.037 |
+|  87 [Marshall              ](Marshall.md)| Win        | +  0.929 |
+|  99 [Kentucky              ](Kentucky.md)| Win        | +  0.855 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| +  2.146 | -  0.466 |
-|  10 [Georgia Tech          ](GeorgiaTech.md)| +  1.765 | -  0.566 |
-|  34 [Mississippi State     ](MississippiState.md)| +  1.387 | -  0.721 |
-|  50 [Auburn                ](Auburn.md)| +  1.243 | -  0.805 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
-|  82 [Florida               ](Florida.md)| +  0.943 | -  1.061 |
-| 130 [Charlotte             ](Charlotte.md)| +  0.591 | -  1.692 |
+|   6 [Georgia Tech          ](GeorgiaTech.md)| +  2.054 | -  0.487 |
+|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
+|  52 [Mississippi State     ](MississippiState.md)| +  1.185 | -  0.844 |
+|  63 [Florida               ](Florida.md)| +  1.088 | -  0.919 |
+| 130 [Charlotte             ](Charlotte.md)| +  0.501 | -  1.996 |
 

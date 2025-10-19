@@ -1,24 +1,24 @@
-Air Force (1 - 4)
+Air Force (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.063 |  -0.613 |   5.204 |   6.463 |
-| Rank  |     119 |     120 |      62 |      96 |
+| Value |  -2.541 |  -0.363 |   8.128 |   4.217 |
+| Rank  |     115 |     115 |      34 |     117 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Navy                  ](Navy.md)| Loss       | -  0.652 |
-|  54 [Hawaii                ](Hawaii.md)| Loss       | -  0.882 |
-|  63 [Utah State            ](UtahState.md)| Loss       | -  0.933 |
-|  67 [Boise State           ](BoiseState.md)| Loss       | -  0.949 |
+|  19 [Navy                  ](Navy.md)| Loss       | -  0.621 |
+|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.691 |
+|  32 [Boise State           ](BoiseState.md)| Loss       | -  0.696 |
+|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
+|  66 [Utah State            ](UtahState.md)| Loss       | -  0.938 |
+| 107 [Wyoming               ](Wyoming.md)| Win        | +  0.794 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  27 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.500 | -  0.667 |
-|  59 [Connecticut           ](Connecticut.md)| +  1.097 | -  0.912 |
-|  76 [New Mexico            ](NewMexico.md)| +  1.007 | -  0.993 |
-| 102 [Wyoming               ](Wyoming.md)| +  0.815 | -  1.228 |
-| 112 [San Jose State        ](SanJoseState.md)| +  0.763 | -  1.311 |
-| 123 [Colorado State        ](ColoradoState.md)| +  0.654 | -  1.529 |
-| 125 [Army                  ](Army.md)| +  0.628 | -  1.593 |
+|  57 [Connecticut           ](Connecticut.md)| +  1.152 | -  0.868 |
+|  76 [New Mexico            ](NewMexico.md)| +  0.968 | -  1.033 |
+| 117 [Colorado State        ](ColoradoState.md)| +  0.725 | -  1.380 |
+| 119 [Army                  ](Army.md)| +  0.710 | -  1.408 |
+| 121 [San Jose State        ](SanJoseState.md)| +  0.661 | -  1.512 |
 

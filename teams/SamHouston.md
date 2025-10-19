@@ -1,24 +1,24 @@
-Sam Houston (0 - 5)
+Sam Houston (0 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.190 |  -0.838 |   6.152 |   5.560 |
-| Rank  |     131 |     132 |      27 |     117 |
+| Value |  -6.907 |  -0.987 |   7.751 |   4.083 |
+| Rank  |     132 |     132 |      50 |     123 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  27 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.667 |
-|  40 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.748 |
-|  54 [Hawaii                ](Hawaii.md)| Loss       | -  0.882 |
-|  68 [Texas                 ](Texas.md)| Loss       | -  0.957 |
-|  77 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.014 |
+|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.691 |
+|  37 [Texas                 ](Texas.md)| Loss       | -  0.721 |
+|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
+|  61 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.907 |
+|  78 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.046 |
+| 103 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.200 |
+| 122 [UTEP                  ](UTEP.md)| Loss       | -  1.567 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  38 [Louisiana Tech        ](LouisianaTech.md)| +  1.359 | -  0.736 |
-|  69 [Delaware              ](Delaware.md)| +  1.045 | -  0.957 |
-| 106 [Florida International ](FloridaInternational.md)| +  0.788 | -  1.269 |
-| 113 [Jacksonville State    ](JacksonvilleState.md)| +  0.740 | -  1.352 |
-| 124 [UTEP                  ](UTEP.md)| +  0.652 | -  1.533 |
-| 132 [Oregon State          ](OregonState.md)| +  0.555 | -  1.800 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.421 | -  2.374 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| +  1.176 | -  0.851 |
+|  80 [Delaware              ](Delaware.md)| +  0.950 | -  1.053 |
+|  90 [Florida International ](FloridaInternational.md)| +  0.913 | -  1.096 |
+| 127 [Oregon State          ](OregonState.md)| +  0.579 | -  1.727 |
+| 133 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.466 | -  2.144 |
 

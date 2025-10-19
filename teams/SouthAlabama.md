@@ -1,24 +1,24 @@
-South Alabama (1 - 5)
+South Alabama (1 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.888 |  -0.648 |   6.772 |   5.108 |
-| Rank  |     128 |     123 |      13 |     126 |
+| Value |  -4.931 |  -0.704 |   7.762 |   4.122 |
+| Rank  |     126 |     128 |      49 |     121 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Tulane                ](Tulane.md)| Loss       | -  0.628 |
-|  17 [North Texas           ](NorthTexas.md)| Loss       | -  0.628 |
-|  50 [Auburn                ](Auburn.md)| Loss       | -  0.805 |
-|  74 [Troy                  ](Troy.md)| Loss       | -  0.989 |
-|  96 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.195 |
+|  13 [Tulane                ](Tulane.md)| Loss       | -  0.569 |
+|  26 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
+|  51 [Troy                  ](Troy.md)| Loss       | -  0.833 |
+|  68 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.964 |
+|  70 [Auburn                ](Auburn.md)| Loss       | -  0.965 |
+| 111 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.284 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  64 [Southern Mississippi  ](SouthernMississippi.md)| +  1.072 | -  0.933 |
-|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  1.026 | -  0.975 |
-|  87 [Texas State           ](TexasState.md)| +  0.918 | -  1.090 |
-| 110 [Georgia State         ](GeorgiaState.md)| +  0.769 | -  1.301 |
-| 115 [Arkansas State        ](ArkansasState.md)| +  0.724 | -  1.381 |
-| 129 [Louisiana             ](Louisiana.md)| +  0.599 | -  1.669 |
+|  48 [Southern Mississippi  ](SouthernMississippi.md)| +  1.241 | -  0.806 |
+|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.873 | -  1.145 |
+| 112 [Texas State           ](TexasState.md)| +  0.778 | -  1.285 |
+| 123 [Georgia State         ](GeorgiaState.md)| +  0.629 | -  1.591 |
+| 124 [Louisiana             ](Louisiana.md)| +  0.601 | -  1.665 |
 

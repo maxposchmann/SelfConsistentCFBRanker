@@ -1,24 +1,24 @@
-Southern Mississippi (3 - 2)
+Southern Mississippi (5 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.530 |   0.106 |   4.788 |   5.748 |
-| Rank  |      64 |      64 |      83 |     114 |
+| Value |   1.995 |   0.285 |   6.058 |   4.217 |
+| Rank  |      48 |      48 |     110 |     118 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  34 [Mississippi State     ](MississippiState.md)| Loss       | -  0.721 |
-|  38 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.736 |
-|  84 [Appalachian State     ](AppalachianState.md)| Win        | +  0.936 |
-| 113 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.740 |
+|  52 [Mississippi State     ](MississippiState.md)| Loss       | -  0.844 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.851 |
+|  78 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.956 |
+|  81 [Appalachian State     ](AppalachianState.md)| Win        | +  0.949 |
+|  92 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.891 |
+| 124 [Louisiana             ](Louisiana.md)| Win        | +  0.601 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  1.026 | -  0.975 |
-|  74 [Troy                  ](Troy.md)| +  1.011 | -  0.989 |
-|  87 [Texas State           ](TexasState.md)| +  0.918 | -  1.090 |
-|  93 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.869 | -  1.151 |
-| 115 [Arkansas State        ](ArkansasState.md)| +  0.724 | -  1.381 |
-| 128 [South Alabama         ](SouthAlabama.md)| +  0.601 | -  1.663 |
-| 129 [Louisiana             ](Louisiana.md)| +  0.599 | -  1.669 |
+|  51 [Troy                  ](Troy.md)| +  1.200 | -  0.833 |
+|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.873 | -  1.145 |
+| 111 [Arkansas State        ](ArkansasState.md)| +  0.779 | -  1.284 |
+| 112 [Texas State           ](TexasState.md)| +  0.778 | -  1.285 |
+| 126 [South Alabama         ](SouthAlabama.md)| +  0.586 | -  1.707 |
 

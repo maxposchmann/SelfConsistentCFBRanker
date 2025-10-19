@@ -1,24 +1,24 @@
-West Virginia (2 - 4)
+West Virginia (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.925 |  -0.321 |   6.637 |   7.757 |
-| Rank  |     108 |     105 |      15 |      58 |
+| Value |  -2.456 |  -0.351 |   8.405 |   7.237 |
+| Rank  |     114 |     114 |      24 |      20 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [BYU                   ](BYU.md)| Loss       | -  0.599 |
-|  39 [Kansas                ](Kansas.md)| Loss       | -  0.743 |
-|  44 [Utah                  ](Utah.md)| Loss       | -  0.769 |
-|  79 [Pitt                  ](Pitt.md)| Win        | +  0.955 |
-|  92 [Ohio                  ](Ohio.md)| Loss       | -  1.125 |
+|   5 [BYU                   ](BYU.md)| Loss       | -  0.474 |
+|  31 [Utah                  ](Utah.md)| Loss       | -  0.695 |
+|  50 [Pitt                  ](Pitt.md)| Win        | +  1.221 |
+|  55 [Kansas                ](Kansas.md)| Loss       | -  0.852 |
+|  71 [UCF                   ](UCF.md)| Loss       | -  0.983 |
+|  79 [Ohio                  ](Ohio.md)| Loss       | -  1.048 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Texas Tech            ](TexasTech.md)| +  1.723 | -  0.580 |
-|  25 [Arizona State         ](ArizonaState.md)| +  1.507 | -  0.664 |
-|  36 [Texas Christian       ](TexasChristian.md)| +  1.369 | -  0.731 |
-|  43 [Houston               ](Houston.md)| +  1.300 | -  0.769 |
-|  81 [UCF                   ](UCF.md)| +  0.945 | -  1.059 |
-|  88 [Colorado              ](Colorado.md)| +  0.914 | -  1.095 |
+|  14 [Texas Tech            ](TexasTech.md)| +  1.743 | -  0.574 |
+|  25 [Houston               ](Houston.md)| +  1.531 | -  0.653 |
+|  27 [Arizona State         ](ArizonaState.md)| +  1.517 | -  0.659 |
+|  40 [Texas Christian       ](TexasChristian.md)| +  1.349 | -  0.741 |
+|  62 [Colorado              ](Colorado.md)| +  1.097 | -  0.911 |
 

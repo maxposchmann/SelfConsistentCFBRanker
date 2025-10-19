@@ -1,24 +1,24 @@
-Arkansas (2 - 3)
+Arkansas (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.699 |  -0.140 |   6.631 |  10.441 |
-| Rank  |      89 |      89 |      16 |       8 |
+| Value |  -1.759 |  -0.251 |  10.274 |   6.595 |
+| Rank  |     104 |     103 |       4 |      36 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ole Miss              ](OleMiss.md)| Loss       | -  0.466 |
-|   8 [Memphis               ](Memphis.md)| Loss       | -  0.554 |
-|  45 [Notre Dame            ](NotreDame.md)| Loss       | -  0.772 |
-| 115 [Arkansas State        ](ArkansasState.md)| Win        | +  0.724 |
+|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
+|   8 [Ole Miss              ](OleMiss.md)| Loss       | -  0.517 |
+|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.584 |
+|  33 [Memphis               ](Memphis.md)| Loss       | -  0.700 |
+|  35 [Tennessee             ](Tennessee.md)| Loss       | -  0.709 |
+| 111 [Arkansas State        ](ArkansasState.md)| Win        | +  0.779 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| +  2.174 | -  0.460 |
-|  15 [Missouri              ](Missouri.md)| +  1.631 | -  0.613 |
-|  23 [LSU                   ](LSU.md)| +  1.512 | -  0.662 |
-|  30 [Tennessee             ](Tennessee.md)| +  1.448 | -  0.690 |
-|  34 [Mississippi State     ](MississippiState.md)| +  1.387 | -  0.721 |
-|  50 [Auburn                ](Auburn.md)| +  1.243 | -  0.805 |
-|  68 [Texas                 ](Texas.md)| +  1.045 | -  0.957 |
+|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
+|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
+|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
+|  52 [Mississippi State     ](MississippiState.md)| +  1.185 | -  0.844 |
+|  70 [Auburn                ](Auburn.md)| +  1.037 | -  0.965 |
 

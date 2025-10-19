@@ -1,24 +1,24 @@
-Stanford (2 - 3)
+Stanford (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.650 |  -0.130 |   6.097 |   8.530 |
-| Rank  |      86 |      87 |      29 |      38 |
+| Value |  -0.245 |  -0.035 |   9.006 |   6.739 |
+| Rank  |      75 |      75 |      13 |      33 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Virginia              ](Virginia.md)| Loss       | -  0.582 |
-|  13 [BYU                   ](BYU.md)| Loss       | -  0.599 |
-|  54 [Hawaii                ](Hawaii.md)| Loss       | -  0.882 |
-| 112 [San Jose State        ](SanJoseState.md)| Win        | +  0.763 |
-| 126 [Boston College        ](BostonCollege.md)| Win        | +  0.622 |
+|   5 [BYU                   ](BYU.md)| Loss       | -  0.474 |
+|  10 [Virginia              ](Virginia.md)| Loss       | -  0.556 |
+|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
+|  43 [SMU                   ](SMU.md)| Loss       | -  0.767 |
+|  67 [Florida State         ](FloridaState.md)| Win        | +  1.052 |
+| 121 [San Jose State        ](SanJoseState.md)| Win        | +  0.661 |
+| 128 [Boston College        ](BostonCollege.md)| Win        | +  0.560 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [Miami (FL)            ](MiamiFL.md)| +  1.999 | -  0.500 |
-|  45 [Notre Dame            ](NotreDame.md)| +  1.295 | -  0.772 |
-|  47 [Florida State         ](FloridaState.md)| +  1.275 | -  0.784 |
-|  52 [California            ](California.md)| +  1.153 | -  0.867 |
-|  61 [SMU                   ](SMU.md)| +  1.081 | -  0.925 |
-|  79 [Pitt                  ](Pitt.md)| +  0.955 | -  1.048 |
-| 109 [North Carolina        ](NorthCarolina.md)| +  0.772 | -  1.296 |
+|   9 [Miami (FL)            ](MiamiFL.md)| +  1.822 | -  0.549 |
+|  15 [Notre Dame            ](NotreDame.md)| +  1.712 | -  0.584 |
+|  47 [California            ](California.md)| +  1.244 | -  0.804 |
+|  50 [Pitt                  ](Pitt.md)| +  1.221 | -  0.819 |
+| 116 [North Carolina        ](NorthCarolina.md)| +  0.740 | -  1.350 |
 

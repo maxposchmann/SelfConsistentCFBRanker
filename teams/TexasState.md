@@ -1,24 +1,24 @@
-Texas State (3 - 2)
+Texas State (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.657 |  -0.131 |   3.693 |   6.250 |
-| Rank  |      87 |      88 |     129 |     105 |
+| Value |  -2.315 |  -0.331 |   6.004 |   4.799 |
+| Rank  |     112 |     112 |     111 |     100 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  25 [Arizona State         ](ArizonaState.md)| Loss       | -  0.664 |
-| 101 [UTSA                  ](UTSA.md)| Win        | +  0.817 |
-| 115 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.381 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.368 |
+|  27 [Arizona State         ](ArizonaState.md)| Loss       | -  0.659 |
+|  51 [Troy                  ](Troy.md)| Loss       | -  0.833 |
+|  87 [Marshall              ](Marshall.md)| Loss       | -  1.076 |
+| 101 [UTSA                  ](UTSA.md)| Win        | +  0.848 |
+| 111 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.284 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.415 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  49 [James Madison         ](JamesMadison.md)| +  1.264 | -  0.791 |
-|  64 [Southern Mississippi  ](SouthernMississippi.md)| +  1.072 | -  0.933 |
-|  70 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  1.026 | -  0.975 |
-|  74 [Troy                  ](Troy.md)| +  1.011 | -  0.989 |
-| 118 [Marshall              ](Marshall.md)| +  0.677 | -  1.478 |
-| 128 [South Alabama         ](SouthAlabama.md)| +  0.601 | -  1.663 |
-| 129 [Louisiana             ](Louisiana.md)| +  0.599 | -  1.669 |
+|  28 [James Madison         ](JamesMadison.md)| +  1.497 | -  0.668 |
+|  48 [Southern Mississippi  ](SouthernMississippi.md)| +  1.241 | -  0.806 |
+|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.873 | -  1.145 |
+| 124 [Louisiana             ](Louisiana.md)| +  0.601 | -  1.665 |
+| 126 [South Alabama         ](SouthAlabama.md)| +  0.586 | -  1.707 |
 

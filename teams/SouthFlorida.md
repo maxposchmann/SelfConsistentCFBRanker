@@ -1,24 +1,24 @@
-South Florida (4 - 1)
+South Florida (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.382 |   0.476 |   5.021 |   8.197 |
-| Rank  |      37 |      33 |      72 |      44 |
+| Value |   5.238 |   0.748 |   7.665 |   5.509 |
+| Rank  |      12 |      12 |      56 |      69 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.500 |
-|  67 [Boise State           ](BoiseState.md)| Win        | +  1.054 |
-|  82 [Florida               ](Florida.md)| Win        | +  0.943 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.591 |
+|   9 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.549 |
+|  26 [North Texas           ](NorthTexas.md)| Win        | +  1.517 |
+|  32 [Boise State           ](BoiseState.md)| Win        | +  1.437 |
+|  63 [Florida               ](Florida.md)| Win        | +  1.088 |
+|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.856 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   8 [Memphis               ](Memphis.md)| +  1.806 | -  0.554 |
-|  17 [North Texas           ](NorthTexas.md)| +  1.591 | -  0.628 |
-|  22 [Navy                  ](Navy.md)| +  1.533 | -  0.652 |
-|  94 [Rice                  ](Rice.md)| +  0.855 | -  1.169 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.828 | -  1.207 |
-| 101 [UTSA                  ](UTSA.md)| +  0.817 | -  1.224 |
-| 111 [UAB                   ](UAB.md)| +  0.765 | -  1.307 |
+|  19 [Navy                  ](Navy.md)| +  1.610 | -  0.621 |
+|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
+| 101 [UTSA                  ](UTSA.md)| +  0.848 | -  1.180 |
+| 102 [UAB                   ](UAB.md)| +  0.839 | -  1.192 |
+| 109 [Rice                  ](Rice.md)| +  0.784 | -  1.275 |
 

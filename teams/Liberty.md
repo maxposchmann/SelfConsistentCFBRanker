@@ -1,24 +1,24 @@
-Liberty (1 - 4)
+Liberty (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.876 |  -0.775 |   4.455 |   6.678 |
-| Rank  |     127 |     129 |      99 |      90 |
+| Value |  -2.026 |  -0.289 |   6.197 |   5.147 |
+| Rank  |     106 |     106 |     103 |      87 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  42 [Old Dominion          ](OldDominion.md)| Loss       | -  0.763 |
-|  49 [James Madison         ](JamesMadison.md)| Loss       | -  0.791 |
-| 100 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.224 |
-| 113 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.352 |
+|  28 [James Madison         ](JamesMadison.md)| Loss       | -  0.668 |
+|  64 [Old Dominion          ](OldDominion.md)| Loss       | -  0.919 |
+|  78 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.046 |
+|  96 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.151 |
+| 103 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.833 |
+| 122 [UTEP                  ](UTEP.md)| Win        | +  0.638 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  38 [Louisiana Tech        ](LouisianaTech.md)| +  1.359 | -  0.736 |
-|  69 [Delaware              ](Delaware.md)| +  1.045 | -  0.957 |
-|  75 [Kennesaw State        ](KennesawState.md)| +  1.008 | -  0.992 |
-|  77 [New Mexico State      ](NewMexicoState.md)| +  0.986 | -  1.014 |
-|  95 [Missouri State        ](MissouriState.md)| +  0.840 | -  1.190 |
-| 106 [Florida International ](FloridaInternational.md)| +  0.788 | -  1.269 |
-| 124 [UTEP                  ](UTEP.md)| +  0.652 | -  1.533 |
+|  54 [Louisiana Tech        ](LouisianaTech.md)| +  1.176 | -  0.851 |
+|  56 [Kennesaw State        ](KennesawState.md)| +  1.173 | -  0.852 |
+|  80 [Delaware              ](Delaware.md)| +  0.950 | -  1.053 |
+|  84 [Missouri State        ](MissouriState.md)| +  0.936 | -  1.069 |
+|  90 [Florida International ](FloridaInternational.md)| +  0.913 | -  1.096 |
 
