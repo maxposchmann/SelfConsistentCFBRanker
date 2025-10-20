@@ -1,6 +1,6 @@
 # Self-Consistent CFB Ranker
 
-# Current Rankings (October 6, 2025):
+# Current Rankings (October 19, 2025):
 | Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
 |    1 | [Indiana               ](teams/Indiana.md) |   8.003 |   1.143 |   8.003 |   4.403 |  7 -  0 |
