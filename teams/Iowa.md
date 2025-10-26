@@ -1,24 +1,24 @@
-Iowa (5 - 2)
+Iowa (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.103 |   0.300 |   7.144 |   6.827 |
-| Rank  |      46 |      46 |      68 |      30 |
+| Value |   1.669 |   0.209 |   8.534 |   5.168 |
+| Rank  |      55 |      55 |      58 |      52 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.420 |
-|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.731 |
-|  88 [Rutgers               ](Rutgers.md)| Win        | +  0.928 |
-| 100 [Penn State            ](PennState.md)| Win        | +  0.848 |
-| 105 [Wisconsin             ](Wisconsin.md)| Win        | +  0.813 |
-| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
+|   6 [Indiana               ](Indiana.md)| Loss       | -  0.475 |
+|  26 [Minnesota             ](Minnesota.md)| Loss       | -  0.654 |
+|  43 [Iowa State            ](IowaState.md)| Loss       | -  0.760 |
+|  83 [Rutgers               ](Rutgers.md)| Win        | +  0.994 |
+|  89 [Wisconsin             ](Wisconsin.md)| Win        | +  0.952 |
+|  98 [Penn State            ](PennState.md)| Win        | +  0.871 |
+| 135 [Massachusetts         ](Massachusetts.md)| Win        | +  0.408 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  21 [Oregon                ](Oregon.md)| +  1.570 | -  0.637 |
-|  24 [USC                   ](USC.md)| +  1.535 | -  0.651 |
-|  34 [Minnesota             ](Minnesota.md)| +  1.412 | -  0.708 |
-|  36 [Nebraska              ](Nebraska.md)| +  1.406 | -  0.711 |
-|  91 [Michigan State        ](MichiganState.md)| +  0.904 | -  1.106 |
+|  25 [USC                   ](USC.md)| +  1.544 | -  0.648 |
+|  33 [Oregon                ](Oregon.md)| +  1.448 | -  0.691 |
+|  47 [Nebraska              ](Nebraska.md)| +  1.294 | -  0.773 |
+|  96 [Michigan State        ](MichiganState.md)| +  0.882 | -  1.133 |
 

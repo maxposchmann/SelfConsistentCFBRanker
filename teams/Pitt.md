@@ -1,24 +1,24 @@
-Pitt (5 - 2)
+Pitt (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.841 |   0.263 |   6.315 |   7.783 |
-| Rank  |      50 |      50 |      96 |      11 |
+| Value |   1.122 |   0.140 |   7.497 |   6.451 |
+| Rank  |      62 |      63 |      90 |      18 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Louisville            ](Louisville.md)| Loss       | -  0.562 |
-|  67 [Florida State         ](FloridaState.md)| Win        | +  1.052 |
-|  85 [Syracuse              ](Syracuse.md)| Win        | +  0.935 |
-|  93 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.885 |
-| 114 [West Virginia         ](WestVirginia.md)| Loss       | -  1.305 |
-| 128 [Boston College        ](BostonCollege.md)| Win        | +  0.560 |
+|  34 [Louisville            ](Louisville.md)| Loss       | -  0.695 |
+|  37 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.721 |
+|  56 [Syracuse              ](Syracuse.md)| Win        | +  1.184 |
+|  68 [Florida State         ](FloridaState.md)| Win        | +  1.074 |
+| 118 [West Virginia         ](WestVirginia.md)| Loss       | -  1.415 |
+| 119 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.698 |
+| 120 [Boston College        ](BostonCollege.md)| Win        | +  0.673 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| +  2.054 | -  0.487 |
-|   9 [Miami (FL)            ](MiamiFL.md)| +  1.822 | -  0.549 |
-|  15 [Notre Dame            ](NotreDame.md)| +  1.712 | -  0.584 |
-|  49 [North Carolina State  ](NorthCarolinaState.md)| +  1.221 | -  0.819 |
-|  75 [Stanford              ](Stanford.md)| +  0.974 | -  1.027 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| +  1.907 | -  0.524 |
+|  15 [Notre Dame            ](NotreDame.md)| +  1.690 | -  0.592 |
+|  17 [Miami (FL)            ](MiamiFL.md)| +  1.647 | -  0.607 |
+|  52 [Stanford              ](Stanford.md)| +  1.207 | -  0.828 |
 

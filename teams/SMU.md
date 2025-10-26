@@ -1,24 +1,24 @@
-SMU (5 - 2)
+SMU (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.446 |   0.349 |   6.557 |   6.588 |
-| Rank  |      43 |      43 |      90 |      37 |
+| Value |   4.519 |   0.565 |   8.843 |   4.891 |
+| Rank  |      20 |      21 |      49 |      62 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  40 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.741 |
-|  65 [Baylor                ](Baylor.md)| Loss       | -  0.922 |
-|  75 [Stanford              ](Stanford.md)| Win        | +  0.974 |
-|  82 [Clemson               ](Clemson.md)| Win        | +  0.949 |
-|  84 [Missouri State        ](MissouriState.md)| Win        | +  0.936 |
-|  85 [Syracuse              ](Syracuse.md)| Win        | +  0.935 |
+|  21 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.633 |
+|  39 [Baylor                ](Baylor.md)| Loss       | -  0.728 |
+|  52 [Stanford              ](Stanford.md)| Win        | +  1.207 |
+|  56 [Syracuse              ](Syracuse.md)| Win        | +  1.184 |
+|  60 [Wake Forest           ](WakeForest.md)| Win        | +  1.131 |
+|  73 [Missouri State        ](MissouriState.md)| Win        | +  1.047 |
+|  87 [Clemson               ](Clemson.md)| Win        | +  0.967 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   9 [Miami (FL)            ](MiamiFL.md)| +  1.822 | -  0.549 |
-|  11 [Louisville            ](Louisville.md)| +  1.779 | -  0.562 |
-|  47 [California            ](California.md)| +  1.244 | -  0.804 |
-|  53 [Wake Forest           ](WakeForest.md)| +  1.183 | -  0.846 |
-| 128 [Boston College        ](BostonCollege.md)| +  0.560 | -  1.786 |
+|  17 [Miami (FL)            ](MiamiFL.md)| +  1.647 | -  0.607 |
+|  34 [Louisville            ](Louisville.md)| +  1.439 | -  0.695 |
+|  59 [California            ](California.md)| +  1.132 | -  0.884 |
+| 120 [Boston College        ](BostonCollege.md)| +  0.673 | -  1.486 |
 

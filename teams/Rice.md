@@ -1,24 +1,24 @@
-Rice (3 - 4)
+Rice (3 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.244 |  -0.321 |   6.292 |   6.701 |
-| Rank  |     109 |     109 |      99 |      34 |
+| Value |  -2.689 |  -0.336 |   7.904 |   5.850 |
+| Rank  |     110 |     108 |      79 |      33 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Navy                  ](Navy.md)| Loss       | -  0.621 |
-|  25 [Houston               ](Houston.md)| Loss       | -  0.653 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.168 |
-| 101 [UTSA                  ](UTSA.md)| Loss       | -  1.180 |
-| 124 [Louisiana             ](Louisiana.md)| Win        | +  0.601 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
+|  12 [Houston               ](Houston.md)| Loss       | -  0.556 |
+|  35 [Navy                  ](Navy.md)| Loss       | -  0.695 |
+|  46 [Connecticut           ](Connecticut.md)| Loss       | -  0.772 |
+|  82 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  0.994 |
+|  99 [UTSA                  ](UTSA.md)| Loss       | -  1.154 |
+| 122 [Louisiana             ](Louisiana.md)| Win        | +  0.662 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.493 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  12 [South Florida         ](SouthFlorida.md)| +  1.764 | -  0.567 |
-|  26 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
-|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
-|  57 [Connecticut           ](Connecticut.md)| +  1.152 | -  0.868 |
-| 102 [UAB                   ](UAB.md)| +  0.839 | -  1.192 |
+|   7 [South Florida         ](SouthFlorida.md)| +  2.043 | -  0.489 |
+|  19 [North Texas           ](NorthTexas.md)| +  1.625 | -  0.615 |
+|  42 [Memphis               ](Memphis.md)| +  1.320 | -  0.757 |
+| 100 [UAB                   ](UAB.md)| +  0.861 | -  1.162 |
 

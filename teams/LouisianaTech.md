@@ -1,24 +1,24 @@
-Louisiana Tech (4 - 2)
+Louisiana Tech (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.493 |   0.249 |   5.681 |   5.255 |
-| Rank  |      54 |      52 |     118 |      81 |
+| Value |   0.535 |   0.076 |   6.744 |   4.299 |
+| Rank  |      71 |      71 |     110 |      97 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  30 [LSU                   ](LSU.md)| Loss       | -  0.691 |
-|  48 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.241 |
-|  56 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.852 |
-| 103 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.833 |
-| 122 [UTEP                  ](UTEP.md)| Win        | +  0.638 |
+|  41 [LSU                   ](LSU.md)| Loss       | -  0.738 |
+|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.780 |
+|  51 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.803 |
+|  64 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.117 |
+| 112 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.745 |
+| 121 [UTEP                  ](UTEP.md)| Win        | +  0.663 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  61 [Western Kentucky      ](WesternKentucky.md)| +  1.102 | -  0.907 |
-|  74 [Washington State      ](WashingtonState.md)| +  0.992 | -  1.008 |
-|  80 [Delaware              ](Delaware.md)| +  0.950 | -  1.053 |
-|  84 [Missouri State        ](MissouriState.md)| +  0.936 | -  1.069 |
-| 106 [Liberty               ](Liberty.md)| +  0.803 | -  1.246 |
-| 132 [Sam Houston           ](SamHouston.md)| +  0.473 | -  2.114 |
+|  73 [Missouri State        ](MissouriState.md)| +  1.047 | -  0.955 |
+|  75 [Delaware              ](Delaware.md)| +  1.041 | -  0.961 |
+|  91 [Washington State      ](WashingtonState.md)| +  0.918 | -  1.089 |
+| 104 [Liberty               ](Liberty.md)| +  0.800 | -  1.249 |
+| 131 [Sam Houston           ](SamHouston.md)| +  0.492 | -  2.032 |
 

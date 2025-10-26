@@ -1,24 +1,24 @@
-Texas A&M (7 - 0)
+Texas A&M (8 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   7.835 |   1.119 |   7.835 |   5.651 |
-| Rank  |       3 |       3 |      47 |      67 |
+| Value |   9.211 |   1.151 |   9.211 |   4.593 |
+| Rank  |       1 |       2 |      38 |      81 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  15 [Notre Dame            ](NotreDame.md)| Win        | +  1.712 |
-|  52 [Mississippi State     ](MississippiState.md)| Win        | +  1.185 |
-|  63 [Florida               ](Florida.md)| Win        | +  1.088 |
-|  66 [Utah State            ](UtahState.md)| Win        | +  1.066 |
-|  70 [Auburn                ](Auburn.md)| Win        | +  1.037 |
-| 101 [UTSA                  ](UTSA.md)| Win        | +  0.848 |
-| 104 [Arkansas              ](Arkansas.md)| Win        | +  0.826 |
+|  15 [Notre Dame            ](NotreDame.md)| Win        | +  1.690 |
+|  41 [LSU                   ](LSU.md)| Win        | +  1.355 |
+|  57 [Auburn                ](Auburn.md)| Win        | +  1.182 |
+|  58 [Utah State            ](UtahState.md)| Win        | +  1.181 |
+|  66 [Florida               ](Florida.md)| Win        | +  1.081 |
+|  69 [Mississippi State     ](MississippiState.md)| Win        | +  1.074 |
+|  99 [UTSA                  ](UTSA.md)| Win        | +  0.867 |
+| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.759 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
-|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
-|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
-|  83 [South Carolina        ](SouthCarolina.md)| +  0.945 | -  1.058 |
+|  11 [Missouri              ](Missouri.md)| +  1.823 | -  0.548 |
+|  27 [Texas                 ](Texas.md)| +  1.526 | -  0.655 |
+|  92 [South Carolina        ](SouthCarolina.md)| +  0.910 | -  1.098 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

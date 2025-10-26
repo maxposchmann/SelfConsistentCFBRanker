@@ -1,24 +1,24 @@
-Georgia Tech (7 - 0)
+Georgia Tech (7 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.638 |   0.948 |   6.638 |   5.890 |
-| Rank  |       6 |       6 |      87 |      56 |
+| Value |   6.126 |   0.766 |   8.155 |   5.200 |
+| Rank  |       9 |      10 |      69 |      49 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  45 [Duke                  ](Duke.md)| Win        | +  1.258 |
-|  53 [Wake Forest           ](WakeForest.md)| Win        | +  1.183 |
-|  62 [Colorado              ](Colorado.md)| Win        | +  1.097 |
-|  69 [Temple                ](Temple.md)| Win        | +  1.037 |
-|  82 [Clemson               ](Clemson.md)| Win        | +  0.949 |
-| 110 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.779 |
+|  48 [Duke                  ](Duke.md)| Win        | +  1.289 |
+|  50 [Colorado              ](Colorado.md)| Win        | +  1.270 |
+|  56 [Syracuse              ](Syracuse.md)| Loss       | -  0.845 |
+|  60 [Wake Forest           ](WakeForest.md)| Win        | +  1.131 |
+|  65 [Temple                ](Temple.md)| Win        | +  1.101 |
+|  87 [Clemson               ](Clemson.md)| Win        | +  0.967 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.873 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   7 [Georgia               ](Georgia.md)| +  1.953 | -  0.512 |
-|  49 [North Carolina State  ](NorthCarolinaState.md)| +  1.221 | -  0.819 |
-|  50 [Pitt                  ](Pitt.md)| +  1.221 | -  0.819 |
-|  85 [Syracuse              ](Syracuse.md)| +  0.935 | -  1.069 |
-| 128 [Boston College        ](BostonCollege.md)| +  0.560 | -  1.786 |
+|   8 [Georgia               ](Georgia.md)| +  2.014 | -  0.496 |
+|  37 [North Carolina State  ](NorthCarolinaState.md)| +  1.388 | -  0.721 |
+|  62 [Pitt                  ](Pitt.md)| +  1.125 | -  0.889 |
+| 120 [Boston College        ](BostonCollege.md)| +  0.673 | -  1.486 |
 

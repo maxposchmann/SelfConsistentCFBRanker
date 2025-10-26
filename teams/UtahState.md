@@ -1,24 +1,24 @@
-Utah State (4 - 3)
+Utah State (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.590 |   0.084 |   7.876 |   5.486 |
-| Rank  |      66 |      66 |      45 |      70 |
+| Value |   1.578 |   0.197 |   8.943 |   4.521 |
+| Rank  |      58 |      58 |      45 |      85 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
-|  17 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.597 |
-|  42 [Hawaii                ](Hawaii.md)| Loss       | -  0.760 |
-| 115 [Air Force             ](AirForce.md)| Win        | +  0.759 |
-| 121 [San Jose State        ](SanJoseState.md)| Win        | +  0.661 |
-| 122 [UTEP                  ](UTEP.md)| Win        | +  0.638 |
+|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.379 |
+|  22 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.638 |
+|  40 [Hawaii                ](Hawaii.md)| Loss       | -  0.730 |
+|  93 [New Mexico            ](NewMexico.md)| Win        | +  0.910 |
+| 107 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 121 [UTEP                  ](UTEP.md)| Win        | +  0.663 |
+| 123 [San Jose State        ](SanJoseState.md)| Win        | +  0.660 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.448 | -  0.691 |
-|  32 [Boise State           ](BoiseState.md)| +  1.437 | -  0.696 |
-|  59 [Fresno State          ](FresnoState.md)| +  1.151 | -  0.869 |
-|  76 [New Mexico            ](NewMexico.md)| +  0.968 | -  1.033 |
-| 131 [Nevada                ](Nevada.md)| +  0.483 | -  2.072 |
+|  28 [Boise State           ](BoiseState.md)| +  1.509 | -  0.662 |
+|  30 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.467 | -  0.682 |
+|  67 [Fresno State          ](FresnoState.md)| +  1.076 | -  0.929 |
+| 132 [Nevada                ](Nevada.md)| +  0.468 | -  2.138 |
 

@@ -1,24 +1,24 @@
-Navy (6 - 0)
+Navy (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.393 |   0.732 |   4.393 |   7.988 |
-| Rank  |      19 |      15 |     135 |       7 |
+| Value |   3.450 |   0.493 |   5.450 |   7.429 |
+| Rank  |      35 |      31 |     134 |       5 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  69 [Temple                ](Temple.md)| Win        | +  1.037 |
-| 102 [UAB                   ](UAB.md)| Win        | +  0.839 |
-| 109 [Rice                  ](Rice.md)| Win        | +  0.784 |
-| 115 [Air Force             ](AirForce.md)| Win        | +  0.759 |
-| 118 [Tulsa                 ](Tulsa.md)| Win        | +  0.718 |
+|  65 [Temple                ](Temple.md)| Win        | +  1.101 |
+|  82 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  0.994 |
+| 100 [UAB                   ](UAB.md)| Win        | +  0.861 |
+| 107 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 110 [Rice                  ](Rice.md)| Win        | +  0.753 |
+| 124 [Tulsa                 ](Tulsa.md)| Win        | +  0.649 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  12 [South Florida         ](SouthFlorida.md)| +  1.764 | -  0.567 |
-|  15 [Notre Dame            ](NotreDame.md)| +  1.712 | -  0.584 |
-|  26 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
-|  33 [Memphis               ](Memphis.md)| +  1.428 | -  0.700 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.856 | -  1.168 |
-| 119 [Army                  ](Army.md)| +  0.710 | -  1.408 |
+|   7 [South Florida         ](SouthFlorida.md)| +  2.043 | -  0.489 |
+|  15 [Notre Dame            ](NotreDame.md)| +  1.690 | -  0.592 |
+|  19 [North Texas           ](NorthTexas.md)| +  1.625 | -  0.615 |
+|  42 [Memphis               ](Memphis.md)| +  1.320 | -  0.757 |
+| 111 [Army                  ](Army.md)| +  0.750 | -  1.333 |
 

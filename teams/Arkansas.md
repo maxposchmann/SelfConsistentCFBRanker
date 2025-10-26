@@ -1,24 +1,24 @@
-Arkansas (2 - 5)
+Arkansas (2 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.759 |  -0.251 |  10.274 |   6.595 |
-| Rank  |     104 |     103 |       4 |      36 |
+| Value |  -2.623 |  -0.328 |  11.677 |   5.778 |
+| Rank  |     109 |     107 |       4 |      35 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.428 |
-|   8 [Ole Miss              ](OleMiss.md)| Loss       | -  0.517 |
-|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.584 |
-|  33 [Memphis               ](Memphis.md)| Loss       | -  0.700 |
-|  35 [Tennessee             ](Tennessee.md)| Loss       | -  0.709 |
-| 111 [Arkansas State        ](ArkansasState.md)| Win        | +  0.779 |
+|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.379 |
+|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.461 |
+|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
+|  24 [Tennessee             ](Tennessee.md)| Loss       | -  0.646 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.757 |
+|  57 [Auburn                ](Auburn.md)| Loss       | -  0.846 |
+| 117 [Arkansas State        ](ArkansasState.md)| Win        | +  0.709 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Missouri              ](Missouri.md)| +  1.540 | -  0.650 |
-|  30 [LSU                   ](LSU.md)| +  1.447 | -  0.691 |
-|  37 [Texas                 ](Texas.md)| +  1.387 | -  0.721 |
-|  52 [Mississippi State     ](MississippiState.md)| +  1.185 | -  0.844 |
-|  70 [Auburn                ](Auburn.md)| +  1.037 | -  0.965 |
+|  11 [Missouri              ](Missouri.md)| +  1.823 | -  0.548 |
+|  27 [Texas                 ](Texas.md)| +  1.526 | -  0.655 |
+|  41 [LSU                   ](LSU.md)| +  1.355 | -  0.738 |
+|  69 [Mississippi State     ](MississippiState.md)| +  1.074 | -  0.931 |
 

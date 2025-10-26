@@ -1,24 +1,24 @@
 Hawaii (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.531 |   0.316 |   6.577 |   4.169 |
-| Rank  |      42 |      44 |      88 |     120 |
+| Value |   2.988 |   0.373 |   7.028 |   4.222 |
+| Rank  |      40 |      40 |     102 |      99 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  58 [Arizona               ](Arizona.md)| Loss       | -  0.869 |
-|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.869 |
-|  66 [Utah State            ](UtahState.md)| Win        | +  1.066 |
-|  75 [Stanford              ](Stanford.md)| Win        | +  0.974 |
-| 115 [Air Force             ](AirForce.md)| Win        | +  0.759 |
-| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.725 |
-| 132 [Sam Houston           ](SamHouston.md)| Win        | +  0.473 |
+|  52 [Stanford              ](Stanford.md)| Win        | +  1.207 |
+|  53 [Arizona               ](Arizona.md)| Loss       | -  0.833 |
+|  58 [Utah State            ](UtahState.md)| Win        | +  1.181 |
+|  67 [Fresno State          ](FresnoState.md)| Loss       | -  0.929 |
+| 105 [Colorado State        ](ColoradoState.md)| Win        | +  0.781 |
+| 107 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.492 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  29 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.448 | -  0.691 |
-|  44 [San Diego State       ](SanDiegoState.md)| +  1.265 | -  0.791 |
-| 107 [Wyoming               ](Wyoming.md)| +  0.794 | -  1.259 |
-| 121 [San Jose State        ](SanJoseState.md)| +  0.661 | -  1.512 |
+|  30 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.467 | -  0.682 |
+|  38 [San Diego State       ](SanDiegoState.md)| +  1.385 | -  0.722 |
+| 116 [Wyoming               ](Wyoming.md)| +  0.710 | -  1.409 |
+| 123 [San Jose State        ](SanJoseState.md)| +  0.660 | -  1.515 |
 

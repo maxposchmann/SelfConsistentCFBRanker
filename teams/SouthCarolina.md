@@ -1,24 +1,24 @@
-South Carolina (3 - 4)
+South Carolina (3 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.523 |  -0.075 |   8.503 |   8.523 |
-| Rank  |      83 |      82 |      23 |       4 |
+| Value |  -0.891 |  -0.111 |  11.037 |   6.835 |
+| Rank  |      92 |      92 |       6 |      10 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.586 |
-|  17 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.597 |
-|  23 [Missouri              ](Missouri.md)| Loss       | -  0.650 |
-|  30 [LSU                   ](LSU.md)| Loss       | -  0.691 |
-|  99 [Kentucky              ](Kentucky.md)| Win        | +  0.855 |
-| 110 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.779 |
+|   2 [Alabama               ](Alabama.md)| Loss       | -  0.391 |
+|  11 [Missouri              ](Missouri.md)| Loss       | -  0.548 |
+|  18 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.611 |
+|  22 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.638 |
+|  41 [LSU                   ](LSU.md)| Loss       | -  0.738 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.873 |
+| 102 [Kentucky              ](Kentucky.md)| Win        | +  0.817 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| +  2.338 | -  0.428 |
-|   4 [Alabama               ](Alabama.md)| +  2.264 | -  0.442 |
-|   8 [Ole Miss              ](OleMiss.md)| +  1.935 | -  0.517 |
-|  68 [Coastal Carolina      ](CoastalCarolina.md)| +  1.037 | -  0.964 |
-|  82 [Clemson               ](Clemson.md)| +  0.949 | -  1.054 |
+|   1 [Texas A&M             ](TexasAM.md)| +  2.639 | -  0.379 |
+|   5 [Ole Miss              ](OleMiss.md)| +  2.169 | -  0.461 |
+|  70 [Coastal Carolina      ](CoastalCarolina.md)| +  1.060 | -  0.943 |
+|  87 [Clemson               ](Clemson.md)| +  0.967 | -  1.034 |
 

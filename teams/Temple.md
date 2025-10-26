@@ -1,24 +1,24 @@
-Temple (4 - 3)
+Temple (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.338 |   0.048 |   7.564 |   5.811 |
-| Rank  |      69 |      69 |      59 |      61 |
+| Value |   0.910 |   0.114 |   7.748 |   5.291 |
+| Rank  |      65 |      65 |      86 |      46 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.487 |
-|  16 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.586 |
-|  19 [Navy                  ](Navy.md)| Loss       | -  0.621 |
-| 101 [UTSA                  ](UTSA.md)| Win        | +  0.848 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
-| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.524 |
+|  18 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.611 |
+|  35 [Navy                  ](Navy.md)| Loss       | -  0.695 |
+|  99 [UTSA                  ](UTSA.md)| Win        | +  0.867 |
+| 124 [Tulsa                 ](Tulsa.md)| Win        | +  0.649 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.493 |
+| 135 [Massachusetts         ](Massachusetts.md)| Win        | +  0.408 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [Tulane                ](Tulane.md)| +  1.759 | -  0.569 |
-|  26 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
-|  60 [East Carolina         ](EastCarolina.md)| +  1.107 | -  0.903 |
-| 118 [Tulsa                 ](Tulsa.md)| +  0.718 | -  1.393 |
-| 119 [Army                  ](Army.md)| +  0.710 | -  1.408 |
+|  13 [Tulane                ](Tulane.md)| +  1.792 | -  0.558 |
+|  19 [North Texas           ](NorthTexas.md)| +  1.625 | -  0.615 |
+|  63 [East Carolina         ](EastCarolina.md)| +  1.124 | -  0.890 |
+| 111 [Army                  ](Army.md)| +  0.750 | -  1.333 |
 

@@ -1,24 +1,24 @@
-Wake Forest (4 - 2)
+Wake Forest (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.547 |   0.258 |   6.217 |   7.102 |
-| Rank  |      53 |      51 |     102 |      25 |
+| Value |   1.166 |   0.167 |   7.960 |   6.002 |
+| Rank  |      60 |      59 |      78 |      30 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.487 |
-|  49 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.819 |
-|  56 [Kennesaw State        ](KennesawState.md)| Win        | +  1.173 |
-| 110 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.779 |
-| 127 [Oregon State          ](OregonState.md)| Win        | +  0.579 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.524 |
+|  20 [SMU                   ](SMU.md)| Loss       | -  0.621 |
+|  37 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.721 |
+|  51 [Kennesaw State        ](KennesawState.md)| Win        | +  1.246 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.873 |
+| 128 [Oregon State          ](OregonState.md)| Win        | +  0.575 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  10 [Virginia              ](Virginia.md)| +  1.798 | -  0.556 |
-|  43 [SMU                   ](SMU.md)| +  1.304 | -  0.767 |
-|  45 [Duke                  ](Duke.md)| +  1.258 | -  0.795 |
-|  67 [Florida State         ](FloridaState.md)| +  1.052 | -  0.950 |
-|  80 [Delaware              ](Delaware.md)| +  0.950 | -  1.053 |
-| 116 [North Carolina        ](NorthCarolina.md)| +  0.740 | -  1.350 |
+|  10 [Virginia              ](Virginia.md)| +  1.887 | -  0.530 |
+|  48 [Duke                  ](Duke.md)| +  1.289 | -  0.776 |
+|  68 [Florida State         ](FloridaState.md)| +  1.074 | -  0.931 |
+|  75 [Delaware              ](Delaware.md)| +  1.041 | -  0.961 |
+| 115 [North Carolina        ](NorthCarolina.md)| +  0.710 | -  1.408 |
 

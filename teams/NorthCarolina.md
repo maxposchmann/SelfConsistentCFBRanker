@@ -1,24 +1,24 @@
-North Carolina (2 - 4)
+North Carolina (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.772 |  -0.462 |   5.391 |   7.369 |
-| Rank  |     116 |     119 |     126 |      18 |
+| Value |  -3.245 |  -0.464 |   7.421 |   6.199 |
+| Rank  |     115 |     119 |      92 |      23 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  40 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.741 |
-|  47 [California            ](California.md)| Loss       | -  0.804 |
-|  71 [UCF                   ](UCF.md)| Loss       | -  0.983 |
-|  82 [Clemson               ](Clemson.md)| Loss       | -  1.054 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.501 |
+|  10 [Virginia              ](Virginia.md)| Loss       | -  0.530 |
+|  21 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.633 |
+|  59 [California            ](California.md)| Loss       | -  0.884 |
+|  81 [UCF                   ](UCF.md)| Loss       | -  0.990 |
+|  87 [Clemson               ](Clemson.md)| Loss       | -  1.034 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.493 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  10 [Virginia              ](Virginia.md)| +  1.798 | -  0.556 |
-|  45 [Duke                  ](Duke.md)| +  1.258 | -  0.795 |
-|  49 [North Carolina State  ](NorthCarolinaState.md)| +  1.221 | -  0.819 |
-|  53 [Wake Forest           ](WakeForest.md)| +  1.183 | -  0.846 |
-|  75 [Stanford              ](Stanford.md)| +  0.974 | -  1.027 |
-|  85 [Syracuse              ](Syracuse.md)| +  0.935 | -  1.069 |
+|  37 [North Carolina State  ](NorthCarolinaState.md)| +  1.388 | -  0.721 |
+|  48 [Duke                  ](Duke.md)| +  1.289 | -  0.776 |
+|  52 [Stanford              ](Stanford.md)| +  1.207 | -  0.828 |
+|  56 [Syracuse              ](Syracuse.md)| +  1.184 | -  0.845 |
+|  60 [Wake Forest           ](WakeForest.md)| +  1.131 | -  0.884 |
 

@@ -1,24 +1,24 @@
-Northwestern (5 - 2)
+Northwestern (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.580 |   0.369 |   7.195 |   7.514 |
-| Rank  |      41 |      41 |      67 |      15 |
+| Value |   4.177 |   0.522 |   8.680 |   6.509 |
+| Rank  |      23 |      24 |      54 |      17 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [Tulane                ](Tulane.md)| Loss       | -  0.569 |
-|  21 [Oregon                ](Oregon.md)| Loss       | -  0.637 |
-|  77 [UCLA                  ](UCLA.md)| Win        | +  0.958 |
-|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.873 |
-| 100 [Penn State            ](PennState.md)| Win        | +  0.848 |
-| 108 [Purdue                ](Purdue.md)| Win        | +  0.790 |
+|  13 [Tulane                ](Tulane.md)| Loss       | -  0.558 |
+|  33 [Oregon                ](Oregon.md)| Loss       | -  0.691 |
+|  47 [Nebraska              ](Nebraska.md)| Win        | +  1.294 |
+|  54 [UCLA                  ](UCLA.md)| Win        | +  1.200 |
+|  85 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.985 |
+|  98 [Penn State            ](PennState.md)| Win        | +  0.871 |
+| 113 [Purdue                ](Purdue.md)| Win        | +  0.736 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  20 [Michigan              ](Michigan.md)| +  1.592 | -  0.628 |
-|  22 [Illinois              ](Illinois.md)| +  1.568 | -  0.638 |
-|  24 [USC                   ](USC.md)| +  1.535 | -  0.651 |
-|  34 [Minnesota             ](Minnesota.md)| +  1.412 | -  0.708 |
-|  36 [Nebraska              ](Nebraska.md)| +  1.406 | -  0.711 |
+|  14 [Illinois              ](Illinois.md)| +  1.779 | -  0.562 |
+|  16 [Michigan              ](Michigan.md)| +  1.656 | -  0.604 |
+|  25 [USC                   ](USC.md)| +  1.544 | -  0.648 |
+|  26 [Minnesota             ](Minnesota.md)| +  1.530 | -  0.654 |
 

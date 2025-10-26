@@ -1,24 +1,24 @@
-Washington State (3 - 4)
+Washington State (3 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.077 |  -0.011 |   9.171 |   4.753 |
-| Rank  |      74 |      74 |      12 |     103 |
+| Value |  -0.809 |  -0.101 |  10.593 |   3.663 |
+| Rank  |      91 |      91 |      11 |     113 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   8 [Ole Miss              ](OleMiss.md)| Loss       | -  0.517 |
-|  10 [Virginia              ](Virginia.md)| Loss       | -  0.556 |
-|  26 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
-|  38 [Washington            ](Washington.md)| Loss       | -  0.729 |
-|  44 [San Diego State       ](SanDiegoState.md)| Win        | +  1.265 |
-| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.725 |
+|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.461 |
+|  10 [Virginia              ](Virginia.md)| Loss       | -  0.530 |
+|  19 [North Texas           ](NorthTexas.md)| Loss       | -  0.615 |
+|  38 [San Diego State       ](SanDiegoState.md)| Win        | +  1.385 |
+|  44 [Washington            ](Washington.md)| Loss       | -  0.769 |
+|  72 [Toledo                ](Toledo.md)| Loss       | -  0.950 |
+| 105 [Colorado State        ](ColoradoState.md)| Win        | +  0.781 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  28 [James Madison         ](JamesMadison.md)| +  1.497 | -  0.668 |
-|  54 [Louisiana Tech        ](LouisianaTech.md)| +  1.176 | -  0.851 |
-|  89 [Toledo                ](Toledo.md)| +  0.922 | -  1.084 |
-| 127 [Oregon State          ](OregonState.md)| +  0.579 | -  1.727 |
-| 127 [Oregon State          ](OregonState.md)| +  0.579 | -  1.727 |
+|  31 [James Madison         ](JamesMadison.md)| +  1.454 | -  0.688 |
+|  71 [Louisiana Tech        ](LouisianaTech.md)| +  1.058 | -  0.945 |
+| 128 [Oregon State          ](OregonState.md)| +  0.575 | -  1.738 |
+| 128 [Oregon State          ](OregonState.md)| +  0.575 | -  1.738 |
 

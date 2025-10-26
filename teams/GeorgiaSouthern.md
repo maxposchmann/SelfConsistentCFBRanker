@@ -1,24 +1,24 @@
-Georgia Southern (3 - 4)
+Georgia Southern (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.065 |  -0.152 |   7.416 |   4.782 |
-| Rank  |      92 |      92 |      62 |     101 |
+| Value |  -0.612 |  -0.077 |   7.749 |   4.049 |
+| Rank  |      90 |      90 |      85 |     104 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [USC                   ](USC.md)| Loss       | -  0.651 |
-|  28 [James Madison         ](JamesMadison.md)| Loss       | -  0.668 |
-|  48 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.806 |
-|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.869 |
-|  78 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.956 |
-| 123 [Georgia State         ](GeorgiaState.md)| Win        | +  0.629 |
+|  25 [USC                   ](USC.md)| Loss       | -  0.648 |
+|  31 [James Madison         ](JamesMadison.md)| Loss       | -  0.688 |
+|  64 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.896 |
+|  67 [Fresno State          ](FresnoState.md)| Loss       | -  0.929 |
+|  86 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.969 |
+| 117 [Arkansas State        ](ArkansasState.md)| Win        | +  0.709 |
+| 129 [Georgia State         ](GeorgiaState.md)| Win        | +  0.540 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  64 [Old Dominion          ](OldDominion.md)| +  1.088 | -  0.919 |
-|  68 [Coastal Carolina      ](CoastalCarolina.md)| +  1.037 | -  0.964 |
-|  81 [Appalachian State     ](AppalachianState.md)| +  0.949 | -  1.054 |
-|  87 [Marshall              ](Marshall.md)| +  0.929 | -  1.076 |
-| 111 [Arkansas State        ](ArkansasState.md)| +  0.779 | -  1.284 |
+|  70 [Coastal Carolina      ](CoastalCarolina.md)| +  1.060 | -  0.943 |
+|  74 [Appalachian State     ](AppalachianState.md)| +  1.045 | -  0.957 |
+|  84 [Old Dominion          ](OldDominion.md)| +  0.989 | -  1.011 |
+|  88 [Marshall              ](Marshall.md)| +  0.955 | -  1.047 |
 

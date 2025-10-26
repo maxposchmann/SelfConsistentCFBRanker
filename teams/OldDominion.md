@@ -1,24 +1,24 @@
-Old Dominion (4 - 3)
+Old Dominion (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.778 |   0.111 |   7.901 |   4.542 |
-| Rank  |      64 |      64 |      44 |     111 |
+| Value |  -0.101 |  -0.013 |   8.647 |   3.480 |
+| Rank  |      84 |      84 |      55 |     118 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.420 |
-|  28 [James Madison         ](JamesMadison.md)| Loss       | -  0.668 |
-|  68 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.037 |
-|  87 [Marshall              ](Marshall.md)| Loss       | -  1.076 |
-| 106 [Liberty               ](Liberty.md)| Win        | +  0.803 |
-| 110 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.779 |
+|   6 [Indiana               ](Indiana.md)| Loss       | -  0.475 |
+|  31 [James Madison         ](JamesMadison.md)| Loss       | -  0.688 |
+|  70 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.060 |
+|  74 [Appalachian State     ](AppalachianState.md)| Loss       | -  0.957 |
+|  88 [Marshall              ](Marshall.md)| Loss       | -  1.047 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.873 |
+| 104 [Liberty               ](Liberty.md)| Win        | +  0.800 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  51 [Troy                  ](Troy.md)| +  1.200 | -  0.833 |
-|  81 [Appalachian State     ](AppalachianState.md)| +  0.949 | -  1.054 |
-|  92 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.891 | -  1.122 |
-|  95 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.873 | -  1.145 |
-| 123 [Georgia State         ](GeorgiaState.md)| +  0.629 | -  1.591 |
+|  79 [Troy                  ](Troy.md)| +  1.016 | -  0.984 |
+|  85 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.985 | -  1.015 |
+|  90 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.938 | -  1.067 |
+| 129 [Georgia State         ](GeorgiaState.md)| +  0.540 | -  1.850 |
 

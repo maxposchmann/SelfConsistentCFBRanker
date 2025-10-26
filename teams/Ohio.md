@@ -1,24 +1,24 @@
-Ohio (4 - 3)
+Ohio (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.433 |  -0.062 |   6.561 |   3.573 |
-| Rank  |      79 |      79 |      89 |     131 |
+| Value |   0.108 |   0.014 |   7.012 |   3.128 |
+| Rank  |      80 |      81 |     103 |     124 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.422 |
-|  88 [Rutgers               ](Rutgers.md)| Loss       | -  1.078 |
-|  96 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.869 |
-| 113 [Ball State            ](BallState.md)| Loss       | -  1.287 |
-| 114 [West Virginia         ](WestVirginia.md)| Win        | +  0.766 |
-| 134 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.463 |
+|   4 [Ohio State            ](OhioState.md)| Loss       | -  0.410 |
+|  83 [Rutgers               ](Rutgers.md)| Loss       | -  1.006 |
+|  94 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.899 |
+| 101 [Ball State            ](BallState.md)| Loss       | -  1.174 |
+| 118 [West Virginia         ](WestVirginia.md)| Win        | +  0.707 |
+| 134 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.411 |
+| 136 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.368 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  72 [Western Michigan      ](WesternMichigan.md)| +  0.996 | -  1.004 |
-|  86 [Buffalo               ](Buffalo.md)| +  0.930 | -  1.076 |
-|  97 [Miami (OH)            ](MiamiOH.md)| +  0.864 | -  1.157 |
-| 135 [Eastern Michigan      ](EasternMichigan.md)| +  0.415 | -  2.409 |
-| 136 [Massachusetts         ](Massachusetts.md)| +  0.368 | -  2.718 |
+|  61 [Western Michigan      ](WesternMichigan.md)| +  1.128 | -  0.887 |
+| 103 [Miami (OH)            ](MiamiOH.md)| +  0.816 | -  1.226 |
+| 106 [Buffalo               ](Buffalo.md)| +  0.776 | -  1.288 |
+| 135 [Massachusetts         ](Massachusetts.md)| +  0.408 | -  2.450 |
 

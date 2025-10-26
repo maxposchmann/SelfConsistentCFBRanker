@@ -1,24 +1,24 @@
-Florida Atlantic (3 - 4)
+Florida Atlantic (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.430 |  -0.204 |   7.109 |   6.346 |
-| Rank  |      98 |      98 |      70 |      44 |
+| Value |   0.058 |   0.007 |   8.702 |   4.860 |
+| Rank  |      82 |      82 |      52 |      63 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [South Florida         ](SouthFlorida.md)| Loss       | -  0.567 |
-|  33 [Memphis               ](Memphis.md)| Loss       | -  0.700 |
-|  73 [Maryland              ](Maryland.md)| Loss       | -  1.006 |
-|  90 [Florida International ](FloridaInternational.md)| Loss       | -  1.096 |
-| 102 [UAB                   ](UAB.md)| Win        | +  0.839 |
-| 109 [Rice                  ](Rice.md)| Win        | +  0.784 |
+|   7 [South Florida         ](SouthFlorida.md)| Loss       | -  0.489 |
+|  35 [Navy                  ](Navy.md)| Win        | +  1.438 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.757 |
+|  76 [Maryland              ](Maryland.md)| Loss       | -  0.967 |
+|  95 [Florida International ](FloridaInternational.md)| Loss       | -  1.118 |
+| 100 [UAB                   ](UAB.md)| Win        | +  0.861 |
+| 110 [Rice                  ](Rice.md)| Win        | +  0.753 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [Tulane                ](Tulane.md)| +  1.759 | -  0.569 |
-|  19 [Navy                  ](Navy.md)| +  1.610 | -  0.621 |
-|  57 [Connecticut           ](Connecticut.md)| +  1.152 | -  0.868 |
-|  60 [East Carolina         ](EastCarolina.md)| +  1.107 | -  0.903 |
-| 118 [Tulsa                 ](Tulsa.md)| +  0.718 | -  1.393 |
+|  13 [Tulane                ](Tulane.md)| +  1.792 | -  0.558 |
+|  46 [Connecticut           ](Connecticut.md)| +  1.296 | -  0.772 |
+|  63 [East Carolina         ](EastCarolina.md)| +  1.124 | -  0.890 |
+| 124 [Tulsa                 ](Tulsa.md)| +  0.649 | -  1.541 |
 

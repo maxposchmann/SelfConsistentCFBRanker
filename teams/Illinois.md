@@ -1,24 +1,24 @@
-Illinois (5 - 2)
+Illinois (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.149 |   0.593 |   9.990 |   5.429 |
-| Rank  |      22 |      22 |       7 |      73 |
+| Value |   5.470 |   0.684 |  10.944 |   4.533 |
+| Rank  |      14 |      15 |       7 |      83 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.420 |
-|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.422 |
-|  24 [USC                   ](USC.md)| Win        | +  1.535 |
-|  45 [Duke                  ](Duke.md)| Win        | +  1.258 |
-|  72 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.996 |
-| 108 [Purdue                ](Purdue.md)| Win        | +  0.790 |
+|   4 [Ohio State            ](OhioState.md)| Loss       | -  0.410 |
+|   6 [Indiana               ](Indiana.md)| Loss       | -  0.475 |
+|  25 [USC                   ](USC.md)| Win        | +  1.544 |
+|  44 [Washington            ](Washington.md)| Win        | +  1.300 |
+|  48 [Duke                  ](Duke.md)| Win        | +  1.289 |
+|  61 [Western Michigan      ](WesternMichigan.md)| Win        | +  1.128 |
+| 113 [Purdue                ](Purdue.md)| Win        | +  0.736 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  38 [Washington            ](Washington.md)| +  1.372 | -  0.729 |
-|  41 [Northwestern          ](Northwestern.md)| +  1.323 | -  0.756 |
-|  73 [Maryland              ](Maryland.md)| +  0.994 | -  1.006 |
-|  88 [Rutgers               ](Rutgers.md)| +  0.928 | -  1.078 |
-| 105 [Wisconsin             ](Wisconsin.md)| +  0.813 | -  1.231 |
+|  23 [Northwestern          ](Northwestern.md)| +  1.553 | -  0.644 |
+|  76 [Maryland              ](Maryland.md)| +  1.035 | -  0.967 |
+|  83 [Rutgers               ](Rutgers.md)| +  0.994 | -  1.006 |
+|  89 [Wisconsin             ](Wisconsin.md)| +  0.952 | -  1.051 |
 

@@ -1,24 +1,24 @@
-Tulsa (2 - 5)
+Tulsa (2 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.056 |  -0.437 |   7.784 |   4.022 |
-| Rank  |     118 |     117 |      48 |     124 |
+| Value |  -4.107 |  -0.513 |   8.585 |   3.193 |
+| Rank  |     124 |     122 |      57 |     122 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [Tulane                ](Tulane.md)| Loss       | -  0.569 |
-|  19 [Navy                  ](Navy.md)| Loss       | -  0.621 |
-|  33 [Memphis               ](Memphis.md)| Loss       | -  0.700 |
-|  60 [East Carolina         ](EastCarolina.md)| Loss       | -  0.903 |
-| 103 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.200 |
-| 125 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
+|  13 [Tulane                ](Tulane.md)| Loss       | -  0.558 |
+|  35 [Navy                  ](Navy.md)| Loss       | -  0.695 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.757 |
+|  63 [East Carolina         ](EastCarolina.md)| Loss       | -  0.890 |
+|  65 [Temple                ](Temple.md)| Loss       | -  0.909 |
+| 112 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.342 |
+| 114 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.712 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  69 [Temple                ](Temple.md)| +  1.037 | -  0.964 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.856 | -  1.168 |
-| 102 [UAB                   ](UAB.md)| +  0.839 | -  1.192 |
-| 119 [Army                  ](Army.md)| +  0.710 | -  1.408 |
-| 127 [Oregon State          ](OregonState.md)| +  0.579 | -  1.727 |
+|  82 [Florida Atlantic      ](FloridaAtlantic.md)| +  1.006 | -  0.994 |
+| 100 [UAB                   ](UAB.md)| +  0.861 | -  1.162 |
+| 111 [Army                  ](Army.md)| +  0.750 | -  1.333 |
+| 128 [Oregon State          ](OregonState.md)| +  0.575 | -  1.738 |
 

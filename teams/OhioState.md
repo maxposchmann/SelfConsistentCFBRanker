@@ -1,24 +1,24 @@
 Ohio State (7 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   7.948 |   1.135 |   7.948 |   5.117 |
-| Rank  |       2 |       2 |      41 |      88 |
+| Value |   8.466 |   1.209 |   8.466 |   5.458 |
+| Rank  |       4 |       1 |      61 |      41 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Illinois              ](Illinois.md)| Win        | +  1.568 |
-|  34 [Minnesota             ](Minnesota.md)| Win        | +  1.412 |
-|  37 [Texas                 ](Texas.md)| Win        | +  1.387 |
-|  38 [Washington            ](Washington.md)| Win        | +  1.372 |
-|  79 [Ohio                  ](Ohio.md)| Win        | +  0.954 |
-| 105 [Wisconsin             ](Wisconsin.md)| Win        | +  0.813 |
+|  14 [Illinois              ](Illinois.md)| Win        | +  1.779 |
+|  26 [Minnesota             ](Minnesota.md)| Win        | +  1.530 |
+|  27 [Texas                 ](Texas.md)| Win        | +  1.526 |
+|  44 [Washington            ](Washington.md)| Win        | +  1.300 |
+|  80 [Ohio                  ](Ohio.md)| Win        | +  1.011 |
+|  89 [Wisconsin             ](Wisconsin.md)| Win        | +  0.952 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  20 [Michigan              ](Michigan.md)| +  1.592 | -  0.628 |
-|  77 [UCLA                  ](UCLA.md)| +  0.958 | -  1.044 |
-|  88 [Rutgers               ](Rutgers.md)| +  0.928 | -  1.078 |
-| 100 [Penn State            ](PennState.md)| +  0.848 | -  1.179 |
-| 108 [Purdue                ](Purdue.md)| +  0.790 | -  1.266 |
+|  16 [Michigan              ](Michigan.md)| +  1.656 | -  0.604 |
+|  54 [UCLA                  ](UCLA.md)| +  1.200 | -  0.834 |
+|  83 [Rutgers               ](Rutgers.md)| +  0.994 | -  1.006 |
+|  98 [Penn State            ](PennState.md)| +  0.871 | -  1.148 |
+| 113 [Purdue                ](Purdue.md)| +  0.736 | -  1.358 |
 

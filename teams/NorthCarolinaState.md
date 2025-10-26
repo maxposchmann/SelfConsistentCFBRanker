@@ -1,24 +1,24 @@
-North Carolina State (4 - 3)
+North Carolina State (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.843 |   0.263 |   8.317 |   6.889 |
-| Rank  |      49 |      49 |      29 |      28 |
+| Value |   3.110 |   0.389 |   9.487 |   5.338 |
+| Rank  |      37 |      38 |      32 |      44 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  10 [Virginia              ](Virginia.md)| Win        | +  1.798 |
-|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.584 |
-|  45 [Duke                  ](Duke.md)| Loss       | -  0.795 |
-|  53 [Wake Forest           ](WakeForest.md)| Win        | +  1.183 |
-|  60 [East Carolina         ](EastCarolina.md)| Win        | +  1.107 |
-| 110 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.284 |
+|  10 [Virginia              ](Virginia.md)| Win        | +  1.887 |
+|  15 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.776 |
+|  60 [Wake Forest           ](WakeForest.md)| Win        | +  1.131 |
+|  62 [Pitt                  ](Pitt.md)| Win        | +  1.125 |
+|  63 [East Carolina         ](EastCarolina.md)| Win        | +  1.124 |
+|  97 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.146 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| +  2.054 | -  0.487 |
-|   9 [Miami (FL)            ](MiamiFL.md)| +  1.822 | -  0.549 |
-|  50 [Pitt                  ](Pitt.md)| +  1.221 | -  0.819 |
-|  67 [Florida State         ](FloridaState.md)| +  1.052 | -  0.950 |
-| 116 [North Carolina        ](NorthCarolina.md)| +  0.740 | -  1.350 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| +  1.907 | -  0.524 |
+|  17 [Miami (FL)            ](MiamiFL.md)| +  1.647 | -  0.607 |
+|  68 [Florida State         ](FloridaState.md)| +  1.074 | -  0.931 |
+| 115 [North Carolina        ](NorthCarolina.md)| +  0.710 | -  1.408 |
 

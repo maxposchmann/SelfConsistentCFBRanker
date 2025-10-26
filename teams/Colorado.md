@@ -1,24 +1,24 @@
-Colorado (3 - 4)
+Colorado (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.855 |   0.122 |  10.469 |   5.748 |
-| Rank  |      62 |      62 |       2 |      62 |
+| Value |   2.270 |   0.284 |  12.177 |   4.350 |
+| Rank  |      50 |      51 |       1 |      94 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [BYU                   ](BYU.md)| Loss       | -  0.474 |
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.487 |
-|  25 [Houston               ](Houston.md)| Loss       | -  0.653 |
-|  39 [Iowa State            ](IowaState.md)| Win        | +  1.368 |
-|  40 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.741 |
-|  80 [Delaware              ](Delaware.md)| Win        | +  0.950 |
-| 107 [Wyoming               ](Wyoming.md)| Win        | +  0.794 |
+|   3 [BYU                   ](BYU.md)| Loss       | -  0.410 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.524 |
+|  12 [Houston               ](Houston.md)| Loss       | -  0.556 |
+|  21 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.633 |
+|  43 [Iowa State            ](IowaState.md)| Win        | +  1.317 |
+|  45 [Utah                  ](Utah.md)| Win        | +  1.299 |
+|  75 [Delaware              ](Delaware.md)| Win        | +  1.041 |
+| 116 [Wyoming               ](Wyoming.md)| Win        | +  0.710 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  27 [Arizona State         ](ArizonaState.md)| +  1.517 | -  0.659 |
-|  31 [Utah                  ](Utah.md)| +  1.439 | -  0.695 |
-|  58 [Arizona               ](Arizona.md)| +  1.151 | -  0.869 |
-|  94 [Kansas State          ](KansasState.md)| +  0.875 | -  1.143 |
-| 114 [West Virginia         ](WestVirginia.md)| +  0.766 | -  1.305 |
+|  36 [Arizona State         ](ArizonaState.md)| +  1.410 | -  0.709 |
+|  53 [Arizona               ](Arizona.md)| +  1.200 | -  0.833 |
+|  77 [Kansas State          ](KansasState.md)| +  1.033 | -  0.968 |
+| 118 [West Virginia         ](WestVirginia.md)| +  0.707 | -  1.415 |
 

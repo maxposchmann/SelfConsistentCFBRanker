@@ -1,24 +1,24 @@
-Iowa State (5 - 2)
+Iowa State (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.891 |   0.413 |   7.200 |   6.749 |
-| Rank  |      39 |      39 |      66 |      32 |
+| Value |   2.610 |   0.326 |   9.715 |   4.729 |
+| Rank  |      43 |      44 |      22 |      73 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.604 |
-|  46 [Iowa                  ](Iowa.md)| Win        | +  1.256 |
-|  58 [Arizona               ](Arizona.md)| Win        | +  1.151 |
-|  62 [Colorado              ](Colorado.md)| Loss       | -  0.911 |
-|  94 [Kansas State          ](KansasState.md)| Win        | +  0.875 |
-| 111 [Arkansas State        ](ArkansasState.md)| Win        | +  0.779 |
+|   3 [BYU                   ](BYU.md)| Loss       | -  0.410 |
+|  29 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.670 |
+|  50 [Colorado              ](Colorado.md)| Loss       | -  0.787 |
+|  53 [Arizona               ](Arizona.md)| Win        | +  1.200 |
+|  55 [Iowa                  ](Iowa.md)| Win        | +  1.192 |
+|  77 [Kansas State          ](KansasState.md)| Win        | +  1.033 |
+| 117 [Arkansas State        ](ArkansasState.md)| Win        | +  0.709 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   5 [BYU                   ](BYU.md)| +  2.111 | -  0.474 |
-|  27 [Arizona State         ](ArizonaState.md)| +  1.517 | -  0.659 |
-|  40 [Texas Christian       ](TexasChristian.md)| +  1.349 | -  0.741 |
-|  55 [Kansas                ](Kansas.md)| +  1.174 | -  0.852 |
-| 125 [Oklahoma State        ](OklahomaState.md)| +  0.599 | -  1.670 |
+|  21 [Texas Christian       ](TexasChristian.md)| +  1.580 | -  0.633 |
+|  36 [Arizona State         ](ArizonaState.md)| +  1.410 | -  0.709 |
+|  78 [Kansas                ](Kansas.md)| +  1.027 | -  0.974 |
+| 114 [Oklahoma State        ](OklahomaState.md)| +  0.712 | -  1.405 |
 

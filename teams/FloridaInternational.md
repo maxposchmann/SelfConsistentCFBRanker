@@ -1,24 +1,24 @@
-Florida International (3 - 3)
+Florida International (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.843 |  -0.141 |   5.214 |   4.807 |
-| Rank  |      90 |      91 |     130 |      99 |
+| Value |  -1.059 |  -0.151 |   7.081 |   3.767 |
+| Rank  |      95 |      96 |     100 |     111 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  57 [Connecticut           ](Connecticut.md)| Loss       | -  0.868 |
-|  61 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.102 |
-|  80 [Delaware              ](Delaware.md)| Loss       | -  1.053 |
-|  98 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.856 |
-| 100 [Penn State            ](PennState.md)| Loss       | -  1.179 |
+|  46 [Connecticut           ](Connecticut.md)| Loss       | -  0.772 |
+|  49 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.282 |
+|  51 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.803 |
+|  75 [Delaware              ](Delaware.md)| Loss       | -  0.961 |
+|  82 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  1.006 |
+|  98 [Penn State            ](PennState.md)| Loss       | -  1.148 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  56 [Kennesaw State        ](KennesawState.md)| +  1.173 | -  0.852 |
-|  78 [Jacksonville State    ](JacksonvilleState.md)| +  0.956 | -  1.046 |
-|  84 [Missouri State        ](MissouriState.md)| +  0.936 | -  1.069 |
-| 106 [Liberty               ](Liberty.md)| +  0.803 | -  1.246 |
-| 132 [Sam Houston           ](SamHouston.md)| +  0.473 | -  2.114 |
-| 133 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.466 | -  2.144 |
+|  73 [Missouri State        ](MissouriState.md)| +  1.047 | -  0.955 |
+|  86 [Jacksonville State    ](JacksonvilleState.md)| +  0.969 | -  1.032 |
+| 104 [Liberty               ](Liberty.md)| +  0.800 | -  1.249 |
+| 131 [Sam Houston           ](SamHouston.md)| +  0.492 | -  2.032 |
+| 133 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.458 | -  2.182 |
 

@@ -1,24 +1,24 @@
 Clemson (3 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.485 |  -0.069 |   8.384 |   5.367 |
-| Rank  |      82 |      81 |      26 |      77 |
+| Value |  -0.322 |  -0.046 |   8.486 |   5.046 |
+| Rank  |      87 |      87 |      59 |      58 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.487 |
-|  30 [LSU                   ](LSU.md)| Loss       | -  0.691 |
-|  43 [SMU                   ](SMU.md)| Loss       | -  0.767 |
-|  51 [Troy                  ](Troy.md)| Win        | +  1.200 |
-|  85 [Syracuse              ](Syracuse.md)| Loss       | -  1.069 |
-| 116 [North Carolina        ](NorthCarolina.md)| Win        | +  0.740 |
-| 128 [Boston College        ](BostonCollege.md)| Win        | +  0.560 |
+|   9 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.524 |
+|  20 [SMU                   ](SMU.md)| Loss       | -  0.621 |
+|  41 [LSU                   ](LSU.md)| Loss       | -  0.738 |
+|  56 [Syracuse              ](Syracuse.md)| Loss       | -  0.845 |
+|  79 [Troy                  ](Troy.md)| Win        | +  1.016 |
+| 115 [North Carolina        ](NorthCarolina.md)| Win        | +  0.710 |
+| 120 [Boston College        ](BostonCollege.md)| Win        | +  0.673 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Louisville            ](Louisville.md)| +  1.779 | -  0.562 |
-|  45 [Duke                  ](Duke.md)| +  1.258 | -  0.795 |
-|  67 [Florida State         ](FloridaState.md)| +  1.052 | -  0.950 |
-|  83 [South Carolina        ](SouthCarolina.md)| +  0.945 | -  1.058 |
+|  34 [Louisville            ](Louisville.md)| +  1.439 | -  0.695 |
+|  48 [Duke                  ](Duke.md)| +  1.289 | -  0.776 |
+|  68 [Florida State         ](FloridaState.md)| +  1.074 | -  0.931 |
+|  92 [South Carolina        ](SouthCarolina.md)| +  0.910 | -  1.098 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 
