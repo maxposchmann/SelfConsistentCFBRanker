@@ -1,24 +1,24 @@
 Auburn (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.590 |   0.199 |  11.807 |   5.276 |
-| Rank  |      57 |      57 |       2 |      48 |
+| Value |   0.787 |   0.098 |  10.444 |   5.071 |
+| Rank  |      60 |      60 |       9 |      52 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Texas A&M             ](TexasAM.md)| Loss       | -  0.379 |
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.496 |
-|  11 [Missouri              ](Missouri.md)| Loss       | -  0.548 |
-|  18 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.611 |
-|  39 [Baylor                ](Baylor.md)| Win        | +  1.374 |
-| 101 [Ball State            ](BallState.md)| Win        | +  0.852 |
-| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.759 |
-| 125 [South Alabama         ](SouthAlabama.md)| Win        | +  0.623 |
+|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.433 |
+|   8 [Georgia               ](Georgia.md)| Loss       | -  0.549 |
+|  21 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.636 |
+|  35 [Missouri              ](Missouri.md)| Loss       | -  0.734 |
+|  73 [Baylor                ](Baylor.md)| Win        | +  1.008 |
+| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.784 |
+| 121 [South Alabama         ](SouthAlabama.md)| Win        | +  0.667 |
+| 123 [Ball State            ](BallState.md)| Win        | +  0.645 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Alabama               ](Alabama.md)| +  2.561 | -  0.391 |
-|  22 [Vanderbilt            ](Vanderbilt.md)| +  1.566 | -  0.638 |
-| 102 [Kentucky              ](Kentucky.md)| +  0.817 | -  1.225 |
+|   3 [Alabama               ](Alabama.md)| +  2.174 | -  0.460 |
+|  11 [Vanderbilt            ](Vanderbilt.md)| +  1.756 | -  0.570 |
+| 105 [Kentucky              ](Kentucky.md)| +  0.808 | -  1.237 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

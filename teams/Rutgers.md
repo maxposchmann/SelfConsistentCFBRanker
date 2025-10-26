@@ -1,24 +1,24 @@
 Rutgers (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.054 |  -0.007 |   8.381 |   6.125 |
-| Rank  |      83 |      83 |      66 |      26 |
+| Value |   0.195 |   0.024 |   8.845 |   5.293 |
+| Rank  |      68 |      68 |      42 |      43 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  26 [Minnesota             ](Minnesota.md)| Loss       | -  0.654 |
-|  33 [Oregon                ](Oregon.md)| Loss       | -  0.691 |
-|  44 [Washington            ](Washington.md)| Loss       | -  0.769 |
-|  55 [Iowa                  ](Iowa.md)| Loss       | -  0.839 |
-|  80 [Ohio                  ](Ohio.md)| Win        | +  1.011 |
-| 103 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.816 |
-| 113 [Purdue                ](Purdue.md)| Win        | +  0.736 |
+|  19 [Oregon                ](Oregon.md)| Loss       | -  0.626 |
+|  24 [Washington            ](Washington.md)| Loss       | -  0.655 |
+|  34 [Iowa                  ](Iowa.md)| Loss       | -  0.722 |
+|  47 [Minnesota             ](Minnesota.md)| Loss       | -  0.806 |
+|  76 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.977 |
+|  80 [Ohio                  ](Ohio.md)| Win        | +  0.969 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.701 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [Ohio State            ](OhioState.md)| +  2.440 | -  0.410 |
-|  14 [Illinois              ](Illinois.md)| +  1.779 | -  0.562 |
-|  76 [Maryland              ](Maryland.md)| +  1.035 | -  0.967 |
-|  98 [Penn State            ](PennState.md)| +  0.871 | -  1.148 |
+|   5 [Ohio State            ](OhioState.md)| +  2.096 | -  0.477 |
+|  39 [Illinois              ](Illinois.md)| +  1.332 | -  0.751 |
+|  74 [Maryland              ](Maryland.md)| +  1.007 | -  0.993 |
+|  97 [Penn State            ](PennState.md)| +  0.858 | -  1.166 |
 

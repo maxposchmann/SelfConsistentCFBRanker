@@ -1,24 +1,24 @@
-Central Michigan (4 - 4)
+Central Michigan (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.417 |  -0.427 |   6.034 |   3.557 |
-| Rank  |     119 |     118 |     129 |     115 |
+| Value |  -0.445 |  -0.056 |   6.212 |   3.236 |
+| Rank  |      81 |      81 |     120 |     124 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Michigan              ](Michigan.md)| Loss       | -  0.604 |
-|  62 [Pitt                  ](Pitt.md)| Loss       | -  0.889 |
-|  94 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.899 |
-| 123 [San Jose State        ](SanJoseState.md)| Win        | +  0.660 |
-| 127 [Akron                 ](Akron.md)| Loss       | -  1.678 |
-| 135 [Massachusetts         ](Massachusetts.md)| Loss       | -  2.450 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.368 |
+|  14 [Michigan              ](Michigan.md)| Loss       | -  0.592 |
+|  40 [Pitt                  ](Pitt.md)| Loss       | -  0.759 |
+| 112 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.775 |
+| 117 [San Jose State        ](SanJoseState.md)| Win        | +  0.709 |
+| 124 [Akron                 ](Akron.md)| Loss       | -  1.569 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.421 |
+| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  61 [Western Michigan      ](WesternMichigan.md)| +  1.128 | -  0.887 |
-|  72 [Toledo                ](Toledo.md)| +  1.053 | -  0.950 |
-| 106 [Buffalo               ](Buffalo.md)| +  0.776 | -  1.288 |
-| 126 [Kent State            ](KentState.md)| +  0.600 | -  1.667 |
+|  95 [Western Michigan      ](WesternMichigan.md)| +  0.868 | -  1.152 |
+| 100 [Toledo                ](Toledo.md)| +  0.843 | -  1.186 |
+| 107 [Buffalo               ](Buffalo.md)| +  0.789 | -  1.267 |
+| 115 [Kent State            ](KentState.md)| +  0.736 | -  1.358 |
 

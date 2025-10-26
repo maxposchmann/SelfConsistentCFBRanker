@@ -1,24 +1,24 @@
 East Carolina (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.105 |   0.158 |   8.456 |   4.787 |
-| Rank  |      63 |      60 |      63 |      69 |
+| Value |   0.819 |   0.117 |   7.838 |   4.914 |
+| Rank  |      58 |      57 |      72 |      57 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [BYU                   ](BYU.md)| Loss       | -  0.410 |
-|  13 [Tulane                ](Tulane.md)| Loss       | -  0.558 |
-|  37 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.721 |
-|  70 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.060 |
-| 111 [Army                  ](Army.md)| Win        | +  0.750 |
-| 124 [Tulsa                 ](Tulsa.md)| Win        | +  0.649 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.463 |
+|  18 [Tulane                ](Tulane.md)| Loss       | -  0.619 |
+|  55 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.888 |
+|  66 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.033 |
+| 113 [Army                  ](Army.md)| Win        | +  0.745 |
+| 119 [Tulsa                 ](Tulsa.md)| Win        | +  0.681 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  42 [Memphis               ](Memphis.md)| +  1.320 | -  0.757 |
-|  65 [Temple                ](Temple.md)| +  1.101 | -  0.909 |
-|  82 [Florida Atlantic      ](FloridaAtlantic.md)| +  1.006 | -  0.994 |
-|  99 [UTSA                  ](UTSA.md)| +  0.867 | -  1.154 |
-| 130 [Charlotte             ](Charlotte.md)| +  0.493 | -  2.029 |
+|  20 [Memphis               ](Memphis.md)| +  1.582 | -  0.632 |
+|  56 [Temple                ](Temple.md)| +  1.103 | -  0.907 |
+|  92 [UTSA                  ](UTSA.md)| +  0.880 | -  1.136 |
+| 101 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.833 | -  1.201 |
+| 132 [Charlotte             ](Charlotte.md)| +  0.516 | -  1.937 |
 

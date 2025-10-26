@@ -1,24 +1,24 @@
 UCF (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.099 |   0.014 |   6.268 |   7.773 |
-| Rank  |      81 |      80 |     123 |       1 |
+| Value |   0.094 |   0.013 |   6.407 |   7.170 |
+| Rank  |      72 |      72 |     115 |       4 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  29 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.670 |
-|  77 [Kansas State          ](KansasState.md)| Loss       | -  0.968 |
-|  78 [Kansas                ](Kansas.md)| Loss       | -  0.974 |
-|  86 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.969 |
-| 115 [North Carolina        ](NorthCarolina.md)| Win        | +  0.710 |
-| 118 [West Virginia         ](WestVirginia.md)| Win        | +  0.707 |
+|  17 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.600 |
+|  69 [Kansas                ](Kansas.md)| Loss       | -  0.983 |
+|  78 [Kansas State          ](KansasState.md)| Loss       | -  1.026 |
+|  82 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  0.954 |
+| 114 [West Virginia         ](WestVirginia.md)| Win        | +  0.740 |
+| 116 [North Carolina        ](NorthCarolina.md)| Win        | +  0.719 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [BYU                   ](BYU.md)| +  2.441 | -  0.410 |
-|  12 [Houston               ](Houston.md)| +  1.798 | -  0.556 |
-|  32 [Texas Tech            ](TexasTech.md)| +  1.449 | -  0.690 |
-|  39 [Baylor                ](Baylor.md)| +  1.374 | -  0.728 |
-| 114 [Oklahoma State        ](OklahomaState.md)| +  0.712 | -  1.405 |
+|   4 [BYU                   ](BYU.md)| +  2.162 | -  0.463 |
+|  12 [Texas Tech            ](TexasTech.md)| +  1.733 | -  0.577 |
+|  16 [Houston               ](Houston.md)| +  1.669 | -  0.599 |
+|  73 [Baylor                ](Baylor.md)| +  1.008 | -  0.992 |
+| 126 [Oklahoma State        ](OklahomaState.md)| +  0.599 | -  1.670 |
 

@@ -1,24 +1,24 @@
-Massachusetts (1 - 7)
+Massachusetts (0 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -8.505 |  -1.063 |   7.658 |   2.917 |
-| Rank  |     135 |     136 |      88 |     129 |
+| Value | -10.485 |  -1.311 |   7.539 |   2.929 |
+| Rank  |     136 |     136 |      86 |     130 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Missouri              ](Missouri.md)| Loss       | -  0.548 |
-|  55 [Iowa                  ](Iowa.md)| Loss       | -  0.839 |
-|  61 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.887 |
-|  65 [Temple                ](Temple.md)| Loss       | -  0.909 |
-| 106 [Buffalo               ](Buffalo.md)| Loss       | -  1.288 |
-| 119 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.698 |
-| 126 [Kent State            ](KentState.md)| Loss       | -  1.667 |
+|  34 [Iowa                  ](Iowa.md)| Loss       | -  0.722 |
+|  35 [Missouri              ](Missouri.md)| Loss       | -  0.734 |
+|  56 [Temple                ](Temple.md)| Loss       | -  0.907 |
+|  81 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.043 |
+|  95 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.152 |
+| 107 [Buffalo               ](Buffalo.md)| Loss       | -  1.267 |
+| 115 [Kent State            ](KentState.md)| Loss       | -  1.358 |
 | 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  80 [Ohio                  ](Ohio.md)| +  1.011 | -  0.989 |
-|  94 [Bowling Green         ](BowlingGreen.md)| +  0.899 | -  1.113 |
-| 127 [Akron                 ](Akron.md)| +  0.596 | -  1.678 |
-| 134 [Northern Illinois     ](NorthernIllinois.md)| +  0.411 | -  2.434 |
+|  80 [Ohio                  ](Ohio.md)| +  0.969 | -  1.032 |
+| 112 [Bowling Green         ](BowlingGreen.md)| +  0.775 | -  1.290 |
+| 124 [Akron                 ](Akron.md)| +  0.637 | -  1.569 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| +  0.548 | -  1.825 |
 

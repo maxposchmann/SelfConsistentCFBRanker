@@ -1,24 +1,24 @@
-Illinois (6 - 2)
+Illinois (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.470 |   0.684 |  10.944 |   4.533 |
-| Rank  |      14 |      15 |       7 |      83 |
+| Value |   3.006 |   0.376 |  10.800 |   4.006 |
+| Rank  |      39 |      40 |       4 |     105 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [Ohio State            ](OhioState.md)| Loss       | -  0.410 |
-|   6 [Indiana               ](Indiana.md)| Loss       | -  0.475 |
-|  25 [USC                   ](USC.md)| Win        | +  1.544 |
-|  44 [Washington            ](Washington.md)| Win        | +  1.300 |
-|  48 [Duke                  ](Duke.md)| Win        | +  1.289 |
-|  61 [Western Michigan      ](WesternMichigan.md)| Win        | +  1.128 |
-| 113 [Purdue                ](Purdue.md)| Win        | +  0.736 |
+|   1 [Indiana               ](Indiana.md)| Loss       | -  0.425 |
+|   5 [Ohio State            ](OhioState.md)| Loss       | -  0.477 |
+|  24 [Washington            ](Washington.md)| Loss       | -  0.655 |
+|  30 [USC                   ](USC.md)| Win        | +  1.424 |
+|  52 [Duke                  ](Duke.md)| Win        | +  1.164 |
+|  95 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.868 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.701 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Northwestern          ](Northwestern.md)| +  1.553 | -  0.644 |
-|  76 [Maryland              ](Maryland.md)| +  1.035 | -  0.967 |
-|  83 [Rutgers               ](Rutgers.md)| +  0.994 | -  1.006 |
-|  89 [Wisconsin             ](Wisconsin.md)| +  0.952 | -  1.051 |
+|  51 [Northwestern          ](Northwestern.md)| +  1.179 | -  0.848 |
+|  68 [Rutgers               ](Rutgers.md)| +  1.019 | -  0.982 |
+|  74 [Maryland              ](Maryland.md)| +  1.007 | -  0.993 |
+| 106 [Wisconsin             ](Wisconsin.md)| +  0.800 | -  1.249 |
 

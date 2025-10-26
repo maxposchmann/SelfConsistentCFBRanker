@@ -1,24 +1,24 @@
 Arizona State (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.264 |   0.408 |   9.705 |   4.494 |
-| Rank  |      36 |      37 |      23 |      87 |
+| Value |   3.169 |   0.396 |   9.682 |   4.206 |
+| Rank  |      37 |      39 |      23 |      95 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Houston               ](Houston.md)| Loss       | -  0.556 |
-|  21 [Texas Christian       ](TexasChristian.md)| Win        | +  1.580 |
-|  32 [Texas Tech            ](TexasTech.md)| Win        | +  1.449 |
-|  39 [Baylor                ](Baylor.md)| Win        | +  1.374 |
-|  45 [Utah                  ](Utah.md)| Loss       | -  0.770 |
-|  69 [Mississippi State     ](MississippiState.md)| Loss       | -  0.931 |
-| 108 [Texas State           ](TexasState.md)| Win        | +  0.760 |
+|  12 [Texas Tech            ](TexasTech.md)| Win        | +  1.733 |
+|  16 [Houston               ](Houston.md)| Loss       | -  0.599 |
+|  27 [Utah                  ](Utah.md)| Loss       | -  0.667 |
+|  36 [Texas Christian       ](TexasChristian.md)| Win        | +  1.357 |
+|  59 [Mississippi State     ](MississippiState.md)| Loss       | -  0.926 |
+|  73 [Baylor                ](Baylor.md)| Win        | +  1.008 |
+| 103 [Texas State           ](TexasState.md)| Win        | +  0.813 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  43 [Iowa State            ](IowaState.md)| +  1.317 | -  0.760 |
-|  50 [Colorado              ](Colorado.md)| +  1.270 | -  0.787 |
-|  53 [Arizona               ](Arizona.md)| +  1.200 | -  0.833 |
-| 118 [West Virginia         ](WestVirginia.md)| +  0.707 | -  1.415 |
+|  43 [Iowa State            ](IowaState.md)| +  1.296 | -  0.771 |
+|  54 [Arizona               ](Arizona.md)| +  1.137 | -  0.879 |
+|  67 [Colorado              ](Colorado.md)| +  1.032 | -  0.969 |
+| 114 [West Virginia         ](WestVirginia.md)| +  0.740 | -  1.351 |
 

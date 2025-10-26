@@ -1,24 +1,24 @@
 Nevada-Las Vegas (6 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.638 |   0.520 |   5.816 |   4.710 |
-| Rank  |      30 |      25 |     130 |      75 |
+| Value |   3.650 |   0.521 |   5.796 |   4.469 |
+| Rank  |      32 |      29 |     130 |      78 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  28 [Boise State           ](BoiseState.md)| Loss       | -  0.662 |
-|  54 [UCLA                  ](UCLA.md)| Win        | +  1.200 |
-| 103 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.816 |
-| 107 [Air Force             ](AirForce.md)| Win        | +  0.763 |
-| 116 [Wyoming               ](Wyoming.md)| Win        | +  0.710 |
-| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.492 |
+|  31 [Boise State           ](BoiseState.md)| Loss       | -  0.703 |
+|  76 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.977 |
+|  85 [UCLA                  ](UCLA.md)| Win        | +  0.927 |
+|  91 [Wyoming               ](Wyoming.md)| Win        | +  0.881 |
+| 110 [Air Force             ](AirForce.md)| Win        | +  0.781 |
+| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.518 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  40 [Hawaii                ](Hawaii.md)| +  1.370 | -  0.730 |
-|  58 [Utah State            ](UtahState.md)| +  1.181 | -  0.847 |
-|  93 [New Mexico            ](NewMexico.md)| +  0.910 | -  1.099 |
-| 105 [Colorado State        ](ColoradoState.md)| +  0.781 | -  1.280 |
-| 132 [Nevada                ](Nevada.md)| +  0.468 | -  2.138 |
+|  46 [Hawaii                ](Hawaii.md)| +  1.240 | -  0.806 |
+|  61 [New Mexico            ](NewMexico.md)| +  1.073 | -  0.932 |
+|  77 [Utah State            ](UtahState.md)| +  0.975 | -  1.026 |
+| 120 [Colorado State        ](ColoradoState.md)| +  0.681 | -  1.469 |
+| 133 [Nevada                ](Nevada.md)| +  0.500 | -  2.000 |
 

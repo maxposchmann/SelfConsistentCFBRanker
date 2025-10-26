@@ -1,24 +1,24 @@
 BYU (8 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   8.471 |   1.059 |   8.471 |   5.531 |
-| Rank  |       3 |       4 |      60 |      40 |
+| Value |   8.082 |   1.010 |   8.082 |   5.766 |
+| Rank  |       4 |       5 |      63 |      22 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  43 [Iowa State            ](IowaState.md)| Win        | +  1.317 |
-|  45 [Utah                  ](Utah.md)| Win        | +  1.299 |
-|  50 [Colorado              ](Colorado.md)| Win        | +  1.270 |
-|  52 [Stanford              ](Stanford.md)| Win        | +  1.207 |
-|  53 [Arizona               ](Arizona.md)| Win        | +  1.200 |
-|  63 [East Carolina         ](EastCarolina.md)| Win        | +  1.124 |
-| 118 [West Virginia         ](WestVirginia.md)| Win        | +  0.707 |
+|  27 [Utah                  ](Utah.md)| Win        | +  1.500 |
+|  43 [Iowa State            ](IowaState.md)| Win        | +  1.296 |
+|  54 [Arizona               ](Arizona.md)| Win        | +  1.137 |
+|  58 [East Carolina         ](EastCarolina.md)| Win        | +  1.081 |
+|  67 [Colorado              ](Colorado.md)| Win        | +  1.032 |
+|  86 [Stanford              ](Stanford.md)| Win        | +  0.917 |
+| 114 [West Virginia         ](WestVirginia.md)| Win        | +  0.740 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  21 [Texas Christian       ](TexasChristian.md)| +  1.580 | -  0.633 |
-|  29 [Cincinnati            ](Cincinnati.md)| +  1.492 | -  0.670 |
-|  32 [Texas Tech            ](TexasTech.md)| +  1.449 | -  0.690 |
-|  81 [UCF                   ](UCF.md)| +  1.010 | -  0.990 |
+|  12 [Texas Tech            ](TexasTech.md)| +  1.733 | -  0.577 |
+|  17 [Cincinnati            ](Cincinnati.md)| +  1.668 | -  0.600 |
+|  36 [Texas Christian       ](TexasChristian.md)| +  1.357 | -  0.737 |
+|  72 [UCF                   ](UCF.md)| +  1.009 | -  0.991 |
 

@@ -1,24 +1,24 @@
-Memphis (6 - 2)
+Memphis (7 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.637 |   0.330 |   7.210 |   5.107 |
-| Rank  |      42 |      43 |      96 |      54 |
+| Value |   4.810 |   0.601 |   6.827 |   5.269 |
+| Rank  |      20 |      21 |     100 |      44 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [South Florida         ](SouthFlorida.md)| Loss       | -  0.489 |
-|  79 [Troy                  ](Troy.md)| Win        | +  1.016 |
-|  82 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  1.006 |
-| 100 [UAB                   ](UAB.md)| Loss       | -  1.162 |
-| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.759 |
-| 124 [Tulsa                 ](Tulsa.md)| Win        | +  0.649 |
-| 129 [Georgia State         ](GeorgiaState.md)| Win        | +  0.540 |
+|  23 [South Florida         ](SouthFlorida.md)| Win        | +  1.544 |
+|  48 [Troy                  ](Troy.md)| Win        | +  1.237 |
+|  90 [UAB                   ](UAB.md)| Loss       | -  1.130 |
+| 101 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.833 |
+| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.784 |
+| 119 [Tulsa                 ](Tulsa.md)| Win        | +  0.681 |
+| 128 [Georgia State         ](GeorgiaState.md)| Win        | +  0.564 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [Tulane                ](Tulane.md)| +  1.792 | -  0.558 |
-|  35 [Navy                  ](Navy.md)| +  1.438 | -  0.695 |
-|  63 [East Carolina         ](EastCarolina.md)| +  1.124 | -  0.890 |
-| 110 [Rice                  ](Rice.md)| +  0.753 | -  1.327 |
+|  15 [Navy                  ](Navy.md)| +  1.678 | -  0.596 |
+|  18 [Tulane                ](Tulane.md)| +  1.615 | -  0.619 |
+|  58 [East Carolina         ](EastCarolina.md)| +  1.081 | -  0.925 |
+|  88 [Rice                  ](Rice.md)| +  0.895 | -  1.118 |
 

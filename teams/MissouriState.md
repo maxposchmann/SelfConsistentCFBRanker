@@ -1,24 +1,24 @@
 Missouri State (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.439 |   0.063 |   6.938 |   4.662 |
-| Rank  |      73 |      72 |     107 |      77 |
+| Value |   0.106 |   0.015 |   6.319 |   4.645 |
+| Rank  |      71 |      71 |     117 |      71 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [SMU                   ](SMU.md)| Loss       | -  0.621 |
-|  25 [USC                   ](USC.md)| Loss       | -  0.648 |
-|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.780 |
-|  88 [Marshall              ](Marshall.md)| Win        | +  0.955 |
-| 112 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.745 |
-| 133 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.458 |
+|  30 [USC                   ](USC.md)| Loss       | -  0.702 |
+|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.831 |
+|  53 [SMU                   ](SMU.md)| Loss       | -  0.861 |
+|  83 [Marshall              ](Marshall.md)| Win        | +  0.953 |
+| 111 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.777 |
+| 134 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.470 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  51 [Kennesaw State        ](KennesawState.md)| +  1.246 | -  0.803 |
-|  71 [Louisiana Tech        ](LouisianaTech.md)| +  1.058 | -  0.945 |
-|  95 [Florida International ](FloridaInternational.md)| +  0.894 | -  1.118 |
-| 104 [Liberty               ](Liberty.md)| +  0.800 | -  1.249 |
-| 121 [UTEP                  ](UTEP.md)| +  0.663 | -  1.507 |
+|  45 [Kennesaw State        ](KennesawState.md)| +  1.254 | -  0.798 |
+|  63 [Louisiana Tech        ](LouisianaTech.md)| +  1.063 | -  0.941 |
+|  98 [Florida International ](FloridaInternational.md)| +  0.853 | -  1.173 |
+| 104 [Liberty               ](Liberty.md)| +  0.812 | -  1.231 |
+| 122 [UTEP                  ](UTEP.md)| +  0.663 | -  1.509 |
 

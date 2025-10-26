@@ -1,24 +1,24 @@
 Kentucky (2 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.924 |  -0.275 |   9.648 |   5.602 |
-| Rank  |     102 |     103 |      25 |      38 |
+| Value |  -2.234 |  -0.319 |   9.119 |   5.943 |
+| Rank  |     105 |     108 |      32 |      20 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.461 |
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.496 |
-|  24 [Tennessee             ](Tennessee.md)| Loss       | -  0.646 |
-|  27 [Texas                 ](Texas.md)| Loss       | -  0.655 |
-|  72 [Toledo                ](Toledo.md)| Win        | +  1.053 |
-|  92 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.098 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.368 |
+|   7 [Ole Miss              ](OleMiss.md)| Loss       | -  0.498 |
+|   8 [Georgia               ](Georgia.md)| Loss       | -  0.549 |
+|  28 [Texas                 ](Texas.md)| Loss       | -  0.687 |
+|  29 [Tennessee             ](Tennessee.md)| Loss       | -  0.700 |
+|  87 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.108 |
+| 100 [Toledo                ](Toledo.md)| Win        | +  0.843 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.421 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  22 [Vanderbilt            ](Vanderbilt.md)| +  1.566 | -  0.638 |
-|  34 [Louisville            ](Louisville.md)| +  1.439 | -  0.695 |
-|  57 [Auburn                ](Auburn.md)| +  1.182 | -  0.846 |
-|  66 [Florida               ](Florida.md)| +  1.081 | -  0.925 |
+|  11 [Vanderbilt            ](Vanderbilt.md)| +  1.756 | -  0.570 |
+|  13 [Louisville            ](Louisville.md)| +  1.721 | -  0.581 |
+|  60 [Auburn                ](Auburn.md)| +  1.078 | -  0.928 |
+|  64 [Florida               ](Florida.md)| +  1.056 | -  0.947 |
 | 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
 

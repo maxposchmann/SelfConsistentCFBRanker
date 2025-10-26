@@ -1,24 +1,24 @@
-Rice (3 - 5)
+Rice (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.689 |  -0.336 |   7.904 |   5.850 |
-| Rank  |     110 |     108 |      79 |      33 |
+| Value |  -1.168 |  -0.146 |   7.522 |   5.528 |
+| Rank  |      88 |      88 |      87 |      33 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Houston               ](Houston.md)| Loss       | -  0.556 |
-|  35 [Navy                  ](Navy.md)| Loss       | -  0.695 |
-|  46 [Connecticut           ](Connecticut.md)| Loss       | -  0.772 |
-|  82 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  0.994 |
-|  99 [UTSA                  ](UTSA.md)| Loss       | -  1.154 |
-| 122 [Louisiana             ](Louisiana.md)| Win        | +  0.662 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.493 |
+|  15 [Navy                  ](Navy.md)| Loss       | -  0.596 |
+|  16 [Houston               ](Houston.md)| Loss       | -  0.599 |
+|  75 [Connecticut           ](Connecticut.md)| Win        | +  0.978 |
+|  92 [UTSA                  ](UTSA.md)| Loss       | -  1.136 |
+| 101 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.201 |
+| 127 [Louisiana             ](Louisiana.md)| Win        | +  0.598 |
+| 132 [Charlotte             ](Charlotte.md)| Win        | +  0.516 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   7 [South Florida         ](SouthFlorida.md)| +  2.043 | -  0.489 |
-|  19 [North Texas           ](NorthTexas.md)| +  1.625 | -  0.615 |
-|  42 [Memphis               ](Memphis.md)| +  1.320 | -  0.757 |
-| 100 [UAB                   ](UAB.md)| +  0.861 | -  1.162 |
+|  20 [Memphis               ](Memphis.md)| +  1.582 | -  0.632 |
+|  23 [South Florida         ](SouthFlorida.md)| +  1.544 | -  0.648 |
+|  25 [North Texas           ](NorthTexas.md)| +  1.517 | -  0.659 |
+|  90 [UAB                   ](UAB.md)| +  0.885 | -  1.130 |
 

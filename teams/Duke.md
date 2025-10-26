@@ -1,24 +1,24 @@
 Duke (4 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.413 |   0.345 |   9.570 |   5.991 |
-| Rank  |      48 |      42 |      28 |      31 |
+| Value |   1.597 |   0.228 |   8.617 |   5.721 |
+| Rank  |      52 |      50 |      49 |      25 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   9 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.524 |
-|  13 [Tulane                ](Tulane.md)| Loss       | -  0.558 |
-|  14 [Illinois              ](Illinois.md)| Loss       | -  0.562 |
-|  37 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.388 |
-|  56 [Syracuse              ](Syracuse.md)| Win        | +  1.184 |
-|  59 [California            ](California.md)| Win        | +  1.132 |
+|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.482 |
+|  18 [Tulane                ](Tulane.md)| Loss       | -  0.619 |
+|  39 [Illinois              ](Illinois.md)| Loss       | -  0.751 |
+|  55 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.126 |
+|  62 [California            ](California.md)| Win        | +  1.066 |
+|  94 [Syracuse              ](Syracuse.md)| Win        | +  0.878 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  10 [Virginia              ](Virginia.md)| +  1.887 | -  0.530 |
-|  46 [Connecticut           ](Connecticut.md)| +  1.296 | -  0.772 |
-|  60 [Wake Forest           ](WakeForest.md)| +  1.131 | -  0.884 |
-|  87 [Clemson               ](Clemson.md)| +  0.967 | -  1.034 |
-| 115 [North Carolina        ](NorthCarolina.md)| +  0.710 | -  1.408 |
+|   9 [Virginia              ](Virginia.md)| +  1.774 | -  0.564 |
+|  41 [Wake Forest           ](WakeForest.md)| +  1.318 | -  0.759 |
+|  75 [Connecticut           ](Connecticut.md)| +  0.978 | -  1.023 |
+|  84 [Clemson               ](Clemson.md)| +  0.933 | -  1.071 |
+| 116 [North Carolina        ](NorthCarolina.md)| +  0.719 | -  1.392 |
 

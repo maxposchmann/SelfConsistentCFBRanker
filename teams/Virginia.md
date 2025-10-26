@@ -1,24 +1,24 @@
 Virginia (7 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.028 |   0.753 |   8.140 |   4.425 |
-| Rank  |      10 |      11 |      70 |      88 |
+| Value |   6.008 |   0.751 |   8.025 |   4.442 |
+| Rank  |       9 |      12 |      67 |      80 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  34 [Louisville            ](Louisville.md)| Win        | +  1.439 |
-|  37 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.721 |
-|  52 [Stanford              ](Stanford.md)| Win        | +  1.207 |
-|  68 [Florida State         ](FloridaState.md)| Win        | +  1.074 |
-|  70 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.060 |
-|  91 [Washington State      ](WashingtonState.md)| Win        | +  0.918 |
-| 115 [North Carolina        ](NorthCarolina.md)| Win        | +  0.710 |
+|  13 [Louisville            ](Louisville.md)| Win        | +  1.721 |
+|  55 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.888 |
+|  57 [Washington State      ](WashingtonState.md)| Win        | +  1.089 |
+|  65 [Florida State         ](FloridaState.md)| Win        | +  1.040 |
+|  66 [Coastal Carolina      ](CoastalCarolina.md)| Win        | +  1.033 |
+|  86 [Stanford              ](Stanford.md)| Win        | +  0.917 |
+| 116 [North Carolina        ](NorthCarolina.md)| Win        | +  0.719 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  48 [Duke                  ](Duke.md)| +  1.289 | -  0.776 |
-|  59 [California            ](California.md)| +  1.132 | -  0.884 |
-|  60 [Wake Forest           ](WakeForest.md)| +  1.131 | -  0.884 |
-|  97 [Virginia Tech         ](VirginiaTech.md)| +  0.873 | -  1.146 |
+|  41 [Wake Forest           ](WakeForest.md)| +  1.318 | -  0.759 |
+|  52 [Duke                  ](Duke.md)| +  1.164 | -  0.859 |
+|  62 [California            ](California.md)| +  1.066 | -  0.938 |
+|  89 [Virginia Tech         ](VirginiaTech.md)| +  0.894 | -  1.119 |
 

@@ -1,24 +1,24 @@
-Miami (OH) (4 - 4)
+Miami (OH) (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.933 |  -0.242 |   6.238 |   3.692 |
-| Rank  |     103 |     102 |     125 |     112 |
+| Value |  -0.242 |  -0.030 |   5.958 |   3.246 |
+| Rank  |      76 |      76 |     126 |     123 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  30 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.682 |
-|  61 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.887 |
-|  83 [Rutgers               ](Rutgers.md)| Loss       | -  1.006 |
-|  89 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.051 |
-| 127 [Akron                 ](Akron.md)| Win        | +  0.596 |
-| 134 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.411 |
-| 136 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.368 |
+|  32 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.706 |
+|  68 [Rutgers               ](Rutgers.md)| Loss       | -  0.982 |
+|  95 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.868 |
+| 106 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.249 |
+| 124 [Akron                 ](Akron.md)| Win        | +  0.637 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.548 |
+| 135 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.421 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  72 [Toledo                ](Toledo.md)| +  1.053 | -  0.950 |
-|  80 [Ohio                  ](Ohio.md)| +  1.011 | -  0.989 |
-| 101 [Ball State            ](BallState.md)| +  0.852 | -  1.174 |
-| 106 [Buffalo               ](Buffalo.md)| +  0.776 | -  1.288 |
+|  80 [Ohio                  ](Ohio.md)| +  0.969 | -  1.032 |
+| 100 [Toledo                ](Toledo.md)| +  0.843 | -  1.186 |
+| 107 [Buffalo               ](Buffalo.md)| +  0.789 | -  1.267 |
+| 123 [Ball State            ](BallState.md)| +  0.645 | -  1.551 |
 

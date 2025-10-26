@@ -1,24 +1,24 @@
 Middle Tennessee State (1 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -7.406 |  -1.058 |   6.034 |   4.382 |
-| Rank  |     133 |     135 |     128 |      93 |
+| Value |  -7.922 |  -1.132 |   5.775 |   4.305 |
+| Rank  |     134 |     135 |     131 |      90 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  51 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.803 |
-|  73 [Missouri State        ](MissouriState.md)| Loss       | -  0.955 |
-|  75 [Delaware              ](Delaware.md)| Loss       | -  0.961 |
-|  88 [Marshall              ](Marshall.md)| Loss       | -  1.047 |
-|  89 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.051 |
-| 132 [Nevada                ](Nevada.md)| Win        | +  0.468 |
+|  45 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.798 |
+|  71 [Missouri State        ](MissouriState.md)| Loss       | -  0.990 |
+|  79 [Delaware              ](Delaware.md)| Loss       | -  1.026 |
+|  83 [Marshall              ](Marshall.md)| Loss       | -  1.050 |
+| 106 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.249 |
+| 133 [Nevada                ](Nevada.md)| Win        | +  0.500 |
 | 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  49 [Western Kentucky      ](WesternKentucky.md)| +  1.282 | -  0.780 |
-|  86 [Jacksonville State    ](JacksonvilleState.md)| +  0.969 | -  1.032 |
-|  95 [Florida International ](FloridaInternational.md)| +  0.894 | -  1.118 |
-| 112 [New Mexico State      ](NewMexicoState.md)| +  0.745 | -  1.342 |
-| 131 [Sam Houston           ](SamHouston.md)| +  0.492 | -  2.032 |
+|  49 [Western Kentucky      ](WesternKentucky.md)| +  1.203 | -  0.831 |
+|  82 [Jacksonville State    ](JacksonvilleState.md)| +  0.954 | -  1.048 |
+|  98 [Florida International ](FloridaInternational.md)| +  0.853 | -  1.173 |
+| 111 [New Mexico State      ](NewMexicoState.md)| +  0.777 | -  1.287 |
+| 131 [Sam Houston           ](SamHouston.md)| +  0.518 | -  1.929 |
 

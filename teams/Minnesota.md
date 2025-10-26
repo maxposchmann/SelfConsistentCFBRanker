@@ -1,24 +1,24 @@
-Minnesota (6 - 2)
+Minnesota (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.036 |   0.504 |   8.929 |   4.834 |
-| Rank  |      26 |      28 |      46 |      65 |
+| Value |   2.256 |   0.282 |   9.055 |   4.429 |
+| Rank  |      47 |      47 |      33 |      81 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [Ohio State            ](OhioState.md)| Loss       | -  0.410 |
-|  47 [Nebraska              ](Nebraska.md)| Win        | +  1.294 |
-|  55 [Iowa                  ](Iowa.md)| Win        | +  1.192 |
-|  59 [California            ](California.md)| Loss       | -  0.884 |
-|  83 [Rutgers               ](Rutgers.md)| Win        | +  0.994 |
-| 106 [Buffalo               ](Buffalo.md)| Win        | +  0.776 |
-| 113 [Purdue                ](Purdue.md)| Win        | +  0.736 |
+|   5 [Ohio State            ](OhioState.md)| Loss       | -  0.477 |
+|  26 [Nebraska              ](Nebraska.md)| Win        | +  1.512 |
+|  34 [Iowa                  ](Iowa.md)| Loss       | -  0.722 |
+|  62 [California            ](California.md)| Loss       | -  0.938 |
+|  68 [Rutgers               ](Rutgers.md)| Win        | +  1.019 |
+| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.789 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.701 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Northwestern          ](Northwestern.md)| +  1.553 | -  0.644 |
-|  33 [Oregon                ](Oregon.md)| +  1.448 | -  0.691 |
-|  89 [Wisconsin             ](Wisconsin.md)| +  0.952 | -  1.051 |
-|  96 [Michigan State        ](MichiganState.md)| +  0.882 | -  1.133 |
+|  19 [Oregon                ](Oregon.md)| +  1.598 | -  0.626 |
+|  51 [Northwestern          ](Northwestern.md)| +  1.179 | -  0.848 |
+|  99 [Michigan State        ](MichiganState.md)| +  0.851 | -  1.175 |
+| 106 [Wisconsin             ](Wisconsin.md)| +  0.800 | -  1.249 |
 

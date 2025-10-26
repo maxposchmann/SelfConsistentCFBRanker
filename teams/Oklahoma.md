@@ -1,24 +1,24 @@
 Oklahoma (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.682 |   0.585 |   9.519 |   7.286 |
-| Rank  |      18 |      19 |      30 |       7 |
+| Value |   4.737 |   0.592 |   9.496 |   6.276 |
+| Rank  |      21 |      22 |      27 |      15 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.461 |
-|  16 [Michigan              ](Michigan.md)| Win        | +  1.656 |
-|  27 [Texas                 ](Texas.md)| Loss       | -  0.655 |
-|  57 [Auburn                ](Auburn.md)| Win        | +  1.182 |
-|  65 [Temple                ](Temple.md)| Win        | +  1.101 |
-|  92 [South Carolina        ](SouthCarolina.md)| Win        | +  0.910 |
-| 126 [Kent State            ](KentState.md)| Win        | +  0.600 |
+|   7 [Ole Miss              ](OleMiss.md)| Loss       | -  0.498 |
+|  14 [Michigan              ](Michigan.md)| Win        | +  1.690 |
+|  28 [Texas                 ](Texas.md)| Loss       | -  0.687 |
+|  56 [Temple                ](Temple.md)| Win        | +  1.103 |
+|  60 [Auburn                ](Auburn.md)| Win        | +  1.078 |
+|  87 [South Carolina        ](SouthCarolina.md)| Win        | +  0.903 |
+| 115 [Kent State            ](KentState.md)| Win        | +  0.736 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Alabama               ](Alabama.md)| +  2.561 | -  0.391 |
-|  11 [Missouri              ](Missouri.md)| +  1.823 | -  0.548 |
-|  24 [Tennessee             ](Tennessee.md)| +  1.547 | -  0.646 |
-|  41 [LSU                   ](LSU.md)| +  1.355 | -  0.738 |
+|   3 [Alabama               ](Alabama.md)| +  2.174 | -  0.460 |
+|  29 [Tennessee             ](Tennessee.md)| +  1.429 | -  0.700 |
+|  35 [Missouri              ](Missouri.md)| +  1.362 | -  0.734 |
+|  42 [LSU                   ](LSU.md)| +  1.311 | -  0.763 |
 

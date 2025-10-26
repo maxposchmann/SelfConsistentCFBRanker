@@ -1,24 +1,24 @@
 North Texas (7 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.609 |   0.576 |   7.158 |   4.153 |
-| Rank  |      19 |      20 |      98 |     100 |
+| Value |   4.371 |   0.546 |   6.594 |   4.561 |
+| Rank  |      25 |      25 |     108 |      75 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [South Florida         ](SouthFlorida.md)| Loss       | -  0.489 |
-|  61 [Western Michigan      ](WesternMichigan.md)| Win        | +  1.128 |
-|  91 [Washington State      ](WashingtonState.md)| Win        | +  0.918 |
-|  99 [UTSA                  ](UTSA.md)| Win        | +  0.867 |
-| 111 [Army                  ](Army.md)| Win        | +  0.750 |
-| 125 [South Alabama         ](SouthAlabama.md)| Win        | +  0.623 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.493 |
+|  23 [South Florida         ](SouthFlorida.md)| Loss       | -  0.648 |
+|  57 [Washington State      ](WashingtonState.md)| Win        | +  1.089 |
+|  92 [UTSA                  ](UTSA.md)| Win        | +  0.880 |
+|  95 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.868 |
+| 113 [Army                  ](Army.md)| Win        | +  0.745 |
+| 121 [South Alabama         ](SouthAlabama.md)| Win        | +  0.667 |
+| 132 [Charlotte             ](Charlotte.md)| Win        | +  0.516 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  35 [Navy                  ](Navy.md)| +  1.438 | -  0.695 |
-|  65 [Temple                ](Temple.md)| +  1.101 | -  0.909 |
-| 100 [UAB                   ](UAB.md)| +  0.861 | -  1.162 |
-| 110 [Rice                  ](Rice.md)| +  0.753 | -  1.327 |
+|  15 [Navy                  ](Navy.md)| +  1.678 | -  0.596 |
+|  56 [Temple                ](Temple.md)| +  1.103 | -  0.907 |
+|  88 [Rice                  ](Rice.md)| +  0.895 | -  1.118 |
+|  90 [UAB                   ](UAB.md)| +  0.885 | -  1.130 |
 

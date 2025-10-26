@@ -1,24 +1,24 @@
-Baylor (5 - 3)
+Baylor (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.013 |   0.377 |   9.385 |   5.307 |
-| Rank  |      39 |      39 |      36 |      45 |
+| Value |   0.089 |   0.011 |   8.622 |   5.315 |
+| Rank  |      73 |      73 |      48 |      42 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [SMU                   ](SMU.md)| Win        | +  1.610 |
-|  21 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.633 |
-|  29 [Cincinnati            ](Cincinnati.md)| Win        | +  1.492 |
-|  36 [Arizona State         ](ArizonaState.md)| Loss       | -  0.709 |
-|  57 [Auburn                ](Auburn.md)| Loss       | -  0.846 |
-|  77 [Kansas State          ](KansasState.md)| Win        | +  1.033 |
-| 114 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.712 |
+|  17 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.600 |
+|  36 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.737 |
+|  37 [Arizona State         ](ArizonaState.md)| Loss       | -  0.739 |
+|  53 [SMU                   ](SMU.md)| Win        | +  1.162 |
+|  60 [Auburn                ](Auburn.md)| Loss       | -  0.928 |
+|  78 [Kansas State          ](KansasState.md)| Win        | +  0.975 |
+| 126 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  12 [Houston               ](Houston.md)| +  1.798 | -  0.556 |
-|  45 [Utah                  ](Utah.md)| +  1.299 | -  0.770 |
-|  53 [Arizona               ](Arizona.md)| +  1.200 | -  0.833 |
-|  81 [UCF                   ](UCF.md)| +  1.010 | -  0.990 |
+|  16 [Houston               ](Houston.md)| +  1.669 | -  0.599 |
+|  27 [Utah                  ](Utah.md)| +  1.500 | -  0.667 |
+|  54 [Arizona               ](Arizona.md)| +  1.137 | -  0.879 |
+|  72 [UCF                   ](UCF.md)| +  1.009 | -  0.991 |
 

@@ -1,24 +1,24 @@
 Kansas State (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.306 |   0.038 |   8.609 |   4.730 |
-| Rank  |      77 |      77 |      56 |      72 |
+| Value |  -0.267 |  -0.033 |   7.932 |   4.864 |
+| Rank  |      78 |      78 |      68 |      61 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  21 [Texas Christian       ](TexasChristian.md)| Win        | +  1.580 |
-|  39 [Baylor                ](Baylor.md)| Loss       | -  0.728 |
-|  43 [Iowa State            ](IowaState.md)| Loss       | -  0.760 |
-|  53 [Arizona               ](Arizona.md)| Loss       | -  0.833 |
-|  78 [Kansas                ](Kansas.md)| Win        | +  1.027 |
-|  81 [UCF                   ](UCF.md)| Win        | +  1.010 |
-| 111 [Army                  ](Army.md)| Loss       | -  1.333 |
+|  36 [Texas Christian       ](TexasChristian.md)| Win        | +  1.357 |
+|  43 [Iowa State            ](IowaState.md)| Loss       | -  0.771 |
+|  54 [Arizona               ](Arizona.md)| Loss       | -  0.879 |
+|  69 [Kansas                ](Kansas.md)| Win        | +  1.018 |
+|  72 [UCF                   ](UCF.md)| Win        | +  1.009 |
+|  73 [Baylor                ](Baylor.md)| Loss       | -  0.992 |
+| 113 [Army                  ](Army.md)| Loss       | -  1.342 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  32 [Texas Tech            ](TexasTech.md)| +  1.449 | -  0.690 |
-|  45 [Utah                  ](Utah.md)| +  1.299 | -  0.770 |
-|  50 [Colorado              ](Colorado.md)| +  1.270 | -  0.787 |
-| 114 [Oklahoma State        ](OklahomaState.md)| +  0.712 | -  1.405 |
+|  12 [Texas Tech            ](TexasTech.md)| +  1.733 | -  0.577 |
+|  27 [Utah                  ](Utah.md)| +  1.500 | -  0.667 |
+|  67 [Colorado              ](Colorado.md)| +  1.032 | -  0.969 |
+| 126 [Oklahoma State        ](OklahomaState.md)| +  0.599 | -  1.670 |
 
