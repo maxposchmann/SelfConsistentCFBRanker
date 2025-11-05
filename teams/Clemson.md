@@ -1,24 +1,24 @@
-Clemson (3 - 4)
+Clemson (3 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.724 |  -0.103 |   8.059 |   5.161 |
-| Rank  |      84 |      85 |      65 |      47 |
+| Value |  -1.642 |  -0.205 |   9.126 |   4.340 |
+| Rank  |      98 |      98 |      67 |      46 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.482 |
-|  42 [LSU                   ](LSU.md)| Loss       | -  0.763 |
-|  48 [Troy                  ](Troy.md)| Win        | +  1.237 |
-|  53 [SMU                   ](SMU.md)| Loss       | -  0.861 |
-|  94 [Syracuse              ](Syracuse.md)| Loss       | -  1.139 |
-| 116 [North Carolina        ](NorthCarolina.md)| Win        | +  0.719 |
-| 130 [Boston College        ](BostonCollege.md)| Win        | +  0.547 |
+|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
+|  38 [SMU                   ](SMU.md)| Loss       | -  0.723 |
+|  45 [LSU                   ](LSU.md)| Loss       | -  0.763 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.772 |
+|  63 [Troy                  ](Troy.md)| Win        | +  1.115 |
+| 108 [Syracuse              ](Syracuse.md)| Loss       | -  1.267 |
+| 111 [North Carolina        ](NorthCarolina.md)| Win        | +  0.772 |
+| 131 [Boston College        ](BostonCollege.md)| Win        | +  0.515 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  13 [Louisville            ](Louisville.md)| +  1.721 | -  0.581 |
-|  52 [Duke                  ](Duke.md)| +  1.164 | -  0.859 |
-|  65 [Florida State         ](FloridaState.md)| +  1.040 | -  0.961 |
-|  87 [South Carolina        ](SouthCarolina.md)| +  0.903 | -  1.108 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
+|  10 [Louisville            ](Louisville.md)| +  1.935 | -  0.517 |
+|  56 [Florida State         ](FloridaState.md)| +  1.188 | -  0.842 |
+|  93 [South Carolina        ](SouthCarolina.md)| +  0.873 | -  1.146 |
+| 137 [Non-FBS               ](NonFBS.md)| +  0.345 | -  2.897 |
 

@@ -1,24 +1,24 @@
-Wyoming (4 - 4)
+Wyoming (4 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.331 |  -0.166 |   7.077 |   4.107 |
-| Rank  |      91 |      90 |      94 |      99 |
+| Value |  -2.122 |  -0.236 |   8.672 |   2.798 |
+| Rank  |     103 |      99 |      79 |     118 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  27 [Utah                  ](Utah.md)| Loss       | -  0.667 |
-|  32 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.706 |
-|  67 [Colorado              ](Colorado.md)| Loss       | -  0.969 |
-| 110 [Air Force             ](AirForce.md)| Loss       | -  1.280 |
-| 117 [San Jose State        ](SanJoseState.md)| Win        | +  0.709 |
-| 120 [Colorado State        ](ColoradoState.md)| Win        | +  0.681 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.637 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  14 [Utah                  ](Utah.md)| Loss       | -  0.548 |
+|  33 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.671 |
+|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.774 |
+|  83 [Colorado              ](Colorado.md)| Loss       | -  1.072 |
+| 107 [San Jose State        ](SanJoseState.md)| Win        | +  0.795 |
+| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.685 |
+| 121 [Air Force             ](AirForce.md)| Loss       | -  1.494 |
+| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  38 [San Diego State       ](SanDiegoState.md)| +  1.349 | -  0.741 |
-|  46 [Hawaii                ](Hawaii.md)| +  1.240 | -  0.806 |
-|  70 [Fresno State          ](FresnoState.md)| +  1.017 | -  0.983 |
-| 133 [Nevada                ](Nevada.md)| +  0.500 | -  2.000 |
+|  57 [Fresno State          ](FresnoState.md)| +  1.182 | -  0.846 |
+|  64 [Hawaii                ](Hawaii.md)| +  1.110 | -  0.901 |
+| 132 [Nevada                ](Nevada.md)| +  0.506 | -  1.978 |
 

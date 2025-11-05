@@ -1,24 +1,24 @@
-Texas Tech (7 - 1)
+Texas Tech (8 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.765 |   0.721 |   7.872 |   4.885 |
-| Rank  |      12 |      14 |      70 |      60 |
+| Value |   7.185 |   0.798 |   9.428 |   4.149 |
+| Rank  |       9 |      10 |      54 |      62 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Houston               ](Houston.md)| Win        | +  1.669 |
-|  27 [Utah                  ](Utah.md)| Win        | +  1.500 |
-|  37 [Arizona State         ](ArizonaState.md)| Loss       | -  0.739 |
-|  69 [Kansas                ](Kansas.md)| Win        | +  1.018 |
-| 115 [Kent State            ](KentState.md)| Win        | +  0.736 |
-| 125 [Oregon State          ](OregonState.md)| Win        | +  0.607 |
-| 126 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  14 [Utah                  ](Utah.md)| Win        | +  1.825 |
+|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.619 |
+|  28 [Houston               ](Houston.md)| Win        | +  1.558 |
+|  65 [Kansas                ](Kansas.md)| Win        | +  1.106 |
+|  80 [Kansas State          ](KansasState.md)| Win        | +  0.965 |
+| 113 [Kent State            ](KentState.md)| Win        | +  0.762 |
+| 120 [Oregon State          ](OregonState.md)| Win        | +  0.672 |
+| 129 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.552 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [BYU                   ](BYU.md)| +  2.162 | -  0.463 |
-|  72 [UCF                   ](UCF.md)| +  1.009 | -  0.991 |
-|  78 [Kansas State          ](KansasState.md)| +  0.975 | -  1.026 |
-| 114 [West Virginia         ](WestVirginia.md)| +  0.740 | -  1.351 |
+|   4 [BYU                   ](BYU.md)| +  2.298 | -  0.435 |
+|  81 [UCF                   ](UCF.md)| +  0.957 | -  1.045 |
+|  88 [West Virginia         ](WestVirginia.md)| +  0.894 | -  1.119 |
 

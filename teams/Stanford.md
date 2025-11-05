@@ -1,24 +1,24 @@
-Stanford (3 - 5)
+Stanford (3 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.905 |  -0.113 |  10.685 |   4.648 |
-| Rank  |      86 |      86 |       5 |      70 |
+| Value |  -1.254 |  -0.139 |  12.716 |   3.516 |
+| Rank  |      91 |      90 |       5 |      85 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [BYU                   ](BYU.md)| Loss       | -  0.463 |
-|   9 [Virginia              ](Virginia.md)| Loss       | -  0.564 |
-|  10 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.566 |
-|  46 [Hawaii                ](Hawaii.md)| Loss       | -  0.806 |
-|  53 [SMU                   ](SMU.md)| Loss       | -  0.861 |
-|  65 [Florida State         ](FloridaState.md)| Win        | +  1.040 |
-| 117 [San Jose State        ](SanJoseState.md)| Win        | +  0.709 |
-| 130 [Boston College        ](BostonCollege.md)| Win        | +  0.547 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.435 |
+|   7 [Virginia              ](Virginia.md)| Loss       | -  0.477 |
+|  17 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.585 |
+|  31 [Pitt                  ](Pitt.md)| Loss       | -  0.652 |
+|  38 [SMU                   ](SMU.md)| Loss       | -  0.723 |
+|  56 [Florida State         ](FloridaState.md)| Win        | +  1.188 |
+|  64 [Hawaii                ](Hawaii.md)| Loss       | -  0.901 |
+| 107 [San Jose State        ](SanJoseState.md)| Win        | +  0.795 |
+| 131 [Boston College        ](BostonCollege.md)| Win        | +  0.515 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  22 [Notre Dame            ](NotreDame.md)| +  1.546 | -  0.647 |
-|  40 [Pitt                  ](Pitt.md)| +  1.318 | -  0.759 |
-|  62 [California            ](California.md)| +  1.066 | -  0.938 |
-| 116 [North Carolina        ](NorthCarolina.md)| +  0.719 | -  1.392 |
+|  20 [Notre Dame            ](NotreDame.md)| +  1.688 | -  0.592 |
+|  66 [California            ](California.md)| +  1.057 | -  0.946 |
+| 111 [North Carolina        ](NorthCarolina.md)| +  0.772 | -  1.296 |
 

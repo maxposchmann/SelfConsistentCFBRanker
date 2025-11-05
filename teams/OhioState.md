@@ -1,24 +1,24 @@
-Ohio State (7 - 0)
+Ohio State (8 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   7.758 |   1.108 |   7.758 |   5.194 |
-| Rank  |       5 |       2 |      79 |      46 |
+| Value |   9.265 |   1.158 |   9.265 |   4.416 |
+| Rank  |       2 |       1 |      61 |      42 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [Washington            ](Washington.md)| Win        | +  1.526 |
-|  28 [Texas                 ](Texas.md)| Win        | +  1.456 |
-|  39 [Illinois              ](Illinois.md)| Win        | +  1.332 |
-|  47 [Minnesota             ](Minnesota.md)| Win        | +  1.240 |
-|  80 [Ohio                  ](Ohio.md)| Win        | +  0.969 |
-| 106 [Wisconsin             ](Wisconsin.md)| Win        | +  0.800 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  16 [Texas                 ](Texas.md)| Win        | +  1.817 |
+|  29 [Illinois              ](Illinois.md)| Win        | +  1.556 |
+|  30 [Washington            ](Washington.md)| Win        | +  1.556 |
+|  42 [Minnesota             ](Minnesota.md)| Win        | +  1.339 |
+|  72 [Ohio                  ](Ohio.md)| Win        | +  0.996 |
+| 101 [Penn State            ](PennState.md)| Win        | +  0.821 |
+| 106 [Wisconsin             ](Wisconsin.md)| Win        | +  0.798 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  14 [Michigan              ](Michigan.md)| +  1.690 | -  0.592 |
-|  68 [Rutgers               ](Rutgers.md)| +  1.019 | -  0.982 |
-|  85 [UCLA                  ](UCLA.md)| +  0.927 | -  1.079 |
-|  97 [Penn State            ](PennState.md)| +  0.858 | -  1.166 |
-| 118 [Purdue                ](Purdue.md)| +  0.701 | -  1.427 |
+|  12 [Michigan              ](Michigan.md)| +  1.838 | -  0.544 |
+|  79 [Rutgers               ](Rutgers.md)| +  0.967 | -  1.034 |
+|  84 [UCLA                  ](UCLA.md)| +  0.931 | -  1.074 |
+| 118 [Purdue                ](Purdue.md)| +  0.680 | -  1.471 |
 

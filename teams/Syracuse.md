@@ -1,24 +1,24 @@
-Syracuse (3 - 5)
+Syracuse (3 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.369 |  -0.171 |   9.575 |   4.577 |
-| Rank  |      94 |      92 |      26 |      74 |
+| Value |  -2.448 |  -0.272 |  10.554 |   3.911 |
+| Rank  |     108 |     106 |      30 |      71 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.482 |
-|  29 [Tennessee             ](Tennessee.md)| Loss       | -  0.700 |
-|  40 [Pitt                  ](Pitt.md)| Loss       | -  0.759 |
-|  52 [Duke                  ](Duke.md)| Loss       | -  0.859 |
-|  53 [SMU                   ](SMU.md)| Loss       | -  0.861 |
-|  75 [Connecticut           ](Connecticut.md)| Win        | +  0.978 |
-|  84 [Clemson               ](Clemson.md)| Win        | +  0.933 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
+|  31 [Pitt                  ](Pitt.md)| Loss       | -  0.652 |
+|  38 [SMU                   ](SMU.md)| Loss       | -  0.723 |
+|  39 [Tennessee             ](Tennessee.md)| Loss       | -  0.727 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.772 |
+|  69 [Connecticut           ](Connecticut.md)| Win        | +  1.036 |
+|  98 [Clemson               ](Clemson.md)| Win        | +  0.853 |
+| 111 [North Carolina        ](NorthCarolina.md)| Loss       | -  1.296 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  10 [Miami (FL)            ](MiamiFL.md)| +  1.765 | -  0.566 |
-|  22 [Notre Dame            ](NotreDame.md)| +  1.546 | -  0.647 |
-| 116 [North Carolina        ](NorthCarolina.md)| +  0.719 | -  1.392 |
-| 130 [Boston College        ](BostonCollege.md)| +  0.547 | -  1.827 |
+|  17 [Miami (FL)            ](MiamiFL.md)| +  1.708 | -  0.585 |
+|  20 [Notre Dame            ](NotreDame.md)| +  1.688 | -  0.592 |
+| 131 [Boston College        ](BostonCollege.md)| +  0.515 | -  1.943 |
 

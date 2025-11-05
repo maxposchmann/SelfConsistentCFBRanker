@@ -1,24 +1,24 @@
-South Alabama (2 - 6)
+South Alabama (2 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.244 |  -0.531 |   8.319 |   3.497 |
-| Rank  |     121 |     122 |      56 |     117 |
+| Value |  -5.725 |  -0.636 |   9.093 |   2.861 |
+| Rank  |     126 |     126 |      69 |     115 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Tulane                ](Tulane.md)| Loss       | -  0.619 |
-|  25 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
-|  48 [Troy                  ](Troy.md)| Loss       | -  0.809 |
-|  60 [Auburn                ](Auburn.md)| Loss       | -  0.928 |
-|  66 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.968 |
-|  96 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.159 |
-| 128 [Georgia State         ](GeorgiaState.md)| Win        | +  0.564 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  15 [North Texas           ](NorthTexas.md)| Loss       | -  0.550 |
+|  32 [Tulane                ](Tulane.md)| Loss       | -  0.656 |
+|  59 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.868 |
+|  63 [Troy                  ](Troy.md)| Loss       | -  0.897 |
+|  74 [Auburn                ](Auburn.md)| Loss       | -  1.020 |
+|  82 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.060 |
+| 123 [Louisiana             ](Louisiana.md)| Loss       | -  1.568 |
+| 128 [Georgia State         ](GeorgiaState.md)| Win        | +  0.560 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| +  1.261 | -  0.793 |
-| 102 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.826 | -  1.211 |
-| 103 [Texas State           ](TexasState.md)| +  0.813 | -  1.230 |
-| 127 [Louisiana             ](Louisiana.md)| +  0.598 | -  1.673 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| +  1.305 | -  0.767 |
+| 109 [Texas State           ](TexasState.md)| +  0.785 | -  1.273 |
+| 112 [Louisiana-Monroe      ](LouisianaMonroe.md)| +  0.771 | -  1.297 |
 

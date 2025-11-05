@@ -1,24 +1,24 @@
 Ball State (3 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.603 |  -0.575 |   6.011 |   2.977 |
-| Rank  |     123 |     123 |     123 |     129 |
+| Value |  -4.315 |  -0.539 |   6.184 |   3.049 |
+| Rank  |     122 |     124 |     133 |     109 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  60 [Auburn                ](Auburn.md)| Loss       | -  0.928 |
-|  75 [Connecticut           ](Connecticut.md)| Loss       | -  1.023 |
-|  80 [Ohio                  ](Ohio.md)| Win        | +  0.969 |
-|  95 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.152 |
-| 118 [Purdue                ](Purdue.md)| Loss       | -  1.427 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.637 |
-| 129 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.825 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
+|  72 [Ohio                  ](Ohio.md)| Win        | +  0.996 |
+|  74 [Auburn                ](Auburn.md)| Loss       | -  1.020 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.032 |
+| 118 [Purdue                ](Purdue.md)| Loss       | -  1.471 |
+| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
+| 127 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.761 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  76 [Miami (OH)            ](MiamiOH.md)| +  0.977 | -  1.023 |
-| 100 [Toledo                ](Toledo.md)| +  0.843 | -  1.186 |
-| 115 [Kent State            ](KentState.md)| +  0.736 | -  1.358 |
-| 135 [Eastern Michigan      ](EasternMichigan.md)| +  0.421 | -  2.377 |
+|  73 [Miami (OH)            ](MiamiOH.md)| +  0.987 | -  1.013 |
+|  96 [Toledo                ](Toledo.md)| +  0.859 | -  1.164 |
+| 113 [Kent State            ](KentState.md)| +  0.762 | -  1.312 |
+| 134 [Eastern Michigan      ](EasternMichigan.md)| +  0.441 | -  2.267 |
 

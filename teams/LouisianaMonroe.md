@@ -1,24 +1,24 @@
-Louisiana-Monroe (3 - 5)
+Louisiana-Monroe (3 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.009 |  -0.251 |   8.881 |   3.260 |
-| Rank  |     102 |     102 |      41 |     122 |
+| Value |  -2.686 |  -0.298 |  10.194 |   1.997 |
+| Rank  |     112 |     109 |      38 |     134 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Alabama               ](Alabama.md)| Loss       | -  0.460 |
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.793 |
-|  48 [Troy                  ](Troy.md)| Loss       | -  0.809 |
-|  51 [Northwestern          ](Northwestern.md)| Loss       | -  0.848 |
-|  66 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.968 |
-|  96 [Arkansas State        ](ArkansasState.md)| Win        | +  0.863 |
-| 122 [UTEP                  ](UTEP.md)| Win        | +  0.663 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   6 [Alabama               ](Alabama.md)| Loss       | -  0.456 |
+|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.767 |
+|  58 [Northwestern          ](Northwestern.md)| Loss       | -  0.859 |
+|  59 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.868 |
+|  63 [Troy                  ](Troy.md)| Loss       | -  0.897 |
+|  82 [Arkansas State        ](ArkansasState.md)| Win        | +  0.943 |
+| 125 [UTEP                  ](UTEP.md)| Win        | +  0.627 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  50 [Old Dominion          ](OldDominion.md)| +  1.183 | -  0.846 |
-| 103 [Texas State           ](TexasState.md)| +  0.813 | -  1.230 |
-| 121 [South Alabama         ](SouthAlabama.md)| +  0.667 | -  1.499 |
-| 127 [Louisiana             ](Louisiana.md)| +  0.598 | -  1.673 |
+| 109 [Texas State           ](TexasState.md)| +  0.785 | -  1.273 |
+| 123 [Louisiana             ](Louisiana.md)| +  0.638 | -  1.568 |
+| 126 [South Alabama         ](SouthAlabama.md)| +  0.574 | -  1.741 |
 

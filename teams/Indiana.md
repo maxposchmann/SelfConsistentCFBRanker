@@ -1,24 +1,24 @@
-Indiana (8 - 0)
+Indiana (9 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   8.980 |   1.123 |   8.980 |   3.367 |
-| Rank  |       1 |       1 |      36 |     121 |
+| Value |  10.329 |   1.148 |  10.329 |   2.299 |
+| Rank  |       1 |       2 |      35 |     131 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Oregon                ](Oregon.md)| Win        | +  1.598 |
-|  34 [Iowa                  ](Iowa.md)| Win        | +  1.384 |
-|  39 [Illinois              ](Illinois.md)| Win        | +  1.332 |
-|  45 [Kennesaw State        ](KennesawState.md)| Win        | +  1.254 |
-|  50 [Old Dominion          ](OldDominion.md)| Win        | +  1.183 |
-|  85 [UCLA                  ](UCLA.md)| Win        | +  0.927 |
-|  99 [Michigan State        ](MichiganState.md)| Win        | +  0.851 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  23 [Oregon                ](Oregon.md)| Win        | +  1.613 |
+|  29 [Illinois              ](Illinois.md)| Win        | +  1.556 |
+|  37 [Iowa                  ](Iowa.md)| Win        | +  1.399 |
+|  41 [Kennesaw State        ](KennesawState.md)| Win        | +  1.350 |
+|  44 [Old Dominion          ](OldDominion.md)| Win        | +  1.316 |
+|  76 [Maryland              ](Maryland.md)| Win        | +  0.975 |
+|  84 [UCLA                  ](UCLA.md)| Win        | +  0.931 |
+| 105 [Michigan State        ](MichiganState.md)| Win        | +  0.809 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  74 [Maryland              ](Maryland.md)| +  1.007 | -  0.993 |
-|  97 [Penn State            ](PennState.md)| +  0.858 | -  1.166 |
-| 106 [Wisconsin             ](Wisconsin.md)| +  0.800 | -  1.249 |
-| 118 [Purdue                ](Purdue.md)| +  0.701 | -  1.427 |
+| 101 [Penn State            ](PennState.md)| +  0.821 | -  1.218 |
+| 106 [Wisconsin             ](Wisconsin.md)| +  0.798 | -  1.253 |
+| 118 [Purdue                ](Purdue.md)| +  0.680 | -  1.471 |
 

@@ -1,24 +1,24 @@
-Arizona (4 - 3)
+Arizona (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.347 |   0.192 |   8.468 |   6.079 |
-| Rank  |      54 |      54 |      51 |      18 |
+| Value |   2.018 |   0.252 |   9.028 |   5.439 |
+| Rank  |      54 |      52 |      72 |      18 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [BYU                   ](BYU.md)| Loss       | -  0.463 |
-|  16 [Houston               ](Houston.md)| Loss       | -  0.599 |
-|  43 [Iowa State            ](IowaState.md)| Loss       | -  0.771 |
-|  46 [Hawaii                ](Hawaii.md)| Win        | +  1.240 |
-|  78 [Kansas State          ](KansasState.md)| Win        | +  0.975 |
-| 126 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.599 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.435 |
+|  28 [Houston               ](Houston.md)| Loss       | -  0.642 |
+|  53 [Iowa State            ](IowaState.md)| Loss       | -  0.814 |
+|  64 [Hawaii                ](Hawaii.md)| Win        | +  1.110 |
+|  80 [Kansas State          ](KansasState.md)| Win        | +  0.965 |
+|  83 [Colorado              ](Colorado.md)| Win        | +  0.933 |
+| 129 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.552 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  17 [Cincinnati            ](Cincinnati.md)| +  1.668 | -  0.600 |
-|  37 [Arizona State         ](ArizonaState.md)| +  1.353 | -  0.739 |
-|  67 [Colorado              ](Colorado.md)| +  1.032 | -  0.969 |
-|  69 [Kansas                ](Kansas.md)| +  1.018 | -  0.983 |
-|  73 [Baylor                ](Baylor.md)| +  1.008 | -  0.992 |
+|  22 [Arizona State         ](ArizonaState.md)| +  1.617 | -  0.619 |
+|  25 [Cincinnati            ](Cincinnati.md)| +  1.587 | -  0.630 |
+|  60 [Baylor                ](Baylor.md)| +  1.129 | -  0.886 |
+|  65 [Kansas                ](Kansas.md)| +  1.106 | -  0.904 |
 

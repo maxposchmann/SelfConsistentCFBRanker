@@ -1,24 +1,24 @@
-Louisiana Tech (4 - 3)
+Louisiana Tech (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.643 |   0.092 |   6.828 |   4.405 |
-| Rank  |      63 |      62 |      99 |      83 |
+| Value |   1.216 |   0.152 |   7.457 |   3.857 |
+| Rank  |      61 |      60 |     114 |      74 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  42 [LSU                   ](LSU.md)| Loss       | -  0.763 |
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.261 |
-|  45 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.798 |
-|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.831 |
-| 111 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.777 |
-| 122 [UTEP                  ](UTEP.md)| Win        | +  0.663 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  41 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.741 |
+|  45 [LSU                   ](LSU.md)| Loss       | -  0.763 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.305 |
+|  47 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.769 |
+| 114 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
+| 125 [UTEP                  ](UTEP.md)| Win        | +  0.627 |
+| 133 [Sam Houston           ](SamHouston.md)| Win        | +  0.469 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  57 [Washington State      ](WashingtonState.md)| +  1.089 | -  0.918 |
-|  71 [Missouri State        ](MissouriState.md)| +  1.010 | -  0.990 |
-|  79 [Delaware              ](Delaware.md)| +  0.975 | -  1.026 |
-| 104 [Liberty               ](Liberty.md)| +  0.812 | -  1.231 |
-| 131 [Sam Houston           ](SamHouston.md)| +  0.518 | -  1.929 |
+|  62 [Missouri State        ](MissouriState.md)| +  1.116 | -  0.896 |
+|  75 [Washington State      ](WashingtonState.md)| +  0.979 | -  1.022 |
+|  90 [Liberty               ](Liberty.md)| +  0.887 | -  1.128 |
+|  92 [Delaware              ](Delaware.md)| +  0.875 | -  1.143 |
 

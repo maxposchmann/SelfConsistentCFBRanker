@@ -1,24 +1,24 @@
-Georgia (6 - 1)
+Georgia (7 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.291 |   0.899 |   9.033 |   6.183 |
-| Rank  |       8 |       8 |      35 |      16 |
+| Value |   7.366 |   0.921 |  10.037 |   5.468 |
+| Rank  |       8 |       6 |      42 |      17 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Alabama               ](Alabama.md)| Loss       | -  0.460 |
-|   7 [Ole Miss              ](OleMiss.md)| Win        | +  2.010 |
-|  29 [Tennessee             ](Tennessee.md)| Win        | +  1.429 |
-|  60 [Auburn                ](Auburn.md)| Win        | +  1.078 |
-|  83 [Marshall              ](Marshall.md)| Win        | +  0.953 |
-| 105 [Kentucky              ](Kentucky.md)| Win        | +  0.808 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   5 [Ole Miss              ](OleMiss.md)| Win        | +  2.221 |
+|   6 [Alabama               ](Alabama.md)| Loss       | -  0.456 |
+|  39 [Tennessee             ](Tennessee.md)| Win        | +  1.376 |
+|  67 [Florida               ](Florida.md)| Win        | +  1.051 |
+|  74 [Auburn                ](Auburn.md)| Win        | +  0.981 |
+|  85 [Marshall              ](Marshall.md)| Win        | +  0.912 |
+|  87 [Kentucky              ](Kentucky.md)| Win        | +  0.901 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| +  2.076 | -  0.482 |
-|  28 [Texas                 ](Texas.md)| +  1.456 | -  0.687 |
-|  59 [Mississippi State     ](MississippiState.md)| +  1.079 | -  0.926 |
-|  64 [Florida               ](Florida.md)| +  1.056 | -  0.947 |
-| 132 [Charlotte             ](Charlotte.md)| +  0.516 | -  1.937 |
+|  11 [Georgia Tech          ](GeorgiaTech.md)| +  1.917 | -  0.522 |
+|  16 [Texas                 ](Texas.md)| +  1.817 | -  0.550 |
+|  55 [Mississippi State     ](MississippiState.md)| +  1.206 | -  0.829 |
+| 130 [Charlotte             ](Charlotte.md)| +  0.529 | -  1.891 |
 

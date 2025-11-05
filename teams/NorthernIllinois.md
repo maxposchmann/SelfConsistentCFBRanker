@@ -1,24 +1,24 @@
 Northern Illinois (2 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -6.310 |  -0.789 |   6.739 |   2.815 |
-| Rank  |     129 |     129 |     104 |     132 |
+| Value |  -5.843 |  -0.730 |   7.094 |   2.971 |
+| Rank  |     127 |     128 |     121 |     111 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  38 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.741 |
-|  59 [Mississippi State     ](MississippiState.md)| Loss       | -  0.926 |
-|  74 [Maryland              ](Maryland.md)| Loss       | -  0.993 |
-|  76 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.023 |
-|  80 [Ohio                  ](Ohio.md)| Loss       | -  1.032 |
-| 123 [Ball State            ](BallState.md)| Win        | +  0.645 |
-| 135 [Eastern Michigan      ](EasternMichigan.md)| Loss       | -  2.377 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  33 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.671 |
+|  55 [Mississippi State     ](MississippiState.md)| Loss       | -  0.829 |
+|  72 [Ohio                  ](Ohio.md)| Loss       | -  1.004 |
+|  73 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.013 |
+|  76 [Maryland              ](Maryland.md)| Loss       | -  1.026 |
+| 122 [Ball State            ](BallState.md)| Win        | +  0.658 |
+| 134 [Eastern Michigan      ](EasternMichigan.md)| Loss       | -  2.267 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  95 [Western Michigan      ](WesternMichigan.md)| +  0.868 | -  1.152 |
-| 100 [Toledo                ](Toledo.md)| +  0.843 | -  1.186 |
-| 115 [Kent State            ](KentState.md)| +  0.736 | -  1.358 |
-| 136 [Massachusetts         ](Massachusetts.md)| +  0.368 | -  2.718 |
+|  78 [Western Michigan      ](WesternMichigan.md)| +  0.969 | -  1.032 |
+|  96 [Toledo                ](Toledo.md)| +  0.859 | -  1.164 |
+| 113 [Kent State            ](KentState.md)| +  0.762 | -  1.312 |
+| 136 [Massachusetts         ](Massachusetts.md)| +  0.380 | -  2.630 |
 

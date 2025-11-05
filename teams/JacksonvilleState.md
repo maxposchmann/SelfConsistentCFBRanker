@@ -1,24 +1,24 @@
-Jacksonville State (4 - 3)
+Jacksonville State (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.493 |  -0.070 |   5.637 |   4.442 |
-| Rank  |      82 |      82 |     133 |      79 |
+| Value |  -0.035 |  -0.004 |   6.079 |   4.062 |
+| Rank  |      71 |      71 |     135 |      66 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.793 |
-|  72 [UCF                   ](UCF.md)| Loss       | -  0.991 |
-|  79 [Delaware              ](Delaware.md)| Win        | +  0.975 |
-| 104 [Liberty               ](Liberty.md)| Win        | +  0.812 |
-| 108 [Georgia Southern      ](GeorgiaSouthern.md)| Loss       | -  1.270 |
-| 131 [Sam Houston           ](SamHouston.md)| Win        | +  0.518 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.767 |
+|  81 [UCF                   ](UCF.md)| Loss       | -  1.045 |
+|  90 [Liberty               ](Liberty.md)| Win        | +  0.887 |
+|  92 [Delaware              ](Delaware.md)| Win        | +  0.875 |
+| 100 [Georgia Southern      ](GeorgiaSouthern.md)| Loss       | -  1.212 |
+| 133 [Sam Houston           ](SamHouston.md)| Win        | +  0.469 |
+| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.436 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  45 [Kennesaw State        ](KennesawState.md)| +  1.254 | -  0.798 |
-|  49 [Western Kentucky      ](WesternKentucky.md)| +  1.203 | -  0.831 |
-|  98 [Florida International ](FloridaInternational.md)| +  0.853 | -  1.173 |
-| 122 [UTEP                  ](UTEP.md)| +  0.663 | -  1.509 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.470 | -  2.129 |
+|  41 [Kennesaw State        ](KennesawState.md)| +  1.350 | -  0.741 |
+|  47 [Western Kentucky      ](WesternKentucky.md)| +  1.301 | -  0.769 |
+| 110 [Florida International ](FloridaInternational.md)| +  0.784 | -  1.275 |
+| 125 [UTEP                  ](UTEP.md)| +  0.627 | -  1.596 |
 

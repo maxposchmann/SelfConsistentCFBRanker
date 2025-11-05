@@ -1,24 +1,24 @@
-Illinois (5 - 3)
+Illinois (6 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.006 |   0.376 |  10.800 |   4.006 |
-| Rank  |      39 |      40 |       4 |     105 |
+| Value |   4.566 |   0.507 |  12.789 |   2.937 |
+| Rank  |      29 |      32 |       4 |     112 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.425 |
-|   5 [Ohio State            ](OhioState.md)| Loss       | -  0.477 |
-|  24 [Washington            ](Washington.md)| Loss       | -  0.655 |
-|  30 [USC                   ](USC.md)| Win        | +  1.424 |
-|  52 [Duke                  ](Duke.md)| Win        | +  1.164 |
-|  95 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.868 |
-| 118 [Purdue                ](Purdue.md)| Win        | +  0.701 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   1 [Indiana               ](Indiana.md)| Loss       | -  0.368 |
+|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.408 |
+|  18 [USC                   ](USC.md)| Win        | +  1.701 |
+|  30 [Washington            ](Washington.md)| Loss       | -  0.643 |
+|  48 [Duke                  ](Duke.md)| Win        | +  1.296 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.969 |
+|  79 [Rutgers               ](Rutgers.md)| Win        | +  0.967 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.680 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  51 [Northwestern          ](Northwestern.md)| +  1.179 | -  0.848 |
-|  68 [Rutgers               ](Rutgers.md)| +  1.019 | -  0.982 |
-|  74 [Maryland              ](Maryland.md)| +  1.007 | -  0.993 |
-| 106 [Wisconsin             ](Wisconsin.md)| +  0.800 | -  1.249 |
+|  58 [Northwestern          ](Northwestern.md)| +  1.164 | -  0.859 |
+|  76 [Maryland              ](Maryland.md)| +  0.975 | -  1.026 |
+| 106 [Wisconsin             ](Wisconsin.md)| +  0.798 | -  1.253 |
 

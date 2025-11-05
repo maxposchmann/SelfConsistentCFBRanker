@@ -1,24 +1,24 @@
-Western Michigan (4 - 4)
+Western Michigan (5 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.486 |  -0.186 |   6.846 |   2.896 |
-| Rank  |      95 |      94 |      98 |     131 |
+| Value |  -0.321 |  -0.036 |   8.312 |   2.005 |
+| Rank  |      78 |      77 |      87 |     133 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  25 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
-|  39 [Illinois              ](Illinois.md)| Loss       | -  0.751 |
-|  76 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.023 |
-|  99 [Michigan State        ](MichiganState.md)| Loss       | -  1.175 |
-| 100 [Toledo                ](Toledo.md)| Win        | +  0.843 |
-| 123 [Ball State            ](BallState.md)| Win        | +  0.645 |
-| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  15 [North Texas           ](NorthTexas.md)| Loss       | -  0.550 |
+|  29 [Illinois              ](Illinois.md)| Loss       | -  0.643 |
+|  73 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.013 |
+|  89 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.892 |
+|  96 [Toledo                ](Toledo.md)| Win        | +  0.859 |
+| 105 [Michigan State        ](MichiganState.md)| Loss       | -  1.235 |
+| 122 [Ball State            ](BallState.md)| Win        | +  0.658 |
+| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.380 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  80 [Ohio                  ](Ohio.md)| +  0.969 | -  1.032 |
-|  81 [Central Michigan      ](CentralMichigan.md)| +  0.958 | -  1.043 |
-| 129 [Northern Illinois     ](NorthernIllinois.md)| +  0.548 | -  1.825 |
-| 135 [Eastern Michigan      ](EasternMichigan.md)| +  0.421 | -  2.377 |
+|  72 [Ohio                  ](Ohio.md)| +  0.996 | -  1.004 |
+| 127 [Northern Illinois     ](NorthernIllinois.md)| +  0.568 | -  1.761 |
+| 134 [Eastern Michigan      ](EasternMichigan.md)| +  0.441 | -  2.267 |
 

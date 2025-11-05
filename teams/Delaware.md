@@ -1,24 +1,24 @@
-Delaware (4 - 3)
+Delaware (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.271 |  -0.039 |   5.773 |   4.374 |
-| Rank  |      79 |      79 |     132 |      84 |
+| Value |  -1.385 |  -0.173 |   6.707 |   3.504 |
+| Rank  |      92 |      95 |     130 |      87 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.831 |
-|  67 [Colorado              ](Colorado.md)| Loss       | -  0.969 |
-|  75 [Connecticut           ](Connecticut.md)| Win        | +  0.978 |
-|  82 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.048 |
-|  98 [Florida International ](FloridaInternational.md)| Win        | +  0.853 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.470 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  47 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.769 |
+|  69 [Connecticut           ](Connecticut.md)| Win        | +  1.036 |
+|  71 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.003 |
+|  83 [Colorado              ](Colorado.md)| Loss       | -  1.072 |
+|  90 [Liberty               ](Liberty.md)| Loss       | -  1.128 |
+| 110 [Florida International ](FloridaInternational.md)| Win        | +  0.784 |
+| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.436 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  41 [Wake Forest           ](WakeForest.md)| +  1.318 | -  0.759 |
-|  63 [Louisiana Tech        ](LouisianaTech.md)| +  1.063 | -  0.941 |
-| 104 [Liberty               ](Liberty.md)| +  0.812 | -  1.231 |
-| 122 [UTEP                  ](UTEP.md)| +  0.663 | -  1.509 |
-| 131 [Sam Houston           ](SamHouston.md)| +  0.518 | -  1.929 |
+|  50 [Wake Forest           ](WakeForest.md)| +  1.283 | -  0.779 |
+|  61 [Louisiana Tech        ](LouisianaTech.md)| +  1.125 | -  0.889 |
+| 125 [UTEP                  ](UTEP.md)| +  0.627 | -  1.596 |
+| 133 [Sam Houston           ](SamHouston.md)| +  0.469 | -  2.133 |
 

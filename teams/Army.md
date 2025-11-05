@@ -1,24 +1,24 @@
-Army (3 - 4)
+Army (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.085 |  -0.441 |   6.976 |   5.124 |
-| Rank  |     113 |     115 |      96 |      50 |
+| Value |  -1.979 |  -0.247 |   7.926 |   4.307 |
+| Rank  |      99 |     101 |     103 |      48 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  18 [Tulane                ](Tulane.md)| Loss       | -  0.619 |
-|  25 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
-|  58 [East Carolina         ](EastCarolina.md)| Loss       | -  0.925 |
-|  78 [Kansas State          ](KansasState.md)| Win        | +  0.975 |
-|  90 [UAB                   ](UAB.md)| Win        | +  0.885 |
-| 132 [Charlotte             ](Charlotte.md)| Win        | +  0.516 |
-| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
+|  15 [North Texas           ](NorthTexas.md)| Loss       | -  0.550 |
+|  32 [Tulane                ](Tulane.md)| Loss       | -  0.656 |
+|  51 [East Carolina         ](EastCarolina.md)| Loss       | -  0.804 |
+|  80 [Kansas State          ](KansasState.md)| Win        | +  0.965 |
+| 102 [UAB                   ](UAB.md)| Win        | +  0.816 |
+| 121 [Air Force             ](AirForce.md)| Win        | +  0.669 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.529 |
+| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  2.897 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [Navy                  ](Navy.md)| +  1.678 | -  0.596 |
-|  56 [Temple                ](Temple.md)| +  1.103 | -  0.907 |
-|  92 [UTSA                  ](UTSA.md)| +  0.880 | -  1.136 |
-| 110 [Air Force             ](AirForce.md)| +  0.781 | -  1.280 |
-| 119 [Tulsa                 ](Tulsa.md)| +  0.681 | -  1.469 |
+|  27 [Navy                  ](Navy.md)| +  1.569 | -  0.637 |
+|  68 [Temple                ](Temple.md)| +  1.043 | -  0.959 |
+|  70 [UTSA                  ](UTSA.md)| +  1.022 | -  0.979 |
+| 119 [Tulsa                 ](Tulsa.md)| +  0.673 | -  1.485 |
 

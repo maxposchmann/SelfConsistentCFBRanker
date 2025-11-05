@@ -1,24 +1,24 @@
-North Texas (7 - 1)
+North Texas (8 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.371 |   0.546 |   6.594 |   4.561 |
-| Rank  |      25 |      25 |     108 |      75 |
+| Value |   6.177 |   0.686 |   8.397 |   2.721 |
+| Rank  |      15 |      16 |      86 |     124 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  23 [South Florida         ](SouthFlorida.md)| Loss       | -  0.648 |
-|  57 [Washington State      ](WashingtonState.md)| Win        | +  1.089 |
-|  92 [UTSA                  ](UTSA.md)| Win        | +  0.880 |
-|  95 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.868 |
-| 113 [Army                  ](Army.md)| Win        | +  0.745 |
-| 121 [South Alabama         ](SouthAlabama.md)| Win        | +  0.667 |
-| 132 [Charlotte             ](Charlotte.md)| Win        | +  0.516 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  26 [South Florida         ](SouthFlorida.md)| Loss       | -  0.633 |
+|  27 [Navy                  ](Navy.md)| Win        | +  1.569 |
+|  70 [UTSA                  ](UTSA.md)| Win        | +  1.022 |
+|  75 [Washington State      ](WashingtonState.md)| Win        | +  0.979 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Win        | +  0.969 |
+|  99 [Army                  ](Army.md)| Win        | +  0.826 |
+| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.574 |
+| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.529 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [Navy                  ](Navy.md)| +  1.678 | -  0.596 |
-|  56 [Temple                ](Temple.md)| +  1.103 | -  0.907 |
-|  88 [Rice                  ](Rice.md)| +  0.895 | -  1.118 |
-|  90 [UAB                   ](UAB.md)| +  0.885 | -  1.130 |
+|  68 [Temple                ](Temple.md)| +  1.043 | -  0.959 |
+|  95 [Rice                  ](Rice.md)| +  0.862 | -  1.160 |
+| 102 [UAB                   ](UAB.md)| +  0.816 | -  1.225 |
 

@@ -1,24 +1,24 @@
-Virginia Tech (3 - 5)
+Virginia Tech (3 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.181 |  -0.148 |   9.984 |   6.300 |
-| Rank  |      89 |      89 |      15 |      13 |
+| Value |  -1.454 |  -0.162 |  11.908 |   4.992 |
+| Rank  |      94 |      93 |      10 |      26 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.482 |
-|  11 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.570 |
-|  41 [Wake Forest           ](WakeForest.md)| Loss       | -  0.759 |
-|  50 [Old Dominion          ](OldDominion.md)| Loss       | -  0.846 |
-|  55 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.126 |
-|  62 [California            ](California.md)| Win        | +  1.066 |
-|  87 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.108 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  10 [Louisville            ](Louisville.md)| Loss       | -  0.517 |
+|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
+|  21 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.599 |
+|  35 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.442 |
+|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
+|  50 [Wake Forest           ](WakeForest.md)| Loss       | -  0.779 |
+|  66 [California            ](California.md)| Win        | +  1.057 |
+|  93 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.146 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   9 [Virginia              ](Virginia.md)| +  1.774 | -  0.564 |
-|  10 [Miami (FL)            ](MiamiFL.md)| +  1.765 | -  0.566 |
-|  13 [Louisville            ](Louisville.md)| +  1.721 | -  0.581 |
-|  65 [Florida State         ](FloridaState.md)| +  1.040 | -  0.961 |
+|   7 [Virginia              ](Virginia.md)| +  2.095 | -  0.477 |
+|  17 [Miami (FL)            ](MiamiFL.md)| +  1.708 | -  0.585 |
+|  56 [Florida State         ](FloridaState.md)| +  1.188 | -  0.842 |
 

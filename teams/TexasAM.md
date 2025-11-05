@@ -1,24 +1,24 @@
 Texas A&M (8 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   8.780 |   1.098 |   8.780 |   4.054 |
-| Rank  |       2 |       3 |      45 |     100 |
+| Value |   8.976 |   1.122 |   8.976 |   4.406 |
+| Rank  |       3 |       3 |      73 |      43 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Notre Dame            ](NotreDame.md)| Win        | +  1.546 |
-|  42 [LSU                   ](LSU.md)| Win        | +  1.311 |
-|  59 [Mississippi State     ](MississippiState.md)| Win        | +  1.079 |
-|  60 [Auburn                ](Auburn.md)| Win        | +  1.078 |
-|  64 [Florida               ](Florida.md)| Win        | +  1.056 |
-|  77 [Utah State            ](UtahState.md)| Win        | +  0.975 |
-|  92 [UTSA                  ](UTSA.md)| Win        | +  0.880 |
-| 109 [Arkansas              ](Arkansas.md)| Win        | +  0.784 |
+|  20 [Notre Dame            ](NotreDame.md)| Win        | +  1.688 |
+|  45 [LSU                   ](LSU.md)| Win        | +  1.310 |
+|  55 [Mississippi State     ](MississippiState.md)| Win        | +  1.206 |
+|  67 [Florida               ](Florida.md)| Win        | +  1.051 |
+|  70 [UTSA                  ](UTSA.md)| Win        | +  1.022 |
+|  74 [Auburn                ](Auburn.md)| Win        | +  0.981 |
+|  77 [Utah State            ](UtahState.md)| Win        | +  0.972 |
+| 115 [Arkansas              ](Arkansas.md)| Win        | +  0.725 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  28 [Texas                 ](Texas.md)| +  1.456 | -  0.687 |
-|  35 [Missouri              ](Missouri.md)| +  1.362 | -  0.734 |
-|  87 [South Carolina        ](SouthCarolina.md)| +  0.903 | -  1.108 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.333 | -  3.004 |
+|  16 [Texas                 ](Texas.md)| +  1.817 | -  0.550 |
+|  40 [Missouri              ](Missouri.md)| +  1.371 | -  0.729 |
+|  93 [South Carolina        ](SouthCarolina.md)| +  0.873 | -  1.146 |
+| 137 [Non-FBS               ](NonFBS.md)| +  0.345 | -  2.897 |
 

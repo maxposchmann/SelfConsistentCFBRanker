@@ -1,24 +1,24 @@
-Troy (6 - 2)
+Troy (6 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.228 |   0.279 |   6.483 |   3.871 |
-| Rank  |      48 |      48 |     111 |     110 |
+| Value |   1.122 |   0.125 |   7.445 |   3.180 |
+| Rank  |      63 |      63 |     115 |     102 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [Memphis               ](Memphis.md)| Loss       | -  0.632 |
-|  84 [Clemson               ](Clemson.md)| Loss       | -  1.071 |
-| 102 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.826 |
-| 103 [Texas State           ](TexasState.md)| Win        | +  0.813 |
-| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.789 |
-| 121 [South Alabama         ](SouthAlabama.md)| Win        | +  0.667 |
-| 127 [Louisiana             ](Louisiana.md)| Win        | +  0.598 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
+|  82 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.060 |
+|  97 [Buffalo               ](Buffalo.md)| Win        | +  0.856 |
+|  98 [Clemson               ](Clemson.md)| Loss       | -  1.172 |
+| 109 [Texas State           ](TexasState.md)| Win        | +  0.785 |
+| 112 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.771 |
+| 123 [Louisiana             ](Louisiana.md)| Win        | +  0.638 |
+| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.574 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| +  1.261 | -  0.793 |
-|  50 [Old Dominion          ](OldDominion.md)| +  1.183 | -  0.846 |
-|  96 [Arkansas State        ](ArkansasState.md)| +  0.863 | -  1.159 |
-| 128 [Georgia State         ](GeorgiaState.md)| +  0.564 | -  1.772 |
+|  44 [Old Dominion          ](OldDominion.md)| +  1.316 | -  0.760 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| +  1.305 | -  0.767 |
+| 128 [Georgia State         ](GeorgiaState.md)| +  0.560 | -  1.786 |
 

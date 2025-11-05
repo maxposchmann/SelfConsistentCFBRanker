@@ -1,24 +1,24 @@
-USC (5 - 2)
+USC (6 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.707 |   0.530 |   8.027 |   6.601 |
-| Rank  |      30 |      28 |      66 |       9 |
+| Value |   5.487 |   0.686 |   9.983 |   5.107 |
+| Rank  |      18 |      17 |      44 |      23 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  14 [Michigan              ](Michigan.md)| Win        | +  1.690 |
-|  22 [Notre Dame            ](NotreDame.md)| Loss       | -  0.647 |
-|  39 [Illinois              ](Illinois.md)| Loss       | -  0.751 |
-|  71 [Missouri State        ](MissouriState.md)| Win        | +  1.010 |
-|  99 [Michigan State        ](MichiganState.md)| Win        | +  0.851 |
-| 108 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.787 |
-| 118 [Purdue                ](Purdue.md)| Win        | +  0.701 |
+|  12 [Michigan              ](Michigan.md)| Win        | +  1.838 |
+|  20 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
+|  29 [Illinois              ](Illinois.md)| Loss       | -  0.643 |
+|  36 [Nebraska              ](Nebraska.md)| Win        | +  1.423 |
+|  62 [Missouri State        ](MissouriState.md)| Win        | +  1.116 |
+| 100 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.825 |
+| 105 [Michigan State        ](MichiganState.md)| Win        | +  0.809 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.680 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  19 [Oregon                ](Oregon.md)| +  1.598 | -  0.626 |
-|  26 [Nebraska              ](Nebraska.md)| +  1.512 | -  0.661 |
-|  34 [Iowa                  ](Iowa.md)| +  1.384 | -  0.722 |
-|  51 [Northwestern          ](Northwestern.md)| +  1.179 | -  0.848 |
-|  85 [UCLA                  ](UCLA.md)| +  0.927 | -  1.079 |
+|  23 [Oregon                ](Oregon.md)| +  1.613 | -  0.620 |
+|  37 [Iowa                  ](Iowa.md)| +  1.399 | -  0.715 |
+|  58 [Northwestern          ](Northwestern.md)| +  1.164 | -  0.859 |
+|  84 [UCLA                  ](UCLA.md)| +  0.931 | -  1.074 |
 

@@ -1,138 +1,138 @@
 Non-FBS (4 - 116)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value | -11.533 |    -inf |    -inf |    -inf |
+| Value | -10.986 |    -inf |    -inf |    -inf |
 | Rank  |     137 |     137 |     137 |     137 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.425 |
-|   4 [BYU                   ](BYU.md)| Loss       | -  0.463 |
-|   5 [Ohio State            ](OhioState.md)| Loss       | -  0.477 |
-|   6 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.482 |
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.549 |
-|   9 [Virginia              ](Virginia.md)| Loss       | -  0.564 |
-|  10 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.566 |
-|  11 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.570 |
-|  12 [Texas Tech            ](TexasTech.md)| Loss       | -  0.577 |
-|  13 [Louisville            ](Louisville.md)| Loss       | -  0.581 |
-|  15 [Navy                  ](Navy.md)| Loss       | -  0.596 |
-|  16 [Houston               ](Houston.md)| Loss       | -  0.599 |
-|  17 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.600 |
-|  19 [Oregon                ](Oregon.md)| Loss       | -  0.626 |
-|  20 [Memphis               ](Memphis.md)| Loss       | -  0.632 |
-|  21 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.636 |
-|  23 [South Florida         ](SouthFlorida.md)| Loss       | -  0.648 |
-|  24 [Washington            ](Washington.md)| Loss       | -  0.655 |
-|  25 [North Texas           ](NorthTexas.md)| Loss       | -  0.659 |
-|  26 [Nebraska              ](Nebraska.md)| Loss       | -  0.661 |
-|  27 [Utah                  ](Utah.md)| Loss       | -  0.667 |
-|  29 [Tennessee             ](Tennessee.md)| Loss       | -  0.700 |
-|  31 [Boise State           ](BoiseState.md)| Loss       | -  0.703 |
-|  32 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.706 |
-|  33 [James Madison         ](JamesMadison.md)| Loss       | -  0.707 |
-|  34 [Iowa                  ](Iowa.md)| Loss       | -  0.722 |
-|  35 [Missouri              ](Missouri.md)| Loss       | -  0.734 |
-|  36 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.737 |
-|  37 [Arizona State         ](ArizonaState.md)| Loss       | -  0.739 |
-|  38 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.741 |
-|  39 [Illinois              ](Illinois.md)| Loss       | -  0.751 |
-|  40 [Pitt                  ](Pitt.md)| Loss       | -  0.759 |
-|  41 [Wake Forest           ](WakeForest.md)| Loss       | -  0.759 |
-|  42 [LSU                   ](LSU.md)| Loss       | -  0.763 |
-|  43 [Iowa State            ](IowaState.md)| Loss       | -  0.771 |
-|  44 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.793 |
-|  45 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.798 |
-|  46 [Hawaii                ](Hawaii.md)| Loss       | -  0.806 |
-|  47 [Minnesota             ](Minnesota.md)| Loss       | -  0.806 |
-|  48 [Troy                  ](Troy.md)| Loss       | -  0.809 |
-|  49 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.831 |
-|  50 [Old Dominion          ](OldDominion.md)| Loss       | -  0.846 |
-|  51 [Northwestern          ](Northwestern.md)| Loss       | -  0.848 |
-|  52 [Duke                  ](Duke.md)| Loss       | -  0.859 |
-|  53 [SMU                   ](SMU.md)| Loss       | -  0.861 |
-|  54 [Arizona               ](Arizona.md)| Loss       | -  0.879 |
-|  55 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.888 |
-|  56 [Temple                ](Temple.md)| Loss       | -  0.907 |
-|  57 [Washington State      ](WashingtonState.md)| Loss       | -  0.918 |
-|  58 [East Carolina         ](EastCarolina.md)| Loss       | -  0.925 |
-|  59 [Mississippi State     ](MississippiState.md)| Loss       | -  0.926 |
-|  61 [New Mexico            ](NewMexico.md)| Loss       | -  0.932 |
-|  62 [California            ](California.md)| Loss       | -  0.938 |
-|  63 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.941 |
-|  64 [Florida               ](Florida.md)| Loss       | -  0.947 |
-|  65 [Florida State         ](FloridaState.md)| Loss       | -  0.961 |
-|  66 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.968 |
-|  68 [Rutgers               ](Rutgers.md)| Loss       | -  0.982 |
-|  69 [Kansas                ](Kansas.md)| Loss       | -  0.983 |
-|  70 [Fresno State          ](FresnoState.md)| Loss       | -  0.983 |
-|  71 [Missouri State        ](MissouriState.md)| Loss       | -  0.990 |
-|  72 [UCF                   ](UCF.md)| Loss       | -  0.991 |
-|  73 [Baylor                ](Baylor.md)| Loss       | -  0.992 |
-|  74 [Maryland              ](Maryland.md)| Loss       | -  0.993 |
-|  75 [Connecticut           ](Connecticut.md)| Loss       | -  1.023 |
-|  76 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.023 |
-|  77 [Utah State            ](UtahState.md)| Loss       | -  1.026 |
-|  78 [Kansas State          ](KansasState.md)| Loss       | -  1.026 |
-|  79 [Delaware              ](Delaware.md)| Loss       | -  1.026 |
-|  80 [Ohio                  ](Ohio.md)| Loss       | -  1.032 |
-|  81 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.043 |
-|  82 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.048 |
-|  83 [Marshall              ](Marshall.md)| Loss       | -  1.050 |
-|  87 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.108 |
-|  88 [Rice                  ](Rice.md)| Loss       | -  1.118 |
-|  89 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.119 |
-|  90 [UAB                   ](UAB.md)| Loss       | -  1.130 |
-|  91 [Wyoming               ](Wyoming.md)| Loss       | -  1.135 |
-|  92 [UTSA                  ](UTSA.md)| Loss       | -  1.136 |
-|  93 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.137 |
-|  94 [Syracuse              ](Syracuse.md)| Loss       | -  1.139 |
-|  95 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.152 |
-|  96 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.159 |
-|  97 [Penn State            ](PennState.md)| Loss       | -  1.166 |
-|  98 [Florida International ](FloridaInternational.md)| Loss       | -  1.173 |
-|  99 [Michigan State        ](MichiganState.md)| Loss       | -  1.175 |
-| 100 [Toledo                ](Toledo.md)| Loss       | -  1.186 |
-| 101 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.201 |
-| 102 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.211 |
-| 103 [Texas State           ](TexasState.md)| Loss       | -  1.230 |
-| 104 [Liberty               ](Liberty.md)| Loss       | -  1.231 |
-| 107 [Buffalo               ](Buffalo.md)| Loss       | -  1.267 |
-| 108 [Georgia Southern      ](GeorgiaSouthern.md)| Loss       | -  1.270 |
-| 109 [Arkansas              ](Arkansas.md)| Loss       | -  1.276 |
-| 110 [Air Force             ](AirForce.md)| Loss       | -  1.280 |
-| 111 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.287 |
-| 112 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.290 |
-| 113 [Army                  ](Army.md)| Win        | +  0.745 |
-| 114 [West Virginia         ](WestVirginia.md)| Loss       | -  1.351 |
-| 115 [Kent State            ](KentState.md)| Loss       | -  1.358 |
-| 116 [North Carolina        ](NorthCarolina.md)| Loss       | -  1.392 |
-| 117 [San Jose State        ](SanJoseState.md)| Loss       | -  1.410 |
-| 118 [Purdue                ](Purdue.md)| Loss       | -  1.427 |
-| 119 [Tulsa                 ](Tulsa.md)| Loss       | -  1.469 |
-| 120 [Colorado State        ](ColoradoState.md)| Loss       | -  1.469 |
-| 121 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.499 |
-| 122 [UTEP                  ](UTEP.md)| Loss       | -  1.509 |
-| 123 [Ball State            ](BallState.md)| Loss       | -  1.551 |
-| 124 [Akron                 ](Akron.md)| Loss       | -  1.569 |
-| 125 [Oregon State          ](OregonState.md)| Loss       | -  1.647 |
-| 126 [Oklahoma State        ](OklahomaState.md)| Loss       | -  1.670 |
-| 127 [Louisiana             ](Louisiana.md)| Loss       | -  1.673 |
-| 128 [Georgia State         ](GeorgiaState.md)| Loss       | -  1.772 |
-| 129 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.825 |
-| 130 [Boston College        ](BostonCollege.md)| Loss       | -  1.827 |
-| 132 [Charlotte             ](Charlotte.md)| Loss       | -  1.937 |
-| 133 [Nevada                ](Nevada.md)| Loss       | -  2.000 |
-| 134 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.470 |
-| 135 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.421 |
-| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
+|   1 [Indiana               ](Indiana.md)| Loss       | -  0.368 |
+|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.408 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.435 |
+|   7 [Virginia              ](Virginia.md)| Loss       | -  0.477 |
+|   8 [Georgia               ](Georgia.md)| Loss       | -  0.490 |
+|   9 [Texas Tech            ](TexasTech.md)| Loss       | -  0.499 |
+|  10 [Louisville            ](Louisville.md)| Loss       | -  0.517 |
+|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
+|  13 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.546 |
+|  14 [Utah                  ](Utah.md)| Loss       | -  0.548 |
+|  15 [North Texas           ](NorthTexas.md)| Loss       | -  0.550 |
+|  17 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.585 |
+|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
+|  21 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.599 |
+|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.619 |
+|  23 [Oregon                ](Oregon.md)| Loss       | -  0.620 |
+|  24 [James Madison         ](JamesMadison.md)| Loss       | -  0.627 |
+|  25 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.630 |
+|  26 [South Florida         ](SouthFlorida.md)| Loss       | -  0.633 |
+|  27 [Navy                  ](Navy.md)| Loss       | -  0.637 |
+|  28 [Houston               ](Houston.md)| Loss       | -  0.642 |
+|  29 [Illinois              ](Illinois.md)| Loss       | -  0.643 |
+|  30 [Washington            ](Washington.md)| Loss       | -  0.643 |
+|  31 [Pitt                  ](Pitt.md)| Loss       | -  0.652 |
+|  33 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.671 |
+|  34 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.692 |
+|  35 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.694 |
+|  36 [Nebraska              ](Nebraska.md)| Loss       | -  0.703 |
+|  37 [Iowa                  ](Iowa.md)| Loss       | -  0.715 |
+|  38 [SMU                   ](SMU.md)| Loss       | -  0.723 |
+|  39 [Tennessee             ](Tennessee.md)| Loss       | -  0.727 |
+|  40 [Missouri              ](Missouri.md)| Loss       | -  0.729 |
+|  41 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.741 |
+|  42 [Minnesota             ](Minnesota.md)| Loss       | -  0.747 |
+|  43 [Boise State           ](BoiseState.md)| Loss       | -  0.756 |
+|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
+|  45 [LSU                   ](LSU.md)| Loss       | -  0.763 |
+|  46 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.767 |
+|  47 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.769 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.772 |
+|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.774 |
+|  50 [Wake Forest           ](WakeForest.md)| Loss       | -  0.779 |
+|  51 [East Carolina         ](EastCarolina.md)| Loss       | -  0.804 |
+|  52 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
+|  53 [Iowa State            ](IowaState.md)| Loss       | -  0.814 |
+|  54 [Arizona               ](Arizona.md)| Loss       | -  0.823 |
+|  55 [Mississippi State     ](MississippiState.md)| Loss       | -  0.829 |
+|  56 [Florida State         ](FloridaState.md)| Loss       | -  0.842 |
+|  57 [Fresno State          ](FresnoState.md)| Loss       | -  0.846 |
+|  58 [Northwestern          ](Northwestern.md)| Loss       | -  0.859 |
+|  59 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  0.868 |
+|  60 [Baylor                ](Baylor.md)| Loss       | -  0.886 |
+|  61 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.889 |
+|  62 [Missouri State        ](MissouriState.md)| Loss       | -  0.896 |
+|  63 [Troy                  ](Troy.md)| Loss       | -  0.897 |
+|  64 [Hawaii                ](Hawaii.md)| Loss       | -  0.901 |
+|  65 [Kansas                ](Kansas.md)| Loss       | -  0.904 |
+|  66 [California            ](California.md)| Loss       | -  0.946 |
+|  67 [Florida               ](Florida.md)| Loss       | -  0.951 |
+|  68 [Temple                ](Temple.md)| Loss       | -  0.959 |
+|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
+|  70 [UTSA                  ](UTSA.md)| Loss       | -  0.979 |
+|  71 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.003 |
+|  72 [Ohio                  ](Ohio.md)| Loss       | -  1.004 |
+|  73 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.013 |
+|  75 [Washington State      ](WashingtonState.md)| Loss       | -  1.022 |
+|  76 [Maryland              ](Maryland.md)| Loss       | -  1.026 |
+|  77 [Utah State            ](UtahState.md)| Loss       | -  1.029 |
+|  78 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.032 |
+|  79 [Rutgers               ](Rutgers.md)| Loss       | -  1.034 |
+|  80 [Kansas State          ](KansasState.md)| Loss       | -  1.036 |
+|  81 [UCF                   ](UCF.md)| Loss       | -  1.045 |
+|  82 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.060 |
+|  85 [Marshall              ](Marshall.md)| Loss       | -  1.097 |
+|  86 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.107 |
+|  88 [West Virginia         ](WestVirginia.md)| Loss       | -  1.119 |
+|  89 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.121 |
+|  90 [Liberty               ](Liberty.md)| Loss       | -  1.128 |
+|  92 [Delaware              ](Delaware.md)| Loss       | -  1.143 |
+|  93 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.146 |
+|  94 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.151 |
+|  95 [Rice                  ](Rice.md)| Loss       | -  1.160 |
+|  96 [Toledo                ](Toledo.md)| Loss       | -  1.164 |
+|  97 [Buffalo               ](Buffalo.md)| Loss       | -  1.168 |
+|  99 [Army                  ](Army.md)| Win        | +  0.826 |
+| 100 [Georgia Southern      ](GeorgiaSouthern.md)| Loss       | -  1.212 |
+| 101 [Penn State            ](PennState.md)| Loss       | -  1.218 |
+| 102 [UAB                   ](UAB.md)| Loss       | -  1.225 |
+| 103 [Wyoming               ](Wyoming.md)| Loss       | -  1.228 |
+| 104 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.230 |
+| 105 [Michigan State        ](MichiganState.md)| Loss       | -  1.235 |
+| 107 [San Jose State        ](SanJoseState.md)| Loss       | -  1.257 |
+| 108 [Syracuse              ](Syracuse.md)| Loss       | -  1.267 |
+| 109 [Texas State           ](TexasState.md)| Loss       | -  1.273 |
+| 110 [Florida International ](FloridaInternational.md)| Loss       | -  1.275 |
+| 111 [North Carolina        ](NorthCarolina.md)| Loss       | -  1.296 |
+| 112 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.297 |
+| 113 [Kent State            ](KentState.md)| Loss       | -  1.312 |
+| 114 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.338 |
+| 115 [Arkansas              ](Arkansas.md)| Loss       | -  1.379 |
+| 116 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.427 |
+| 117 [Colorado State        ](ColoradoState.md)| Loss       | -  1.460 |
+| 118 [Purdue                ](Purdue.md)| Loss       | -  1.471 |
+| 119 [Tulsa                 ](Tulsa.md)| Loss       | -  1.485 |
+| 120 [Oregon State          ](OregonState.md)| Loss       | -  1.487 |
+| 121 [Air Force             ](AirForce.md)| Loss       | -  1.494 |
+| 122 [Ball State            ](BallState.md)| Loss       | -  1.519 |
+| 123 [Louisiana             ](Louisiana.md)| Loss       | -  1.568 |
+| 124 [Akron                 ](Akron.md)| Loss       | -  1.590 |
+| 125 [UTEP                  ](UTEP.md)| Loss       | -  1.596 |
+| 126 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.741 |
+| 127 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.761 |
+| 128 [Georgia State         ](GeorgiaState.md)| Loss       | -  1.786 |
+| 129 [Oklahoma State        ](OklahomaState.md)| Loss       | -  1.811 |
+| 130 [Charlotte             ](Charlotte.md)| Loss       | -  1.891 |
+| 131 [Boston College        ](BostonCollege.md)| Loss       | -  1.943 |
+| 132 [Nevada                ](Nevada.md)| Loss       | -  1.978 |
+| 134 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.441 |
+| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.436 |
+| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.380 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Texas A&M             ](TexasAM.md)| +  2.310 | -  0.433 |
-|   3 [Alabama               ](Alabama.md)| +  2.174 | -  0.460 |
-|   7 [Ole Miss              ](OleMiss.md)| +  2.010 | -  0.498 |
-|  60 [Auburn                ](Auburn.md)| +  1.078 | -  0.928 |
-|  84 [Clemson               ](Clemson.md)| +  0.933 | -  1.071 |
-| 105 [Kentucky              ](Kentucky.md)| +  0.808 | -  1.237 |
+|   3 [Texas A&M             ](TexasAM.md)| +  2.385 | -  0.419 |
+|   5 [Ole Miss              ](OleMiss.md)| +  2.221 | -  0.450 |
+|   6 [Alabama               ](Alabama.md)| +  2.192 | -  0.456 |
+|  74 [Auburn                ](Auburn.md)| +  0.981 | -  1.020 |
+|  87 [Kentucky              ](Kentucky.md)| +  0.901 | -  1.109 |
+|  98 [Clemson               ](Clemson.md)| +  0.853 | -  1.172 |
 

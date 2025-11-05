@@ -1,24 +1,24 @@
-Maryland (4 - 3)
+Maryland (4 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.077 |   0.011 |   6.496 |   7.247 |
-| Rank  |      74 |      74 |     110 |       3 |
+| Value |  -0.266 |  -0.033 |   9.201 |   5.171 |
+| Rank  |      76 |      76 |      65 |      21 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [Washington            ](Washington.md)| Loss       | -  0.655 |
-|  26 [Nebraska              ](Nebraska.md)| Loss       | -  0.661 |
-|  85 [UCLA                  ](UCLA.md)| Loss       | -  1.079 |
-| 101 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.833 |
-| 106 [Wisconsin             ](Wisconsin.md)| Win        | +  0.800 |
-| 129 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.548 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   1 [Indiana               ](Indiana.md)| Loss       | -  0.368 |
+|  30 [Washington            ](Washington.md)| Loss       | -  0.643 |
+|  36 [Nebraska              ](Nebraska.md)| Loss       | -  0.703 |
+|  84 [UCLA                  ](UCLA.md)| Loss       | -  1.074 |
+| 104 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.813 |
+| 106 [Wisconsin             ](Wisconsin.md)| Win        | +  0.798 |
+| 127 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.568 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Indiana               ](Indiana.md)| +  2.355 | -  0.425 |
-|  14 [Michigan              ](Michigan.md)| +  1.690 | -  0.592 |
-|  39 [Illinois              ](Illinois.md)| +  1.332 | -  0.751 |
-|  68 [Rutgers               ](Rutgers.md)| +  1.019 | -  0.982 |
-|  99 [Michigan State        ](MichiganState.md)| +  0.851 | -  1.175 |
+|  12 [Michigan              ](Michigan.md)| +  1.838 | -  0.544 |
+|  29 [Illinois              ](Illinois.md)| +  1.556 | -  0.643 |
+|  79 [Rutgers               ](Rutgers.md)| +  0.967 | -  1.034 |
+| 105 [Michigan State        ](MichiganState.md)| +  0.809 | -  1.235 |
 

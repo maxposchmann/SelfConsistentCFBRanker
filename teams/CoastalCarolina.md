@@ -1,24 +1,24 @@
-Coastal Carolina (4 - 3)
+Coastal Carolina (5 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.344 |   0.049 |   6.777 |   4.621 |
-| Rank  |      66 |      66 |     103 |      72 |
+| Value |   1.459 |   0.182 |   8.180 |   3.854 |
+| Rank  |      59 |      59 |      93 |      75 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   9 [Virginia              ](Virginia.md)| Loss       | -  0.564 |
-|  50 [Old Dominion          ](OldDominion.md)| Loss       | -  0.846 |
-|  58 [East Carolina         ](EastCarolina.md)| Loss       | -  0.925 |
-|  93 [Appalachian State     ](AppalachianState.md)| Win        | +  0.880 |
-| 102 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.826 |
-| 121 [South Alabama         ](SouthAlabama.md)| Win        | +  0.667 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
+|   7 [Virginia              ](Virginia.md)| Loss       | -  0.477 |
+|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
+|  51 [East Carolina         ](EastCarolina.md)| Loss       | -  0.804 |
+|  85 [Marshall              ](Marshall.md)| Win        | +  0.912 |
+|  86 [Appalachian State     ](AppalachianState.md)| Win        | +  0.903 |
+| 112 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.771 |
+| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.574 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  33 [James Madison         ](JamesMadison.md)| +  1.414 | -  0.707 |
-|  83 [Marshall              ](Marshall.md)| +  0.953 | -  1.050 |
-|  87 [South Carolina        ](SouthCarolina.md)| +  0.903 | -  1.108 |
-| 108 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.787 | -  1.270 |
-| 128 [Georgia State         ](GeorgiaState.md)| +  0.564 | -  1.772 |
+|  24 [James Madison         ](JamesMadison.md)| +  1.596 | -  0.627 |
+|  93 [South Carolina        ](SouthCarolina.md)| +  0.873 | -  1.146 |
+| 100 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.825 | -  1.212 |
+| 128 [Georgia State         ](GeorgiaState.md)| +  0.560 | -  1.786 |
 
