@@ -1,24 +1,24 @@
-Texas Christian (6 - 2)
+Texas Christian (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.804 |   0.476 |   8.049 |   6.672 |
-| Rank  |      34 |      34 |     101 |       4 |
+| Value |   3.740 |   0.340 |  12.708 |   1.217 |
+| Rank  |      41 |      41 |      36 |      48 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.619 |
-|  38 [SMU                   ](SMU.md)| Win        | +  1.384 |
-|  60 [Baylor                ](Baylor.md)| Win        | +  1.129 |
-|  80 [Kansas State          ](KansasState.md)| Loss       | -  1.036 |
-|  83 [Colorado              ](Colorado.md)| Win        | +  0.933 |
-|  88 [West Virginia         ](WestVirginia.md)| Win        | +  0.894 |
-| 111 [North Carolina        ](NorthCarolina.md)| Win        | +  0.772 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.493 |
+|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.662 |
+|  25 [SMU                   ](SMU.md)| Win        | +  1.427 |
+|  32 [Houston               ](Houston.md)| Win        | +  1.361 |
+|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.773 |
+|  75 [Baylor                ](Baylor.md)| Win        | +  0.976 |
+|  83 [Kansas State          ](KansasState.md)| Loss       | -  1.057 |
+|  89 [West Virginia         ](WestVirginia.md)| Win        | +  0.897 |
+|  97 [Colorado              ](Colorado.md)| Win        | +  0.833 |
+| 106 [North Carolina        ](NorthCarolina.md)| Win        | +  0.791 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   4 [BYU                   ](BYU.md)| +  2.298 | -  0.435 |
-|  25 [Cincinnati            ](Cincinnati.md)| +  1.587 | -  0.630 |
-|  28 [Houston               ](Houston.md)| +  1.558 | -  0.642 |
-|  53 [Iowa State            ](IowaState.md)| +  1.229 | -  0.814 |
+|  47 [Cincinnati            ](Cincinnati.md)| +  1.217 | -  0.822 |
 

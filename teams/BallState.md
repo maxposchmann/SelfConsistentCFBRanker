@@ -1,24 +1,24 @@
-Ball State (3 - 5)
+Ball State (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.315 |  -0.539 |   6.184 |   3.049 |
-| Rank  |     122 |     124 |     133 |     109 |
+| Value |  -6.061 |  -0.551 |   8.778 |   0.951 |
+| Rank  |     121 |     121 |     132 |      80 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
-|  72 [Ohio                  ](Ohio.md)| Win        | +  0.996 |
-|  74 [Auburn                ](Auburn.md)| Loss       | -  1.020 |
-|  78 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.032 |
-| 118 [Purdue                ](Purdue.md)| Loss       | -  1.471 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
-| 127 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.761 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
+|  67 [Toledo                ](Toledo.md)| Loss       | -  0.981 |
+|  68 [Ohio                  ](Ohio.md)| Win        | +  1.014 |
+|  80 [Auburn                ](Auburn.md)| Loss       | -  1.034 |
+| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
+| 118 [Purdue                ](Purdue.md)| Loss       | -  1.439 |
+| 119 [Akron                 ](Akron.md)| Win        | +  0.680 |
+| 125 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.629 |
+| 126 [Eastern Michigan      ](EasternMichigan.md)| Loss       | -  1.630 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  73 [Miami (OH)            ](MiamiOH.md)| +  0.987 | -  1.013 |
-|  96 [Toledo                ](Toledo.md)| +  0.859 | -  1.164 |
-| 113 [Kent State            ](KentState.md)| +  0.762 | -  1.312 |
-| 134 [Eastern Michigan      ](EasternMichigan.md)| +  0.441 | -  2.267 |
+|  81 [Miami (OH)            ](MiamiOH.md)| +  0.951 | -  1.052 |
 

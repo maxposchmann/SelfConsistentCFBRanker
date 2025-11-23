@@ -1,24 +1,24 @@
-Michigan (7 - 2)
+Michigan (9 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.288 |   0.699 |  10.977 |   4.590 |
-| Rank  |      12 |      12 |      22 |      34 |
+| Value |   8.059 |   0.733 |  12.816 |   2.082 |
+| Rank  |      12 |      12 |      34 |       5 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  13 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.546 |
-|  18 [USC                   ](USC.md)| Loss       | -  0.588 |
-|  30 [Washington            ](Washington.md)| Win        | +  1.556 |
-|  36 [Nebraska              ](Nebraska.md)| Win        | +  1.423 |
-|  52 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
-|  89 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.892 |
-| 105 [Michigan State        ](MichiganState.md)| Win        | +  0.809 |
-| 106 [Wisconsin             ](Wisconsin.md)| Win        | +  0.798 |
-| 118 [Purdue                ](Purdue.md)| Win        | +  0.680 |
+|   9 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.547 |
+|  18 [USC                   ](USC.md)| Loss       | -  0.627 |
+|  34 [Washington            ](Washington.md)| Win        | +  1.345 |
+|  44 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
+|  52 [Nebraska              ](Nebraska.md)| Win        | +  1.182 |
+|  56 [Northwestern          ](Northwestern.md)| Win        | +  1.096 |
+|  69 [Central Michigan      ](CentralMichigan.md)| Win        | +  1.009 |
+|  73 [Wisconsin             ](Wisconsin.md)| Win        | +  0.980 |
+| 100 [Maryland              ](Maryland.md)| Win        | +  0.826 |
+| 111 [Michigan State        ](MichiganState.md)| Win        | +  0.743 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.695 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   2 [Ohio State            ](OhioState.md)| +  2.452 | -  0.408 |
-|  58 [Northwestern          ](Northwestern.md)| +  1.164 | -  0.859 |
-|  76 [Maryland              ](Maryland.md)| +  0.975 | -  1.026 |
+|   3 [Ohio State            ](OhioState.md)| +  2.082 | -  0.480 |
 

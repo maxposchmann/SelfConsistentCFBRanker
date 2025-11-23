@@ -1,24 +1,24 @@
-Pitt (7 - 2)
+Pitt (8 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.418 |   0.491 |   8.898 |   5.313 |
-| Rank  |      31 |      33 |      74 |      19 |
+| Value |   5.021 |   0.456 |  11.572 |   1.686 |
+| Rank  |      29 |      29 |      71 |      16 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  10 [Louisville            ](Louisville.md)| Loss       | -  0.517 |
-|  35 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.442 |
-|  56 [Florida State         ](FloridaState.md)| Win        | +  1.188 |
-|  88 [West Virginia         ](WestVirginia.md)| Loss       | -  1.119 |
-|  89 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.892 |
-|  91 [Stanford              ](Stanford.md)| Win        | +  0.886 |
-| 108 [Syracuse              ](Syracuse.md)| Win        | +  0.789 |
-| 131 [Boston College        ](BostonCollege.md)| Win        | +  0.515 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
+|  21 [Georgia Tech          ](GeorgiaTech.md)| Win        | +  1.522 |
+|  38 [Louisville            ](Louisville.md)| Loss       | -  0.769 |
+|  43 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.253 |
+|  64 [Florida State         ](FloridaState.md)| Win        | +  1.034 |
+|  69 [Central Michigan      ](CentralMichigan.md)| Win        | +  1.009 |
+|  89 [West Virginia         ](WestVirginia.md)| Loss       | -  1.115 |
+|  92 [Stanford              ](Stanford.md)| Win        | +  0.878 |
+| 104 [Syracuse              ](Syracuse.md)| Win        | +  0.801 |
+| 129 [Boston College        ](BostonCollege.md)| Win        | +  0.578 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Georgia Tech          ](GeorgiaTech.md)| +  1.917 | -  0.522 |
-|  17 [Miami (FL)            ](MiamiFL.md)| +  1.708 | -  0.585 |
-|  20 [Notre Dame            ](NotreDame.md)| +  1.688 | -  0.592 |
+|  14 [Miami (FL)            ](MiamiFL.md)| +  1.686 | -  0.593 |
 

@@ -1,24 +1,24 @@
-Fresno State (6 - 3)
+Fresno State (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.731 |   0.192 |   8.058 |   2.582 |
-| Rank  |      57 |      58 |     100 |     126 |
+| Value |   1.050 |   0.095 |   9.431 |   0.656 |
+| Rank  |      59 |      59 |     119 |     120 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  33 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.671 |
-|  43 [Boise State           ](BoiseState.md)| Win        | +  1.323 |
-|  64 [Hawaii                ](Hawaii.md)| Win        | +  1.110 |
-|  65 [Kansas                ](Kansas.md)| Loss       | -  0.904 |
-| 100 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.825 |
-| 117 [Colorado State        ](ColoradoState.md)| Loss       | -  1.460 |
-| 120 [Oregon State          ](OregonState.md)| Win        | +  0.672 |
-| 132 [Nevada                ](Nevada.md)| Win        | +  0.506 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  31 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.727 |
+|  48 [Boise State           ](BoiseState.md)| Win        | +  1.216 |
+|  55 [Hawaii                ](Hawaii.md)| Win        | +  1.105 |
+|  65 [Utah State            ](UtahState.md)| Loss       | -  0.973 |
+|  84 [Kansas                ](Kansas.md)| Loss       | -  1.063 |
+|  87 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.913 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
+| 123 [Nevada                ](Nevada.md)| Win        | +  0.647 |
+| 124 [Colorado State        ](ColoradoState.md)| Loss       | -  1.550 |
+| 128 [Oregon State          ](OregonState.md)| Win        | +  0.603 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  77 [Utah State            ](UtahState.md)| +  0.972 | -  1.029 |
-| 103 [Wyoming               ](Wyoming.md)| +  0.814 | -  1.228 |
-| 107 [San Jose State        ](SanJoseState.md)| +  0.795 | -  1.257 |
+| 122 [San Jose State        ](SanJoseState.md)| +  0.656 | -  1.523 |
 

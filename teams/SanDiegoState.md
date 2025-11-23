@@ -1,24 +1,24 @@
-San Diego State (7 - 1)
+San Diego State (9 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.115 |   0.514 |   6.115 |   4.469 |
-| Rank  |      33 |      30 |     134 |      40 |
+| Value |   4.805 |   0.437 |   8.818 |   1.241 |
+| Rank  |      31 |      31 |     130 |      45 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  57 [Fresno State          ](FresnoState.md)| Win        | +  1.182 |
-|  66 [California            ](California.md)| Win        | +  1.057 |
-|  75 [Washington State      ](WashingtonState.md)| Loss       | -  1.022 |
-| 103 [Wyoming               ](Wyoming.md)| Win        | +  0.814 |
-| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.685 |
-| 127 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.568 |
-| 132 [Nevada                ](Nevada.md)| Win        | +  0.506 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  48 [Boise State           ](BoiseState.md)| Win        | +  1.216 |
+|  55 [Hawaii                ](Hawaii.md)| Loss       | -  0.905 |
+|  59 [Fresno State          ](FresnoState.md)| Win        | +  1.072 |
+|  70 [California            ](California.md)| Win        | +  0.998 |
+|  76 [Washington State      ](WashingtonState.md)| Loss       | -  1.027 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
+| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
+| 123 [Nevada                ](Nevada.md)| Win        | +  0.647 |
+| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
+| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  43 [Boise State           ](BoiseState.md)| +  1.323 | -  0.756 |
-|  52 [New Mexico            ](NewMexico.md)| +  1.241 | -  0.806 |
-|  64 [Hawaii                ](Hawaii.md)| +  1.110 | -  0.901 |
-| 107 [San Jose State        ](SanJoseState.md)| +  0.795 | -  1.257 |
+|  44 [New Mexico            ](NewMexico.md)| +  1.241 | -  0.806 |
 

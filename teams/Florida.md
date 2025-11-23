@@ -1,24 +1,24 @@
-Florida (3 - 5)
+Florida (3 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.518 |   0.065 |  12.501 |   5.685 |
-| Rank  |      67 |      66 |       6 |      14 |
+| Value |  -2.272 |  -0.207 |  16.325 |   1.034 |
+| Rank  |      94 |      94 |       2 |      63 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.419 |
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.490 |
-|  16 [Texas                 ](Texas.md)| Win        | +  1.817 |
-|  17 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.585 |
-|  26 [South Florida         ](SouthFlorida.md)| Loss       | -  0.633 |
-|  45 [LSU                   ](LSU.md)| Loss       | -  0.763 |
-|  55 [Mississippi State     ](MississippiState.md)| Win        | +  1.206 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
+|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
+|   6 [Ole Miss              ](OleMiss.md)| Loss       | -  0.523 |
+|  14 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.593 |
+|  23 [Texas                 ](Texas.md)| Win        | +  1.473 |
+|  27 [South Florida         ](SouthFlorida.md)| Loss       | -  0.704 |
+|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
+|  37 [LSU                   ](LSU.md)| Loss       | -  0.769 |
+|  71 [Mississippi State     ](MississippiState.md)| Win        | +  0.997 |
+|  74 [Kentucky              ](Kentucky.md)| Loss       | -  1.020 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   5 [Ole Miss              ](OleMiss.md)| +  2.221 | -  0.450 |
-|  39 [Tennessee             ](Tennessee.md)| +  1.376 | -  0.727 |
-|  56 [Florida State         ](FloridaState.md)| +  1.188 | -  0.842 |
-|  87 [Kentucky              ](Kentucky.md)| +  0.901 | -  1.109 |
+|  64 [Florida State         ](FloridaState.md)| +  1.034 | -  0.967 |
 

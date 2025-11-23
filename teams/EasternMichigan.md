@@ -1,24 +1,24 @@
-Eastern Michigan (2 - 7)
+Eastern Michigan (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -8.455 |  -0.939 |   6.944 |   2.329 |
-| Rank  |     134 |     133 |     124 |     130 |
+| Value |  -7.366 |  -0.670 |   8.467 |   1.078 |
+| Rank  |     126 |     126 |     134 |      57 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  72 [Ohio                  ](Ohio.md)| Loss       | -  1.004 |
-|  73 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.013 |
-|  87 [Kentucky              ](Kentucky.md)| Loss       | -  1.109 |
-|  89 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.121 |
-|  97 [Buffalo               ](Buffalo.md)| Loss       | -  1.168 |
-| 109 [Texas State           ](TexasState.md)| Loss       | -  1.273 |
-| 123 [Louisiana             ](Louisiana.md)| Win        | +  0.638 |
-| 127 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.568 |
-| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  2.897 |
+|  68 [Ohio                  ](Ohio.md)| Loss       | -  0.986 |
+|  69 [Central Michigan      ](CentralMichigan.md)| Loss       | -  0.991 |
+|  74 [Kentucky              ](Kentucky.md)| Loss       | -  1.020 |
+|  81 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.052 |
+|  93 [Texas State           ](TexasState.md)| Loss       | -  1.146 |
+|  96 [Louisiana             ](Louisiana.md)| Win        | +  0.847 |
+| 107 [Buffalo               ](Buffalo.md)| Loss       | -  1.287 |
+| 121 [Ball State            ](BallState.md)| Win        | +  0.669 |
+| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
+| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  78 [Western Michigan      ](WesternMichigan.md)| +  0.969 | -  1.032 |
-| 116 [Bowling Green         ](BowlingGreen.md)| +  0.701 | -  1.427 |
-| 122 [Ball State            ](BallState.md)| +  0.658 | -  1.519 |
+|  58 [Western Michigan      ](WesternMichigan.md)| +  1.078 | -  0.928 |
 

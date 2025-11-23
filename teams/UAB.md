@@ -1,24 +1,24 @@
-UAB (3 - 5)
+UAB (3 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.099 |  -0.262 |   8.305 |   4.934 |
-| Rank  |     102 |     104 |      88 |      28 |
+| Value |  -4.789 |  -0.435 |  12.164 |   0.746 |
+| Rank  |     113 |     113 |      51 |     109 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Memphis               ](Memphis.md)| Win        | +  1.692 |
-|  27 [Navy                  ](Navy.md)| Loss       | -  0.637 |
-|  39 [Tennessee             ](Tennessee.md)| Loss       | -  0.727 |
-|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
-|  99 [Army                  ](Army.md)| Loss       | -  1.211 |
-| 104 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.230 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.591 |
+|  24 [Navy                  ](Navy.md)| Loss       | -  0.699 |
+|  27 [South Florida         ](SouthFlorida.md)| Loss       | -  0.704 |
+|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
+|  42 [Memphis               ](Memphis.md)| Win        | +  1.273 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  86 [Rice                  ](Rice.md)| Loss       | -  1.090 |
+| 101 [Army                  ](Army.md)| Loss       | -  1.224 |
+| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.231 |
+| 119 [Akron                 ](Akron.md)| Win        | +  0.680 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [North Texas           ](NorthTexas.md)| +  1.819 | -  0.550 |
-|  26 [South Florida         ](SouthFlorida.md)| +  1.580 | -  0.633 |
-|  95 [Rice                  ](Rice.md)| +  0.862 | -  1.160 |
-| 119 [Tulsa                 ](Tulsa.md)| +  0.673 | -  1.485 |
+| 110 [Tulsa                 ](Tulsa.md)| +  0.746 | -  1.340 |
 

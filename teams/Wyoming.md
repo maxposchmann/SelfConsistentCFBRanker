@@ -1,24 +1,24 @@
-Wyoming (4 - 5)
+Wyoming (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.122 |  -0.236 |   8.672 |   2.798 |
-| Rank  |     103 |      99 |      79 |     118 |
+| Value |  -5.054 |  -0.459 |   9.969 |   1.105 |
+| Rank  |     115 |     115 |     108 |      55 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  14 [Utah                  ](Utah.md)| Loss       | -  0.548 |
-|  33 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.671 |
-|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.774 |
-|  83 [Colorado              ](Colorado.md)| Loss       | -  1.072 |
-| 107 [San Jose State        ](SanJoseState.md)| Win        | +  0.795 |
-| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.685 |
-| 121 [Air Force             ](AirForce.md)| Loss       | -  1.494 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  17 [Utah                  ](Utah.md)| Loss       | -  0.617 |
+|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.714 |
+|  31 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.727 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
+|  97 [Colorado              ](Colorado.md)| Loss       | -  1.201 |
+| 117 [Air Force             ](AirForce.md)| Loss       | -  1.418 |
+| 119 [Akron                 ](Akron.md)| Win        | +  0.680 |
+| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
+| 123 [Nevada                ](Nevada.md)| Loss       | -  1.546 |
+| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  57 [Fresno State          ](FresnoState.md)| +  1.182 | -  0.846 |
-|  64 [Hawaii                ](Hawaii.md)| +  1.110 | -  0.901 |
-| 132 [Nevada                ](Nevada.md)| +  0.506 | -  1.978 |
+|  55 [Hawaii                ](Hawaii.md)| +  1.105 | -  0.905 |
 

@@ -1,24 +1,24 @@
-Minnesota (6 - 3)
+Minnesota (6 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.015 |   0.335 |  10.027 |   3.575 |
-| Rank  |      42 |      44 |      43 |      83 |
+| Value |   0.950 |   0.086 |  12.193 |   0.980 |
+| Rank  |      61 |      61 |      50 |      72 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.408 |
-|  36 [Nebraska              ](Nebraska.md)| Win        | +  1.423 |
-|  37 [Iowa                  ](Iowa.md)| Loss       | -  0.715 |
-|  66 [California            ](California.md)| Loss       | -  0.946 |
-|  79 [Rutgers               ](Rutgers.md)| Win        | +  0.967 |
-|  97 [Buffalo               ](Buffalo.md)| Win        | +  0.856 |
-| 105 [Michigan State        ](MichiganState.md)| Win        | +  0.809 |
-| 118 [Purdue                ](Purdue.md)| Win        | +  0.680 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   3 [Ohio State            ](OhioState.md)| Loss       | -  0.480 |
+|  10 [Oregon                ](Oregon.md)| Loss       | -  0.550 |
+|  46 [Iowa                  ](Iowa.md)| Loss       | -  0.817 |
+|  52 [Nebraska              ](Nebraska.md)| Win        | +  1.182 |
+|  56 [Northwestern          ](Northwestern.md)| Loss       | -  0.912 |
+|  70 [California            ](California.md)| Loss       | -  1.002 |
+|  77 [Rutgers               ](Rutgers.md)| Win        | +  0.973 |
+| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.777 |
+| 111 [Michigan State        ](MichiganState.md)| Win        | +  0.743 |
+| 118 [Purdue                ](Purdue.md)| Win        | +  0.695 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  23 [Oregon                ](Oregon.md)| +  1.613 | -  0.620 |
-|  58 [Northwestern          ](Northwestern.md)| +  1.164 | -  0.859 |
-| 106 [Wisconsin             ](Wisconsin.md)| +  0.798 | -  1.253 |
+|  73 [Wisconsin             ](Wisconsin.md)| +  0.980 | -  1.020 |
 

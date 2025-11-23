@@ -1,24 +1,24 @@
-Arkansas (2 - 7)
+Arkansas (2 - 9)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.319 |  -0.369 |  12.935 |   4.498 |
-| Rank  |     115 |     114 |       2 |      37 |
+| Value |  -5.241 |  -0.476 |  14.986 |   1.239 |
+| Rank  |     116 |     116 |       6 |      46 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.419 |
-|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.450 |
-|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
-|  20 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
-|  39 [Tennessee             ](Tennessee.md)| Loss       | -  0.727 |
-|  55 [Mississippi State     ](MississippiState.md)| Loss       | -  0.829 |
-|  74 [Auburn                ](Auburn.md)| Loss       | -  1.020 |
-|  82 [Arkansas State        ](ArkansasState.md)| Win        | +  0.943 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
+|   6 [Ole Miss              ](OleMiss.md)| Loss       | -  0.523 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
+|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
+|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
+|  37 [LSU                   ](LSU.md)| Loss       | -  0.769 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
+|  71 [Mississippi State     ](MississippiState.md)| Loss       | -  1.003 |
+|  80 [Auburn                ](Auburn.md)| Loss       | -  1.034 |
+|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  16 [Texas                 ](Texas.md)| +  1.817 | -  0.550 |
-|  40 [Missouri              ](Missouri.md)| +  1.371 | -  0.729 |
-|  45 [LSU                   ](LSU.md)| +  1.310 | -  0.763 |
+|  45 [Missouri              ](Missouri.md)| +  1.239 | -  0.807 |
 

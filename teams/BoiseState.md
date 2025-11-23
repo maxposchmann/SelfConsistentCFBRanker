@@ -1,24 +1,24 @@
-Boise State (6 - 3)
+Boise State (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.889 |   0.321 |   9.428 |   3.146 |
-| Rank  |      43 |      48 |      55 |     105 |
+| Value |   2.943 |   0.268 |  11.684 |   1.028 |
+| Rank  |      48 |      48 |      65 |      64 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
-|  26 [South Florida         ](SouthFlorida.md)| Loss       | -  0.633 |
-|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Win        | +  1.291 |
-|  52 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
-|  57 [Fresno State          ](FresnoState.md)| Loss       | -  0.846 |
-|  86 [Appalachian State     ](AppalachianState.md)| Win        | +  0.903 |
-| 121 [Air Force             ](AirForce.md)| Win        | +  0.669 |
-| 132 [Nevada                ](Nevada.md)| Win        | +  0.506 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
+|  27 [South Florida         ](SouthFlorida.md)| Loss       | -  0.704 |
+|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Win        | +  1.401 |
+|  31 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.727 |
+|  44 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
+|  95 [Appalachian State     ](AppalachianState.md)| Win        | +  0.850 |
+| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
+| 123 [Nevada                ](Nevada.md)| Win        | +  0.647 |
+| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  33 [San Diego State       ](SanDiegoState.md)| +  1.489 | -  0.671 |
-|  77 [Utah State            ](UtahState.md)| +  0.972 | -  1.029 |
-| 117 [Colorado State        ](ColoradoState.md)| +  0.685 | -  1.460 |
+|  65 [Utah State            ](UtahState.md)| +  1.028 | -  0.973 |
 

@@ -1,24 +1,24 @@
-Purdue (2 - 7)
+Purdue (2 - 9)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.988 |  -0.443 |  11.315 |   6.726 |
-| Rank  |     118 |     117 |      18 |       3 |
+| Value |  -5.492 |  -0.499 |  14.543 |   2.188 |
+| Rank  |     118 |     119 |       7 |       2 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Michigan              ](Michigan.md)| Loss       | -  0.544 |
-|  18 [USC                   ](USC.md)| Loss       | -  0.588 |
-|  20 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
-|  29 [Illinois              ](Illinois.md)| Loss       | -  0.643 |
-|  42 [Minnesota             ](Minnesota.md)| Loss       | -  0.747 |
-|  58 [Northwestern          ](Northwestern.md)| Loss       | -  0.859 |
-|  79 [Rutgers               ](Rutgers.md)| Loss       | -  1.034 |
-| 122 [Ball State            ](BallState.md)| Win        | +  0.658 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   3 [Ohio State            ](OhioState.md)| Loss       | -  0.480 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
+|  12 [Michigan              ](Michigan.md)| Loss       | -  0.586 |
+|  18 [USC                   ](USC.md)| Loss       | -  0.627 |
+|  34 [Washington            ](Washington.md)| Loss       | -  0.744 |
+|  35 [Illinois              ](Illinois.md)| Loss       | -  0.764 |
+|  56 [Northwestern          ](Northwestern.md)| Loss       | -  0.912 |
+|  61 [Minnesota             ](Minnesota.md)| Loss       | -  0.939 |
+|  77 [Rutgers               ](Rutgers.md)| Loss       | -  1.028 |
+| 121 [Ball State            ](BallState.md)| Win        | +  0.669 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   1 [Indiana               ](Indiana.md)| +  2.718 | -  0.368 |
-|   2 [Ohio State            ](OhioState.md)| +  2.452 | -  0.408 |
-|  30 [Washington            ](Washington.md)| +  1.556 | -  0.643 |
+|   1 [Indiana               ](Indiana.md)| +  2.188 | -  0.457 |
 

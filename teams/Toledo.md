@@ -1,24 +1,24 @@
-Toledo (4 - 4)
+Toledo (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.572 |  -0.196 |   6.573 |   3.105 |
-| Rank  |      96 |      97 |     131 |     107 |
+| Value |   0.289 |   0.026 |   8.622 |   1.009 |
+| Rank  |      67 |      67 |     133 |      68 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  47 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.301 |
-|  75 [Washington State      ](WashingtonState.md)| Loss       | -  1.022 |
-|  78 [Western Michigan      ](WesternMichigan.md)| Loss       | -  1.032 |
-|  87 [Kentucky              ](Kentucky.md)| Loss       | -  1.109 |
-| 113 [Kent State            ](KentState.md)| Win        | +  0.762 |
-| 116 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.427 |
-| 124 [Akron                 ](Akron.md)| Win        | +  0.629 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  51 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.198 |
+|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
+|  74 [Kentucky              ](Kentucky.md)| Loss       | -  1.020 |
+|  76 [Washington State      ](WashingtonState.md)| Loss       | -  1.027 |
+|  81 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.951 |
+| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
+| 119 [Akron                 ](Akron.md)| Win        | +  0.680 |
+| 121 [Ball State            ](BallState.md)| Win        | +  0.669 |
+| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.650 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  73 [Miami (OH)            ](MiamiOH.md)| +  0.987 | -  1.013 |
-|  89 [Central Michigan      ](CentralMichigan.md)| +  0.892 | -  1.121 |
-| 122 [Ball State            ](BallState.md)| +  0.658 | -  1.519 |
-| 127 [Northern Illinois     ](NorthernIllinois.md)| +  0.568 | -  1.761 |
+|  69 [Central Michigan      ](CentralMichigan.md)| +  1.009 | -  0.991 |
 

@@ -1,24 +1,24 @@
-Army (4 - 4)
+Army (5 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.979 |  -0.247 |   7.926 |   4.307 |
-| Rank  |      99 |     101 |     103 |      48 |
+| Value |  -3.051 |  -0.305 |   9.490 |   2.523 |
+| Rank  |     101 |     104 |     116 |       1 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  15 [North Texas           ](NorthTexas.md)| Loss       | -  0.550 |
-|  32 [Tulane                ](Tulane.md)| Loss       | -  0.656 |
-|  51 [East Carolina         ](EastCarolina.md)| Loss       | -  0.804 |
-|  80 [Kansas State          ](KansasState.md)| Win        | +  0.965 |
-| 102 [UAB                   ](UAB.md)| Win        | +  0.816 |
-| 121 [Air Force             ](AirForce.md)| Win        | +  0.669 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.529 |
-| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  2.897 |
+|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.591 |
+|  16 [Tulane                ](Tulane.md)| Loss       | -  0.614 |
+|  50 [East Carolina         ](EastCarolina.md)| Loss       | -  0.832 |
+|  83 [Kansas State          ](KansasState.md)| Win        | +  0.946 |
+|  88 [Temple                ](Temple.md)| Win        | +  0.905 |
+| 110 [Tulsa                 ](Tulsa.md)| Loss       | -  1.340 |
+| 113 [UAB                   ](UAB.md)| Win        | +  0.728 |
+| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
+| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.547 |
+| 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  27 [Navy                  ](Navy.md)| +  1.569 | -  0.637 |
-|  68 [Temple                ](Temple.md)| +  1.043 | -  0.959 |
-|  70 [UTSA                  ](UTSA.md)| +  1.022 | -  0.979 |
-| 119 [Tulsa                 ](Tulsa.md)| +  0.673 | -  1.485 |
+|  24 [Navy                  ](Navy.md)| +  1.430 | -  0.699 |
+|  57 [UTSA                  ](UTSA.md)| +  1.093 | -  0.915 |
 

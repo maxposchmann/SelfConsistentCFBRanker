@@ -1,24 +1,24 @@
-Air Force (2 - 6)
+Air Force (3 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.149 |  -0.519 |   8.264 |   3.757 |
-| Rank  |     121 |     122 |      90 |      78 |
+| Value |  -5.268 |  -0.479 |  11.259 |   0.645 |
+| Rank  |     117 |     117 |      78 |     122 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  27 [Navy                  ](Navy.md)| Loss       | -  0.637 |
-|  43 [Boise State           ](BoiseState.md)| Loss       | -  0.756 |
-|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.774 |
-|  64 [Hawaii                ](Hawaii.md)| Loss       | -  0.901 |
-|  77 [Utah State            ](UtahState.md)| Loss       | -  1.029 |
-|  99 [Army                  ](Army.md)| Loss       | -  1.211 |
-| 103 [Wyoming               ](Wyoming.md)| Win        | +  0.814 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  24 [Navy                  ](Navy.md)| Loss       | -  0.699 |
+|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.714 |
+|  44 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
+|  48 [Boise State           ](BoiseState.md)| Loss       | -  0.823 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  55 [Hawaii                ](Hawaii.md)| Loss       | -  0.905 |
+|  65 [Utah State            ](UtahState.md)| Loss       | -  0.973 |
+| 101 [Army                  ](Army.md)| Loss       | -  1.224 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
+| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  52 [New Mexico            ](NewMexico.md)| +  1.241 | -  0.806 |
-|  69 [Connecticut           ](Connecticut.md)| +  1.036 | -  0.965 |
-| 107 [San Jose State        ](SanJoseState.md)| +  0.795 | -  1.257 |
-| 117 [Colorado State        ](ColoradoState.md)| +  0.685 | -  1.460 |
+| 124 [Colorado State        ](ColoradoState.md)| +  0.645 | -  1.550 |
 

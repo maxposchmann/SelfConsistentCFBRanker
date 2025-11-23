@@ -1,24 +1,24 @@
-San Jose State (3 - 5)
+San Jose State (3 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.365 |  -0.296 |   8.089 |   3.847 |
-| Rank  |     107 |     108 |      97 |      76 |
+| Value |  -6.346 |  -0.577 |  10.539 |   1.072 |
+| Rank  |     122 |     122 |      90 |      58 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Texas                 ](Texas.md)| Loss       | -  0.550 |
-|  52 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
-|  64 [Hawaii                ](Hawaii.md)| Win        | +  1.110 |
-|  77 [Utah State            ](UtahState.md)| Loss       | -  1.029 |
-|  89 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.121 |
-|  91 [Stanford              ](Stanford.md)| Loss       | -  1.129 |
-| 103 [Wyoming               ](Wyoming.md)| Loss       | -  1.228 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
+|  31 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.727 |
+|  44 [New Mexico            ](NewMexico.md)| Win        | +  1.241 |
+|  55 [Hawaii                ](Hawaii.md)| Win        | +  1.105 |
+|  65 [Utah State            ](UtahState.md)| Loss       | -  0.973 |
+|  69 [Central Michigan      ](CentralMichigan.md)| Loss       | -  0.991 |
+|  92 [Stanford              ](Stanford.md)| Loss       | -  1.139 |
+| 115 [Wyoming               ](Wyoming.md)| Loss       | -  1.398 |
+| 117 [Air Force             ](AirForce.md)| Loss       | -  1.418 |
+| 123 [Nevada                ](Nevada.md)| Loss       | -  1.546 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  33 [San Diego State       ](SanDiegoState.md)| +  1.489 | -  0.671 |
-|  57 [Fresno State          ](FresnoState.md)| +  1.182 | -  0.846 |
-| 121 [Air Force             ](AirForce.md)| +  0.669 | -  1.494 |
-| 132 [Nevada                ](Nevada.md)| +  0.506 | -  1.978 |
+|  59 [Fresno State          ](FresnoState.md)| +  1.072 | -  0.933 |
 

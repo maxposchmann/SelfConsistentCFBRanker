@@ -1,24 +1,24 @@
-Texas (7 - 2)
+Texas (8 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.169 |   0.685 |  11.062 |   5.150 |
-| Rank  |      16 |      18 |      21 |      22 |
+| Value |   5.841 |   0.531 |  13.159 |   2.127 |
+| Rank  |      23 |      24 |      27 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.408 |
-|  13 [Oklahoma              ](Oklahoma.md)| Win        | +  1.830 |
-|  21 [Vanderbilt            ](Vanderbilt.md)| Win        | +  1.671 |
-|  55 [Mississippi State     ](MississippiState.md)| Win        | +  1.206 |
-|  67 [Florida               ](Florida.md)| Loss       | -  0.951 |
-|  87 [Kentucky              ](Kentucky.md)| Win        | +  0.901 |
-| 107 [San Jose State        ](SanJoseState.md)| Win        | +  0.795 |
-| 125 [UTEP                  ](UTEP.md)| Win        | +  0.627 |
-| 133 [Sam Houston           ](SamHouston.md)| Win        | +  0.469 |
+|   3 [Ohio State            ](OhioState.md)| Loss       | -  0.480 |
+|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
+|   9 [Oklahoma              ](Oklahoma.md)| Win        | +  1.828 |
+|  19 [Vanderbilt            ](Vanderbilt.md)| Win        | +  1.585 |
+|  71 [Mississippi State     ](MississippiState.md)| Win        | +  0.997 |
+|  74 [Kentucky              ](Kentucky.md)| Win        | +  0.980 |
+|  94 [Florida               ](Florida.md)| Loss       | -  1.163 |
+| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
+| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
+| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| +  2.385 | -  0.419 |
-|   8 [Georgia               ](Georgia.md)| +  2.040 | -  0.490 |
-| 115 [Arkansas              ](Arkansas.md)| +  0.725 | -  1.379 |
+|   2 [Texas A&M             ](TexasAM.md)| +  2.127 | -  0.470 |
 

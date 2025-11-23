@@ -1,24 +1,24 @@
-Hawaii (6 - 3)
+Hawaii (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.077 |   0.120 |   7.200 |   3.595 |
-| Rank  |      64 |      64 |     117 |      82 |
+| Value |   1.504 |   0.137 |  10.018 |   0.715 |
+| Rank  |      55 |      55 |     104 |     114 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  54 [Arizona               ](Arizona.md)| Loss       | -  0.823 |
-|  57 [Fresno State          ](FresnoState.md)| Loss       | -  0.846 |
-|  77 [Utah State            ](UtahState.md)| Win        | +  0.972 |
-|  91 [Stanford              ](Stanford.md)| Win        | +  0.886 |
-| 107 [San Jose State        ](SanJoseState.md)| Loss       | -  1.257 |
-| 117 [Colorado State        ](ColoradoState.md)| Win        | +  0.685 |
-| 121 [Air Force             ](AirForce.md)| Win        | +  0.669 |
-| 133 [Sam Houston           ](SamHouston.md)| Win        | +  0.469 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.714 |
+|  30 [Arizona               ](Arizona.md)| Loss       | -  0.721 |
+|  31 [San Diego State       ](SanDiegoState.md)| Win        | +  1.375 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
+|  65 [Utah State            ](UtahState.md)| Win        | +  1.028 |
+|  92 [Stanford              ](Stanford.md)| Win        | +  0.878 |
+| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
+| 122 [San Jose State        ](SanJoseState.md)| Loss       | -  1.523 |
+| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  33 [San Diego State       ](SanDiegoState.md)| +  1.489 | -  0.671 |
-|  49 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.291 | -  0.774 |
-| 103 [Wyoming               ](Wyoming.md)| +  0.814 | -  1.228 |
+| 115 [Wyoming               ](Wyoming.md)| +  0.715 | -  1.398 |
 

@@ -1,24 +1,24 @@
-Oklahoma (7 - 2)
+Oklahoma (9 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.244 |   0.694 |  11.319 |   4.873 |
-| Rank  |      13 |      13 |      17 |      30 |
+| Value |   9.097 |   0.827 |  13.840 |   1.300 |
+| Rank  |       9 |       9 |      13 |      39 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.450 |
-|  12 [Michigan              ](Michigan.md)| Win        | +  1.838 |
-|  16 [Texas                 ](Texas.md)| Loss       | -  0.550 |
-|  39 [Tennessee             ](Tennessee.md)| Win        | +  1.376 |
-|  68 [Temple                ](Temple.md)| Win        | +  1.043 |
-|  74 [Auburn                ](Auburn.md)| Win        | +  0.981 |
-|  93 [South Carolina        ](SouthCarolina.md)| Win        | +  0.873 |
-| 113 [Kent State            ](KentState.md)| Win        | +  0.762 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   6 [Ole Miss              ](OleMiss.md)| Loss       | -  0.523 |
+|   8 [Alabama               ](Alabama.md)| Win        | +  1.835 |
+|  12 [Michigan              ](Michigan.md)| Win        | +  1.707 |
+|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
+|  33 [Tennessee             ](Tennessee.md)| Win        | +  1.347 |
+|  45 [Missouri              ](Missouri.md)| Win        | +  1.239 |
+|  80 [Auburn                ](Auburn.md)| Win        | +  0.967 |
+|  85 [South Carolina        ](SouthCarolina.md)| Win        | +  0.933 |
+|  88 [Temple                ](Temple.md)| Win        | +  0.905 |
+| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Alabama               ](Alabama.md)| +  2.192 | -  0.456 |
-|  40 [Missouri              ](Missouri.md)| +  1.371 | -  0.729 |
-|  45 [LSU                   ](LSU.md)| +  1.310 | -  0.763 |
+|  37 [LSU                   ](LSU.md)| +  1.300 | -  0.769 |
 

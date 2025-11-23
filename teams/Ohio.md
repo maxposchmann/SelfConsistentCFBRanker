@@ -1,24 +1,24 @@
-Ohio (5 - 3)
+Ohio (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.040 |  -0.005 |   7.035 |   3.193 |
-| Rank  |      72 |      72 |     123 |     101 |
+| Value |   0.214 |   0.019 |   9.145 |   0.777 |
+| Rank  |      68 |      68 |     124 |     106 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Ohio State            ](OhioState.md)| Loss       | -  0.408 |
-|  79 [Rutgers               ](Rutgers.md)| Loss       | -  1.034 |
-|  88 [West Virginia         ](WestVirginia.md)| Win        | +  0.894 |
-| 116 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.701 |
-| 122 [Ball State            ](BallState.md)| Loss       | -  1.519 |
-| 127 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.568 |
-| 134 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.441 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   3 [Ohio State            ](OhioState.md)| Loss       | -  0.480 |
+|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
+|  77 [Rutgers               ](Rutgers.md)| Loss       | -  1.028 |
+|  81 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.951 |
+|  89 [West Virginia         ](WestVirginia.md)| Win        | +  0.897 |
+| 121 [Ball State            ](BallState.md)| Loss       | -  1.495 |
+| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+| 126 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.613 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
+| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  73 [Miami (OH)            ](MiamiOH.md)| +  0.987 | -  1.013 |
-|  78 [Western Michigan      ](WesternMichigan.md)| +  0.969 | -  1.032 |
-|  97 [Buffalo               ](Buffalo.md)| +  0.856 | -  1.168 |
-| 136 [Massachusetts         ](Massachusetts.md)| +  0.380 | -  2.630 |
+| 107 [Buffalo               ](Buffalo.md)| +  0.777 | -  1.287 |
 

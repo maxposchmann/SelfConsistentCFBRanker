@@ -1,24 +1,24 @@
-Rice (4 - 5)
+Rice (5 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.536 |  -0.171 |   9.222 |   4.215 |
-| Rank  |      95 |      94 |      63 |      56 |
+| Value |  -1.294 |  -0.118 |  11.486 |   1.421 |
+| Rank  |      86 |      86 |      73 |      29 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
-|  27 [Navy                  ](Navy.md)| Loss       | -  0.637 |
-|  28 [Houston               ](Houston.md)| Loss       | -  0.642 |
-|  69 [Connecticut           ](Connecticut.md)| Win        | +  1.036 |
-|  70 [UTSA                  ](UTSA.md)| Loss       | -  0.979 |
-| 104 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.230 |
-| 123 [Louisiana             ](Louisiana.md)| Win        | +  0.638 |
-| 130 [Charlotte             ](Charlotte.md)| Win        | +  0.529 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.591 |
+|  24 [Navy                  ](Navy.md)| Loss       | -  0.699 |
+|  32 [Houston               ](Houston.md)| Loss       | -  0.735 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
+|  49 [Connecticut           ](Connecticut.md)| Win        | +  1.210 |
+|  57 [UTSA                  ](UTSA.md)| Loss       | -  0.915 |
+|  96 [Louisiana             ](Louisiana.md)| Win        | +  0.847 |
+| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.231 |
+| 113 [UAB                   ](UAB.md)| Win        | +  0.728 |
+| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.547 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  15 [North Texas           ](NorthTexas.md)| +  1.819 | -  0.550 |
-|  26 [South Florida         ](SouthFlorida.md)| +  1.580 | -  0.633 |
-| 102 [UAB                   ](UAB.md)| +  0.816 | -  1.225 |
+|  27 [South Florida         ](SouthFlorida.md)| +  1.421 | -  0.704 |
 

@@ -1,24 +1,24 @@
-Troy (6 - 3)
+Troy (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.122 |   0.125 |   7.445 |   3.180 |
-| Rank  |      63 |      63 |     115 |     102 |
+| Value |   0.955 |   0.087 |   9.168 |   1.051 |
+| Rank  |      60 |      60 |     123 |      62 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
-|  82 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.060 |
-|  97 [Buffalo               ](Buffalo.md)| Win        | +  0.856 |
-|  98 [Clemson               ](Clemson.md)| Loss       | -  1.172 |
-| 109 [Texas State           ](TexasState.md)| Win        | +  0.785 |
-| 112 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.771 |
-| 123 [Louisiana             ](Louisiana.md)| Win        | +  0.638 |
-| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.574 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  36 [Old Dominion          ](OldDominion.md)| Loss       | -  0.765 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
+|  62 [Clemson               ](Clemson.md)| Loss       | -  0.945 |
+|  93 [Texas State           ](TexasState.md)| Win        | +  0.873 |
+|  96 [Louisiana             ](Louisiana.md)| Win        | +  0.847 |
+|  98 [Arkansas State        ](ArkansasState.md)| Loss       | -  1.206 |
+| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.777 |
+| 108 [South Alabama         ](SouthAlabama.md)| Win        | +  0.763 |
+| 120 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.674 |
+| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.554 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  44 [Old Dominion          ](OldDominion.md)| +  1.316 | -  0.760 |
-|  46 [Southern Mississippi  ](SouthernMississippi.md)| +  1.305 | -  0.767 |
-| 128 [Georgia State         ](GeorgiaState.md)| +  0.560 | -  1.786 |
+|  63 [Southern Mississippi  ](SouthernMississippi.md)| +  1.051 | -  0.951 |
 

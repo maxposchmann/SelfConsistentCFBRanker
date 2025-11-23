@@ -1,24 +1,24 @@
-Utah (7 - 2)
+Utah (9 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.212 |   0.690 |  11.493 |   3.200 |
-| Rank  |      14 |      15 |      15 |      99 |
+| Value |   7.288 |   0.663 |  12.476 |   0.941 |
+| Rank  |      17 |      17 |      41 |      83 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [BYU                   ](BYU.md)| Loss       | -  0.435 |
-|   9 [Texas Tech            ](TexasTech.md)| Loss       | -  0.499 |
-|  22 [Arizona State         ](ArizonaState.md)| Win        | +  1.617 |
-|  25 [Cincinnati            ](Cincinnati.md)| Win        | +  1.587 |
-|  83 [Colorado              ](Colorado.md)| Win        | +  0.933 |
-|  84 [UCLA                  ](UCLA.md)| Win        | +  0.931 |
-|  88 [West Virginia         ](WestVirginia.md)| Win        | +  0.894 |
-| 103 [Wyoming               ](Wyoming.md)| Win        | +  0.814 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   4 [BYU                   ](BYU.md)| Loss       | -  0.493 |
+|   7 [Texas Tech            ](TexasTech.md)| Loss       | -  0.531 |
+|  22 [Arizona State         ](ArizonaState.md)| Win        | +  1.511 |
+|  47 [Cincinnati            ](Cincinnati.md)| Win        | +  1.217 |
+|  75 [Baylor                ](Baylor.md)| Win        | +  0.976 |
+|  83 [Kansas State          ](KansasState.md)| Win        | +  0.946 |
+|  89 [West Virginia         ](WestVirginia.md)| Win        | +  0.897 |
+|  97 [Colorado              ](Colorado.md)| Win        | +  0.833 |
+|  99 [UCLA                  ](UCLA.md)| Win        | +  0.827 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  60 [Baylor                ](Baylor.md)| +  1.129 | -  0.886 |
-|  65 [Kansas                ](Kansas.md)| +  1.106 | -  0.904 |
-|  80 [Kansas State          ](KansasState.md)| +  0.965 | -  1.036 |
+|  84 [Kansas                ](Kansas.md)| +  0.941 | -  1.063 |
 

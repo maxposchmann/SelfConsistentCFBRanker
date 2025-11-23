@@ -1,24 +1,24 @@
-Indiana (9 - 0)
+Indiana (11 - 0)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  10.329 |   1.148 |  10.329 |   2.299 |
-| Rank  |       1 |       2 |      35 |     131 |
+| Value |  11.807 |   1.073 |  11.807 |   0.695 |
+| Rank  |       1 |       1 |      61 |     117 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  23 [Oregon                ](Oregon.md)| Win        | +  1.613 |
-|  29 [Illinois              ](Illinois.md)| Win        | +  1.556 |
-|  37 [Iowa                  ](Iowa.md)| Win        | +  1.399 |
-|  41 [Kennesaw State        ](KennesawState.md)| Win        | +  1.350 |
-|  44 [Old Dominion          ](OldDominion.md)| Win        | +  1.316 |
-|  76 [Maryland              ](Maryland.md)| Win        | +  0.975 |
-|  84 [UCLA                  ](UCLA.md)| Win        | +  0.931 |
-| 105 [Michigan State        ](MichiganState.md)| Win        | +  0.809 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  10 [Oregon                ](Oregon.md)| Win        | +  1.817 |
+|  35 [Illinois              ](Illinois.md)| Win        | +  1.309 |
+|  36 [Old Dominion          ](OldDominion.md)| Win        | +  1.308 |
+|  40 [Kennesaw State        ](KennesawState.md)| Win        | +  1.288 |
+|  46 [Iowa                  ](Iowa.md)| Win        | +  1.224 |
+|  73 [Wisconsin             ](Wisconsin.md)| Win        | +  0.980 |
+|  79 [Penn State            ](PennState.md)| Win        | +  0.968 |
+|  99 [UCLA                  ](UCLA.md)| Win        | +  0.827 |
+| 100 [Maryland              ](Maryland.md)| Win        | +  0.826 |
+| 111 [Michigan State        ](MichiganState.md)| Win        | +  0.743 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-| 101 [Penn State            ](PennState.md)| +  0.821 | -  1.218 |
-| 106 [Wisconsin             ](Wisconsin.md)| +  0.798 | -  1.253 |
-| 118 [Purdue                ](Purdue.md)| +  0.680 | -  1.471 |
+| 118 [Purdue                ](Purdue.md)| +  0.695 | -  1.439 |
 

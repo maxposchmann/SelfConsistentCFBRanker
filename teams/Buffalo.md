@@ -1,24 +1,24 @@
-Buffalo (5 - 4)
+Buffalo (5 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.601 |  -0.178 |   6.728 |   2.875 |
-| Rank  |      97 |      96 |     129 |     114 |
+| Value |  -3.806 |  -0.346 |   8.443 |   1.014 |
+| Rank  |     107 |     107 |     135 |      67 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  42 [Minnesota             ](Minnesota.md)| Loss       | -  0.747 |
-|  63 [Troy                  ](Troy.md)| Loss       | -  0.897 |
-|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
-| 113 [Kent State            ](KentState.md)| Win        | +  0.762 |
-| 116 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.701 |
-| 124 [Akron                 ](Akron.md)| Loss       | -  1.590 |
-| 134 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.441 |
-| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.380 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  60 [Troy                  ](Troy.md)| Loss       | -  0.939 |
+|  61 [Minnesota             ](Minnesota.md)| Loss       | -  0.939 |
+|  69 [Central Michigan      ](CentralMichigan.md)| Loss       | -  0.991 |
+|  81 [Miami (OH)            ](MiamiOH.md)| Loss       | -  1.052 |
+| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
+| 119 [Akron                 ](Akron.md)| Loss       | -  1.471 |
+| 126 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.613 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
+| 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  72 [Ohio                  ](Ohio.md)| +  0.996 | -  1.004 |
-|  73 [Miami (OH)            ](MiamiOH.md)| +  0.987 | -  1.013 |
-|  89 [Central Michigan      ](CentralMichigan.md)| +  0.892 | -  1.121 |
+|  68 [Ohio                  ](Ohio.md)| +  1.014 | -  0.986 |
 

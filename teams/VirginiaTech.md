@@ -1,24 +1,24 @@
-Virginia Tech (3 - 6)
+Virginia Tech (3 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.454 |  -0.162 |  11.908 |   4.992 |
-| Rank  |      94 |      93 |      10 |      26 |
+| Value |  -3.403 |  -0.309 |  13.794 |   1.584 |
+| Rank  |     105 |     105 |      14 |      22 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  10 [Louisville            ](Louisville.md)| Loss       | -  0.517 |
-|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
-|  21 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.599 |
-|  35 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.442 |
-|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
-|  50 [Wake Forest           ](WakeForest.md)| Loss       | -  0.779 |
-|  66 [California            ](California.md)| Win        | +  1.057 |
-|  93 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.146 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  14 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.593 |
+|  19 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.631 |
+|  21 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.657 |
+|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
+|  36 [Old Dominion          ](OldDominion.md)| Loss       | -  0.765 |
+|  38 [Louisville            ](Louisville.md)| Loss       | -  0.769 |
+|  43 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.253 |
+|  64 [Florida State         ](FloridaState.md)| Loss       | -  0.967 |
+|  70 [California            ](California.md)| Win        | +  0.998 |
+|  85 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.072 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   7 [Virginia              ](Virginia.md)| +  2.095 | -  0.477 |
-|  17 [Miami (FL)            ](MiamiFL.md)| +  1.708 | -  0.585 |
-|  56 [Florida State         ](FloridaState.md)| +  1.188 | -  0.842 |
+|  20 [Virginia              ](Virginia.md)| +  1.584 | -  0.631 |
 

@@ -1,24 +1,24 @@
-Kennesaw State (6 - 2)
+Kennesaw State (8 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.103 |   0.388 |   8.294 |   3.747 |
-| Rank  |      41 |      39 |      89 |      79 |
+| Value |   3.812 |   0.347 |  10.795 |   0.733 |
+| Rank  |      40 |      40 |      86 |     111 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.368 |
-|  50 [Wake Forest           ](WakeForest.md)| Loss       | -  0.779 |
-|  61 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  1.125 |
-|  82 [Arkansas State        ](ArkansasState.md)| Win        | +  0.943 |
-| 110 [Florida International ](FloridaInternational.md)| Win        | +  0.784 |
-| 125 [UTEP                  ](UTEP.md)| Win        | +  0.627 |
-| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.436 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   1 [Indiana               ](Indiana.md)| Loss       | -  0.457 |
+|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
+|  54 [Missouri State        ](MissouriState.md)| Win        | +  1.121 |
+|  66 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.973 |
+|  72 [Florida International ](FloridaInternational.md)| Win        | +  0.985 |
+|  82 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  0.948 |
+|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
+| 109 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
+| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
+| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.509 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  62 [Missouri State        ](MissouriState.md)| +  1.116 | -  0.896 |
-|  71 [Jacksonville State    ](JacksonvilleState.md)| +  0.997 | -  1.003 |
-|  90 [Liberty               ](Liberty.md)| +  0.887 | -  1.128 |
-| 114 [New Mexico State      ](NewMexicoState.md)| +  0.747 | -  1.338 |
+| 112 [Liberty               ](Liberty.md)| +  0.733 | -  1.364 |
 

@@ -1,24 +1,24 @@
-Boston College (1 - 8)
+Boston College (1 - 10)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -6.863 |  -0.763 |  10.179 |   4.089 |
-| Rank  |     131 |     130 |      39 |      63 |
+| Value |  -8.255 |  -0.750 |  12.992 |   0.801 |
+| Rank  |     129 |     129 |      30 |     103 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  10 [Louisville            ](Louisville.md)| Loss       | -  0.517 |
-|  20 [Notre Dame            ](NotreDame.md)| Loss       | -  0.592 |
-|  31 [Pitt                  ](Pitt.md)| Loss       | -  0.652 |
-|  66 [California            ](California.md)| Loss       | -  0.946 |
-|  69 [Connecticut           ](Connecticut.md)| Loss       | -  0.965 |
-|  91 [Stanford              ](Stanford.md)| Loss       | -  1.129 |
-|  98 [Clemson               ](Clemson.md)| Loss       | -  1.172 |
-| 105 [Michigan State        ](MichiganState.md)| Loss       | -  1.235 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
+|  21 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.657 |
+|  25 [SMU                   ](SMU.md)| Loss       | -  0.701 |
+|  29 [Pitt                  ](Pitt.md)| Loss       | -  0.717 |
+|  38 [Louisville            ](Louisville.md)| Loss       | -  0.769 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  62 [Clemson               ](Clemson.md)| Loss       | -  0.945 |
+|  70 [California            ](California.md)| Loss       | -  1.002 |
+|  92 [Stanford              ](Stanford.md)| Loss       | -  1.139 |
+| 111 [Michigan State        ](MichiganState.md)| Loss       | -  1.345 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  11 [Georgia Tech          ](GeorgiaTech.md)| +  1.917 | -  0.522 |
-|  38 [SMU                   ](SMU.md)| +  1.384 | -  0.723 |
-| 108 [Syracuse              ](Syracuse.md)| +  0.789 | -  1.267 |
+| 104 [Syracuse              ](Syracuse.md)| +  0.801 | -  1.249 |
 

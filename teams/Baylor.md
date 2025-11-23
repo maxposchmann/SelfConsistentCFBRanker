@@ -1,24 +1,24 @@
-Baylor (5 - 4)
+Baylor (5 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.252 |   0.139 |   9.862 |   4.599 |
-| Rank  |      60 |      62 |      47 |      33 |
+| Value |  -0.370 |  -0.034 |  12.414 |   1.361 |
+| Rank  |      75 |      75 |      44 |      34 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.619 |
-|  25 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.630 |
-|  34 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.692 |
-|  38 [SMU                   ](SMU.md)| Win        | +  1.384 |
-|  74 [Auburn                ](Auburn.md)| Loss       | -  1.020 |
-|  80 [Kansas State          ](KansasState.md)| Win        | +  0.965 |
-|  81 [UCF                   ](UCF.md)| Win        | +  0.957 |
-| 129 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.552 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  17 [Utah                  ](Utah.md)| Loss       | -  0.617 |
+|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.662 |
+|  25 [SMU                   ](SMU.md)| Win        | +  1.427 |
+|  30 [Arizona               ](Arizona.md)| Loss       | -  0.721 |
+|  41 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.780 |
+|  47 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.822 |
+|  80 [Auburn                ](Auburn.md)| Loss       | -  1.034 |
+|  83 [Kansas State          ](KansasState.md)| Win        | +  0.946 |
+|  90 [UCF                   ](UCF.md)| Win        | +  0.896 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  14 [Utah                  ](Utah.md)| +  1.825 | -  0.548 |
-|  28 [Houston               ](Houston.md)| +  1.558 | -  0.642 |
-|  54 [Arizona               ](Arizona.md)| +  1.216 | -  0.823 |
+|  32 [Houston               ](Houston.md)| +  1.361 | -  0.735 |
 

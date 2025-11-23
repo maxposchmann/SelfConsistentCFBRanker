@@ -1,24 +1,24 @@
-Kansas (5 - 4)
+Kansas (5 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.040 |   0.116 |   9.892 |   4.270 |
-| Rank  |      65 |      65 |      45 |      52 |
+| Value |  -0.918 |  -0.083 |  11.938 |   1.622 |
+| Rank  |      84 |      84 |      56 |      19 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   9 [Texas Tech            ](TexasTech.md)| Loss       | -  0.499 |
-|  25 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.630 |
-|  40 [Missouri              ](Missouri.md)| Loss       | -  0.729 |
-|  57 [Fresno State          ](FresnoState.md)| Win        | +  1.182 |
-|  80 [Kansas State          ](KansasState.md)| Loss       | -  1.036 |
-|  81 [UCF                   ](UCF.md)| Win        | +  0.957 |
-|  88 [West Virginia         ](WestVirginia.md)| Win        | +  0.894 |
-| 129 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.552 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|   7 [Texas Tech            ](TexasTech.md)| Loss       | -  0.531 |
+|  30 [Arizona               ](Arizona.md)| Loss       | -  0.721 |
+|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.773 |
+|  45 [Missouri              ](Missouri.md)| Loss       | -  0.807 |
+|  47 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.822 |
+|  59 [Fresno State          ](FresnoState.md)| Win        | +  1.072 |
+|  83 [Kansas State          ](KansasState.md)| Loss       | -  1.057 |
+|  89 [West Virginia         ](WestVirginia.md)| Win        | +  0.897 |
+|  90 [UCF                   ](UCF.md)| Win        | +  0.896 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  14 [Utah                  ](Utah.md)| +  1.825 | -  0.548 |
-|  53 [Iowa State            ](IowaState.md)| +  1.229 | -  0.814 |
-|  54 [Arizona               ](Arizona.md)| +  1.216 | -  0.823 |
+|  17 [Utah                  ](Utah.md)| +  1.622 | -  0.617 |
 

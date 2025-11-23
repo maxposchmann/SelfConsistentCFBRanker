@@ -1,24 +1,24 @@
-Louisville (7 - 1)
+Louisville (7 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   6.817 |   0.852 |   9.410 |   4.195 |
-| Rank  |      10 |       8 |      57 |      59 |
+| Value |   3.953 |   0.359 |  12.390 |   0.980 |
+| Rank  |      38 |      38 |      45 |      73 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [Virginia              ](Virginia.md)| Loss       | -  0.477 |
-|  17 [Miami (FL)            ](MiamiFL.md)| Win        | +  1.708 |
-|  24 [James Madison         ](JamesMadison.md)| Win        | +  1.596 |
-|  31 [Pitt                  ](Pitt.md)| Win        | +  1.534 |
-|  94 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.869 |
-| 116 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.701 |
-| 131 [Boston College        ](BostonCollege.md)| Win        | +  0.515 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  14 [Miami (FL)            ](MiamiFL.md)| Win        | +  1.686 |
+|  15 [James Madison         ](JamesMadison.md)| Win        | +  1.632 |
+|  20 [Virginia              ](Virginia.md)| Loss       | -  0.631 |
+|  25 [SMU                   ](SMU.md)| Loss       | -  0.701 |
+|  29 [Pitt                  ](Pitt.md)| Win        | +  1.395 |
+|  62 [Clemson               ](Clemson.md)| Loss       | -  0.945 |
+|  70 [California            ](California.md)| Loss       | -  1.002 |
+| 105 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.798 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
+| 129 [Boston College        ](BostonCollege.md)| Win        | +  0.578 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  38 [SMU                   ](SMU.md)| +  1.384 | -  0.723 |
-|  66 [California            ](California.md)| +  1.057 | -  0.946 |
-|  87 [Kentucky              ](Kentucky.md)| +  0.901 | -  1.109 |
-|  98 [Clemson               ](Clemson.md)| +  0.853 | -  1.172 |
+|  74 [Kentucky              ](Kentucky.md)| +  0.980 | -  1.020 |
 

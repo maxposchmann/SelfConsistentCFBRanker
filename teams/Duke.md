@@ -1,24 +1,24 @@
-Duke (5 - 3)
+Duke (6 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   2.679 |   0.335 |   9.525 |   5.187 |
-| Rank  |      48 |      45 |      52 |      20 |
+| Value |   1.845 |   0.168 |  12.787 |   1.424 |
+| Rank  |      53 |      53 |      35 |      28 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.522 |
-|  29 [Illinois              ](Illinois.md)| Loss       | -  0.643 |
-|  32 [Tulane                ](Tulane.md)| Loss       | -  0.656 |
-|  35 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.442 |
-|  66 [California            ](California.md)| Win        | +  1.057 |
-|  98 [Clemson               ](Clemson.md)| Win        | +  0.853 |
-| 108 [Syracuse              ](Syracuse.md)| Win        | +  0.789 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  16 [Tulane                ](Tulane.md)| Loss       | -  0.614 |
+|  20 [Virginia              ](Virginia.md)| Loss       | -  0.631 |
+|  21 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.657 |
+|  35 [Illinois              ](Illinois.md)| Loss       | -  0.764 |
+|  43 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.253 |
+|  49 [Connecticut           ](Connecticut.md)| Loss       | -  0.827 |
+|  62 [Clemson               ](Clemson.md)| Win        | +  1.059 |
+|  70 [California            ](California.md)| Win        | +  0.998 |
+| 104 [Syracuse              ](Syracuse.md)| Win        | +  0.801 |
+| 106 [North Carolina        ](NorthCarolina.md)| Win        | +  0.791 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   7 [Virginia              ](Virginia.md)| +  2.095 | -  0.477 |
-|  50 [Wake Forest           ](WakeForest.md)| +  1.283 | -  0.779 |
-|  69 [Connecticut           ](Connecticut.md)| +  1.036 | -  0.965 |
-| 111 [North Carolina        ](NorthCarolina.md)| +  0.772 | -  1.296 |
+|  26 [Wake Forest           ](WakeForest.md)| +  1.424 | -  0.702 |
 

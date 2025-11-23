@@ -1,24 +1,24 @@
-Ole Miss (8 - 1)
+Ole Miss (10 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   8.241 |   0.916 |  10.790 |   2.602 |
-| Rank  |       5 |       7 |      27 |     125 |
+| Value |   9.763 |   0.888 |  12.336 |   0.997 |
+| Rank  |       6 |       6 |      46 |      70 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.490 |
-|  13 [Oklahoma              ](Oklahoma.md)| Win        | +  1.830 |
-|  32 [Tulane                ](Tulane.md)| Win        | +  1.525 |
-|  45 [LSU                   ](LSU.md)| Win        | +  1.310 |
-|  75 [Washington State      ](WashingtonState.md)| Win        | +  0.979 |
-|  87 [Kentucky              ](Kentucky.md)| Win        | +  0.901 |
-|  93 [South Carolina        ](SouthCarolina.md)| Win        | +  0.873 |
-| 115 [Arkansas              ](Arkansas.md)| Win        | +  0.725 |
-| 128 [Georgia State         ](GeorgiaState.md)| Win        | +  0.560 |
+|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
+|   9 [Oklahoma              ](Oklahoma.md)| Win        | +  1.828 |
+|  16 [Tulane                ](Tulane.md)| Win        | +  1.628 |
+|  37 [LSU                   ](LSU.md)| Win        | +  1.300 |
+|  74 [Kentucky              ](Kentucky.md)| Win        | +  0.980 |
+|  76 [Washington State      ](WashingtonState.md)| Win        | +  0.974 |
+|  85 [South Carolina        ](SouthCarolina.md)| Win        | +  0.933 |
+|  94 [Florida               ](Florida.md)| Win        | +  0.860 |
+| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
+| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.554 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  55 [Mississippi State     ](MississippiState.md)| +  1.206 | -  0.829 |
-|  67 [Florida               ](Florida.md)| +  1.051 | -  0.951 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.345 | -  2.897 |
+|  71 [Mississippi State     ](MississippiState.md)| +  0.997 | -  1.003 |
 

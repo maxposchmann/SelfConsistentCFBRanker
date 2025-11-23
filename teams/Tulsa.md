@@ -1,24 +1,24 @@
-Tulsa (2 - 6)
+Tulsa (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.087 |  -0.511 |   8.746 |   3.127 |
-| Rank  |     119 |     120 |      78 |     106 |
+| Value |  -4.408 |  -0.401 |  10.353 |   0.728 |
+| Rank  |     110 |     110 |      94 |     112 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  19 [Memphis               ](Memphis.md)| Loss       | -  0.591 |
-|  27 [Navy                  ](Navy.md)| Loss       | -  0.637 |
-|  32 [Tulane                ](Tulane.md)| Loss       | -  0.656 |
-|  51 [East Carolina         ](EastCarolina.md)| Loss       | -  0.804 |
-|  68 [Temple                ](Temple.md)| Loss       | -  0.959 |
-| 114 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.338 |
-| 129 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.552 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  16 [Tulane                ](Tulane.md)| Loss       | -  0.614 |
+|  24 [Navy                  ](Navy.md)| Loss       | -  0.699 |
+|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
+|  50 [East Carolina         ](EastCarolina.md)| Loss       | -  0.832 |
+|  88 [Temple                ](Temple.md)| Loss       | -  1.105 |
+| 101 [Army                  ](Army.md)| Win        | +  0.817 |
+| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.231 |
+| 109 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.338 |
+| 128 [Oregon State          ](OregonState.md)| Win        | +  0.603 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  99 [Army                  ](Army.md)| +  0.826 | -  1.211 |
-| 102 [UAB                   ](UAB.md)| +  0.816 | -  1.225 |
-| 104 [Florida Atlantic      ](FloridaAtlantic.md)| +  0.813 | -  1.230 |
-| 120 [Oregon State          ](OregonState.md)| +  0.672 | -  1.487 |
+| 113 [UAB                   ](UAB.md)| +  0.728 | -  1.374 |
 

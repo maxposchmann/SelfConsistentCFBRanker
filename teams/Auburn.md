@@ -1,24 +1,24 @@
-Auburn (4 - 5)
+Auburn (5 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.200 |  -0.022 |  11.688 |   4.208 |
-| Rank  |      74 |      74 |      13 |      57 |
+| Value |  -0.503 |  -0.046 |  13.637 |   1.835 |
+| Rank  |      80 |      80 |      19 |      10 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Texas A&M             ](TexasAM.md)| Loss       | -  0.419 |
-|   8 [Georgia               ](Georgia.md)| Loss       | -  0.490 |
-|  13 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.546 |
-|  40 [Missouri              ](Missouri.md)| Loss       | -  0.729 |
-|  60 [Baylor                ](Baylor.md)| Win        | +  1.129 |
-|  87 [Kentucky              ](Kentucky.md)| Loss       | -  1.109 |
-| 115 [Arkansas              ](Arkansas.md)| Win        | +  0.725 |
-| 122 [Ball State            ](BallState.md)| Win        | +  0.658 |
-| 126 [South Alabama         ](SouthAlabama.md)| Win        | +  0.574 |
+|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
+|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
+|   9 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.547 |
+|  19 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.631 |
+|  45 [Missouri              ](Missouri.md)| Loss       | -  0.807 |
+|  74 [Kentucky              ](Kentucky.md)| Loss       | -  1.020 |
+|  75 [Baylor                ](Baylor.md)| Win        | +  0.976 |
+| 108 [South Alabama         ](SouthAlabama.md)| Win        | +  0.763 |
+| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
+| 121 [Ball State            ](BallState.md)| Win        | +  0.669 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|   6 [Alabama               ](Alabama.md)| +  2.192 | -  0.456 |
-|  21 [Vanderbilt            ](Vanderbilt.md)| +  1.671 | -  0.599 |
-| 137 [Non-FBS               ](NonFBS.md)| +  0.345 | -  2.897 |
+|   8 [Alabama               ](Alabama.md)| +  1.835 | -  0.545 |
 

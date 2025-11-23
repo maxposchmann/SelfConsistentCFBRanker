@@ -1,24 +1,24 @@
-Liberty (4 - 4)
+Liberty (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.240 |  -0.155 |   7.200 |   4.376 |
-| Rank  |      90 |      91 |     119 |      45 |
+| Value |  -4.680 |  -0.425 |  10.066 |   1.288 |
+| Rank  |     112 |     112 |     102 |      42 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  24 [James Madison         ](JamesMadison.md)| Loss       | -  0.627 |
-|  44 [Old Dominion          ](OldDominion.md)| Loss       | -  0.760 |
-|  71 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  1.003 |
-|  92 [Delaware              ](Delaware.md)| Win        | +  0.875 |
-| 114 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
-| 116 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.427 |
-| 125 [UTEP                  ](UTEP.md)| Win        | +  0.627 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  15 [James Madison         ](JamesMadison.md)| Loss       | -  0.613 |
+|  36 [Old Dominion          ](OldDominion.md)| Loss       | -  0.765 |
+|  54 [Missouri State        ](MissouriState.md)| Loss       | -  0.892 |
+|  66 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.973 |
+|  72 [Florida International ](FloridaInternational.md)| Loss       | -  1.015 |
+|  82 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  1.055 |
+| 103 [Delaware              ](Delaware.md)| Win        | +  0.811 |
+| 109 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
+| 127 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.650 |
+| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  41 [Kennesaw State        ](KennesawState.md)| +  1.350 | -  0.741 |
-|  61 [Louisiana Tech        ](LouisianaTech.md)| +  1.125 | -  0.889 |
-|  62 [Missouri State        ](MissouriState.md)| +  1.116 | -  0.896 |
-| 110 [Florida International ](FloridaInternational.md)| +  0.784 | -  1.275 |
+|  40 [Kennesaw State        ](KennesawState.md)| +  1.288 | -  0.777 |
 

@@ -1,24 +1,24 @@
-New Mexico State (3 - 5)
+New Mexico State (4 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.009 |  -0.376 |   7.153 |   3.788 |
-| Rank  |     114 |     115 |     120 |      77 |
+| Value |  -4.393 |  -0.399 |  10.044 |   0.509 |
+| Rank  |     109 |     109 |     103 |     133 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  47 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.769 |
-|  52 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
-|  61 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.889 |
-|  62 [Missouri State        ](MissouriState.md)| Loss       | -  0.896 |
-|  90 [Liberty               ](Liberty.md)| Loss       | -  1.128 |
-| 119 [Tulsa                 ](Tulsa.md)| Win        | +  0.673 |
-| 133 [Sam Houston           ](SamHouston.md)| Win        | +  0.469 |
-| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.345 |
+|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
+|  40 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.777 |
+|  44 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
+|  51 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.834 |
+|  54 [Missouri State        ](MissouriState.md)| Loss       | -  0.892 |
+|  82 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  1.055 |
+| 110 [Tulsa                 ](Tulsa.md)| Win        | +  0.746 |
+| 112 [Liberty               ](Liberty.md)| Loss       | -  1.364 |
+| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
+| 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  39 [Tennessee             ](Tennessee.md)| +  1.376 | -  0.727 |
-|  41 [Kennesaw State        ](KennesawState.md)| +  1.350 | -  0.741 |
-| 125 [UTEP                  ](UTEP.md)| +  0.627 | -  1.596 |
-| 135 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.436 | -  2.296 |
+| 135 [Middle Tennessee State](MiddleTennesseeState.md)| +  0.509 | -  1.966 |
 
