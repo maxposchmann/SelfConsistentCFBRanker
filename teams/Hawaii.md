@@ -1,24 +1,21 @@
-Hawaii (7 - 4)
+Hawaii (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.504 |   0.137 |  10.018 |   0.715 |
-| Rank  |      55 |      55 |     104 |     114 |
+| Value |   2.104 |   0.175 |  10.699 |   0.000 |
+| Rank  |      52 |      52 |     108 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.714 |
-|  30 [Arizona               ](Arizona.md)| Loss       | -  0.721 |
-|  31 [San Diego State       ](SanDiegoState.md)| Win        | +  1.375 |
-|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
-|  65 [Utah State            ](UtahState.md)| Win        | +  1.028 |
-|  92 [Stanford              ](Stanford.md)| Win        | +  0.878 |
-| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
-| 122 [San Jose State        ](SanJoseState.md)| Loss       | -  1.523 |
-| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
-| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
+|  23 [Arizona               ](Arizona.md)| Loss       | -  0.685 |
+|  25 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.704 |
+|  39 [San Diego State       ](SanDiegoState.md)| Win        | +  1.293 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.908 |
+|  74 [Utah State            ](UtahState.md)| Win        | +  0.986 |
+|  96 [Stanford              ](Stanford.md)| Win        | +  0.858 |
+| 108 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.702 |
+| 124 [San Jose State        ](SanJoseState.md)| Loss       | -  1.538 |
+| 126 [Colorado State        ](ColoradoState.md)| Win        | +  0.618 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.550 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 115 [Wyoming               ](Wyoming.md)| +  0.715 | -  1.398 |
 

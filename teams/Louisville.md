@@ -1,24 +1,21 @@
-Louisville (7 - 4)
+Louisville (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.953 |   0.359 |  12.390 |   0.980 |
-| Rank  |      38 |      38 |      45 |      73 |
+| Value |   5.009 |   0.417 |  13.401 |   0.000 |
+| Rank  |      30 |      30 |      46 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  14 [Miami (FL)            ](MiamiFL.md)| Win        | +  1.686 |
-|  15 [James Madison         ](JamesMadison.md)| Win        | +  1.632 |
-|  20 [Virginia              ](Virginia.md)| Loss       | -  0.631 |
-|  25 [SMU                   ](SMU.md)| Loss       | -  0.701 |
-|  29 [Pitt                  ](Pitt.md)| Win        | +  1.395 |
-|  62 [Clemson               ](Clemson.md)| Loss       | -  0.945 |
-|  70 [California            ](California.md)| Loss       | -  1.002 |
-| 105 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.798 |
-| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
-| 129 [Boston College        ](BostonCollege.md)| Win        | +  0.578 |
+|  12 [Miami (FL)            ](MiamiFL.md)| Win        | +  1.726 |
+|  14 [James Madison         ](JamesMadison.md)| Win        | +  1.663 |
+|  18 [Virginia              ](Virginia.md)| Loss       | -  0.627 |
+|  36 [SMU                   ](SMU.md)| Loss       | -  0.769 |
+|  40 [Pitt                  ](Pitt.md)| Win        | +  1.284 |
+|  60 [Clemson               ](Clemson.md)| Loss       | -  0.910 |
+|  61 [California            ](California.md)| Loss       | -  0.918 |
+|  79 [Kentucky              ](Kentucky.md)| Win        | +  0.944 |
+| 104 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.780 |
+| 122 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.653 |
+| 125 [Boston College        ](BostonCollege.md)| Win        | +  0.636 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  74 [Kentucky              ](Kentucky.md)| +  0.980 | -  1.020 |
 

@@ -1,24 +1,21 @@
-Arkansas (2 - 9)
+Arkansas (2 - 10)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -5.241 |  -0.476 |  14.986 |   1.239 |
-| Rank  |     116 |     116 |       6 |      46 |
+| Value |  -6.210 |  -0.517 |  15.829 |   0.000 |
+| Rank  |     118 |     118 |       7 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
-|   6 [Ole Miss              ](OleMiss.md)| Loss       | -  0.523 |
-|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
-|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
-|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
-|  37 [LSU                   ](LSU.md)| Loss       | -  0.769 |
-|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
-|  71 [Mississippi State     ](MississippiState.md)| Loss       | -  1.003 |
-|  80 [Auburn                ](Auburn.md)| Loss       | -  1.034 |
-|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
+|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.529 |
+|   6 [Texas A&M             ](TexasAM.md)| Loss       | -  0.532 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.560 |
+|  16 [Texas                 ](Texas.md)| Loss       | -  0.620 |
+|  43 [Tennessee             ](Tennessee.md)| Loss       | -  0.796 |
+|  45 [Missouri              ](Missouri.md)| Loss       | -  0.800 |
+|  46 [LSU                   ](LSU.md)| Loss       | -  0.815 |
+|  49 [Memphis               ](Memphis.md)| Loss       | -  0.830 |
+|  76 [Mississippi State     ](MississippiState.md)| Loss       | -  1.044 |
+|  81 [Auburn                ](Auburn.md)| Loss       | -  1.076 |
+|  89 [Arkansas State        ](ArkansasState.md)| Win        | +  0.890 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  45 [Missouri              ](Missouri.md)| +  1.239 | -  0.807 |
 

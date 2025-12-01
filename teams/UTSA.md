@@ -1,24 +1,21 @@
-UTSA (6 - 5)
+UTSA (6 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   1.335 |   0.121 |  12.647 |   0.817 |
-| Rank  |      57 |      57 |      38 |     100 |
+| Value |   0.104 |   0.009 |  13.242 |   0.000 |
+| Rank  |      70 |      70 |      52 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
-|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.591 |
-|  16 [Tulane                ](Tulane.md)| Win        | +  1.628 |
-|  27 [South Florida         ](SouthFlorida.md)| Loss       | -  0.704 |
-|  50 [East Carolina         ](EastCarolina.md)| Win        | +  1.202 |
-|  86 [Rice                  ](Rice.md)| Win        | +  0.918 |
-|  88 [Temple                ](Temple.md)| Loss       | -  1.105 |
-|  93 [Texas State           ](TexasState.md)| Loss       | -  1.146 |
-| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
-| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.547 |
+|   6 [Texas A&M             ](TexasAM.md)| Loss       | -  0.532 |
+|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.583 |
+|  19 [Tulane                ](Tulane.md)| Win        | +  1.588 |
+|  24 [South Florida         ](SouthFlorida.md)| Loss       | -  0.686 |
+|  47 [East Carolina         ](EastCarolina.md)| Win        | +  1.221 |
+|  86 [Texas State           ](TexasState.md)| Loss       | -  1.089 |
+|  90 [Rice                  ](Rice.md)| Win        | +  0.887 |
+|  91 [Army                  ](Army.md)| Loss       | -  1.129 |
+|  92 [Temple                ](Temple.md)| Loss       | -  1.135 |
+| 126 [Colorado State        ](ColoradoState.md)| Win        | +  0.618 |
+| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.554 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 101 [Army                  ](Army.md)| +  0.817 | -  1.224 |
 

@@ -1,24 +1,21 @@
-Massachusetts (0 - 11)
+Massachusetts (0 - 12)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value | -15.077 |  -1.371 |   9.496 |   0.606 |
-| Rank  |     136 |     136 |     115 |     125 |
+| Value | -16.605 |  -1.384 |  10.265 |   0.000 |
+| Rank  |     136 |     136 |     118 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  45 [Missouri              ](Missouri.md)| Loss       | -  0.807 |
-|  46 [Iowa                  ](Iowa.md)| Loss       | -  0.817 |
-|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
-|  68 [Ohio                  ](Ohio.md)| Loss       | -  0.986 |
-|  69 [Central Michigan      ](CentralMichigan.md)| Loss       | -  0.991 |
-|  88 [Temple                ](Temple.md)| Loss       | -  1.105 |
-| 107 [Buffalo               ](Buffalo.md)| Loss       | -  1.287 |
-| 114 [Kent State            ](KentState.md)| Loss       | -  1.393 |
-| 119 [Akron                 ](Akron.md)| Loss       | -  1.471 |
-| 125 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.629 |
+|  37 [Iowa                  ](Iowa.md)| Loss       | -  0.773 |
+|  45 [Missouri              ](Missouri.md)| Loss       | -  0.800 |
+|  54 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.890 |
+|  63 [Ohio                  ](Ohio.md)| Loss       | -  0.944 |
+|  77 [Central Michigan      ](CentralMichigan.md)| Loss       | -  1.044 |
+|  92 [Temple                ](Temple.md)| Loss       | -  1.135 |
+| 107 [Buffalo               ](Buffalo.md)| Loss       | -  1.310 |
+| 109 [Kent State            ](KentState.md)| Loss       | -  1.312 |
+| 114 [Akron                 ](Akron.md)| Loss       | -  1.406 |
+| 122 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.531 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| Loss       | -  1.694 |
 | 137 [Non-FBS               ](NonFBS.md)| Loss       | -  3.004 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 127 [Bowling Green         ](BowlingGreen.md)| +  0.606 | -  1.650 |
 

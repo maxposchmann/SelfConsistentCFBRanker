@@ -1,24 +1,21 @@
-Maryland (4 - 7)
+Maryland (4 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.879 |  -0.262 |  12.599 |   0.743 |
-| Rank  |     100 |     100 |      40 |     110 |
+| Value |  -4.523 |  -0.377 |  12.838 |   0.000 |
+| Rank  |     110 |     110 |      65 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.457 |
-|  12 [Michigan              ](Michigan.md)| Loss       | -  0.586 |
-|  34 [Washington            ](Washington.md)| Loss       | -  0.744 |
-|  35 [Illinois              ](Illinois.md)| Loss       | -  0.764 |
-|  52 [Nebraska              ](Nebraska.md)| Loss       | -  0.846 |
-|  73 [Wisconsin             ](Wisconsin.md)| Win        | +  0.980 |
-|  77 [Rutgers               ](Rutgers.md)| Loss       | -  1.028 |
-|  99 [UCLA                  ](UCLA.md)| Loss       | -  1.209 |
-| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.813 |
-| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+|   2 [Indiana               ](Indiana.md)| Loss       | -  0.466 |
+|  21 [Michigan              ](Michigan.md)| Loss       | -  0.643 |
+|  29 [Illinois              ](Illinois.md)| Loss       | -  0.739 |
+|  44 [Washington            ](Washington.md)| Loss       | -  0.796 |
+|  58 [Nebraska              ](Nebraska.md)| Loss       | -  0.904 |
+|  82 [Wisconsin             ](Wisconsin.md)| Win        | +  0.928 |
+|  83 [Rutgers               ](Rutgers.md)| Loss       | -  1.078 |
+|  99 [UCLA                  ](UCLA.md)| Loss       | -  1.235 |
+| 101 [Michigan State        ](MichiganState.md)| Loss       | -  1.243 |
+| 103 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.783 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.590 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 111 [Michigan State        ](MichiganState.md)| +  0.743 | -  1.345 |
 

@@ -1,24 +1,21 @@
-Virginia Tech (3 - 8)
+Virginia Tech (3 - 9)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.403 |  -0.309 |  13.794 |   1.584 |
-| Rank  |     105 |     105 |      14 |      22 |
+| Value |  -4.116 |  -0.343 |  15.329 |   0.000 |
+| Rank  |     104 |     104 |      13 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  14 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.593 |
-|  19 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.631 |
-|  21 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.657 |
-|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
-|  36 [Old Dominion          ](OldDominion.md)| Loss       | -  0.765 |
-|  38 [Louisville            ](Louisville.md)| Loss       | -  0.769 |
-|  43 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.253 |
-|  64 [Florida State         ](FloridaState.md)| Loss       | -  0.967 |
-|  70 [California            ](California.md)| Win        | +  0.998 |
-|  85 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.072 |
+|  12 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.579 |
+|  15 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.617 |
+|  18 [Virginia              ](Virginia.md)| Loss       | -  0.627 |
+|  26 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.710 |
+|  30 [Louisville            ](Louisville.md)| Loss       | -  0.740 |
+|  34 [Old Dominion          ](OldDominion.md)| Loss       | -  0.763 |
+|  38 [Wake Forest           ](WakeForest.md)| Loss       | -  0.773 |
+|  42 [North Carolina State  ](NorthCarolinaState.md)| Win        | +  1.257 |
+|  61 [California            ](California.md)| Win        | +  1.090 |
+|  78 [Florida State         ](FloridaState.md)| Loss       | -  1.048 |
+|  93 [South Carolina        ](SouthCarolina.md)| Loss       | -  1.138 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  20 [Virginia              ](Virginia.md)| +  1.584 | -  0.631 |
 

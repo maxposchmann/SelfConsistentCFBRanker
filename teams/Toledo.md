@@ -1,24 +1,21 @@
-Toledo (7 - 4)
+Toledo (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.289 |   0.026 |   8.622 |   1.009 |
-| Rank  |      67 |      67 |     133 |      68 |
+| Value |   1.413 |   0.118 |   9.669 |   0.000 |
+| Rank  |      62 |      62 |     134 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  51 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.198 |
-|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
-|  74 [Kentucky              ](Kentucky.md)| Loss       | -  1.020 |
-|  76 [Washington State      ](WashingtonState.md)| Loss       | -  1.027 |
-|  81 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.951 |
-| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
-| 119 [Akron                 ](Akron.md)| Win        | +  0.680 |
-| 121 [Ball State            ](BallState.md)| Win        | +  0.669 |
-| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
-| 127 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.650 |
+|  54 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.890 |
+|  56 [Western Kentucky      ](WesternKentucky.md)| Win        | +  1.121 |
+|  69 [Washington State      ](WashingtonState.md)| Loss       | -  0.994 |
+|  73 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.994 |
+|  77 [Central Michigan      ](CentralMichigan.md)| Win        | +  0.958 |
+|  79 [Kentucky              ](Kentucky.md)| Loss       | -  1.060 |
+| 109 [Kent State            ](KentState.md)| Win        | +  0.762 |
+| 114 [Akron                 ](Akron.md)| Win        | +  0.711 |
+| 120 [Ball State            ](BallState.md)| Win        | +  0.657 |
+| 122 [Bowling Green         ](BowlingGreen.md)| Loss       | -  1.531 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.590 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  69 [Central Michigan      ](CentralMichigan.md)| +  1.009 | -  0.991 |
 

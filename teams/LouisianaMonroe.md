@@ -1,24 +1,21 @@
-Louisiana-Monroe (3 - 8)
+Louisiana-Monroe (3 - 9)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -5.958 |  -0.542 |  10.750 |   0.847 |
-| Rank  |     120 |     120 |      87 |      95 |
+| Value |  -7.138 |  -0.595 |  11.588 |   0.000 |
+| Rank  |     123 |     123 |      94 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   8 [Alabama               ](Alabama.md)| Loss       | -  0.545 |
-|  36 [Old Dominion          ](OldDominion.md)| Loss       | -  0.765 |
-|  56 [Northwestern          ](Northwestern.md)| Loss       | -  0.912 |
-|  60 [Troy                  ](Troy.md)| Loss       | -  0.939 |
-|  63 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.951 |
-|  78 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.030 |
-|  93 [Texas State           ](TexasState.md)| Loss       | -  1.146 |
-|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
-| 108 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.310 |
-| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
+|  10 [Alabama               ](Alabama.md)| Loss       | -  0.555 |
+|  34 [Old Dominion          ](OldDominion.md)| Loss       | -  0.763 |
+|  53 [Troy                  ](Troy.md)| Loss       | -  0.883 |
+|  64 [Northwestern          ](Northwestern.md)| Loss       | -  0.963 |
+|  68 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.994 |
+|  80 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.072 |
+|  86 [Texas State           ](TexasState.md)| Loss       | -  1.089 |
+|  88 [Louisiana             ](Louisiana.md)| Loss       | -  1.119 |
+|  89 [Arkansas State        ](ArkansasState.md)| Win        | +  0.890 |
+| 111 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.361 |
+| 135 [UTEP                  ](UTEP.md)| Win        | +  0.542 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  96 [Louisiana             ](Louisiana.md)| +  0.847 | -  1.181 |
 

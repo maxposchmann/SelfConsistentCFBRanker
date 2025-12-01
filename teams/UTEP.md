@@ -1,24 +1,21 @@
-UTEP (2 - 9)
+UTEP (2 - 10)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -8.846 |  -0.804 |   9.878 |   0.811 |
-| Rank  |     131 |     131 |     110 |     102 |
+| Value | -10.174 |  -0.848 |  10.825 |   0.000 |
+| Rank  |     135 |     135 |     106 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
-|  40 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.777 |
-|  54 [Missouri State        ](MissouriState.md)| Loss       | -  0.892 |
-|  65 [Utah State            ](UtahState.md)| Loss       | -  0.973 |
-|  66 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.973 |
-|  82 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  1.055 |
-| 109 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.338 |
-| 112 [Liberty               ](Liberty.md)| Loss       | -  1.364 |
-| 120 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.485 |
-| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
+|  16 [Texas                 ](Texas.md)| Loss       | -  0.620 |
+|  32 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.761 |
+|  57 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.903 |
+|  65 [Missouri State        ](MissouriState.md)| Loss       | -  0.967 |
+|  71 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.994 |
+|  74 [Utah State            ](UtahState.md)| Loss       | -  1.014 |
+|  97 [Delaware              ](Delaware.md)| Loss       | -  1.172 |
+| 113 [Liberty               ](Liberty.md)| Loss       | -  1.368 |
+| 119 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.475 |
+| 123 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.537 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.550 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 103 [Delaware              ](Delaware.md)| +  0.811 | -  1.233 |
 

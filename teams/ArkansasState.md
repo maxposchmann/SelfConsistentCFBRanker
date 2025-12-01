@@ -1,24 +1,21 @@
-Arkansas State (5 - 6)
+Arkansas State (6 - 6)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -2.822 |  -0.257 |   9.734 |   0.850 |
-| Rank  |      98 |      98 |     112 |      94 |
+| Value |  -1.939 |  -0.162 |  10.688 |   0.000 |
+| Rank  |      89 |      89 |     109 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.773 |
-|  40 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.777 |
-|  60 [Troy                  ](Troy.md)| Win        | +  1.065 |
-|  63 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.951 |
-|  87 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.913 |
-|  93 [Texas State           ](TexasState.md)| Win        | +  0.873 |
-|  96 [Louisiana             ](Louisiana.md)| Loss       | -  1.181 |
-| 108 [South Alabama         ](SouthAlabama.md)| Win        | +  0.763 |
-| 116 [Arkansas              ](Arkansas.md)| Loss       | -  1.416 |
-| 120 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.485 |
+|  32 [Kennesaw State        ](KennesawState.md)| Loss       | -  0.761 |
+|  33 [Iowa State            ](IowaState.md)| Loss       | -  0.761 |
+|  53 [Troy                  ](Troy.md)| Win        | +  1.133 |
+|  68 [Southern Mississippi  ](SouthernMississippi.md)| Loss       | -  0.994 |
+|  75 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.972 |
+|  86 [Texas State           ](TexasState.md)| Win        | +  0.918 |
+|  88 [Louisiana             ](Louisiana.md)| Loss       | -  1.119 |
+| 100 [Appalachian State     ](AppalachianState.md)| Win        | +  0.804 |
+| 111 [South Alabama         ](SouthAlabama.md)| Win        | +  0.735 |
+| 118 [Arkansas              ](Arkansas.md)| Loss       | -  1.453 |
+| 123 [Louisiana-Monroe      ](LouisianaMonroe.md)| Loss       | -  1.537 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  95 [Appalachian State     ](AppalachianState.md)| +  0.850 | -  1.177 |
 

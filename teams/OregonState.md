@@ -1,24 +1,21 @@
-Oregon State (2 - 9)
+Oregon State (2 - 10)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -7.616 |  -0.692 |  12.288 |   0.974 |
-| Rank  |     128 |     128 |      47 |      75 |
+| Value |  -8.672 |  -0.723 |  13.292 |   0.000 |
+| Rank  |     128 |     128 |      50 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   7 [Texas Tech            ](TexasTech.md)| Loss       | -  0.531 |
-|  10 [Oregon                ](Oregon.md)| Loss       | -  0.550 |
-|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
-|  32 [Houston               ](Houston.md)| Loss       | -  0.735 |
-|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
-|  70 [California            ](California.md)| Loss       | -  1.002 |
-|  76 [Washington State      ](WashingtonState.md)| Win        | +  0.974 |
-|  95 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.177 |
-| 110 [Tulsa                 ](Tulsa.md)| Loss       | -  1.340 |
-| 134 [Sam Houston           ](SamHouston.md)| Loss       | -  1.837 |
+|   7 [Texas Tech            ](TexasTech.md)| Loss       | -  0.535 |
+|   8 [Oregon                ](Oregon.md)| Loss       | -  0.538 |
+|  28 [Houston               ](Houston.md)| Loss       | -  0.723 |
+|  38 [Wake Forest           ](WakeForest.md)| Loss       | -  0.773 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.908 |
+|  61 [California            ](California.md)| Loss       | -  0.918 |
+|  69 [Washington State      ](WashingtonState.md)| Win        | +  1.006 |
+|  69 [Washington State      ](WashingtonState.md)| Loss       | -  0.994 |
+| 100 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.243 |
+| 116 [Tulsa                 ](Tulsa.md)| Loss       | -  1.431 |
+| 134 [Sam Houston           ](SamHouston.md)| Loss       | -  1.819 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  76 [Washington State      ](WashingtonState.md)| +  0.974 | -  1.027 |
 

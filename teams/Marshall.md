@@ -1,24 +1,21 @@
-Marshall (5 - 6)
+Marshall (5 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -1.888 |  -0.172 |  11.081 |   0.913 |
-| Rank  |      91 |      91 |      82 |      86 |
+| Value |  -2.926 |  -0.244 |  12.120 |   0.000 |
+| Rank  |      98 |      98 |      81 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
-|  15 [James Madison         ](JamesMadison.md)| Loss       | -  0.613 |
-|  36 [Old Dominion          ](OldDominion.md)| Win        | +  1.308 |
-|  54 [Missouri State        ](MissouriState.md)| Loss       | -  0.892 |
-|  78 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.030 |
-|  93 [Texas State           ](TexasState.md)| Win        | +  0.873 |
-|  95 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.177 |
-|  96 [Louisiana             ](Louisiana.md)| Loss       | -  1.181 |
-| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.554 |
-| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.509 |
+|   4 [Georgia               ](Georgia.md)| Loss       | -  0.505 |
+|  14 [James Madison         ](JamesMadison.md)| Loss       | -  0.601 |
+|  34 [Old Dominion          ](OldDominion.md)| Win        | +  1.311 |
+|  65 [Missouri State        ](MissouriState.md)| Loss       | -  0.967 |
+|  75 [Georgia Southern      ](GeorgiaSouthern.md)| Loss       | -  1.029 |
+|  80 [Coastal Carolina      ](CoastalCarolina.md)| Loss       | -  1.072 |
+|  86 [Texas State           ](TexasState.md)| Win        | +  0.918 |
+|  88 [Louisiana             ](Louisiana.md)| Loss       | -  1.119 |
+| 100 [Appalachian State     ](AppalachianState.md)| Loss       | -  1.243 |
+| 131 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.560 |
+| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.555 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  87 [Georgia Southern      ](GeorgiaSouthern.md)| +  0.913 | -  1.096 |
 

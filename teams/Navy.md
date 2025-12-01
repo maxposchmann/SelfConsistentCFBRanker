@@ -1,24 +1,24 @@
-Navy (8 - 2)
+Navy (9 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.394 |   0.539 |  10.200 |   2.090 |
-| Rank  |      24 |      23 |      98 |       4 |
+| Value |   6.646 |   0.604 |  11.468 |   0.886 |
+| Rank  |      22 |      22 |      96 |       2 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
-|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.591 |
-|  27 [South Florida         ](SouthFlorida.md)| Win        | +  1.421 |
-|  86 [Rice                  ](Rice.md)| Win        | +  0.918 |
-|  88 [Temple                ](Temple.md)| Win        | +  0.905 |
-| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.813 |
-| 110 [Tulsa                 ](Tulsa.md)| Win        | +  0.746 |
-| 113 [UAB                   ](UAB.md)| Win        | +  0.728 |
-| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.560 |
+|  13 [North Texas           ](NorthTexas.md)| Loss       | -  0.583 |
+|  24 [South Florida         ](SouthFlorida.md)| Win        | +  1.459 |
+|  49 [Memphis               ](Memphis.md)| Win        | +  1.204 |
+|  90 [Rice                  ](Rice.md)| Win        | +  0.887 |
+|  92 [Temple                ](Temple.md)| Win        | +  0.881 |
+| 103 [Florida Atlantic      ](FloridaAtlantic.md)| Win        | +  0.783 |
+| 105 [UAB                   ](UAB.md)| Win        | +  0.778 |
+| 108 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 116 [Tulsa                 ](Tulsa.md)| Win        | +  0.699 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
 
 | Remaining                 |  If Win  |  If Loss |
 |---------------------------|----------|----------|
-|  42 [Memphis               ](Memphis.md)| +  1.273 | -  0.785 |
-| 101 [Army                  ](Army.md)| +  0.817 | -  1.224 |
+|  91 [Army                  ](Army.md)| +  0.886 | -  1.129 |
 

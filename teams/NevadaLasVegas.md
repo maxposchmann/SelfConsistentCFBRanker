@@ -1,24 +1,21 @@
-Nevada-Las Vegas (9 - 2)
+Nevada-Las Vegas (10 - 2)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.085 |   0.462 |   9.192 |   0.647 |
-| Rank  |      28 |      28 |     122 |     121 |
+| Value |   5.830 |   0.486 |   9.997 |   0.000 |
+| Rank  |      25 |      25 |     124 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  44 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
-|  48 [Boise State           ](BoiseState.md)| Loss       | -  0.823 |
-|  55 [Hawaii                ](Hawaii.md)| Win        | +  1.105 |
-|  65 [Utah State            ](UtahState.md)| Win        | +  1.028 |
-|  81 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.951 |
-|  99 [UCLA                  ](UCLA.md)| Win        | +  0.827 |
-| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
-| 117 [Air Force             ](AirForce.md)| Win        | +  0.705 |
-| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
-| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.544 |
+|  35 [New Mexico            ](NewMexico.md)| Loss       | -  0.764 |
+|  41 [Boise State           ](BoiseState.md)| Loss       | -  0.785 |
+|  52 [Hawaii                ](Hawaii.md)| Win        | +  1.135 |
+|  73 [Miami (OH)            ](MiamiOH.md)| Win        | +  0.994 |
+|  74 [Utah State            ](UtahState.md)| Win        | +  0.986 |
+|  99 [UCLA                  ](UCLA.md)| Win        | +  0.810 |
+| 108 [Air Force             ](AirForce.md)| Win        | +  0.763 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.702 |
+| 121 [Nevada                ](Nevada.md)| Win        | +  0.655 |
+| 126 [Colorado State        ](ColoradoState.md)| Win        | +  0.618 |
+| 134 [Sam Houston           ](SamHouston.md)| Win        | +  0.550 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 123 [Nevada                ](Nevada.md)| +  0.647 | -  1.546 |
 

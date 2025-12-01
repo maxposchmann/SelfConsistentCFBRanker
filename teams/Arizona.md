@@ -1,24 +1,21 @@
-Arizona (8 - 3)
+Arizona (9 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.934 |   0.449 |  11.801 |   1.511 |
-| Rank  |      30 |      30 |      62 |      24 |
+| Value |   6.290 |   0.524 |  13.161 |   0.000 |
+| Rank  |      23 |      23 |      55 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   4 [BYU                   ](BYU.md)| Loss       | -  0.493 |
-|  32 [Houston               ](Houston.md)| Loss       | -  0.735 |
-|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.773 |
-|  47 [Cincinnati            ](Cincinnati.md)| Win        | +  1.217 |
-|  55 [Hawaii                ](Hawaii.md)| Win        | +  1.105 |
-|  75 [Baylor                ](Baylor.md)| Win        | +  0.976 |
-|  83 [Kansas State          ](KansasState.md)| Win        | +  0.946 |
-|  84 [Kansas                ](Kansas.md)| Win        | +  0.941 |
-|  97 [Colorado              ](Colorado.md)| Win        | +  0.833 |
-| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+|   3 [BYU                   ](BYU.md)| Loss       | -  0.500 |
+|  27 [Arizona State         ](ArizonaState.md)| Win        | +  1.394 |
+|  28 [Houston               ](Houston.md)| Loss       | -  0.723 |
+|  33 [Iowa State            ](IowaState.md)| Loss       | -  0.761 |
+|  51 [Cincinnati            ](Cincinnati.md)| Win        | +  1.139 |
+|  52 [Hawaii                ](Hawaii.md)| Win        | +  1.135 |
+|  72 [Kansas State          ](KansasState.md)| Win        | +  1.001 |
+|  84 [Baylor                ](Baylor.md)| Win        | +  0.926 |
+|  87 [Kansas                ](Kansas.md)| Win        | +  0.916 |
+| 102 [Colorado              ](Colorado.md)| Win        | +  0.796 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.564 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  22 [Arizona State         ](ArizonaState.md)| +  1.511 | -  0.662 |
 

@@ -1,24 +1,21 @@
-Ole Miss (10 - 1)
+Ole Miss (11 - 1)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   9.763 |   0.888 |  12.336 |   0.997 |
-| Rank  |       6 |       6 |      46 |      70 |
+| Value |  10.588 |   0.882 |  13.212 |   0.000 |
+| Rank  |       5 |       5 |      53 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
-|   9 [Oklahoma              ](Oklahoma.md)| Win        | +  1.828 |
-|  16 [Tulane                ](Tulane.md)| Win        | +  1.628 |
-|  37 [LSU                   ](LSU.md)| Win        | +  1.300 |
-|  74 [Kentucky              ](Kentucky.md)| Win        | +  0.980 |
-|  76 [Washington State      ](WashingtonState.md)| Win        | +  0.974 |
-|  85 [South Carolina        ](SouthCarolina.md)| Win        | +  0.933 |
-|  94 [Florida               ](Florida.md)| Win        | +  0.860 |
-| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
-| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.554 |
+|   4 [Georgia               ](Georgia.md)| Loss       | -  0.505 |
+|   9 [Oklahoma              ](Oklahoma.md)| Win        | +  1.830 |
+|  19 [Tulane                ](Tulane.md)| Win        | +  1.588 |
+|  46 [LSU                   ](LSU.md)| Win        | +  1.227 |
+|  69 [Washington State      ](WashingtonState.md)| Win        | +  1.006 |
+|  76 [Mississippi State     ](MississippiState.md)| Win        | +  0.958 |
+|  79 [Kentucky              ](Kentucky.md)| Win        | +  0.944 |
+|  85 [Florida               ](Florida.md)| Win        | +  0.921 |
+|  93 [South Carolina        ](SouthCarolina.md)| Win        | +  0.879 |
+| 118 [Arkansas              ](Arkansas.md)| Win        | +  0.688 |
+| 132 [Georgia State         ](GeorgiaState.md)| Win        | +  0.555 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  71 [Mississippi State     ](MississippiState.md)| +  0.997 | -  1.003 |
 

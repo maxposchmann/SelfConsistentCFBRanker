@@ -1,24 +1,21 @@
-Nevada (3 - 8)
+Nevada (3 - 9)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -6.569 |  -0.597 |  10.320 |   1.401 |
-| Rank  |     123 |     123 |      95 |      30 |
+| Value |  -7.029 |  -0.586 |  11.853 |   0.000 |
+| Rank  |     121 |     121 |      87 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  31 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.727 |
-|  44 [New Mexico            ](NewMexico.md)| Loss       | -  0.806 |
-|  48 [Boise State           ](BoiseState.md)| Loss       | -  0.823 |
-|  51 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.834 |
-|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.933 |
-|  65 [Utah State            ](UtahState.md)| Loss       | -  0.973 |
-|  79 [Penn State            ](PennState.md)| Loss       | -  1.033 |
-| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.715 |
-| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
-| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Loss       | -  1.966 |
+|  25 [Nevada-Las Vegas      ](NevadaLasVegas.md)| Loss       | -  0.704 |
+|  35 [New Mexico            ](NewMexico.md)| Loss       | -  0.764 |
+|  39 [San Diego State       ](SanDiegoState.md)| Loss       | -  0.774 |
+|  41 [Boise State           ](BoiseState.md)| Loss       | -  0.785 |
+|  56 [Western Kentucky      ](WesternKentucky.md)| Loss       | -  0.892 |
+|  59 [Fresno State          ](FresnoState.md)| Loss       | -  0.908 |
+|  66 [Penn State            ](PennState.md)| Loss       | -  0.974 |
+|  74 [Utah State            ](UtahState.md)| Loss       | -  1.014 |
+| 115 [Wyoming               ](Wyoming.md)| Win        | +  0.702 |
+| 124 [San Jose State        ](SanJoseState.md)| Win        | +  0.650 |
+| 131 [Middle Tennessee State](MiddleTennesseeState.md)| Loss       | -  1.785 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  28 [Nevada-Las Vegas      ](NevadaLasVegas.md)| +  1.401 | -  0.714 |
 

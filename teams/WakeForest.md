@@ -1,24 +1,21 @@
-Wake Forest (8 - 3)
+Wake Forest (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   5.324 |   0.484 |  11.616 |   1.130 |
-| Rank  |      26 |      26 |      68 |      53 |
+| Value |   4.270 |   0.356 |  12.538 |   0.000 |
+| Rank  |      38 |      38 |      73 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [Virginia              ](Virginia.md)| Win        | +  1.584 |
-|  21 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.657 |
-|  25 [SMU                   ](SMU.md)| Win        | +  1.427 |
-|  40 [Kennesaw State        ](KennesawState.md)| Win        | +  1.288 |
-|  43 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.798 |
-|  64 [Florida State         ](FloridaState.md)| Loss       | -  0.967 |
-| 103 [Delaware              ](Delaware.md)| Win        | +  0.811 |
-| 105 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.798 |
-| 106 [North Carolina        ](NorthCarolina.md)| Win        | +  0.791 |
-| 128 [Oregon State          ](OregonState.md)| Win        | +  0.603 |
+|  18 [Virginia              ](Virginia.md)| Win        | +  1.594 |
+|  26 [Georgia Tech          ](GeorgiaTech.md)| Loss       | -  0.710 |
+|  32 [Kennesaw State        ](KennesawState.md)| Win        | +  1.315 |
+|  36 [SMU                   ](SMU.md)| Win        | +  1.301 |
+|  42 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.796 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.825 |
+|  78 [Florida State         ](FloridaState.md)| Loss       | -  1.048 |
+|  97 [Delaware              ](Delaware.md)| Win        | +  0.854 |
+| 104 [Virginia Tech         ](VirginiaTech.md)| Win        | +  0.780 |
+| 106 [North Carolina        ](NorthCarolina.md)| Win        | +  0.773 |
+| 128 [Oregon State          ](OregonState.md)| Win        | +  0.593 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  53 [Duke                  ](Duke.md)| +  1.130 | -  0.885 |
 

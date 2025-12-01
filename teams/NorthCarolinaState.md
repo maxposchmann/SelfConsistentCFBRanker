@@ -1,24 +1,21 @@
-North Carolina State (6 - 5)
+North Carolina State (7 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.400 |   0.309 |  14.426 |   0.791 |
-| Rank  |      43 |      43 |       8 |     105 |
+| Value |   3.794 |   0.316 |  14.831 |   0.000 |
+| Rank  |      42 |      42 |      18 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.556 |
-|  14 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.593 |
-|  20 [Virginia              ](Virginia.md)| Win        | +  1.584 |
-|  21 [Georgia Tech          ](GeorgiaTech.md)| Win        | +  1.522 |
-|  26 [Wake Forest           ](WakeForest.md)| Win        | +  1.424 |
-|  29 [Pitt                  ](Pitt.md)| Loss       | -  0.717 |
-|  50 [East Carolina         ](EastCarolina.md)| Win        | +  1.202 |
-|  53 [Duke                  ](Duke.md)| Loss       | -  0.885 |
-|  64 [Florida State         ](FloridaState.md)| Win        | +  1.034 |
-| 105 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.253 |
+|  11 [Notre Dame            ](NotreDame.md)| Loss       | -  0.560 |
+|  12 [Miami (FL)            ](MiamiFL.md)| Loss       | -  0.579 |
+|  18 [Virginia              ](Virginia.md)| Win        | +  1.594 |
+|  26 [Georgia Tech          ](GeorgiaTech.md)| Win        | +  1.409 |
+|  38 [Wake Forest           ](WakeForest.md)| Win        | +  1.293 |
+|  40 [Pitt                  ](Pitt.md)| Loss       | -  0.779 |
+|  47 [East Carolina         ](EastCarolina.md)| Win        | +  1.221 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.825 |
+|  78 [Florida State         ](FloridaState.md)| Win        | +  0.954 |
+| 104 [Virginia Tech         ](VirginiaTech.md)| Loss       | -  1.281 |
+| 106 [North Carolina        ](NorthCarolina.md)| Win        | +  0.773 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 106 [North Carolina        ](NorthCarolina.md)| +  0.791 | -  1.264 |
 

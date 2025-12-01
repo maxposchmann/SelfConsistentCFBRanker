@@ -1,24 +1,21 @@
-Southern Mississippi (7 - 4)
+Southern Mississippi (7 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.756 |   0.069 |   8.875 |   1.065 |
-| Rank  |      63 |      63 |     127 |      59 |
+| Value |   0.108 |   0.009 |  10.261 |   0.000 |
+| Rank  |      68 |      68 |     119 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  66 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  1.027 |
-|  71 [Mississippi State     ](MississippiState.md)| Loss       | -  1.003 |
-|  82 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  1.055 |
-|  87 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.913 |
-|  93 [Texas State           ](TexasState.md)| Loss       | -  1.146 |
-|  95 [Appalachian State     ](AppalachianState.md)| Win        | +  0.850 |
-|  96 [Louisiana             ](Louisiana.md)| Win        | +  0.847 |
-|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
-| 108 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.310 |
-| 120 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.674 |
+|  53 [Troy                  ](Troy.md)| Loss       | -  0.883 |
+|  57 [Jacksonville State    ](JacksonvilleState.md)| Win        | +  1.108 |
+|  71 [Louisiana Tech        ](LouisianaTech.md)| Loss       | -  0.994 |
+|  75 [Georgia Southern      ](GeorgiaSouthern.md)| Win        | +  0.972 |
+|  76 [Mississippi State     ](MississippiState.md)| Loss       | -  1.044 |
+|  86 [Texas State           ](TexasState.md)| Loss       | -  1.089 |
+|  88 [Louisiana             ](Louisiana.md)| Win        | +  0.893 |
+|  89 [Arkansas State        ](ArkansasState.md)| Win        | +  0.890 |
+| 100 [Appalachian State     ](AppalachianState.md)| Win        | +  0.804 |
+| 111 [South Alabama         ](SouthAlabama.md)| Loss       | -  1.361 |
+| 123 [Louisiana-Monroe      ](LouisianaMonroe.md)| Win        | +  0.651 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  60 [Troy                  ](Troy.md)| +  1.065 | -  0.939 |
 

@@ -1,24 +1,21 @@
-Tulsa (4 - 7)
+Tulsa (4 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -4.408 |  -0.401 |  10.353 |   0.728 |
-| Rank  |     110 |     110 |      94 |     112 |
+| Value |  -5.945 |  -0.495 |  11.006 |   0.000 |
+| Rank  |     116 |     116 |     103 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  16 [Tulane                ](Tulane.md)| Loss       | -  0.614 |
-|  24 [Navy                  ](Navy.md)| Loss       | -  0.699 |
-|  42 [Memphis               ](Memphis.md)| Loss       | -  0.785 |
-|  50 [East Carolina         ](EastCarolina.md)| Loss       | -  0.832 |
-|  88 [Temple                ](Temple.md)| Loss       | -  1.105 |
-| 101 [Army                  ](Army.md)| Win        | +  0.817 |
-| 102 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.231 |
-| 109 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.338 |
-| 128 [Oregon State          ](OregonState.md)| Win        | +  0.603 |
-| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+|  19 [Tulane                ](Tulane.md)| Loss       | -  0.630 |
+|  22 [Navy                  ](Navy.md)| Loss       | -  0.670 |
+|  47 [East Carolina         ](EastCarolina.md)| Loss       | -  0.819 |
+|  49 [Memphis               ](Memphis.md)| Loss       | -  0.830 |
+|  91 [Army                  ](Army.md)| Win        | +  0.886 |
+|  92 [Temple                ](Temple.md)| Loss       | -  1.135 |
+| 103 [Florida Atlantic      ](FloridaAtlantic.md)| Loss       | -  1.277 |
+| 105 [UAB                   ](UAB.md)| Loss       | -  1.285 |
+| 119 [New Mexico State      ](NewMexicoState.md)| Loss       | -  1.475 |
+| 128 [Oregon State          ](OregonState.md)| Win        | +  0.593 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.564 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 113 [UAB                   ](UAB.md)| +  0.728 | -  1.374 |
 

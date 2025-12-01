@@ -1,24 +1,21 @@
-Kennesaw State (8 - 3)
+Kennesaw State (9 - 3)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.812 |   0.347 |  10.795 |   0.733 |
-| Rank  |      40 |      40 |      86 |     111 |
+| Value |   4.544 |   0.379 |  11.429 |   0.000 |
+| Rank  |      32 |      32 |      97 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.457 |
-|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
-|  54 [Missouri State        ](MissouriState.md)| Win        | +  1.121 |
-|  66 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.973 |
-|  72 [Florida International ](FloridaInternational.md)| Win        | +  0.985 |
-|  82 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  0.948 |
-|  98 [Arkansas State        ](ArkansasState.md)| Win        | +  0.829 |
-| 109 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
-| 131 [UTEP                  ](UTEP.md)| Win        | +  0.556 |
-| 135 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.509 |
+|   2 [Indiana               ](Indiana.md)| Loss       | -  0.466 |
+|  38 [Wake Forest           ](WakeForest.md)| Loss       | -  0.773 |
+|  57 [Jacksonville State    ](JacksonvilleState.md)| Loss       | -  0.903 |
+|  65 [Missouri State        ](MissouriState.md)| Win        | +  1.034 |
+|  67 [Florida International ](FloridaInternational.md)| Win        | +  1.022 |
+|  71 [Louisiana Tech        ](LouisianaTech.md)| Win        | +  1.006 |
+|  89 [Arkansas State        ](ArkansasState.md)| Win        | +  0.890 |
+| 113 [Liberty               ](Liberty.md)| Win        | +  0.731 |
+| 119 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.678 |
+| 131 [Middle Tennessee State](MiddleTennesseeState.md)| Win        | +  0.560 |
+| 135 [UTEP                  ](UTEP.md)| Win        | +  0.542 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-| 112 [Liberty               ](Liberty.md)| +  0.733 | -  1.364 |
 

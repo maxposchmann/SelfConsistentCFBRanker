@@ -1,24 +1,21 @@
-North Carolina (4 - 7)
+North Carolina (4 - 8)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -3.528 |  -0.321 |  11.020 |   1.253 |
-| Rank  |     106 |     106 |      85 |      44 |
+| Value |  -4.265 |  -0.355 |  12.358 |   0.000 |
+| Rank  |     106 |     106 |      76 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  20 [Virginia              ](Virginia.md)| Loss       | -  0.631 |
-|  26 [Wake Forest           ](WakeForest.md)| Loss       | -  0.702 |
-|  41 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.780 |
-|  53 [Duke                  ](Duke.md)| Loss       | -  0.885 |
-|  62 [Clemson               ](Clemson.md)| Loss       | -  0.945 |
-|  70 [California            ](California.md)| Loss       | -  1.002 |
-|  90 [UCF                   ](UCF.md)| Loss       | -  1.116 |
-|  92 [Stanford              ](Stanford.md)| Win        | +  0.878 |
-| 104 [Syracuse              ](Syracuse.md)| Win        | +  0.801 |
-| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.547 |
+|  18 [Virginia              ](Virginia.md)| Loss       | -  0.627 |
+|  31 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.756 |
+|  38 [Wake Forest           ](WakeForest.md)| Loss       | -  0.773 |
+|  42 [North Carolina State  ](NorthCarolinaState.md)| Loss       | -  0.796 |
+|  48 [Duke                  ](Duke.md)| Loss       | -  0.825 |
+|  60 [Clemson               ](Clemson.md)| Loss       | -  0.910 |
+|  61 [California            ](California.md)| Loss       | -  0.918 |
+|  94 [UCF                   ](UCF.md)| Loss       | -  1.139 |
+|  96 [Stanford              ](Stanford.md)| Win        | +  0.858 |
+| 112 [Syracuse              ](Syracuse.md)| Win        | +  0.732 |
+| 133 [Charlotte             ](Charlotte.md)| Win        | +  0.554 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  43 [North Carolina State  ](NorthCarolinaState.md)| +  1.253 | -  0.798 |
 

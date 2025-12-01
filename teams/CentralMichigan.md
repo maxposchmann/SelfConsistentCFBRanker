@@ -1,24 +1,21 @@
-Central Michigan (7 - 4)
+Central Michigan (7 - 5)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   0.134 |   0.012 |   8.843 |   1.019 |
-| Rank  |      69 |      69 |     128 |      66 |
+| Value |  -0.718 |  -0.060 |   9.791 |   0.000 |
+| Rank  |      77 |      77 |     129 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  12 [Michigan              ](Michigan.md)| Loss       | -  0.586 |
-|  29 [Pitt                  ](Pitt.md)| Loss       | -  0.717 |
-|  58 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.928 |
-| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.777 |
-| 114 [Kent State            ](KentState.md)| Win        | +  0.718 |
-| 119 [Akron                 ](Akron.md)| Loss       | -  1.471 |
-| 122 [San Jose State        ](SanJoseState.md)| Win        | +  0.656 |
-| 126 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.613 |
-| 127 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.606 |
+|  21 [Michigan              ](Michigan.md)| Loss       | -  0.643 |
+|  40 [Pitt                  ](Pitt.md)| Loss       | -  0.779 |
+|  54 [Western Michigan      ](WesternMichigan.md)| Loss       | -  0.890 |
+|  62 [Toledo                ](Toledo.md)| Loss       | -  0.918 |
+| 107 [Buffalo               ](Buffalo.md)| Win        | +  0.763 |
+| 109 [Kent State            ](KentState.md)| Win        | +  0.762 |
+| 114 [Akron                 ](Akron.md)| Loss       | -  1.406 |
+| 122 [Bowling Green         ](BowlingGreen.md)| Win        | +  0.653 |
+| 124 [San Jose State        ](SanJoseState.md)| Win        | +  0.650 |
+| 127 [Eastern Michigan      ](EasternMichigan.md)| Win        | +  0.611 |
 | 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  67 [Toledo                ](Toledo.md)| +  1.019 | -  0.981 |
 

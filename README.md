@@ -1,144 +1,144 @@
 # Self-Consistent CFB Ranker
 
-# Current Rankings (November 23, 2025):
+# Current Rankings (November 30, 2025):
 | Rank | Team                   |   NAW   |   AAW   |   NCS   |   NRS   | Record  |
 |------|------------------------|---------|---------|---------|---------|---------|
-|    1 | [Indiana               ](teams/Indiana.md) |  11.807 |   1.073 |  11.807 |   0.695 | 11 -  0 |
-|    2 | [Texas A&M             ](teams/TexasAM.md) |  11.378 |   1.034 |  11.378 |   1.473 | 11 -  0 |
-|    3 | [Ohio State            ](teams/OhioState.md) |  11.056 |   1.005 |  11.056 |   1.707 | 11 -  0 |
-|    4 | [BYU                   ](teams/BYU.md) |  10.658 |   0.969 |  13.184 |   0.896 | 10 -  1 |
-|    5 | [Georgia               ](teams/Georgia.md) |   9.953 |   0.905 |  12.434 |   1.522 | 10 -  1 |
-|    6 | [Ole Miss              ](teams/OleMiss.md) |   9.763 |   0.888 |  12.336 |   0.997 | 10 -  1 |
-|    7 | [Texas Tech            ](teams/TexasTech.md) |   9.546 |   0.868 |  11.764 |   0.897 | 10 -  1 |
-|    8 | [Alabama               ](teams/Alabama.md) |   9.148 |   0.832 |  13.626 |   0.967 |  9 -  2 |
-|    9 | [Oklahoma              ](teams/Oklahoma.md) |   9.097 |   0.827 |  13.840 |   1.300 |  9 -  2 |
-|   10 | [Oregon                ](teams/Oregon.md) |   9.007 |   0.819 |  11.830 |   1.345 | 10 -  1 |
-|   11 | [Notre Dame            ](teams/NotreDame.md) |   8.845 |   0.804 |  13.958 |   0.878 |  9 -  2 |
-|   12 | [Michigan              ](teams/Michigan.md) |   8.059 |   0.733 |  12.816 |   2.082 |  9 -  2 |
-|   13 | [North Texas           ](teams/NorthTexas.md) |   7.926 |   0.721 |  10.084 |   0.905 | 10 -  1 |
-|   14 | [Miami (FL)            ](teams/MiamiFL.md) |   7.880 |   0.716 |  12.128 |   1.395 |  9 -  2 |
-|   15 | [James Madison         ](teams/JamesMadison.md) |   7.383 |   0.671 |   9.470 |   0.971 | 10 -  1 |
-|   16 | [Tulane                ](teams/Tulane.md) |   7.350 |   0.668 |  11.911 |   0.547 |  9 -  2 |
-|   17 | [Utah                  ](teams/Utah.md) |   7.288 |   0.663 |  12.476 |   0.941 |  9 -  2 |
-|   18 | [USC                   ](teams/USC.md) |   7.043 |   0.640 |  14.050 |   0.827 |  8 -  3 |
-|   19 | [Vanderbilt            ](teams/Vanderbilt.md) |   6.940 |   0.631 |  11.613 |   1.347 |  9 -  2 |
-|   20 | [Virginia              ](teams/Virginia.md) |   6.939 |   0.631 |  11.162 |   0.798 |  9 -  2 |
-|   21 | [Georgia Tech          ](teams/GeorgiaTech.md) |   6.331 |   0.576 |  10.536 |   1.935 |  9 -  2 |
-|   22 | [Arizona State         ](teams/ArizonaState.md) |   6.219 |   0.565 |  12.641 |   1.387 |  8 -  3 |
-|   23 | [Texas                 ](teams/Texas.md) |   5.841 |   0.531 |  13.159 |   2.127 |  8 -  3 |
-|   24 | [Navy                  ](teams/Navy.md) |   5.394 |   0.539 |  10.200 |   2.090 |  8 -  2 |
-|   25 | [SMU                   ](teams/SMU.md) |   5.360 |   0.487 |  11.598 |   0.998 |  8 -  3 |
-|   26 | [Wake Forest           ](teams/WakeForest.md) |   5.324 |   0.484 |  11.616 |   1.130 |  8 -  3 |
-|   27 | [South Florida         ](teams/SouthFlorida.md) |   5.300 |   0.482 |  11.891 |   0.918 |  8 -  3 |
-|   28 | [Nevada-Las Vegas      ](teams/NevadaLasVegas.md) |   5.085 |   0.462 |   9.192 |   0.647 |  9 -  2 |
-|   29 | [Pitt                  ](teams/Pitt.md) |   5.021 |   0.456 |  11.572 |   1.686 |  8 -  3 |
-|   30 | [Arizona               ](teams/Arizona.md) |   4.934 |   0.449 |  11.801 |   1.511 |  8 -  3 |
-|   31 | [San Diego State       ](teams/SanDiegoState.md) |   4.805 |   0.437 |   8.818 |   1.241 |  9 -  2 |
-|   32 | [Houston               ](teams/Houston.md) |   4.646 |   0.422 |  11.265 |   0.976 |  8 -  3 |
-|   33 | [Tennessee             ](teams/Tennessee.md) |   4.496 |   0.409 |  12.027 |   1.585 |  8 -  3 |
-|   34 | [Washington            ](teams/Washington.md) |   4.466 |   0.406 |  11.552 |   1.817 |  8 -  3 |
-|   35 | [Illinois              ](teams/Illinois.md) |   4.062 |   0.369 |  13.712 |   1.096 |  7 -  4 |
-|   36 | [Old Dominion          ](teams/OldDominion.md) |   4.048 |   0.368 |  11.200 |   0.554 |  8 -  3 |
-|   37 | [LSU                   ](teams/LSU.md) |   3.955 |   0.360 |  14.020 |   1.828 |  7 -  4 |
-|   38 | [Louisville            ](teams/Louisville.md) |   3.953 |   0.359 |  12.390 |   0.980 |  7 -  4 |
-|   39 | [Iowa State            ](teams/IowaState.md) |   3.881 |   0.353 |  12.853 |   0.565 |  7 -  4 |
-|   40 | [Kennesaw State        ](teams/KennesawState.md) |   3.812 |   0.347 |  10.795 |   0.733 |  8 -  3 |
-|   41 | [Texas Christian       ](teams/TexasChristian.md) |   3.740 |   0.340 |  12.708 |   1.217 |  7 -  4 |
-|   42 | [Memphis               ](teams/Memphis.md) |   3.642 |   0.331 |  10.119 |   1.430 |  8 -  3 |
-|   43 | [North Carolina State  ](teams/NorthCarolinaState.md) |   3.400 |   0.309 |  14.426 |   0.791 |  6 -  5 |
-|   44 | [New Mexico            ](teams/NewMexico.md) |   3.257 |   0.296 |   9.902 |   1.375 |  8 -  3 |
-|   45 | [Missouri              ](teams/Missouri.md) |   3.226 |   0.293 |  13.216 |   0.706 |  7 -  4 |
-|   46 | [Iowa                  ](teams/Iowa.md) |   3.051 |   0.277 |  12.704 |   1.182 |  7 -  4 |
-|   47 | [Cincinnati            ](teams/Cincinnati.md) |   2.958 |   0.269 |  12.093 |   1.282 |  7 -  4 |
-|   48 | [Boise State           ](teams/BoiseState.md) |   2.943 |   0.268 |  11.684 |   1.028 |  7 -  4 |
-|   49 | [Connecticut           ](teams/Connecticut.md) |   2.872 |   0.239 |   9.000 |   0.000 |  9 -  3 |
-|   50 | [East Carolina         ](teams/EastCarolina.md) |   2.776 |   0.252 |  11.819 |   0.813 |  7 -  4 |
-|   51 | [Western Kentucky      ](teams/WesternKentucky.md) |   2.728 |   0.248 |   8.816 |   1.027 |  8 -  3 |
-|   52 | [Nebraska              ](teams/Nebraska.md) |   2.516 |   0.229 |  11.174 |   1.224 |  7 -  4 |
-|   53 | [Duke                  ](teams/Duke.md) |   1.845 |   0.168 |  12.787 |   1.424 |  6 -  5 |
-|   54 | [Missouri State        ](teams/MissouriState.md) |   1.724 |   0.157 |  10.288 |   0.948 |  7 -  4 |
-|   55 | [Hawaii                ](teams/Hawaii.md) |   1.504 |   0.137 |  10.018 |   0.715 |  7 -  4 |
-|   56 | [Northwestern          ](teams/Northwestern.md) |   1.382 |   0.126 |  12.841 |   1.309 |  6 -  5 |
-|   57 | [UTSA                  ](teams/UTSA.md) |   1.335 |   0.121 |  12.647 |   0.817 |  6 -  5 |
-|   58 | [Western Michigan      ](teams/WesternMichigan.md) |   1.134 |   0.103 |   9.698 |   0.613 |  7 -  4 |
-|   59 | [Fresno State          ](teams/FresnoState.md) |   1.050 |   0.095 |   9.431 |   0.656 |  7 -  4 |
-|   60 | [Troy                  ](teams/Troy.md) |   0.955 |   0.087 |   9.168 |   1.051 |  7 -  4 |
-|   61 | [Minnesota             ](teams/Minnesota.md) |   0.950 |   0.086 |  12.193 |   0.980 |  6 -  5 |
-|   62 | [Clemson               ](teams/Clemson.md) |   0.860 |   0.078 |  11.415 |   0.933 |  6 -  5 |
-|   63 | [Southern Mississippi  ](teams/SouthernMississippi.md) |   0.756 |   0.069 |   8.875 |   1.065 |  7 -  4 |
-|   64 | [Florida State         ](teams/FloridaState.md) |   0.505 |   0.046 |  13.362 |   0.860 |  5 -  6 |
-|   65 | [Utah State            ](teams/UtahState.md) |   0.414 |   0.038 |  11.663 |   1.216 |  6 -  5 |
-|   66 | [Jacksonville State    ](teams/JacksonvilleState.md) |   0.406 |   0.037 |   8.435 |   1.198 |  7 -  4 |
-|   67 | [Toledo                ](teams/Toledo.md) |   0.289 |   0.026 |   8.622 |   1.009 |  7 -  4 |
-|   68 | [Ohio                  ](teams/Ohio.md) |   0.214 |   0.019 |   9.145 |   0.777 |  7 -  4 |
-|   69 | [Central Michigan      ](teams/CentralMichigan.md) |   0.134 |   0.012 |   8.843 |   1.019 |  7 -  4 |
-|   70 | [California            ](teams/California.md) |  -0.029 |  -0.003 |  10.477 |   1.427 |  6 -  5 |
-|   71 | [Mississippi State     ](teams/MississippiState.md) |  -0.047 |  -0.004 |  13.678 |   1.911 |  5 -  6 |
-|   72 | [Florida International ](teams/FloridaInternational.md) |  -0.229 |  -0.021 |   9.971 |   0.544 |  6 -  5 |
-|   73 | [Wisconsin             ](teams/Wisconsin.md) |  -0.297 |  -0.027 |  16.656 |   1.065 |  4 -  7 |
-|   74 | [Kentucky              ](teams/Kentucky.md) |  -0.303 |  -0.028 |  13.406 |   1.300 |  5 -  6 |
-|   75 | [Baylor                ](teams/Baylor.md) |  -0.370 |  -0.034 |  12.414 |   1.361 |  5 -  6 |
-|   76 | [Washington State      ](teams/WashingtonState.md) |  -0.396 |  -0.036 |  13.536 |   0.603 |  5 -  6 |
-|   77 | [Rutgers               ](teams/Rutgers.md) |  -0.412 |  -0.037 |  13.029 |   0.968 |  5 -  6 |
-|   78 | [Coastal Carolina      ](teams/CoastalCarolina.md) |  -0.449 |  -0.041 |   9.974 |   1.632 |  6 -  5 |
-|   79 | [Penn State            ](teams/PennState.md) |  -0.493 |  -0.045 |  13.619 |   0.973 |  5 -  6 |
-|   80 | [Auburn                ](teams/Auburn.md) |  -0.503 |  -0.046 |  13.637 |   1.835 |  5 -  6 |
-|   81 | [Miami (OH)            ](teams/MiamiOH.md) |  -0.764 |  -0.069 |   9.383 |   0.669 |  6 -  5 |
-|   82 | [Louisiana Tech        ](teams/LouisianaTech.md) |  -0.810 |  -0.074 |   9.456 |   1.121 |  6 -  5 |
-|   83 | [Kansas State          ](teams/KansasState.md) |  -0.841 |  -0.076 |  12.259 |   0.833 |  5 -  6 |
-|   84 | [Kansas                ](teams/Kansas.md) |  -0.918 |  -0.083 |  11.938 |   1.622 |  5 -  6 |
-|   85 | [South Carolina        ](teams/SouthCarolina.md) |  -1.043 |  -0.095 |  15.643 |   1.059 |  4 -  7 |
-|   86 | [Rice                  ](teams/Rice.md) |  -1.294 |  -0.118 |  11.486 |   1.421 |  5 -  6 |
-|   87 | [Georgia Southern      ](teams/GeorgiaSouthern.md) |  -1.376 |  -0.125 |  11.359 |   0.882 |  5 -  6 |
-|   88 | [Temple                ](teams/Temple.md) |  -1.500 |  -0.136 |  11.766 |   1.692 |  5 -  6 |
-|   89 | [West Virginia         ](teams/WestVirginia.md) |  -1.636 |  -0.149 |  13.644 |   1.884 |  4 -  7 |
-|   90 | [UCF                   ](teams/UCF.md) |  -1.661 |  -0.151 |  11.043 |   2.028 |  5 -  6 |
-|   91 | [Marshall              ](teams/Marshall.md) |  -1.888 |  -0.172 |  11.081 |   0.913 |  5 -  6 |
-|   92 | [Stanford              ](teams/Stanford.md) |  -1.958 |  -0.178 |  13.714 |   1.798 |  4 -  7 |
-|   93 | [Texas State           ](teams/TexasState.md) |  -2.054 |  -0.187 |  10.577 |   0.763 |  5 -  6 |
-|   94 | [Florida               ](teams/Florida.md) |  -2.272 |  -0.207 |  16.325 |   1.034 |  3 -  8 |
-|   95 | [Appalachian State     ](teams/AppalachianState.md) |  -2.457 |  -0.223 |  10.007 |   0.829 |  5 -  6 |
-|   96 | [Louisiana             ](teams/Louisiana.md) |  -2.504 |  -0.228 |  10.189 |   0.674 |  5 -  6 |
-|   97 | [Colorado              ](teams/Colorado.md) |  -2.763 |  -0.251 |  14.994 |   0.946 |  3 -  8 |
-|   98 | [Arkansas State        ](teams/ArkansasState.md) |  -2.822 |  -0.257 |   9.734 |   0.850 |  5 -  6 |
-|   99 | [UCLA                  ](teams/UCLA.md) |  -2.867 |  -0.261 |  15.333 |   1.595 |  3 -  8 |
-|  100 | [Maryland              ](teams/Maryland.md) |  -2.879 |  -0.262 |  12.599 |   0.743 |  4 -  7 |
-|  101 | [Army                  ](teams/Army.md) |  -3.051 |  -0.305 |   9.490 |   2.523 |  5 -  5 |
-|  102 | [Florida Atlantic      ](teams/FloridaAtlantic.md) |  -3.129 |  -0.284 |  11.665 |   1.202 |  4 -  7 |
-|  103 | [Delaware              ](teams/Delaware.md) |  -3.160 |  -0.287 |   9.690 |   0.556 |  5 -  6 |
-|  104 | [Syracuse              ](teams/Syracuse.md) |  -3.350 |  -0.305 |  14.181 |   0.578 |  3 -  8 |
-|  105 | [Virginia Tech         ](teams/VirginiaTech.md) |  -3.403 |  -0.309 |  13.794 |   1.584 |  3 -  8 |
-|  106 | [North Carolina        ](teams/NorthCarolina.md) |  -3.528 |  -0.321 |  11.020 |   1.253 |  4 -  7 |
-|  107 | [Buffalo               ](teams/Buffalo.md) |  -3.806 |  -0.346 |   8.443 |   1.014 |  5 -  6 |
-|  108 | [South Alabama         ](teams/SouthAlabama.md) |  -4.069 |  -0.370 |  10.682 |   0.873 |  4 -  7 |
-|  109 | [New Mexico State      ](teams/NewMexicoState.md) |  -4.393 |  -0.399 |  10.044 |   0.509 |  4 -  7 |
-|  110 | [Tulsa                 ](teams/Tulsa.md) |  -4.408 |  -0.401 |  10.353 |   0.728 |  4 -  7 |
-|  111 | [Michigan State        ](teams/MichiganState.md) |  -4.470 |  -0.406 |  13.143 |   0.826 |  3 -  8 |
-|  112 | [Liberty               ](teams/Liberty.md) |  -4.680 |  -0.425 |  10.066 |   1.288 |  4 -  7 |
-|  113 | [UAB                   ](teams/UAB.md) |  -4.789 |  -0.435 |  12.164 |   0.746 |  3 -  8 |
-|  114 | [Kent State            ](teams/KentState.md) |  -4.993 |  -0.454 |  10.298 |   0.614 |  4 -  7 |
-|  115 | [Wyoming               ](teams/Wyoming.md) |  -5.054 |  -0.459 |   9.969 |   1.105 |  4 -  7 |
-|  116 | [Arkansas              ](teams/Arkansas.md) |  -5.241 |  -0.476 |  14.986 |   1.239 |  2 -  9 |
-|  117 | [Air Force             ](teams/AirForce.md) |  -5.268 |  -0.479 |  11.259 |   0.645 |  3 -  8 |
-|  118 | [Purdue                ](teams/Purdue.md) |  -5.492 |  -0.499 |  14.543 |   2.188 |  2 -  9 |
-|  119 | [Akron                 ](teams/Akron.md) |  -5.820 |  -0.485 |   8.837 |   0.000 |  5 -  7 |
-|  120 | [Louisiana-Monroe      ](teams/LouisianaMonroe.md) |  -5.958 |  -0.542 |  10.750 |   0.847 |  3 -  8 |
-|  121 | [Ball State            ](teams/BallState.md) |  -6.061 |  -0.551 |   8.778 |   0.951 |  4 -  7 |
-|  122 | [San Jose State        ](teams/SanJoseState.md) |  -6.346 |  -0.577 |  10.539 |   1.072 |  3 -  8 |
-|  123 | [Nevada                ](teams/Nevada.md) |  -6.569 |  -0.597 |  10.320 |   1.401 |  3 -  8 |
-|  124 | [Colorado State        ](teams/ColoradoState.md) |  -6.603 |  -0.600 |  12.055 |   0.705 |  2 -  9 |
-|  125 | [Northern Illinois     ](teams/NorthernIllinois.md) |  -7.358 |  -0.669 |   9.136 |   0.718 |  3 -  8 |
-|  126 | [Eastern Michigan      ](teams/EasternMichigan.md) |  -7.366 |  -0.670 |   8.467 |   1.078 |  4 -  7 |
-|  127 | [Bowling Green         ](teams/BowlingGreen.md) |  -7.552 |  -0.687 |   9.303 |   0.368 |  3 -  8 |
-|  128 | [Oregon State          ](teams/OregonState.md) |  -7.616 |  -0.692 |  12.288 |   0.974 |  2 -  9 |
-|  129 | [Boston College        ](teams/BostonCollege.md) |  -8.255 |  -0.750 |  12.992 |   0.801 |  1 - 10 |
-|  130 | [Oklahoma State        ](teams/OklahomaState.md) |  -8.598 |  -0.782 |  12.833 |   1.294 |  1 - 10 |
-|  131 | [UTEP                  ](teams/UTEP.md) |  -8.846 |  -0.804 |   9.878 |   0.811 |  2 -  9 |
-|  132 | [Georgia State         ](teams/GeorgiaState.md) |  -8.907 |  -0.810 |  12.462 |   1.308 |  1 - 10 |
-|  133 | [Charlotte             ](teams/Charlotte.md) |  -9.108 |  -0.828 |  12.210 |   1.628 |  1 - 10 |
-|  134 | [Sam Houston           ](teams/SamHouston.md) |  -9.169 |  -0.834 |  10.385 |   0.985 |  2 -  9 |
-|  135 | [Middle Tennessee State](teams/MiddleTennesseeState.md) | -10.190 |  -0.926 |   9.751 |   0.747 |  2 -  9 |
-|  136 | [Massachusetts         ](teams/Massachusetts.md) | -15.077 |  -1.371 |   9.496 |   0.606 |  0 - 11 |
+|    1 | [Ohio State            ](teams/OhioState.md) |  12.870 |   1.073 |  12.870 |   0.000 | 12 -  0 |
+|    2 | [Indiana               ](teams/Indiana.md) |  12.681 |   1.057 |  12.681 |   0.000 | 12 -  0 |
+|    3 | [BYU                   ](teams/BYU.md) |  11.504 |   0.959 |  14.020 |   0.000 | 11 -  1 |
+|    4 | [Georgia               ](teams/Georgia.md) |  11.357 |   0.946 |  13.813 |   0.000 | 11 -  1 |
+|    5 | [Ole Miss              ](teams/OleMiss.md) |  10.588 |   0.882 |  13.212 |   0.000 | 11 -  1 |
+|    6 | [Texas A&M             ](teams/TexasAM.md) |  10.468 |   0.872 |  12.764 |   0.000 | 11 -  1 |
+|    7 | [Texas Tech            ](teams/TexasTech.md) |  10.371 |   0.864 |  12.513 |   0.000 | 11 -  1 |
+|    8 | [Oregon                ](teams/Oregon.md) |  10.307 |   0.859 |  13.094 |   0.000 | 11 -  1 |
+|    9 | [Oklahoma              ](teams/Oklahoma.md) |  10.031 |   0.836 |  14.866 |   0.000 | 10 -  2 |
+|   10 | [Alabama               ](teams/Alabama.md) |   9.770 |   0.814 |  14.254 |   0.000 | 10 -  2 |
+|   11 | [Notre Dame            ](teams/NotreDame.md) |   9.616 |   0.801 |  14.532 |   0.000 | 10 -  2 |
+|   12 | [Miami (FL)            ](teams/MiamiFL.md) |   9.064 |   0.755 |  13.269 |   0.000 | 10 -  2 |
+|   13 | [North Texas           ](teams/NorthTexas.md) |   8.949 |   0.746 |  11.132 |   0.000 | 11 -  1 |
+|   14 | [James Madison         ](teams/JamesMadison.md) |   8.444 |   0.704 |  10.561 |   0.000 | 11 -  1 |
+|   15 | [Vanderbilt            ](teams/Vanderbilt.md) |   8.005 |   0.667 |  12.758 |   0.000 | 10 -  2 |
+|   16 | [Texas                 ](teams/Texas.md) |   7.926 |   0.661 |  15.371 |   0.000 |  9 -  3 |
+|   17 | [Utah                  ](teams/Utah.md) |   7.859 |   0.655 |  13.016 |   0.000 | 10 -  2 |
+|   18 | [Virginia              ](teams/Virginia.md) |   7.743 |   0.645 |  11.894 |   0.000 | 10 -  2 |
+|   19 | [Tulane                ](teams/Tulane.md) |   7.677 |   0.640 |  12.216 |   0.000 | 10 -  2 |
+|   20 | [USC                   ](teams/USC.md) |   7.658 |   0.638 |  14.725 |   0.000 |  9 -  3 |
+|   21 | [Michigan              ](teams/Michigan.md) |   7.345 |   0.612 |  14.915 |   0.000 |  9 -  3 |
+|   22 | [Navy                  ](teams/Navy.md) |   6.646 |   0.604 |  11.468 |   0.886 |  9 -  2 |
+|   23 | [Arizona               ](teams/Arizona.md) |   6.290 |   0.524 |  13.161 |   0.000 |  9 -  3 |
+|   24 | [South Florida         ](teams/SouthFlorida.md) |   6.269 |   0.522 |  12.910 |   0.000 |  9 -  3 |
+|   25 | [Nevada-Las Vegas      ](teams/NevadaLasVegas.md) |   5.830 |   0.486 |   9.997 |   0.000 | 10 -  2 |
+|   26 | [Georgia Tech          ](teams/GeorgiaTech.md) |   5.690 |   0.474 |  12.460 |   0.000 |  9 -  3 |
+|   27 | [Arizona State         ](teams/ArizonaState.md) |   5.512 |   0.459 |  14.125 |   0.000 |  8 -  4 |
+|   28 | [Houston               ](teams/Houston.md) |   5.388 |   0.449 |  12.029 |   0.000 |  9 -  3 |
+|   29 | [Illinois              ](teams/Illinois.md) |   5.013 |   0.418 |  14.685 |   0.000 |  8 -  4 |
+|   30 | [Louisville            ](teams/Louisville.md) |   5.009 |   0.417 |  13.401 |   0.000 |  8 -  4 |
+|   31 | [Texas Christian       ](teams/TexasChristian.md) |   4.647 |   0.387 |  13.525 |   0.000 |  8 -  4 |
+|   32 | [Kennesaw State        ](teams/KennesawState.md) |   4.544 |   0.379 |  11.429 |   0.000 |  9 -  3 |
+|   33 | [Iowa State            ](teams/IowaState.md) |   4.535 |   0.378 |  13.405 |   0.000 |  8 -  4 |
+|   34 | [Old Dominion          ](teams/OldDominion.md) |   4.500 |   0.375 |  11.664 |   0.000 |  9 -  3 |
+|   35 | [New Mexico            ](teams/NewMexico.md) |   4.474 |   0.373 |  11.042 |   0.000 |  9 -  3 |
+|   36 | [SMU                   ](teams/SMU.md) |   4.364 |   0.364 |  12.565 |   0.000 |  8 -  4 |
+|   37 | [Iowa                  ](teams/Iowa.md) |   4.274 |   0.356 |  13.942 |   0.000 |  8 -  4 |
+|   38 | [Wake Forest           ](teams/WakeForest.md) |   4.270 |   0.356 |  12.538 |   0.000 |  8 -  4 |
+|   39 | [San Diego State       ](teams/SanDiegoState.md) |   4.263 |   0.355 |  10.376 |   0.000 |  9 -  3 |
+|   40 | [Pitt                  ](teams/Pitt.md) |   4.156 |   0.346 |  13.129 |   0.000 |  8 -  4 |
+|   41 | [Boise State           ](teams/BoiseState.md) |   4.015 |   0.335 |  12.736 |   0.000 |  8 -  4 |
+|   42 | [North Carolina State  ](teams/NorthCarolinaState.md) |   3.794 |   0.316 |  14.831 |   0.000 |  7 -  5 |
+|   43 | [Tennessee             ](teams/Tennessee.md) |   3.784 |   0.315 |  13.647 |   0.000 |  8 -  4 |
+|   44 | [Washington            ](teams/Washington.md) |   3.779 |   0.315 |  13.362 |   0.000 |  8 -  4 |
+|   45 | [Missouri              ](teams/Missouri.md) |   3.700 |   0.308 |  13.466 |   0.000 |  8 -  4 |
+|   46 | [LSU                   ](teams/LSU.md) |   3.396 |   0.283 |  15.700 |   0.000 |  7 -  5 |
+|   47 | [East Carolina         ](teams/EastCarolina.md) |   3.310 |   0.276 |  12.295 |   0.000 |  8 -  4 |
+|   48 | [Duke                  ](teams/Duke.md) |   3.192 |   0.266 |  14.062 |   0.000 |  7 -  5 |
+|   49 | [Memphis               ](teams/Memphis.md) |   3.087 |   0.257 |  11.702 |   0.000 |  8 -  4 |
+|   50 | [Connecticut           ](teams/Connecticut.md) |   3.007 |   0.251 |   9.182 |   0.000 |  9 -  3 |
+|   51 | [Cincinnati            ](teams/Cincinnati.md) |   2.161 |   0.180 |  13.391 |   0.000 |  7 -  5 |
+|   52 | [Hawaii                ](teams/Hawaii.md) |   2.104 |   0.175 |  10.699 |   0.000 |  8 -  4 |
+|   53 | [Troy                  ](teams/Troy.md) |   2.073 |   0.173 |  10.240 |   0.000 |  8 -  4 |
+|   54 | [Western Michigan      ](teams/WesternMichigan.md) |   1.942 |   0.162 |  10.499 |   0.000 |  8 -  4 |
+|   55 | [Minnesota             ](teams/Minnesota.md) |   1.903 |   0.159 |  13.320 |   0.000 |  7 -  5 |
+|   56 | [Western Kentucky      ](teams/WesternKentucky.md) |   1.898 |   0.158 |   9.974 |   0.000 |  8 -  4 |
+|   57 | [Jacksonville State    ](teams/JacksonvilleState.md) |   1.700 |   0.142 |   9.723 |   0.000 |  8 -  4 |
+|   58 | [Nebraska              ](teams/Nebraska.md) |   1.678 |   0.140 |  12.310 |   0.000 |  7 -  5 |
+|   59 | [Fresno State          ](teams/FresnoState.md) |   1.599 |   0.133 |   9.995 |   0.000 |  8 -  4 |
+|   60 | [Clemson               ](teams/Clemson.md) |   1.563 |   0.130 |  12.028 |   0.000 |  7 -  5 |
+|   61 | [California            ](teams/California.md) |   1.425 |   0.119 |  11.948 |   0.000 |  7 -  5 |
+|   62 | [Toledo                ](teams/Toledo.md) |   1.413 |   0.118 |   9.669 |   0.000 |  8 -  4 |
+|   63 | [Ohio                  ](teams/Ohio.md) |   0.956 |   0.080 |  10.022 |   0.000 |  8 -  4 |
+|   64 | [Northwestern          ](teams/Northwestern.md) |   0.628 |   0.052 |  14.074 |   0.000 |  6 -  6 |
+|   65 | [Missouri State        ](teams/MissouriState.md) |   0.558 |   0.047 |  11.035 |   0.000 |  7 -  5 |
+|   66 | [Penn State            ](teams/PennState.md) |   0.444 |   0.037 |  14.696 |   0.000 |  6 -  6 |
+|   67 | [Florida International ](teams/FloridaInternational.md) |   0.363 |   0.030 |  10.534 |   0.000 |  7 -  5 |
+|   68 | [Southern Mississippi  ](teams/SouthernMississippi.md) |   0.108 |   0.009 |  10.261 |   0.000 |  7 -  5 |
+|   69 | [Washington State      ](teams/WashingtonState.md) |   0.106 |   0.009 |  14.068 |   0.000 |  6 -  6 |
+|   70 | [UTSA                  ](teams/UTSA.md) |   0.104 |   0.009 |  13.242 |   0.000 |  6 -  6 |
+|   71 | [Louisiana Tech        ](teams/LouisianaTech.md) |   0.098 |   0.008 |  10.296 |   0.000 |  7 -  5 |
+|   72 | [Kansas State          ](teams/KansasState.md) |   0.022 |   0.002 |  13.136 |   0.000 |  6 -  6 |
+|   73 | [Miami (OH)            ](teams/MiamiOH.md) |  -0.096 |  -0.008 |  10.090 |   0.000 |  7 -  5 |
+|   74 | [Utah State            ](teams/UtahState.md) |  -0.233 |  -0.019 |  12.942 |   0.000 |  6 -  6 |
+|   75 | [Georgia Southern      ](teams/GeorgiaSouthern.md) |  -0.472 |  -0.039 |  12.264 |   0.000 |  6 -  6 |
+|   76 | [Mississippi State     ](teams/MississippiState.md) |  -0.716 |  -0.060 |  15.408 |   0.000 |  5 -  7 |
+|   77 | [Central Michigan      ](teams/CentralMichigan.md) |  -0.718 |  -0.060 |   9.791 |   0.000 |  7 -  5 |
+|   78 | [Florida State         ](teams/FloridaState.md) |  -0.786 |  -0.065 |  14.084 |   0.000 |  5 -  7 |
+|   79 | [Kentucky              ](teams/Kentucky.md) |  -0.960 |  -0.080 |  15.005 |   0.000 |  5 -  7 |
+|   80 | [Coastal Carolina      ](teams/CoastalCarolina.md) |  -1.151 |  -0.096 |  11.636 |   0.000 |  6 -  6 |
+|   81 | [Auburn                ](teams/Auburn.md) |  -1.210 |  -0.101 |  15.247 |   0.000 |  5 -  7 |
+|   82 | [Wisconsin             ](teams/Wisconsin.md) |  -1.235 |  -0.103 |  17.779 |   0.000 |  4 -  8 |
+|   83 | [Rutgers               ](teams/Rutgers.md) |  -1.249 |  -0.104 |  14.358 |   0.000 |  5 -  7 |
+|   84 | [Baylor                ](teams/Baylor.md) |  -1.276 |  -0.106 |  13.606 |   0.000 |  5 -  7 |
+|   85 | [Florida               ](teams/Florida.md) |  -1.368 |  -0.114 |  17.018 |   0.000 |  4 -  8 |
+|   86 | [Texas State           ](teams/TexasState.md) |  -1.415 |  -0.118 |  11.156 |   0.000 |  6 -  6 |
+|   87 | [Kansas                ](teams/Kansas.md) |  -1.463 |  -0.122 |  13.710 |   0.000 |  5 -  7 |
+|   88 | [Louisiana             ](teams/Louisiana.md) |  -1.872 |  -0.156 |  10.883 |   0.000 |  6 -  6 |
+|   89 | [Arkansas State        ](teams/ArkansasState.md) |  -1.939 |  -0.162 |  10.688 |   0.000 |  6 -  6 |
+|   90 | [Rice                  ](teams/Rice.md) |  -1.986 |  -0.165 |  13.040 |   0.000 |  5 -  7 |
+|   91 | [Army                  ](teams/Army.md) |  -2.008 |  -0.183 |  10.609 |   1.492 |  6 -  5 |
+|   92 | [Temple                ](teams/Temple.md) |  -2.104 |  -0.175 |  13.462 |   0.000 |  5 -  7 |
+|   93 | [South Carolina        ](teams/SouthCarolina.md) |  -2.145 |  -0.179 |  16.287 |   0.000 |  4 -  8 |
+|   94 | [UCF                   ](teams/UCF.md) |  -2.164 |  -0.180 |  13.167 |   0.000 |  5 -  7 |
+|   95 | [West Virginia         ](teams/WestVirginia.md) |  -2.327 |  -0.194 |  15.399 |   0.000 |  4 -  8 |
+|   96 | [Stanford              ](teams/Stanford.md) |  -2.545 |  -0.212 |  15.483 |   0.000 |  4 -  8 |
+|   97 | [Delaware              ](teams/Delaware.md) |  -2.628 |  -0.219 |  10.151 |   0.000 |  6 -  6 |
+|   98 | [Marshall              ](teams/Marshall.md) |  -2.926 |  -0.244 |  12.120 |   0.000 |  5 -  7 |
+|   99 | [UCLA                  ](teams/UCLA.md) |  -3.509 |  -0.292 |  16.990 |   0.000 |  3 -  9 |
+|  100 | [Appalachian State     ](teams/AppalachianState.md) |  -3.616 |  -0.301 |  10.914 |   0.000 |  5 -  7 |
+|  101 | [Michigan State        ](teams/MichiganState.md) |  -3.617 |  -0.301 |  13.872 |   0.000 |  4 -  8 |
+|  102 | [Colorado              ](teams/Colorado.md) |  -3.789 |  -0.316 |  15.880 |   0.000 |  3 -  9 |
+|  103 | [Florida Atlantic      ](teams/FloridaAtlantic.md) |  -4.059 |  -0.338 |  12.841 |   0.000 |  4 -  8 |
+|  104 | [Virginia Tech         ](teams/VirginiaTech.md) |  -4.116 |  -0.343 |  15.329 |   0.000 |  3 -  9 |
+|  105 | [UAB                   ](teams/UAB.md) |  -4.160 |  -0.347 |  12.832 |   0.000 |  4 -  8 |
+|  106 | [North Carolina        ](teams/NorthCarolina.md) |  -4.265 |  -0.355 |  12.358 |   0.000 |  4 -  8 |
+|  107 | [Buffalo               ](teams/Buffalo.md) |  -4.482 |  -0.373 |   9.752 |   0.000 |  5 -  7 |
+|  108 | [Air Force             ](teams/AirForce.md) |  -4.496 |  -0.375 |  12.118 |   0.000 |  4 -  8 |
+|  109 | [Kent State            ](teams/KentState.md) |  -4.510 |  -0.376 |  10.824 |   0.000 |  5 -  7 |
+|  110 | [Maryland              ](teams/Maryland.md) |  -4.523 |  -0.377 |  12.838 |   0.000 |  4 -  8 |
+|  111 | [South Alabama         ](teams/SouthAlabama.md) |  -5.123 |  -0.427 |  11.610 |   0.000 |  4 -  8 |
+|  112 | [Syracuse              ](teams/Syracuse.md) |  -5.190 |  -0.433 |  14.424 |   0.000 |  3 -  9 |
+|  113 | [Liberty               ](teams/Liberty.md) |  -5.201 |  -0.433 |  11.576 |   0.000 |  4 -  8 |
+|  114 | [Akron                 ](teams/Akron.md) |  -5.663 |  -0.472 |   8.922 |   0.000 |  5 -  7 |
+|  115 | [Wyoming               ](teams/Wyoming.md) |  -5.866 |  -0.489 |  11.092 |   0.000 |  4 -  8 |
+|  116 | [Tulsa                 ](teams/Tulsa.md) |  -5.945 |  -0.495 |  11.006 |   0.000 |  4 -  8 |
+|  117 | [Purdue                ](teams/Purdue.md) |  -6.062 |  -0.505 |  16.717 |   0.000 |  2 - 10 |
+|  118 | [Arkansas              ](teams/Arkansas.md) |  -6.210 |  -0.517 |  15.829 |   0.000 |  2 - 10 |
+|  119 | [New Mexico State      ](teams/NewMexicoState.md) |  -6.458 |  -0.538 |  10.383 |   0.000 |  4 -  8 |
+|  120 | [Ball State            ](teams/BallState.md) |  -6.979 |  -0.582 |   9.946 |   0.000 |  4 -  8 |
+|  121 | [Nevada                ](teams/Nevada.md) |  -7.029 |  -0.586 |  11.853 |   0.000 |  3 -  9 |
+|  122 | [Bowling Green         ](teams/BowlingGreen.md) |  -7.069 |  -0.589 |   9.729 |   0.000 |  4 -  8 |
+|  123 | [Louisiana-Monroe      ](teams/LouisianaMonroe.md) |  -7.138 |  -0.595 |  11.588 |   0.000 |  3 -  9 |
+|  124 | [San Jose State        ](teams/SanJoseState.md) |  -7.143 |  -0.595 |  11.768 |   0.000 |  3 -  9 |
+|  125 | [Boston College        ](teams/BostonCollege.md) |  -7.507 |  -0.626 |  13.523 |   0.000 |  2 - 10 |
+|  126 | [Colorado State        ](teams/ColoradoState.md) |  -7.990 |  -0.666 |  12.762 |   0.000 |  2 - 10 |
+|  127 | [Eastern Michigan      ](teams/EasternMichigan.md) |  -8.173 |  -0.681 |   9.701 |   0.000 |  4 -  8 |
+|  128 | [Oregon State          ](teams/OregonState.md) |  -8.672 |  -0.723 |  13.292 |   0.000 |  2 - 10 |
+|  129 | [Northern Illinois     ](teams/NorthernIllinois.md) |  -8.749 |  -0.729 |   9.873 |   0.000 |  3 -  9 |
+|  130 | [Oklahoma State        ](teams/OklahomaState.md) |  -9.496 |  -0.791 |  14.171 |   0.000 |  1 - 11 |
+|  131 | [Middle Tennessee State](teams/MiddleTennesseeState.md) |  -9.624 |  -0.802 |  10.325 |   0.000 |  3 -  9 |
+|  132 | [Georgia State         ](teams/GeorgiaState.md) |  -9.787 |  -0.816 |  13.779 |   0.000 |  1 - 11 |
+|  133 | [Charlotte             ](teams/Charlotte.md) |  -9.815 |  -0.818 |  13.903 |   0.000 |  1 - 11 |
+|  134 | [Sam Houston           ](teams/SamHouston.md) |  -9.937 |  -0.828 |  11.701 |   0.000 |  2 - 10 |
+|  135 | [UTEP                  ](teams/UTEP.md) | -10.174 |  -0.848 |  10.825 |   0.000 |  2 - 10 |
+|  136 | [Massachusetts         ](teams/Massachusetts.md) | -16.605 |  -1.384 |  10.265 |   0.000 |  0 - 12 |
 
 # Explanation:
 

@@ -1,24 +1,21 @@
-Baylor (5 - 6)
+Baylor (5 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.370 |  -0.034 |  12.414 |   1.361 |
-| Rank  |      75 |      75 |      44 |      34 |
+| Value |  -1.276 |  -0.106 |  13.606 |   0.000 |
+| Rank  |      84 |      84 |      40 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|  17 [Utah                  ](Utah.md)| Loss       | -  0.617 |
-|  22 [Arizona State         ](ArizonaState.md)| Loss       | -  0.662 |
-|  25 [SMU                   ](SMU.md)| Win        | +  1.427 |
-|  30 [Arizona               ](Arizona.md)| Loss       | -  0.721 |
-|  41 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.780 |
-|  47 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.822 |
-|  80 [Auburn                ](Auburn.md)| Loss       | -  1.034 |
-|  83 [Kansas State          ](KansasState.md)| Win        | +  0.946 |
-|  90 [UCF                   ](UCF.md)| Win        | +  0.896 |
-| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.565 |
+|  17 [Utah                  ](Utah.md)| Loss       | -  0.623 |
+|  23 [Arizona               ](Arizona.md)| Loss       | -  0.685 |
+|  27 [Arizona State         ](ArizonaState.md)| Loss       | -  0.718 |
+|  28 [Houston               ](Houston.md)| Loss       | -  0.723 |
+|  31 [Texas Christian       ](TexasChristian.md)| Loss       | -  0.756 |
+|  36 [SMU                   ](SMU.md)| Win        | +  1.301 |
+|  51 [Cincinnati            ](Cincinnati.md)| Loss       | -  0.878 |
+|  72 [Kansas State          ](KansasState.md)| Win        | +  1.001 |
+|  81 [Auburn                ](Auburn.md)| Loss       | -  1.076 |
+|  94 [UCF                   ](UCF.md)| Win        | +  0.878 |
+| 130 [Oklahoma State        ](OklahomaState.md)| Win        | +  0.564 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  32 [Houston               ](Houston.md)| +  1.361 | -  0.735 |
 

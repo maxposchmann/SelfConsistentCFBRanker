@@ -1,24 +1,21 @@
-Washington (8 - 3)
+Washington (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.466 |   0.406 |  11.552 |   1.817 |
-| Rank  |      34 |      34 |      72 |      12 |
+| Value |   3.779 |   0.315 |  13.362 |   0.000 |
+| Rank  |      44 |      44 |      48 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   3 [Ohio State            ](OhioState.md)| Loss       | -  0.480 |
-|  12 [Michigan              ](Michigan.md)| Loss       | -  0.586 |
-|  35 [Illinois              ](Illinois.md)| Win        | +  1.309 |
-|  73 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.020 |
-|  76 [Washington State      ](WashingtonState.md)| Win        | +  0.974 |
-|  77 [Rutgers               ](Rutgers.md)| Win        | +  0.973 |
-|  99 [UCLA                  ](UCLA.md)| Win        | +  0.827 |
-| 100 [Maryland              ](Maryland.md)| Win        | +  0.826 |
-| 118 [Purdue                ](Purdue.md)| Win        | +  0.695 |
-| 124 [Colorado State        ](ColoradoState.md)| Win        | +  0.645 |
+|   1 [Ohio State            ](OhioState.md)| Loss       | -  0.461 |
+|   8 [Oregon                ](Oregon.md)| Loss       | -  0.538 |
+|  21 [Michigan              ](Michigan.md)| Loss       | -  0.643 |
+|  29 [Illinois              ](Illinois.md)| Win        | +  1.352 |
+|  69 [Washington State      ](WashingtonState.md)| Win        | +  1.006 |
+|  82 [Wisconsin             ](Wisconsin.md)| Loss       | -  1.077 |
+|  83 [Rutgers               ](Rutgers.md)| Win        | +  0.928 |
+|  99 [UCLA                  ](UCLA.md)| Win        | +  0.810 |
+| 110 [Maryland              ](Maryland.md)| Win        | +  0.762 |
+| 117 [Purdue                ](Purdue.md)| Win        | +  0.694 |
+| 126 [Colorado State        ](ColoradoState.md)| Win        | +  0.618 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  10 [Oregon                ](Oregon.md)| +  1.817 | -  0.550 |
 

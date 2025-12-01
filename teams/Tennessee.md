@@ -1,24 +1,21 @@
-Tennessee (8 - 3)
+Tennessee (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   4.496 |   0.409 |  12.027 |   1.585 |
-| Rank  |      33 |      33 |      55 |      21 |
+| Value |   3.784 |   0.315 |  13.647 |   0.000 |
+| Rank  |      43 |      43 |      39 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
-|   8 [Alabama               ](Alabama.md)| Loss       | -  0.545 |
+|   4 [Georgia               ](Georgia.md)| Loss       | -  0.505 |
 |   9 [Oklahoma              ](Oklahoma.md)| Loss       | -  0.547 |
-|  71 [Mississippi State     ](MississippiState.md)| Win        | +  0.997 |
-|  74 [Kentucky              ](Kentucky.md)| Win        | +  0.980 |
-|  94 [Florida               ](Florida.md)| Win        | +  0.860 |
-| 104 [Syracuse              ](Syracuse.md)| Win        | +  0.801 |
-| 109 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.747 |
-| 113 [UAB                   ](UAB.md)| Win        | +  0.728 |
-| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
+|  10 [Alabama               ](Alabama.md)| Loss       | -  0.555 |
+|  15 [Vanderbilt            ](Vanderbilt.md)| Loss       | -  0.617 |
+|  76 [Mississippi State     ](MississippiState.md)| Win        | +  0.958 |
+|  79 [Kentucky              ](Kentucky.md)| Win        | +  0.944 |
+|  85 [Florida               ](Florida.md)| Win        | +  0.921 |
+| 105 [UAB                   ](UAB.md)| Win        | +  0.778 |
+| 112 [Syracuse              ](Syracuse.md)| Win        | +  0.732 |
+| 118 [Arkansas              ](Arkansas.md)| Win        | +  0.688 |
+| 119 [New Mexico State      ](NewMexicoState.md)| Win        | +  0.678 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  19 [Vanderbilt            ](Vanderbilt.md)| +  1.585 | -  0.631 |
 

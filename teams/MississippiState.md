@@ -1,24 +1,21 @@
-Mississippi State (5 - 6)
+Mississippi State (5 - 7)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |  -0.047 |  -0.004 |  13.678 |   1.911 |
-| Rank  |      71 |      71 |      17 |       8 |
+| Value |  -0.716 |  -0.060 |  15.408 |   0.000 |
+| Rank  |      76 |      76 |      10 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   2 [Texas A&M             ](TexasAM.md)| Loss       | -  0.470 |
-|   5 [Georgia               ](Georgia.md)| Loss       | -  0.517 |
-|  22 [Arizona State         ](ArizonaState.md)| Win        | +  1.511 |
-|  23 [Texas                 ](Texas.md)| Loss       | -  0.679 |
-|  33 [Tennessee             ](Tennessee.md)| Loss       | -  0.742 |
-|  45 [Missouri              ](Missouri.md)| Loss       | -  0.807 |
-|  63 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.051 |
-|  94 [Florida               ](Florida.md)| Loss       | -  1.163 |
-| 116 [Arkansas              ](Arkansas.md)| Win        | +  0.706 |
-| 125 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.614 |
+|   4 [Georgia               ](Georgia.md)| Loss       | -  0.505 |
+|   5 [Ole Miss              ](OleMiss.md)| Loss       | -  0.529 |
+|   6 [Texas A&M             ](TexasAM.md)| Loss       | -  0.532 |
+|  16 [Texas                 ](Texas.md)| Loss       | -  0.620 |
+|  27 [Arizona State         ](ArizonaState.md)| Win        | +  1.394 |
+|  43 [Tennessee             ](Tennessee.md)| Loss       | -  0.796 |
+|  45 [Missouri              ](Missouri.md)| Loss       | -  0.800 |
+|  68 [Southern Mississippi  ](SouthernMississippi.md)| Win        | +  1.007 |
+|  85 [Florida               ](Florida.md)| Loss       | -  1.086 |
+| 118 [Arkansas              ](Arkansas.md)| Win        | +  0.688 |
+| 129 [Northern Illinois     ](NorthernIllinois.md)| Win        | +  0.590 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|   6 [Ole Miss              ](OleMiss.md)| +  1.911 | -  0.523 |
 

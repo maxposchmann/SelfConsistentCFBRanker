@@ -1,24 +1,21 @@
-Iowa (7 - 4)
+Iowa (8 - 4)
 |       |   NAW   |   AAW   |   NCS   |   NRS   |
 |-------|---------|---------|---------|---------|
-| Value |   3.051 |   0.277 |  12.704 |   1.182 |
-| Rank  |      46 |      46 |      37 |      52 |
+| Value |   4.274 |   0.356 |  13.942 |   0.000 |
+| Rank  |      37 |      37 |      33 |       3 |
 
 | Played                    | Outcome    |  Change  |
 |---------------------------|------------|----------|
-|   1 [Indiana               ](Indiana.md)| Loss       | -  0.457 |
-|  10 [Oregon                ](Oregon.md)| Loss       | -  0.550 |
-|  18 [USC                   ](USC.md)| Loss       | -  0.627 |
-|  39 [Iowa State            ](IowaState.md)| Loss       | -  0.773 |
-|  61 [Minnesota             ](Minnesota.md)| Win        | +  1.065 |
-|  73 [Wisconsin             ](Wisconsin.md)| Win        | +  0.980 |
-|  77 [Rutgers               ](Rutgers.md)| Win        | +  0.973 |
-|  79 [Penn State            ](PennState.md)| Win        | +  0.968 |
-| 111 [Michigan State        ](MichiganState.md)| Win        | +  0.743 |
+|   2 [Indiana               ](Indiana.md)| Loss       | -  0.466 |
+|   8 [Oregon                ](Oregon.md)| Loss       | -  0.538 |
+|  20 [USC                   ](USC.md)| Loss       | -  0.631 |
+|  33 [Iowa State            ](IowaState.md)| Loss       | -  0.761 |
+|  55 [Minnesota             ](Minnesota.md)| Win        | +  1.121 |
+|  58 [Nebraska              ](Nebraska.md)| Win        | +  1.106 |
+|  66 [Penn State            ](PennState.md)| Win        | +  1.027 |
+|  82 [Wisconsin             ](Wisconsin.md)| Win        | +  0.928 |
+|  83 [Rutgers               ](Rutgers.md)| Win        | +  0.928 |
+| 101 [Michigan State        ](MichiganState.md)| Win        | +  0.804 |
 | 136 [Massachusetts         ](Massachusetts.md)| Win        | +  0.368 |
 | 137 [Non-FBS               ](NonFBS.md)| Win        | +  0.333 |
-
-| Remaining                 |  If Win  |  If Loss |
-|---------------------------|----------|----------|
-|  52 [Nebraska              ](Nebraska.md)| +  1.182 | -  0.846 |
 
